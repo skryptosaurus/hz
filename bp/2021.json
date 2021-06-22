@@ -162,7 +162,7 @@
   "retweet_count": 202,
   "retweeted_status": {
     "created_at": "Fri Jan 01 02:14:41 +0000 2021",
-    "favorite_count": 862,
+    "favorite_count": 861,
     "full_text": "这个事故有反革命重大嫌疑🤣 https://t.co/8gD7wcGWsd",
     "hashtags": [],
     "id": 1344829365885014016,
@@ -277,32 +277,6 @@
   ]
 }
 {
-  "created_at": "Sat Jan 02 00:42:42 +0000 2021",
-  "favorite_count": 1,
-  "full_text": "@SwedenMoli2017 當時學運的起因和思想根源都是來自於黨內八十年代的爭論（政治鬥爭）。直到今天這個黨的一舉一動都是影響中國人生活質素思想狀態的最大因素。關心中國的事，不研究這個黨還研究什麼？這種動不動就根據言論劃分派系的作法就是至今仍推上流行的中共發明的「階級分析、路線鬥爭」",
-  "hashtags": [],
-  "id": 1345168604958916608,
-  "id_str": "1345168604958916608",
-  "in_reply_to_screen_name": "SwedenMoli2017",
-  "in_reply_to_status_id": 1345156678816296962,
-  "in_reply_to_user_id": 845310299603394560,
-  "lang": "zh",
-  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-  "urls": [],
-  "user": {
-    "id": 547112588,
-    "screen_name": "NewCenturyBaopu"
-  },
-  "user_mentions": [
-    {
-      "id": 845310299603394560,
-      "id_str": "845310299603394560",
-      "name": "瑞典茉莉",
-      "screen_name": "SwedenMoli2017"
-    }
-  ]
-}
-{
   "created_at": "Sat Jan 02 01:17:38 +0000 2021",
   "full_text": "RT @naochashu: 这次演讲获得了“韬光养晦”的时间。 https://t.co/tHAS0Ey613",
   "hashtags": [],
@@ -375,6 +349,32 @@
       "id_str": "972852779663343616",
       "name": "野山🎗",
       "screen_name": "naochashu"
+    }
+  ]
+}
+{
+  "created_at": "Sat Jan 02 02:34:11 +0000 2021",
+  "favorite_count": 1,
+  "full_text": "@ShangYa97766113 哈哈🤣",
+  "hashtags": [],
+  "id": 1345196660830265345,
+  "id_str": "1345196660830265345",
+  "in_reply_to_screen_name": "ShangYa97766113",
+  "in_reply_to_status_id": 1344987515321606145,
+  "in_reply_to_user_id": 1288004631017086976,
+  "lang": "ja",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "urls": [],
+  "user": {
+    "id": 547112588,
+    "screen_name": "NewCenturyBaopu"
+  },
+  "user_mentions": [
+    {
+      "id": 1288004631017086976,
+      "id_str": "1288004631017086976",
+      "name": "Shang-Yang",
+      "screen_name": "ShangYa97766113"
     }
   ]
 }
@@ -626,7 +626,7 @@
           }
         }
       ],
-      "retweet_count": 1417,
+      "retweet_count": 1416,
       "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
       "urls": [],
       "user": {
@@ -936,16 +936,16 @@
   "id": 1347070050012782593,
   "id_str": "1347070050012782593",
   "lang": "en",
-  "retweet_count": 4058,
+  "retweet_count": 4057,
   "retweeted_status": {
     "created_at": "Thu Jan 07 05:54:16 +0000 2021",
-    "favorite_count": 13238,
+    "favorite_count": 13239,
     "full_text": "BREAKING: Deputy nat sec adviser Matt Pottinger resigned Wednesday afternoon. Pottinger among WH officials dismayed by protesters' attack and Trump's role in inciting violence. Pottinger had intended to resign election day, regardless of outcome, but stayed at O'Brien's request.",
     "hashtags": [],
     "id": 1347058954803834882,
     "id_str": "1347058954803834882",
     "lang": "en",
-    "retweet_count": 4058,
+    "retweet_count": 4057,
     "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
     "urls": [],
     "user": {
@@ -1194,7 +1194,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Fri Jan 08 10:35:24 +0000 2021",
-      "favorite_count": 3398,
+      "favorite_count": 3396,
       "full_text": "六四「抗命將軍」徐勤先早上去世，享年86歲。 https://t.co/se9e7vM61w",
       "hashtags": [],
       "id": 1347492090863710210,
@@ -1731,10 +1731,10 @@
       "url": "https://t.co/iNeUTp8AWC"
     }
   ],
-  "retweet_count": 13847,
+  "retweet_count": 13843,
   "retweeted_status": {
     "created_at": "Wed Jan 13 16:02:40 +0000 2021",
-    "favorite_count": 50267,
+    "favorite_count": 50270,
     "full_text": "Stunned. Just stunned. https://t.co/iNeUTp8AWC",
     "hashtags": [],
     "id": 1349386390291828744,
@@ -1778,7 +1778,7 @@
         "url": "https://t.co/iNeUTp8AWC"
       }
     ],
-    "retweet_count": 13847,
+    "retweet_count": 13843,
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "urls": [],
     "user": {
@@ -1903,7 +1903,7 @@
     {
       "id": 882380349061218304,
       "id_str": "882380349061218304",
-      "name": "Yi",
+      "name": "真女权",
       "screen_name": "realproofread"
     },
     {
@@ -2209,7 +2209,7 @@
   "retweet_count": 5454,
   "retweeted_status": {
     "created_at": "Tue Jun 04 23:29:58 +0000 2019",
-    "favorite_count": 18392,
+    "favorite_count": 18388,
     "full_text": "28 years ago, we traveled to Tiananmen Square to honor the courage &amp; sacrifice of the students, workers &amp; ordinary citizens who stood for the dignity &amp; human rights that all people deserve. To this day, we remain committed to sharing their story with the world. #Tiananmen30 https://t.co/7UqiJVRS3t",
     "hashtags": [
       {
@@ -2419,16 +2419,16 @@
   "id": 1351900759395192832,
   "id_str": "1351900759395192832",
   "lang": "en",
-  "retweet_count": 500200,
+  "retweet_count": 500138,
   "retweeted_status": {
     "created_at": "Wed Jan 20 14:20:00 +0000 2021",
-    "favorite_count": 4161079,
+    "favorite_count": 4160584,
     "full_text": "It’s a new day in America.",
     "hashtags": [],
     "id": 1351897267666608129,
     "id_str": "1351897267666608129",
     "lang": "en",
-    "retweet_count": 500200,
+    "retweet_count": 500138,
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "urls": [],
     "user": {
@@ -6811,7 +6811,7 @@
   "retweet_count": 20,
   "retweeted_status": {
     "created_at": "Fri Apr 09 12:40:05 +0000 2021",
-    "favorite_count": 64,
+    "favorite_count": 65,
     "full_text": "NASA“毅力号”火星漫游车@NASAPersevere：两个机器人，一张自拍照。从耶泽罗陨石坑向大家问好，我在这里拍摄了我在这次任务中的第一张自拍照。我也在看着“机智号”火星直升机为几天后的首次飞行做好准备。“挑战伟大的事业”，此言不虚。\nhttps://t.co/97Hn82r8KK",
     "hashtags": [],
     "id": 1380500764980809731,
@@ -6819,7 +6819,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Wed Apr 07 19:49:07 +0000 2021",
-      "favorite_count": 42672,
+      "favorite_count": 42665,
       "full_text": "Two bots, one selfie. Greetings from Jezero Crater, where I’ve taken my first selfie of the mission. I’m also watching the #MarsHelicopter Ingenuity as it gets ready for its first flight in a few days. Daring mighty things indeed.\n\nImages: https://t.co/owLX2LaK52 https://t.co/rTxDNK69rs",
       "hashtags": [
         {
@@ -6875,7 +6875,7 @@
           }
         }
       ],
-      "retweet_count": 6571,
+      "retweet_count": 6569,
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "urls": [
         {
@@ -6989,7 +6989,7 @@
   "id": 1381579137475768322,
   "id_str": "1381579137475768322",
   "lang": "zh",
-  "retweet_count": 528,
+  "retweet_count": 527,
   "retweeted_status": {
     "created_at": "Mon Apr 12 10:07:24 +0000 2021",
     "favorite_count": 948,
@@ -7016,7 +7016,7 @@
         }
       }
     ],
-    "retweet_count": 528,
+    "retweet_count": 527,
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
     "urls": [],
     "user": {
@@ -7370,16 +7370,16 @@
   "id": 1384119160045662227,
   "id_str": "1384119160045662227",
   "lang": "zh",
-  "retweet_count": 283,
+  "retweet_count": 282,
   "retweeted_status": {
     "created_at": "Mon Apr 19 11:30:10 +0000 2021",
-    "favorite_count": 1125,
+    "favorite_count": 1126,
     "full_text": "中国前总理温家宝在悼念母亲的文章中写道：“我心目中的中国应该是一个充满公平正义的国家，那里永远有对人心、人道和人的本质的尊重，永远有青春、自由、奋斗的气质。我为此呐喊过、奋斗过。这是生活让我懂得的真理，也是妈妈给予的。”\nhttps://t.co/MgBOoeru0y",
     "hashtags": [],
     "id": 1384107049097699331,
     "id_str": "1384107049097699331",
     "lang": "zh",
-    "retweet_count": 283,
+    "retweet_count": 282,
     "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
     "urls": [
       {
@@ -8174,7 +8174,7 @@
   "retweet_count": 370,
   "retweeted_status": {
     "created_at": "Sat May 15 06:05:00 +0000 2021",
-    "favorite_count": 888,
+    "favorite_count": 886,
     "full_text": "After a year of normality while the world went mad, things are now topsy turvy as Taiwan hits full-on community spread. How did this happen when we were doing so well? Let me explain...\nhttps://t.co/fcsdUzg9ou",
     "hashtags": [],
     "id": 1393447303894032386,
@@ -10395,7 +10395,7 @@
   "id": 1400420535226408962,
   "id_str": "1400420535226408962",
   "lang": "zh",
-  "retweet_count": 846,
+  "retweet_count": 847,
   "retweeted_status": {
     "created_at": "Wed Jun 02 08:00:20 +0000 2021",
     "favorite_count": 1727,
@@ -10429,7 +10429,7 @@
         }
       }
     ],
-    "retweet_count": 846,
+    "retweet_count": 847,
     "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
     "urls": [],
     "user": {
@@ -10528,7 +10528,7 @@
   "retweet_count": 221,
   "retweeted_status": {
     "created_at": "Thu Jun 03 13:28:19 +0000 2021",
-    "favorite_count": 416,
+    "favorite_count": 415,
     "full_text": "May 35th\n#TiananmenSquareMassacre \n\nIllustration by Hong Kong artist Apink Cartoons. https://t.co/XGlI5riFdT",
     "hashtags": [
       {
@@ -10876,7 +10876,7 @@
   "retweet_count": 320,
   "retweeted_status": {
     "created_at": "Fri Jun 04 07:15:11 +0000 2021",
-    "favorite_count": 965,
+    "favorite_count": 964,
     "full_text": "【邹幸彤被捕前呼吁港人不要放弃】\n\n“我们现在已经出现因悼念六四而坐牢的政治犯。我还是看到很多香港朋友走出来，尤其在六四这件香港人良知底线的事情上，不少朋友透过街站（即政治摊位）传播悼念六四的信息。大家都还没有放弃，尽管打压是那么严重，我们当然也不会放弃 ，坚持在六四有悼念活动。” https://t.co/kGWGLxj2fx",
     "hashtags": [],
     "id": 1400712722623328256,
@@ -10944,7 +10944,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Fri Jun 04 03:00:00 +0000 2021",
-      "favorite_count": 502,
+      "favorite_count": 501,
       "full_text": "【六四32】\n【枪响以后 她不再一样】\n\n1989年6月3日晚解放军开枪后，这个国度的命运被划出分水岭, 曾以为中国可和平演变的国际社会震惊\n\n国内强硬派成领导核心, 之后30年所谓的改革开放, 只流于经济，政治体制改革戛然而止。国人自此不谈理想，只谈金钱\n\n如果没有那天晚上的枪声，这个国度会是怎样？ https://t.co/v8xkZ0516O",
       "hashtags": [],
       "id": 1400648503764811776,
@@ -11137,7 +11137,7 @@
   "retweet_count": 418,
   "retweeted_status": {
     "created_at": "Fri Jun 04 03:17:49 +0000 2021",
-    "favorite_count": 1816,
+    "favorite_count": 1815,
     "full_text": "7名天安門母親成員早上到北京萬安公墓集體拜祭親人。 https://t.co/Ou9V6kFQmA",
     "hashtags": [],
     "id": 1400652984917233668,
@@ -11292,7 +11292,7 @@
   "retweet_count": 2795,
   "retweeted_status": {
     "created_at": "Fri Jun 04 12:19:05 +0000 2021",
-    "favorite_count": 4908,
+    "favorite_count": 4905,
     "full_text": "Hong Kong time 20:00, traditionally the time when the #June4 candlelight vigil started at Victoria Park: At least dozens switching on the light of their mobile phones at the gate of the now-sealed off venue. The light hasn't been extinguished.\n#HongKong #TiananmenVigil https://t.co/a5yovkl0lN",
     "hashtags": [
       {
@@ -11409,10 +11409,10 @@
       }
     }
   ],
-  "retweet_count": 379,
+  "retweet_count": 378,
   "retweeted_status": {
     "created_at": "Fri Jun 04 11:00:00 +0000 2021",
-    "favorite_count": 833,
+    "favorite_count": 831,
     "full_text": "六四屠殺32週年 永遠不要遺忘這段歷史，面對暴政中國人曾經反抗過！ https://t.co/hoX9chOuew",
     "hashtags": [],
     "id": 1400769299632070662,
@@ -11436,7 +11436,7 @@
         }
       }
     ],
-    "retweet_count": 379,
+    "retweet_count": 378,
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
     "urls": [],
     "user": {
@@ -11590,7 +11590,7 @@
   "retweet_count": 122,
   "retweeted_status": {
     "created_at": "Sat Jun 05 12:06:24 +0000 2021",
-    "favorite_count": 406,
+    "favorite_count": 405,
     "full_text": "我关于八九六四的三本书《天安门血腥清场内幕》、《六四事件中的戒严部队》、《六四事件全程实录》，台湾允晨出版社出版。博客来网站和亚马逊网站可以购买实体书和电子版书，输入书名或作者名搜寻即可找到。 https://t.co/E9KK7zveJ2",
     "hashtags": [],
     "id": 1401148396199563273,
@@ -11651,7 +11651,7 @@
     "lang": "en",
     "quoted_status": {
       "created_at": "Fri Jun 04 08:03:10 +0000 2021",
-      "favorite_count": 15961,
+      "favorite_count": 15956,
       "full_text": "Remembering the Tank Man on this day in 1989. #TiananmenSquareMassacre https://t.co/MIU6YVOckz",
       "hashtags": [
         {
@@ -11722,7 +11722,7 @@
           }
         }
       ],
-      "retweet_count": 5201,
+      "retweet_count": 5200,
       "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
       "urls": [],
       "user": {
@@ -12063,10 +12063,10 @@
   "id": 1403687821072736257,
   "id_str": "1403687821072736257",
   "lang": "en",
-  "retweet_count": 777,
+  "retweet_count": 778,
   "retweeted_status": {
     "created_at": "Fri Jun 11 17:33:01 +0000 2021",
-    "favorite_count": 3688,
+    "favorite_count": 3687,
     "full_text": "The staff of The New York Times has won the Pulitzer Prize for Public Service for coverage of the pandemic. Here are the award-winning pieces. https://t.co/ghMdQs0W4J https://t.co/2HfAc7E48S",
     "hashtags": [],
     "id": 1403404918975782916,
@@ -12083,7 +12083,7 @@
         "url": "https://t.co/2HfAc7E48S"
       }
     ],
-    "retweet_count": 777,
+    "retweet_count": 778,
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
     "urls": [
       {
@@ -12367,7 +12367,7 @@
   "retweet_count": 882,
   "retweeted_status": {
     "created_at": "Sun Jun 06 11:32:01 +0000 2021",
-    "favorite_count": 1159,
+    "favorite_count": 1160,
     "full_text": "A secret video obtained by The New Yorker and @teamtrace shows the N.R.A. chief Wayne LaPierre and his wife hunting elephants. His wife, Susan, kills an elephant, cuts off its tail, and holds it in the air. “Victory!” she shouts. https://t.co/zejDFqo9zd",
     "hashtags": [],
     "id": 1401502130259861506,
@@ -12639,4 +12639,104 @@
     "screen_name": "NewCenturyBaopu"
   },
   "user_mentions": []
+}
+{
+  "created_at": "Tue Jun 22 06:00:03 +0000 2021",
+  "full_text": "RT @CDTChinese: C计划 | “舔狗”“吃瓜”“带节奏”…网络流行词如何污染公共讨论？ https://t.co/XEbnFBd4N8",
+  "hashtags": [],
+  "id": 1407216796545871875,
+  "id_str": "1407216796545871875",
+  "lang": "zh",
+  "retweet_count": 11,
+  "retweeted_status": {
+    "created_at": "Mon Jun 21 23:32:04 +0000 2021",
+    "favorite_count": 27,
+    "full_text": "C计划 | “舔狗”“吃瓜”“带节奏”…网络流行词如何污染公共讨论？ https://t.co/XEbnFBd4N8",
+    "hashtags": [],
+    "id": 1407119157829636101,
+    "id_str": "1407119157829636101",
+    "lang": "zh",
+    "retweet_count": 11,
+    "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+    "urls": [
+      {
+        "expanded_url": "http://dlvr.it/S2BLlD",
+        "url": "https://t.co/XEbnFBd4N8"
+      }
+    ],
+    "user": {
+      "id": 85875473,
+      "screen_name": "CDTChinese"
+    },
+    "user_mentions": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "urls": [
+    {
+      "expanded_url": "http://dlvr.it/S2BLlD",
+      "url": "https://t.co/XEbnFBd4N8"
+    }
+  ],
+  "user": {
+    "id": 547112588,
+    "screen_name": "NewCenturyBaopu"
+  },
+  "user_mentions": [
+    {
+      "id": 85875473,
+      "id_str": "85875473",
+      "name": "中国数字时代",
+      "screen_name": "CDTChinese"
+    }
+  ]
+}
+{
+  "created_at": "Tue Jun 22 06:00:07 +0000 2021",
+  "full_text": "RT @CDTChinese: 谈艺权慕文有年 | 唐家派出所审讯夜 https://t.co/BsQDt3OxGy",
+  "hashtags": [],
+  "id": 1407216813830668288,
+  "id_str": "1407216813830668288",
+  "lang": "zh",
+  "retweet_count": 3,
+  "retweeted_status": {
+    "created_at": "Mon Jun 21 23:32:02 +0000 2021",
+    "favorite_count": 4,
+    "full_text": "谈艺权慕文有年 | 唐家派出所审讯夜 https://t.co/BsQDt3OxGy",
+    "hashtags": [],
+    "id": 1407119148077916163,
+    "id_str": "1407119148077916163",
+    "lang": "zh",
+    "retweet_count": 3,
+    "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+    "urls": [
+      {
+        "expanded_url": "http://dlvr.it/S2BLhw",
+        "url": "https://t.co/BsQDt3OxGy"
+      }
+    ],
+    "user": {
+      "id": 85875473,
+      "screen_name": "CDTChinese"
+    },
+    "user_mentions": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "urls": [
+    {
+      "expanded_url": "http://dlvr.it/S2BLhw",
+      "url": "https://t.co/BsQDt3OxGy"
+    }
+  ],
+  "user": {
+    "id": 547112588,
+    "screen_name": "NewCenturyBaopu"
+  },
+  "user_mentions": [
+    {
+      "id": 85875473,
+      "id_str": "85875473",
+      "name": "中国数字时代",
+      "screen_name": "CDTChinese"
+    }
+  ]
 }

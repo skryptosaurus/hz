@@ -14,54 +14,54 @@ NewCenturyBaopu:
 - created_at: Fri Apr 06 21:16:50 +0000 2012
 - default_profile: True
 - description: 香港新世纪出版社
-- favourites_count: 1944
-- followers_count: 12687
+- favourites_count: 1946
+- followers_count: 12681
 - friends_count: 595
 - id: 547112588
 - listed_count: 79
 - location: Hongkong
 - name: Bao Pu 鮑樸
 - screen_name: NewCenturyBaopu
-- statuses_count: 3292
+- statuses_count: 3294
 Yangguang_USA:
 - created_at: Sat Jul 18 05:44:14 +0000 2020
 - default_profile: True
 - description: 强迫自己离休推特一个月，干点活儿再回来，需要自律了
-- favourites_count: 4381
+- favourites_count: 4382
 - followers_count: 300
-- friends_count: 325
+- friends_count: 327
 - id: 1284363240974082048
 - listed_count: 6
 - name: 杨光
 - screen_name: Yangguang_USA
-- statuses_count: 3833
+- statuses_count: 3842
 realproofread:
 - created_at: Tue Jul 04 23:27:23 +0000 2017
 - default_profile: True
-- favourites_count: 272
+- favourites_count: 273
 - followers_count: 70
 - friends_count: 401
 - id: 882380349061218304
 - name: 真女权
 - screen_name: realproofread
-- statuses_count: 3851
+- statuses_count: 3862
 baozhan16580515:
 - created_at: Thu Jan 16 16:10:36 +0000 2020
 - default_profile: True
 - description: 民主自由
-- favourites_count: 6884
-- followers_count: 80
-- friends_count: 230
+- favourites_count: 6929
+- followers_count: 83
+- friends_count: 233
 - id: 1217841519174004736
 - name: bao zhang
 - screen_name: baozhan16580515
-- statuses_count: 2765
+- statuses_count: 2799
 rabbitlili:
 - created_at: Thu Feb 03 21:41:34 +0000 2011
 - default_profile: True
 - description: 无
-- favourites_count: 12153
-- followers_count: 1924
+- favourites_count: 12173
+- followers_count: 1928
 - friends_count: 892
 - geo_enabled: True
 - id: 246991499
@@ -69,4 +69,4 @@ rabbitlili:
 - location: United Kingdom
 - name: 英伦
 - screen_name: Rabbitlili
-- statuses_count: 23779
+- statuses_count: 23802
