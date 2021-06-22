@@ -1,617 +1,4 @@
 {
-  "created_at": "Tue Apr 27 16:04:06 +0000 2021",
-  "favorite_count": 1,
-  "full_text": "@Weixinart @Dianna13270189 @FengGU9 不信。一定是老师和家长不好",
-  "hashtags": [],
-  "id": 1387075086998462466,
-  "id_str": "1387075086998462466",
-  "in_reply_to_screen_name": "Weixinart",
-  "in_reply_to_status_id": 1387074944710942721,
-  "in_reply_to_user_id": 1287258532027478016,
-  "lang": "zh",
-  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-  "urls": [],
-  "user": {
-    "id": 246991499,
-    "screen_name": "Rabbitlili"
-  },
-  "user_mentions": [
-    {
-      "id": 1287258532027478016,
-      "id_str": "1287258532027478016",
-      "name": "唯辛 WeiXin Xu",
-      "screen_name": "Weixinart"
-    },
-    {
-      "id": 1278251421050138624,
-      "id_str": "1278251421050138624",
-      "name": "Dianna lee",
-      "screen_name": "Dianna13270189"
-    },
-    {
-      "id": 1134824998055624705,
-      "id_str": "1134824998055624705",
-      "name": "微空啤酒馆·Feng GU",
-      "screen_name": "FengGU9"
-    }
-  ]
-}
-{
-  "created_at": "Tue Apr 27 16:04:35 +0000 2021",
-  "full_text": "RT @stkic410: 造谣传谣，被推友指出视而不见，坚持不认错…已经说明了品行。\n\n与谣棍站一起只会失去信用。",
-  "hashtags": [],
-  "id": 1387075212412440577,
-  "id_str": "1387075212412440577",
-  "lang": "zh",
-  "quoted_status_id": 1386968955953184769,
-  "quoted_status_id_str": "1386968955953184769",
-  "retweet_count": 2,
-  "retweeted_status": {
-    "created_at": "Tue Apr 27 14:24:07 +0000 2021",
-    "favorite_count": 5,
-    "full_text": "造谣传谣，被推友指出视而不见，坚持不认错…已经说明了品行。\n\n与谣棍站一起只会失去信用。 https://t.co/iH0K8Faccu",
-    "hashtags": [],
-    "id": 1387049929290383360,
-    "id_str": "1387049929290383360",
-    "lang": "zh",
-    "quoted_status": {
-      "created_at": "Tue Apr 27 09:02:22 +0000 2021",
-      "favorite_count": 62,
-      "full_text": "在最基本的人性及價值、做人層面，我毫不猶豫地和伊力夏提站在一起！\n在思想交流中，我認為伊力夏提及我在網上新認識的馬聚都是具有討論底線及能力的可貴的朋友，不是封閉的意識形態分子，我沒看到文化種族及意識形態的壁壘。\n聚焦维吾尔 | 伊利夏提：在自责与内疚中的挣扎  https://t.co/zBniLSDAYm",
-      "hashtags": [],
-      "id": 1386968955953184769,
-      "id_str": "1386968955953184769",
-      "lang": "zh",
-      "retweet_count": 16,
-      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "urls": [
-        {
-          "expanded_url": "https://www.rfa.org/mandarin/pinglun/jujiaoweiwuer/ylxt-04262021132726.html",
-          "url": "https://t.co/zBniLSDAYm"
-        }
-      ],
-      "user": {
-        "id": 2537230819,
-        "id_str": "2537230819"
-      },
-      "user_mentions": []
-    },
-    "quoted_status_id": 1386968955953184769,
-    "quoted_status_id_str": "1386968955953184769",
-    "retweet_count": 2,
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "urls": [
-      {
-        "expanded_url": "https://twitter.com/ar2652006328/status/1386968955953184769",
-        "url": "https://t.co/iH0K8Faccu"
-      }
-    ],
-    "user": {
-      "id": 763852824685875200,
-      "screen_name": "stkic410"
-    },
-    "user_mentions": []
-  },
-  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-  "urls": [],
-  "user": {
-    "id": 246991499,
-    "screen_name": "Rabbitlili"
-  },
-  "user_mentions": [
-    {
-      "id": 763852824685875200,
-      "id_str": "763852824685875200",
-      "name": "317",
-      "screen_name": "stkic410"
-    }
-  ]
-}
-{
-  "created_at": "Tue Apr 27 16:06:42 +0000 2021",
-  "favorite_count": 1,
-  "full_text": "一个说实话一个说假话，可巧您都喜欢，真是怪了事了。 https://t.co/AHOt2vGTPt",
-  "hashtags": [],
-  "id": 1387075741565734918,
-  "id_str": "1387075741565734918",
-  "lang": "zh",
-  "quoted_status": {
-    "created_at": "Tue Apr 27 12:52:26 +0000 2021",
-    "favorite_count": 203,
-    "full_text": "扎着两个小辫，素面朝天的赵婷；剃着光头的许秀中。\n一个在美国，一个在澳洲。中国年轻女性的才华与能力在不同领域的国际舞台上异彩纷呈。\n相比而言，中国男人真是乏善可陈。",
-    "hashtags": [],
-    "id": 1387026855023185920,
-    "id_str": "1387026855023185920",
-    "lang": "zh",
-    "retweet_count": 32,
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "urls": [],
-    "user": {
-      "id": 139398465,
-      "screen_name": "liangxiaojun"
-    },
-    "user_mentions": []
-  },
-  "quoted_status_id": 1387026855023185920,
-  "quoted_status_id_str": "1387026855023185920",
-  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-  "urls": [
-    {
-      "expanded_url": "https://twitter.com/liangxiaojun/status/1387026855023185920",
-      "url": "https://t.co/AHOt2vGTPt"
-    }
-  ],
-  "user": {
-    "id": 246991499,
-    "screen_name": "Rabbitlili"
-  },
-  "user_mentions": []
-}
-{
-  "created_at": "Tue Apr 27 16:09:50 +0000 2021",
-  "favorite_count": 1,
-  "full_text": "@Weixinart @Dianna13270189 @FengGU9 为什么这样说。艺术是美的，孩子的审美超越成人，他们不会拒绝美。天赋不同，需要家长和老师挖掘他们擅长什么，鼓励...不要轻易放弃...",
-  "hashtags": [],
-  "id": 1387076529910427648,
-  "id_str": "1387076529910427648",
-  "in_reply_to_screen_name": "Rabbitlili",
-  "in_reply_to_status_id": 1387075086998462466,
-  "in_reply_to_user_id": 246991499,
-  "lang": "zh",
-  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-  "urls": [],
-  "user": {
-    "id": 246991499,
-    "screen_name": "Rabbitlili"
-  },
-  "user_mentions": [
-    {
-      "id": 1287258532027478016,
-      "id_str": "1287258532027478016",
-      "name": "唯辛 WeiXin Xu",
-      "screen_name": "Weixinart"
-    },
-    {
-      "id": 1278251421050138624,
-      "id_str": "1278251421050138624",
-      "name": "Dianna lee",
-      "screen_name": "Dianna13270189"
-    },
-    {
-      "id": 1134824998055624705,
-      "id_str": "1134824998055624705",
-      "name": "微空啤酒馆·Feng GU",
-      "screen_name": "FengGU9"
-    }
-  ]
-}
-{
-  "created_at": "Tue Apr 27 16:10:25 +0000 2021",
-  "favorite_count": 1,
-  "full_text": "@Dianna13270189 哈哈哈 灵魂伴侣",
-  "hashtags": [],
-  "id": 1387076679231807494,
-  "id_str": "1387076679231807494",
-  "in_reply_to_screen_name": "Dianna13270189",
-  "in_reply_to_status_id": 1387070125510053895,
-  "in_reply_to_user_id": 1278251421050138624,
-  "lang": "zh",
-  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-  "urls": [],
-  "user": {
-    "id": 246991499,
-    "screen_name": "Rabbitlili"
-  },
-  "user_mentions": [
-    {
-      "id": 1278251421050138624,
-      "id_str": "1278251421050138624",
-      "name": "Dianna lee",
-      "screen_name": "Dianna13270189"
-    }
-  ]
-}
-{
-  "created_at": "Tue Apr 27 16:10:50 +0000 2021",
-  "favorite_count": 1,
-  "full_text": "@Dianna13270189 我也这样想",
-  "hashtags": [],
-  "id": 1387076782638215170,
-  "id_str": "1387076782638215170",
-  "in_reply_to_screen_name": "Rabbitlili",
-  "in_reply_to_status_id": 1387076679231807494,
-  "in_reply_to_user_id": 246991499,
-  "lang": "zh",
-  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-  "urls": [],
-  "user": {
-    "id": 246991499,
-    "screen_name": "Rabbitlili"
-  },
-  "user_mentions": [
-    {
-      "id": 1278251421050138624,
-      "id_str": "1278251421050138624",
-      "name": "Dianna lee",
-      "screen_name": "Dianna13270189"
-    }
-  ]
-}
-{
-  "created_at": "Tue Apr 27 16:12:28 +0000 2021",
-  "favorite_count": 1,
-  "full_text": "@FengGU9 @Weixinart @Dianna13270189 都是唬人。娃一天20-30分钟，十年也是演奏水平。重在坚持，专注。家长鼓励",
-  "hashtags": [],
-  "id": 1387077194036531203,
-  "id_str": "1387077194036531203",
-  "in_reply_to_screen_name": "FengGU9",
-  "in_reply_to_status_id": 1387076815114706953,
-  "in_reply_to_user_id": 1134824998055624705,
-  "lang": "zh",
-  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-  "urls": [],
-  "user": {
-    "id": 246991499,
-    "screen_name": "Rabbitlili"
-  },
-  "user_mentions": [
-    {
-      "id": 1134824998055624705,
-      "id_str": "1134824998055624705",
-      "name": "微空啤酒馆·Feng GU",
-      "screen_name": "FengGU9"
-    },
-    {
-      "id": 1287258532027478016,
-      "id_str": "1287258532027478016",
-      "name": "唯辛 WeiXin Xu",
-      "screen_name": "Weixinart"
-    },
-    {
-      "id": 1278251421050138624,
-      "id_str": "1278251421050138624",
-      "name": "Dianna lee",
-      "screen_name": "Dianna13270189"
-    }
-  ]
-}
-{
-  "created_at": "Tue Apr 27 16:15:16 +0000 2021",
-  "favorite_count": 1,
-  "full_text": "@FengGU9 @Weixinart @Dianna13270189 有一次我还单独问老师可不可以表扬娃。\n来，顾老师，表扬我一下！",
-  "hashtags": [],
-  "id": 1387077900877377545,
-  "id_str": "1387077900877377545",
-  "in_reply_to_screen_name": "Rabbitlili",
-  "in_reply_to_status_id": 1387077194036531203,
-  "in_reply_to_user_id": 246991499,
-  "lang": "zh",
-  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-  "urls": [],
-  "user": {
-    "id": 246991499,
-    "screen_name": "Rabbitlili"
-  },
-  "user_mentions": [
-    {
-      "id": 1134824998055624705,
-      "id_str": "1134824998055624705",
-      "name": "微空啤酒馆·Feng GU",
-      "screen_name": "FengGU9"
-    },
-    {
-      "id": 1287258532027478016,
-      "id_str": "1287258532027478016",
-      "name": "唯辛 WeiXin Xu",
-      "screen_name": "Weixinart"
-    },
-    {
-      "id": 1278251421050138624,
-      "id_str": "1278251421050138624",
-      "name": "Dianna lee",
-      "screen_name": "Dianna13270189"
-    }
-  ]
-}
-{
-  "created_at": "Tue Apr 27 16:16:52 +0000 2021",
-  "full_text": "@FengGU9 @Weixinart @Dianna13270189 看看，顾老师缄默了 😀",
-  "hashtags": [],
-  "id": 1387078303127851028,
-  "id_str": "1387078303127851028",
-  "in_reply_to_screen_name": "Rabbitlili",
-  "in_reply_to_status_id": 1387077900877377545,
-  "in_reply_to_user_id": 246991499,
-  "lang": "zh",
-  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-  "urls": [],
-  "user": {
-    "id": 246991499,
-    "screen_name": "Rabbitlili"
-  },
-  "user_mentions": [
-    {
-      "id": 1134824998055624705,
-      "id_str": "1134824998055624705",
-      "name": "微空啤酒馆·Feng GU",
-      "screen_name": "FengGU9"
-    },
-    {
-      "id": 1287258532027478016,
-      "id_str": "1287258532027478016",
-      "name": "唯辛 WeiXin Xu",
-      "screen_name": "Weixinart"
-    },
-    {
-      "id": 1278251421050138624,
-      "id_str": "1278251421050138624",
-      "name": "Dianna lee",
-      "screen_name": "Dianna13270189"
-    }
-  ]
-}
-{
-  "created_at": "Tue Apr 27 16:39:21 +0000 2021",
-  "favorite_count": 1,
-  "full_text": "@Ddominoooo 魔鬼怕细节，一问就拉黑 😀",
-  "hashtags": [],
-  "id": 1387083958287052803,
-  "id_str": "1387083958287052803",
-  "in_reply_to_screen_name": "Ddominoooo",
-  "in_reply_to_status_id": 1387081001533251585,
-  "in_reply_to_user_id": 901952697032744960,
-  "lang": "zh",
-  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-  "urls": [],
-  "user": {
-    "id": 246991499,
-    "screen_name": "Rabbitlili"
-  },
-  "user_mentions": [
-    {
-      "id": 901952697032744960,
-      "id_str": "901952697032744960",
-      "name": "Domino",
-      "screen_name": "Ddominoooo"
-    }
-  ]
-}
-{
-  "created_at": "Tue Apr 27 16:51:10 +0000 2021",
-  "full_text": "这种人搞教育？！ 呵呵 https://t.co/UqzQGISPLn",
-  "hashtags": [],
-  "id": 1387086933613027331,
-  "id_str": "1387086933613027331",
-  "lang": "zh",
-  "media": [
-    {
-      "display_url": "pic.twitter.com/UqzQGISPLn",
-      "expanded_url": "https://twitter.com/Rabbitlili/status/1387086933613027331/photo/1",
-      "id": 1387086930106531846,
-      "media_url": "http://pbs.twimg.com/media/Ez_sNr2WQAYZdUA.jpg",
-      "media_url_https": "https://pbs.twimg.com/media/Ez_sNr2WQAYZdUA.jpg",
-      "type": "photo",
-      "url": "https://t.co/UqzQGISPLn"
-    }
-  ],
-  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-  "urls": [],
-  "user": {
-    "id": 246991499,
-    "screen_name": "Rabbitlili"
-  },
-  "user_mentions": []
-}
-{
-  "created_at": "Tue Apr 27 16:55:26 +0000 2021",
-  "favorite_count": 1,
-  "full_text": "这位星哥是不是神经错乱了。一边骂种族灭绝，文化灭绝，一边载歌载舞？\n（这个视频我看过都不好意思发出来。） https://t.co/PXR8QD9VB0",
-  "hashtags": [],
-  "id": 1387088005513482241,
-  "id_str": "1387088005513482241",
-  "lang": "zh",
-  "quoted_status": {
-    "created_at": "Tue Apr 27 16:50:36 +0000 2021",
-    "favorite_count": 5,
-    "full_text": "好看的舞蹈、好聽的音樂🎵。 https://t.co/0XpnxV9ZPT",
-    "hashtags": [],
-    "id": 1387086789165281280,
-    "id_str": "1387086789165281280",
-    "lang": "zh",
-    "quoted_status_id": 1387086174326493184,
-    "quoted_status_id_str": "1387086174326493184",
-    "retweet_count": 1,
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "urls": [
-      {
-        "expanded_url": "https://twitter.com/ljesseliujx/status/1387086174326493184",
-        "url": "https://t.co/0XpnxV9ZPT"
-      }
-    ],
-    "user": {
-      "id": 2739009416,
-      "screen_name": "xiaoweirose"
-    },
-    "user_mentions": []
-  },
-  "quoted_status_id": 1387086789165281280,
-  "quoted_status_id_str": "1387086789165281280",
-  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-  "urls": [
-    {
-      "expanded_url": "https://twitter.com/xiaoweirose/status/1387086789165281280",
-      "url": "https://t.co/PXR8QD9VB0"
-    }
-  ],
-  "user": {
-    "id": 246991499,
-    "screen_name": "Rabbitlili"
-  },
-  "user_mentions": []
-}
-{
-  "created_at": "Tue Apr 27 16:56:10 +0000 2021",
-  "favorite_count": 1,
-  "full_text": "@wakeupfrog01 教育的内核是爱和包容。他懂个P教育",
-  "hashtags": [],
-  "id": 1387088194013892608,
-  "id_str": "1387088194013892608",
-  "in_reply_to_screen_name": "wakeupfrog01",
-  "in_reply_to_status_id": 1387087685743833097,
-  "in_reply_to_user_id": 811067611823771652,
-  "lang": "zh",
-  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-  "urls": [],
-  "user": {
-    "id": 246991499,
-    "screen_name": "Rabbitlili"
-  },
-  "user_mentions": [
-    {
-      "id": 811067611823771652,
-      "id_str": "811067611823771652",
-      "name": "习近彭",
-      "screen_name": "wakeupfrog01"
-    }
-  ]
-}
-{
-  "created_at": "Tue Apr 27 17:02:07 +0000 2021",
-  "favorite_count": 1,
-  "full_text": "新疆汉人刘金星已经将我拉黑，欢迎大家到他推下看看种族灭绝文化灭绝的视频。\n\n骗子自己脱底裤，丢人现眼！ https://t.co/J925aYFv7f",
-  "hashtags": [],
-  "id": 1387089691091083278,
-  "id_str": "1387089691091083278",
-  "lang": "zh",
-  "quoted_status": {
-    "created_at": "Tue Apr 27 16:55:26 +0000 2021",
-    "favorite_count": 1,
-    "full_text": "这位星哥是不是神经错乱了。一边骂种族灭绝，文化灭绝，一边载歌载舞？\n（这个视频我看过都不好意思发出来。） https://t.co/PXR8QD9VB0",
-    "hashtags": [],
-    "id": 1387088005513482241,
-    "id_str": "1387088005513482241",
-    "lang": "zh",
-    "quoted_status_id": 1387086789165281280,
-    "quoted_status_id_str": "1387086789165281280",
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "urls": [
-      {
-        "expanded_url": "https://twitter.com/xiaoweirose/status/1387086789165281280",
-        "url": "https://t.co/PXR8QD9VB0"
-      }
-    ],
-    "user": {
-      "id": 246991499,
-      "screen_name": "Rabbitlili"
-    },
-    "user_mentions": []
-  },
-  "quoted_status_id": 1387088005513482241,
-  "quoted_status_id_str": "1387088005513482241",
-  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-  "urls": [
-    {
-      "expanded_url": "https://twitter.com/Rabbitlili/status/1387088005513482241",
-      "url": "https://t.co/J925aYFv7f"
-    }
-  ],
-  "user": {
-    "id": 246991499,
-    "screen_name": "Rabbitlili"
-  },
-  "user_mentions": []
-}
-{
-  "created_at": "Tue Apr 27 17:02:20 +0000 2021",
-  "full_text": "@Dianna13270189 晚安",
-  "hashtags": [],
-  "id": 1387089743675019265,
-  "id_str": "1387089743675019265",
-  "in_reply_to_screen_name": "Dianna13270189",
-  "in_reply_to_status_id": 1387085182369341443,
-  "in_reply_to_user_id": 1278251421050138624,
-  "lang": "ja",
-  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-  "urls": [],
-  "user": {
-    "id": 246991499,
-    "screen_name": "Rabbitlili"
-  },
-  "user_mentions": [
-    {
-      "id": 1278251421050138624,
-      "id_str": "1278251421050138624",
-      "name": "Dianna lee",
-      "screen_name": "Dianna13270189"
-    }
-  ]
-}
-{
-  "created_at": "Tue Apr 27 17:53:11 +0000 2021",
-  "full_text": "@xiaoweirose 你让他回新疆好好反思吧 😀",
-  "hashtags": [],
-  "id": 1387102540173545476,
-  "id_str": "1387102540173545476",
-  "in_reply_to_screen_name": "xiaoweirose",
-  "in_reply_to_status_id": 1387090688613912577,
-  "in_reply_to_user_id": 2739009416,
-  "lang": "ja",
-  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-  "urls": [],
-  "user": {
-    "id": 246991499,
-    "screen_name": "Rabbitlili"
-  },
-  "user_mentions": [
-    {
-      "id": 2739009416,
-      "id_str": "2739009416",
-      "name": "Vivian Shen賭城婆婆",
-      "screen_name": "xiaoweirose"
-    }
-  ]
-}
-{
-  "created_at": "Tue Apr 27 17:56:43 +0000 2021",
-  "full_text": "RT @FengGU9: 我算看出来了，新疆局势的发言权一半在CCP手里，一半在东突精突手里。CCP主要负责辟谣和谴责，东突精突主要负责何时该说种族灭绝，何时该夸家乡幸福美好。别人说了都不算。",
-  "hashtags": [],
-  "id": 1387103431853330435,
-  "id_str": "1387103431853330435",
-  "lang": "zh",
-  "retweet_count": 2,
-  "retweeted_status": {
-    "created_at": "Tue Apr 27 17:32:05 +0000 2021",
-    "favorite_count": 28,
-    "full_text": "我算看出来了，新疆局势的发言权一半在CCP手里，一半在东突精突手里。CCP主要负责辟谣和谴责，东突精突主要负责何时该说种族灭绝，何时该夸家乡幸福美好。别人说了都不算。",
-    "hashtags": [],
-    "id": 1387097230797066245,
-    "id_str": "1387097230797066245",
-    "lang": "zh",
-    "retweet_count": 2,
-    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "urls": [],
-    "user": {
-      "id": 1134824998055624705,
-      "screen_name": "FengGU9"
-    },
-    "user_mentions": []
-  },
-  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-  "urls": [],
-  "user": {
-    "id": 246991499,
-    "screen_name": "Rabbitlili"
-  },
-  "user_mentions": [
-    {
-      "id": 1134824998055624705,
-      "id_str": "1134824998055624705",
-      "name": "微空啤酒馆·Feng GU",
-      "screen_name": "FengGU9"
-    }
-  ]
-}
-{
   "created_at": "Tue Apr 27 18:00:06 +0000 2021",
   "full_text": "@xiaoweirose 他的病在美国可治不好",
   "hashtags": [],
@@ -2233,55 +1620,6 @@
   "user_mentions": []
 }
 {
-  "created_at": "Wed Apr 28 16:09:57 +0000 2021",
-  "favorite_count": 5,
-  "full_text": "我反对。独立和分裂的时机不成熟，匪共一旦大开杀家戒，谁去刹车喊停，是美国士兵还是英国士兵？我无所谓，一生过了大半，可我娃们咋办？双方一旦开战就是人间活地狱。\n\n我祈祷达赖喇嘛长寿，普渡众生。 https://t.co/SxjP603gY1",
-  "hashtags": [],
-  "id": 1387438948117536768,
-  "id_str": "1387438948117536768",
-  "lang": "zh",
-  "quoted_status": {
-    "created_at": "Wed Apr 28 16:02:23 +0000 2021",
-    "favorite_count": 2,
-    "full_text": "@FengGU9 要独立要分裂我都没意见，但是他把屎盆子往普通汉人头上扣，挑动民族仇恨，那就不行！",
-    "hashtags": [],
-    "id": 1387437042825531392,
-    "id_str": "1387437042825531392",
-    "in_reply_to_screen_name": "FengGU9",
-    "in_reply_to_status_id": 1387343839208382470,
-    "in_reply_to_user_id": 1134824998055624705,
-    "lang": "zh",
-    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
-    "urls": [],
-    "user": {
-      "id": 901952697032744960,
-      "screen_name": "Ddominoooo"
-    },
-    "user_mentions": [
-      {
-        "id": 1134824998055624705,
-        "id_str": "1134824998055624705",
-        "name": "微空啤酒馆·Feng GU",
-        "screen_name": "FengGU9"
-      }
-    ]
-  },
-  "quoted_status_id": 1387437042825531392,
-  "quoted_status_id_str": "1387437042825531392",
-  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-  "urls": [
-    {
-      "expanded_url": "https://twitter.com/Ddominoooo/status/1387437042825531392",
-      "url": "https://t.co/SxjP603gY1"
-    }
-  ],
-  "user": {
-    "id": 246991499,
-    "screen_name": "Rabbitlili"
-  },
-  "user_mentions": []
-}
-{
   "created_at": "Wed Apr 28 17:29:40 +0000 2021",
   "favorite_count": 2,
   "full_text": "@jeeplakeside 东突网站所列的头目里也没他，就是一个不入流的二货",
@@ -2917,6 +2255,26 @@
   "user_mentions": []
 }
 {
+  "created_at": "Thu Apr 29 06:04:33 +0000 2021",
+  "favorite_count": 7,
+  "full_text": "伊利夏提主动提供的四张照片用以证明他为其工作，并称照片上的人是他的同事们。泄露其他间谍人员身份和资料，涉嫌危害美国国家安全罪，将会被额外指控！",
+  "hashtags": [],
+  "id": 1387648981258444800,
+  "id_str": "1387648981258444800",
+  "in_reply_to_screen_name": "Rabbitlili",
+  "in_reply_to_status_id": 1387647496348917760,
+  "in_reply_to_user_id": 246991499,
+  "lang": "zh",
+  "retweet_count": 2,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "urls": [],
+  "user": {
+    "id": 246991499,
+    "screen_name": "Rabbitlili"
+  },
+  "user_mentions": []
+}
+{
   "created_at": "Thu Apr 29 06:05:04 +0000 2021",
   "favorite_count": 8,
   "full_text": "和我斗，累不死他 😂",
@@ -3378,10 +2736,10 @@
       }
     }
   ],
-  "retweet_count": 1681,
+  "retweet_count": 1682,
   "retweeted_status": {
     "created_at": "Thu Apr 29 11:58:53 +0000 2021",
-    "favorite_count": 14568,
+    "favorite_count": 14571,
     "full_text": "It's #InternationalDanceDay!\n\nTake it away, @ToniRuediger! 🕺 https://t.co/nuskx2pQsw",
     "hashtags": [
       {
@@ -3409,7 +2767,7 @@
         }
       }
     ],
-    "retweet_count": 1681,
+    "retweet_count": 1682,
     "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
     "urls": [],
     "user": {
@@ -9289,62 +8647,6 @@
   ]
 }
 {
-  "created_at": "Sat May 01 05:35:38 +0000 2021",
-  "full_text": "RT @stkic410: @Ddominoooo 这种全民有责任、帮凶说，跟支黑、核平派沦为同类。",
-  "hashtags": [],
-  "id": 1388366480538996737,
-  "id_str": "1388366480538996737",
-  "lang": "zh",
-  "retweet_count": 1,
-  "retweeted_status": {
-    "created_at": "Sat May 01 04:10:14 +0000 2021",
-    "favorite_count": 2,
-    "full_text": "@Ddominoooo 这种全民有责任、帮凶说，跟支黑、核平派沦为同类。",
-    "hashtags": [],
-    "id": 1388344989889941504,
-    "id_str": "1388344989889941504",
-    "in_reply_to_screen_name": "stkic410",
-    "in_reply_to_status_id": 1388344839582883841,
-    "in_reply_to_user_id": 763852824685875200,
-    "lang": "zh",
-    "retweet_count": 1,
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "urls": [],
-    "user": {
-      "id": 763852824685875200,
-      "screen_name": "stkic410"
-    },
-    "user_mentions": [
-      {
-        "id": 901952697032744960,
-        "id_str": "901952697032744960",
-        "name": "Domino",
-        "screen_name": "Ddominoooo"
-      }
-    ]
-  },
-  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-  "urls": [],
-  "user": {
-    "id": 246991499,
-    "screen_name": "Rabbitlili"
-  },
-  "user_mentions": [
-    {
-      "id": 763852824685875200,
-      "id_str": "763852824685875200",
-      "name": "317",
-      "screen_name": "stkic410"
-    },
-    {
-      "id": 901952697032744960,
-      "id_str": "901952697032744960",
-      "name": "Domino",
-      "screen_name": "Ddominoooo"
-    }
-  ]
-}
-{
   "created_at": "Sat May 01 05:42:25 +0000 2021",
   "favorite_count": 3,
   "full_text": "@Dianna13270189 应该直接了当的说店主是东突。为了自己和家人的安全",
@@ -9917,32 +9219,6 @@
   "id": 1388385749867900928,
   "id_str": "1388385749867900928",
   "lang": "zh",
-  "quoted_status": {
-    "created_at": "Fri Apr 30 22:54:00 +0000 2021",
-    "favorite_count": 9,
-    "full_text": "@FengGU9 滕律也是我的推油，在反川战斗，以及反谣言媒体的战斗中，我一直支持滕彪。对比一些堕落的民运同道，滕彪一直是立场持的比较正的。但在新疆问题上，大家出现了不同意见，由于话题太重要，有话不能不说。",
-    "hashtags": [],
-    "id": 1388265405475479553,
-    "id_str": "1388265405475479553",
-    "in_reply_to_screen_name": "FengGU9",
-    "in_reply_to_status_id": 1388261067764207621,
-    "in_reply_to_user_id": 1134824998055624705,
-    "lang": "zh",
-    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "urls": [],
-    "user": {
-      "id": 1126461256024481792,
-      "screen_name": "JackBingfu"
-    },
-    "user_mentions": [
-      {
-        "id": 1134824998055624705,
-        "id_str": "1134824998055624705",
-        "name": "微空啤酒馆·Feng GU",
-        "screen_name": "FengGU9"
-      }
-    ]
-  },
   "quoted_status_id": 1388265405475479553,
   "quoted_status_id_str": "1388265405475479553",
   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
@@ -10010,6 +9286,32 @@
       "id_str": "246991499",
       "name": "英伦",
       "screen_name": "Rabbitlili"
+    }
+  ]
+}
+{
+  "created_at": "Sat May 01 06:52:50 +0000 2021",
+  "favorite_count": 1,
+  "full_text": "@Daoge2020 😂",
+  "hashtags": [],
+  "id": 1388385910757249024,
+  "id_str": "1388385910757249024",
+  "in_reply_to_screen_name": "Daoge2020",
+  "in_reply_to_status_id": 1388377962005807105,
+  "in_reply_to_user_id": 1220921509318995969,
+  "lang": "und",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "urls": [],
+  "user": {
+    "id": 246991499,
+    "screen_name": "Rabbitlili"
+  },
+  "user_mentions": [
+    {
+      "id": 1220921509318995969,
+      "id_str": "1220921509318995969",
+      "name": "护法二道长",
+      "screen_name": "Daoge2020"
     }
   ]
 }
@@ -16106,34 +15408,6 @@
   "user_mentions": []
 }
 {
-  "created_at": "Mon May 03 09:01:03 +0000 2021",
-  "favorite_count": 4,
-  "full_text": "如此推演不就是腾彪说的人人都有特权人人都有优势人人需要反思吗。\n反思不分国籍种族性别年龄。\n反思三代？应该代代反思。你想做个“局外人” 那是找死\n\n我打个样，请反思为什么你被东突突突了而他没有\n中共迫害腾彪为啥不迫害其他律师\n新疆人被受教育其他地区没有\n美国人因病毒感染死亡57万而你还活着.. https://t.co/KSd5vDF0rt",
-  "hashtags": [],
-  "id": 1389142952857980930,
-  "id_str": "1389142952857980930",
-  "lang": "zh",
-  "media": [
-    {
-      "display_url": "pic.twitter.com/KSd5vDF0rt",
-      "expanded_url": "https://twitter.com/Rabbitlili/status/1389142952857980930/photo/1",
-      "id": 1389142948273655808,
-      "media_url": "http://pbs.twimg.com/media/E0c6JsYXEAAnaKP.jpg",
-      "media_url_https": "https://pbs.twimg.com/media/E0c6JsYXEAAnaKP.jpg",
-      "type": "photo",
-      "url": "https://t.co/KSd5vDF0rt"
-    }
-  ],
-  "retweet_count": 1,
-  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-  "urls": [],
-  "user": {
-    "id": 246991499,
-    "screen_name": "Rabbitlili"
-  },
-  "user_mentions": []
-}
-{
   "created_at": "Mon May 03 09:03:41 +0000 2021",
   "favorite_count": 1,
   "full_text": "想明白了，想发言的请举手 \n\n读懂加谬的请随意...",
@@ -16486,7 +15760,7 @@
   "lang": "zh",
   "quoted_status": {
     "created_at": "Mon May 03 03:21:18 +0000 2021",
-    "favorite_count": 244,
+    "favorite_count": 243,
     "full_text": "其实解释privilege 最好的例子就是中国的户口制度，城市户口相对于农村户口的privilege 是再明显不过的了，希望能帮助某些分不清特权与privilege区别的朋友",
     "hashtags": [],
     "id": 1389057452532854788,
@@ -16616,7 +15890,7 @@
   "lang": "zh",
   "quoted_status": {
     "created_at": "Mon May 03 03:21:18 +0000 2021",
-    "favorite_count": 244,
+    "favorite_count": 243,
     "full_text": "其实解释privilege 最好的例子就是中国的户口制度，城市户口相对于农村户口的privilege 是再明显不过的了，希望能帮助某些分不清特权与privilege区别的朋友",
     "hashtags": [],
     "id": 1389057452532854788,
@@ -16778,6 +16052,37 @@
       "id_str": "898015275035095040",
       "name": "湖畔新语 三元",
       "screen_name": "jeeplakeside"
+    }
+  ]
+}
+{
+  "created_at": "Mon May 03 11:44:15 +0000 2021",
+  "full_text": "@theoldmanEK @FengGU9 🙂",
+  "hashtags": [],
+  "id": 1389184023906373635,
+  "id_str": "1389184023906373635",
+  "in_reply_to_screen_name": "theoldmanEK",
+  "in_reply_to_status_id": 1389181169996943361,
+  "in_reply_to_user_id": 344635884,
+  "lang": "und",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "urls": [],
+  "user": {
+    "id": 246991499,
+    "screen_name": "Rabbitlili"
+  },
+  "user_mentions": [
+    {
+      "id": 344635884,
+      "id_str": "344635884",
+      "name": "无敌跳蛋",
+      "screen_name": "theoldmanEK"
+    },
+    {
+      "id": 1134824998055624705,
+      "id_str": "1134824998055624705",
+      "name": "微空啤酒馆·Feng GU",
+      "screen_name": "FengGU9"
     }
   ]
 }
@@ -22579,7 +21884,7 @@
   "lang": "ja",
   "quoted_status": {
     "created_at": "Wed May 05 10:34:12 +0000 2021",
-    "favorite_count": 6995,
+    "favorite_count": 6996,
     "full_text": "https://t.co/uuhfJRzWP4",
     "hashtags": [],
     "id": 1389891169241370631,
@@ -22603,7 +21908,7 @@
         }
       }
     ],
-    "retweet_count": 1380,
+    "retweet_count": 1381,
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
     "urls": [],
     "user": {
@@ -22676,61 +21981,6 @@
       "id_str": "901952697032744960",
       "name": "Domino",
       "screen_name": "Ddominoooo"
-    }
-  ]
-}
-{
-  "created_at": "Wed May 05 16:03:19 +0000 2021",
-  "full_text": "RT @huyi_naoc: @Rabbitlili 这老阿姨对自己的诊断倒是很健全，否则也不会说什么汉人交税给中共政府就是恶呀，什么过度繁殖之类的呓语。反思也不代表反思后的结果就是对的，也有可能反思得走火入魔了。",
-  "hashtags": [],
-  "id": 1389973994837889034,
-  "id_str": "1389973994837889034",
-  "lang": "zh",
-  "retweet_count": 1,
-  "retweeted_status": {
-    "created_at": "Wed May 05 14:52:04 +0000 2021",
-    "full_text": "@Rabbitlili 这老阿姨对自己的诊断倒是很健全，否则也不会说什么汉人交税给中共政府就是恶呀，什么过度繁殖之类的呓语。反思也不代表反思后的结果就是对的，也有可能反思得走火入魔了。",
-    "hashtags": [],
-    "id": 1389956065526157314,
-    "id_str": "1389956065526157314",
-    "in_reply_to_screen_name": "Rabbitlili",
-    "in_reply_to_status_id": 1389902992996978688,
-    "in_reply_to_user_id": 246991499,
-    "lang": "zh",
-    "retweet_count": 1,
-    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "urls": [],
-    "user": {
-      "id": 557287568,
-      "screen_name": "huyi_naoc"
-    },
-    "user_mentions": [
-      {
-        "id": 246991499,
-        "id_str": "246991499",
-        "name": "英伦",
-        "screen_name": "Rabbitlili"
-      }
-    ]
-  },
-  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-  "urls": [],
-  "user": {
-    "id": 246991499,
-    "screen_name": "Rabbitlili"
-  },
-  "user_mentions": [
-    {
-      "id": 557287568,
-      "id_str": "557287568",
-      "name": "stellarman",
-      "screen_name": "huyi_naoc"
-    },
-    {
-      "id": 246991499,
-      "id_str": "246991499",
-      "name": "英伦",
-      "screen_name": "Rabbitlili"
     }
   ]
 }
@@ -23206,10 +22456,10 @@
       "url": "https://t.co/jgO4ijxk01"
     }
   ],
-  "retweet_count": 12500,
+  "retweet_count": 12497,
   "retweeted_status": {
     "created_at": "Wed May 05 21:19:59 +0000 2021",
-    "favorite_count": 110098,
+    "favorite_count": 110092,
     "full_text": "This team! 💙 https://t.co/jgO4ijxk01",
     "hashtags": [],
     "id": 1390053687343685638,
@@ -23226,7 +22476,7 @@
         "url": "https://t.co/jgO4ijxk01"
       }
     ],
-    "retweet_count": 12500,
+    "retweet_count": 12497,
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "urls": [],
     "user": {
@@ -23369,6 +22619,136 @@
     "screen_name": "Rabbitlili"
   },
   "user_mentions": []
+}
+{
+  "created_at": "Thu May 06 05:27:25 +0000 2021",
+  "full_text": "RT @ChuLaYaFi: 这次疫情已经创下疫苗研发速度记录，堪称奇迹，现在不过是疫苗生产速度慢而已。把专利保护取消了，下一次的疫情就不是疫苗生产快慢的问题，而是有没有疫苗的问题。这帮政客可以说短视至极，拜登慷他人之慨自己捞了个好名声，下一次时疫情的美国总统就要倒霉了。",
+  "hashtags": [],
+  "id": 1390176354008698880,
+  "id_str": "1390176354008698880",
+  "lang": "zh",
+  "quoted_status_id": 1390043641268244481,
+  "quoted_status_id_str": "1390043641268244481",
+  "retweet_count": 1,
+  "retweeted_status": {
+    "created_at": "Thu May 06 02:57:35 +0000 2021",
+    "favorite_count": 1,
+    "full_text": "这次疫情已经创下疫苗研发速度记录，堪称奇迹，现在不过是疫苗生产速度慢而已。把专利保护取消了，下一次的疫情就不是疫苗生产快慢的问题，而是有没有疫苗的问题。这帮政客可以说短视至极，拜登慷他人之慨自己捞了个好名声，下一次时疫情的美国总统就要倒霉了。 https://t.co/gtCe2tG0nl",
+    "hashtags": [],
+    "id": 1390138647924535296,
+    "id_str": "1390138647924535296",
+    "lang": "zh",
+    "quoted_status": {
+      "created_at": "Wed May 05 20:40:04 +0000 2021",
+      "favorite_count": 502,
+      "full_text": "美国贸易代表宣布美国政府支持取消对新冠疫苗的专利保护，辉瑞、BioNTech和莫德纳的股价应声大跌。杀鸡取卵，这些政客是不是以为人类没有下一次大疫情了？还是指望下一次疫情时各大制药公司都能做无私奉献？印度最喜欢以国家安全名义取消新药专利保护，仿制药业倒是发达了，但是没人研发新药了。 https://t.co/lLDmKD2hx8",
+      "hashtags": [],
+      "id": 1390043641268244481,
+      "id_str": "1390043641268244481",
+      "lang": "zh",
+      "media": [
+        {
+          "display_url": "pic.twitter.com/lLDmKD2hx8",
+          "expanded_url": "https://twitter.com/fangshimin/status/1390043641268244481/photo/1",
+          "id": 1390043627519311874,
+          "media_url": "http://pbs.twimg.com/media/E0ptUICVgAImxj4.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E0ptUICVgAImxj4.jpg",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 639,
+              "h": 683,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 636,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 639,
+              "h": 683,
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/lLDmKD2hx8"
+        },
+        {
+          "display_url": "pic.twitter.com/lLDmKD2hx8",
+          "expanded_url": "https://twitter.com/fangshimin/status/1390043641268244481/photo/1",
+          "id": 1390043627515088898,
+          "media_url": "http://pbs.twimg.com/media/E0ptUIBVEAI-BXr.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E0ptUIBVEAI-BXr.jpg",
+          "sizes": {
+            "medium": {
+              "w": 677,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1156,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 384,
+              "h": 680,
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/lLDmKD2hx8"
+        }
+      ],
+      "retweet_count": 99,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "urls": [],
+      "user": {
+        "id": 232201624,
+        "id_str": "232201624"
+      },
+      "user_mentions": []
+    },
+    "quoted_status_id": 1390043641268244481,
+    "quoted_status_id_str": "1390043641268244481",
+    "retweet_count": 1,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/fangshimin/status/1390043641268244481",
+        "url": "https://t.co/gtCe2tG0nl"
+      }
+    ],
+    "user": {
+      "id": 2874370362,
+      "screen_name": "ChuLaYaFi"
+    },
+    "user_mentions": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "urls": [],
+  "user": {
+    "id": 246991499,
+    "screen_name": "Rabbitlili"
+  },
+  "user_mentions": [
+    {
+      "id": 2874370362,
+      "id_str": "2874370362",
+      "name": "Syu",
+      "screen_name": "ChuLaYaFi"
+    }
+  ]
 }
 {
   "created_at": "Thu May 06 05:27:25 +0000 2021",
@@ -26135,7 +25515,7 @@
   "lang": "zh",
   "quoted_status": {
     "created_at": "Fri May 07 04:45:00 +0000 2021",
-    "favorite_count": 2899,
+    "favorite_count": 2900,
     "full_text": "在地鐵上遇到溫暖一幕：一個年輕男子看見小孩的頭隨著地鐵搖晃幾乎要撞到桿子上，就默默趕緊伸手，用手握著桿子以免小孩的頭受傷。反覆幾次。而那個爸爸卻渾然不知。這微小的善舉透射著厚厚的愛心。\n我忍不住微笑😊起來。為著這與善的邂逅。天使無處不在。 https://t.co/tkgU7TMA0K",
     "hashtags": [],
     "id": 1390528068230402048,
@@ -26436,7 +25816,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Fri May 07 13:35:23 +0000 2021",
-      "favorite_count": 457,
+      "favorite_count": 456,
       "full_text": "更令人失望的是，作出这样评论的还有一些是六四时期的知名民主人士。我年纪小、写字的，从没参与过“民主活动”，甚至刚出国时都不知道六四是什么，不知道中国人在过去几十年抗争过，所以一向对这些民主人士有份特别的敬佩。但如果支持川普还能算是反共策略，在维族问题上鼓吹汉人无罪就真是无法辩驳之恶",
       "hashtags": [],
       "id": 1390661543285510148,
@@ -26782,7 +26162,7 @@
   "lang": "zh",
   "quoted_status": {
     "created_at": "Fri May 07 13:35:23 +0000 2021",
-    "favorite_count": 457,
+    "favorite_count": 456,
     "full_text": "更令人失望的是，作出这样评论的还有一些是六四时期的知名民主人士。我年纪小、写字的，从没参与过“民主活动”，甚至刚出国时都不知道六四是什么，不知道中国人在过去几十年抗争过，所以一向对这些民主人士有份特别的敬佩。但如果支持川普还能算是反共策略，在维族问题上鼓吹汉人无罪就真是无法辩驳之恶",
     "hashtags": [],
     "id": 1390661543285510148,
@@ -26826,7 +26206,7 @@
   "lang": "zh",
   "quoted_status": {
     "created_at": "Fri May 07 14:05:53 +0000 2021",
-    "favorite_count": 404,
+    "favorite_count": 402,
     "full_text": "搞半天到头来，民主到底是夺权运动，还是人权运动啊？",
     "hashtags": [],
     "id": 1390669216588570625,
@@ -26870,7 +26250,7 @@
   "lang": "zh",
   "quoted_status": {
     "created_at": "Fri May 07 13:35:23 +0000 2021",
-    "favorite_count": 457,
+    "favorite_count": 456,
     "full_text": "更令人失望的是，作出这样评论的还有一些是六四时期的知名民主人士。我年纪小、写字的，从没参与过“民主活动”，甚至刚出国时都不知道六四是什么，不知道中国人在过去几十年抗争过，所以一向对这些民主人士有份特别的敬佩。但如果支持川普还能算是反共策略，在维族问题上鼓吹汉人无罪就真是无法辩驳之恶",
     "hashtags": [],
     "id": 1390661543285510148,
@@ -28483,7 +27863,7 @@
     ],
     "quoted_status": {
       "created_at": "Fri May 07 13:35:23 +0000 2021",
-      "favorite_count": 457,
+      "favorite_count": 456,
       "full_text": "更令人失望的是，作出这样评论的还有一些是六四时期的知名民主人士。我年纪小、写字的，从没参与过“民主活动”，甚至刚出国时都不知道六四是什么，不知道中国人在过去几十年抗争过，所以一向对这些民主人士有份特别的敬佩。但如果支持川普还能算是反共策略，在维族问题上鼓吹汉人无罪就真是无法辩驳之恶",
       "hashtags": [],
       "id": 1390661543285510148,
@@ -30269,54 +29649,6 @@
   "user_mentions": []
 }
 {
-  "created_at": "Sun May 09 13:32:07 +0000 2021",
-  "favorite_count": 13,
-  "full_text": "上游的人民顾不上，活着的人顾不上死去的人，更别谈人的尊严。\n\n张展和她的支持者就是一群混蛋，她们不仅不自我反思，反而希望中国成为今天印度的样子！现在回过头看，你说匪共判的重吗？我认为一点儿也不重，无论从犯罪动机还是犯罪目的。 https://t.co/b4WQzlakqQ",
-  "hashtags": [],
-  "id": 1391385497663119362,
-  "id_str": "1391385497663119362",
-  "lang": "zh",
-  "quoted_status": {
-    "created_at": "Sun May 09 13:12:00 +0000 2021",
-    "full_text": "@Dianna13270189 今天看到新闻把尸体扔河里。可能是没有燃料了，惨哪",
-    "hashtags": [],
-    "id": 1391380433057820672,
-    "id_str": "1391380433057820672",
-    "in_reply_to_screen_name": "Dianna13270189",
-    "in_reply_to_status_id": 1391379985194049538,
-    "in_reply_to_user_id": 1278251421050138624,
-    "lang": "zh",
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "urls": [],
-    "user": {
-      "id": 246991499,
-      "screen_name": "Rabbitlili"
-    },
-    "user_mentions": [
-      {
-        "id": 1278251421050138624,
-        "id_str": "1278251421050138624",
-        "name": "Dianna lee",
-        "screen_name": "Dianna13270189"
-      }
-    ]
-  },
-  "quoted_status_id": 1391380433057820672,
-  "quoted_status_id_str": "1391380433057820672",
-  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-  "urls": [
-    {
-      "expanded_url": "https://twitter.com/Rabbitlili/status/1391380433057820672",
-      "url": "https://t.co/b4WQzlakqQ"
-    }
-  ],
-  "user": {
-    "id": 246991499,
-    "screen_name": "Rabbitlili"
-  },
-  "user_mentions": []
-}
-{
   "created_at": "Sun May 09 13:33:27 +0000 2021",
   "full_text": "@Dianna13270189 @sola8964 她有什么问题，没问题。伊藤刘怀昭茉莉唐丹鸿反思派哪一个不是神志清醒。",
   "hashtags": [],
@@ -30802,6 +30134,53 @@
     {
       "expanded_url": "https://twitter.com/W_mjz88/status/1391418169701519365",
       "url": "https://t.co/fYIp4lqSo1"
+    }
+  ],
+  "user": {
+    "id": 246991499,
+    "screen_name": "Rabbitlili"
+  },
+  "user_mentions": []
+}
+{
+  "created_at": "Sun May 09 16:04:51 +0000 2021",
+  "favorite_count": 2,
+  "full_text": "从没F O 过伊利夏提。对他和热比亚我始终保持警惕。 https://t.co/RghXRJNKSw",
+  "hashtags": [],
+  "id": 1391423930309677060,
+  "id_str": "1391423930309677060",
+  "lang": "zh",
+  "quoted_status": {
+    "created_at": "Sun May 09 14:29:17 +0000 2021",
+    "favorite_count": 37,
+    "full_text": "刚上推时，对伊利夏提还是很敬佩的，Fo了他，因为他的理性和不屈精神。随着时间的流逝，他的偏执、在举证上的随意、以谣为武器等越来越明显，我只能说和他说再见了。\n最近这一拔“反思”，让更多人看到维权背后的恐怖主义，听到“杀光侵占我们土地的汉人”的喧嚣。他们是如何失去情怀与支持的，一目了然。 https://t.co/V4pPCoLlSk",
+    "hashtags": [],
+    "id": 1391399882632536064,
+    "id_str": "1391399882632536064",
+    "lang": "zh",
+    "quoted_status_id": 1391382431735840776,
+    "quoted_status_id_str": "1391382431735840776",
+    "retweet_count": 7,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/stkic410/status/1391382431735840776",
+        "url": "https://t.co/V4pPCoLlSk"
+      }
+    ],
+    "user": {
+      "id": 4290451392,
+      "screen_name": "RogerShan0806"
+    },
+    "user_mentions": []
+  },
+  "quoted_status_id": 1391399882632536064,
+  "quoted_status_id_str": "1391399882632536064",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "urls": [
+    {
+      "expanded_url": "https://twitter.com/RogerShan0806/status/1391399882632536064",
+      "url": "https://t.co/RghXRJNKSw"
     }
   ],
   "user": {
@@ -31626,7 +31005,7 @@
   "lang": "zh",
   "quoted_status": {
     "created_at": "Sun May 09 19:40:24 +0000 2021",
-    "favorite_count": 3475,
+    "favorite_count": 3473,
     "full_text": "BREAKING: Seven people, including the suspect, have been killed in a mass shooting at a mobile home park in Colorado Springs, the United States.",
     "hashtags": [],
     "id": 1391478175109025792,
@@ -33819,7 +33198,7 @@
   "retweet_count": 1209,
   "retweeted_status": {
     "created_at": "Mon May 10 18:56:16 +0000 2021",
-    "favorite_count": 1332,
+    "favorite_count": 1331,
     "full_text": "#Breaking: 20 Palestinians were killed in Gaza including 9 children. https://t.co/VxawGBHZSa",
     "hashtags": [
       {
@@ -34200,7 +33579,7 @@
   "lang": "zh",
   "quoted_status": {
     "created_at": "Mon May 10 18:56:16 +0000 2021",
-    "favorite_count": 1332,
+    "favorite_count": 1331,
     "full_text": "#Breaking: 20 Palestinians were killed in Gaza including 9 children. https://t.co/VxawGBHZSa",
     "hashtags": [
       {
@@ -34580,13 +33959,13 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Mon May 10 23:28:06 +0000 2021",
-      "favorite_count": 45745,
+      "favorite_count": 45734,
       "full_text": "I'm standing with the people of Israel who are coming under bombardment attacks, and condemn the Hamas terrorists. The people of NYC will always stand with our brothers and sisters in Israel who face down terrorism and persevere.",
       "hashtags": [],
       "id": 1391897869137887234,
       "id_str": "1391897869137887234",
       "lang": "en",
-      "retweet_count": 6586,
+      "retweet_count": 6584,
       "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
       "urls": [],
       "user": {
@@ -35029,7 +34408,7 @@
   "retweet_count": 264,
   "retweeted_status": {
     "created_at": "Tue May 11 08:16:11 +0000 2021",
-    "favorite_count": 344,
+    "favorite_count": 345,
     "full_text": "#Jerusalem #Palestine #Israel \n\n🔴LATEST: 24 killed in Gaza and 700 injured. \n\n⬇️ › THREAD BELOW\n\nhttps://t.co/qzmPWiGJfr",
     "hashtags": [
       {
@@ -35267,9 +34646,6 @@
   "hashtags": [],
   "id": 1392073057423007745,
   "id_str": "1392073057423007745",
-  "in_reply_to_screen_name": "GobelLorenz",
-  "in_reply_to_status_id": 1392072631264841728,
-  "in_reply_to_user_id": 1278008173597609984,
   "lang": "und",
   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "urls": [],
@@ -35277,14 +34653,7 @@
     "id": 246991499,
     "screen_name": "Rabbitlili"
   },
-  "user_mentions": [
-    {
-      "id": 1278008173597609984,
-      "id_str": "1278008173597609984",
-      "name": "SimsonAbramo von Franconia und von Gutheinz",
-      "screen_name": "GobelLorenz"
-    }
-  ]
+  "user_mentions": []
 }
 {
   "created_at": "Tue May 11 11:07:27 +0000 2021",
@@ -37833,22 +37202,6 @@
   "user_mentions": []
 }
 {
-  "created_at": "Wed May 12 14:24:39 +0000 2021",
-  "favorite_count": 12,
-  "full_text": "儿子几门功课得了几次满分后开始对自己要求越来越严格，昨天放学在车上聊了一会儿，告诉他不用太在意，要学会放松，人生这么长，不上大学也没关系，查理做了职业橄榄球运动员，对门小哥参了军，哈娜当了运动教练，地理老师转了一圈跑去牛津攻读博士...\n自己开心就好，别管其他人，更不能和自己过不去。",
-  "hashtags": [],
-  "id": 1392485880338608130,
-  "id_str": "1392485880338608130",
-  "lang": "zh",
-  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-  "urls": [],
-  "user": {
-    "id": 246991499,
-    "screen_name": "Rabbitlili"
-  },
-  "user_mentions": []
-}
-{
   "created_at": "Wed May 12 14:28:27 +0000 2021",
   "favorite_count": 4,
   "full_text": "谈话不紧不慢，我顺手递上鲜榨果汁，他说妈妈这是传统的英国乡下果汁，有乡愁的味道！\n\n还记得他六七岁时描述牛津是苹果味的！",
@@ -38447,6 +37800,25 @@
   "user_mentions": []
 }
 {
+  "created_at": "Wed May 12 16:34:56 +0000 2021",
+  "favorite_count": 1,
+  "full_text": "弱弱的问一问，我这逻辑对不对？ 夫妇之间到底谁同化了谁？\n\n谁是大沙文主义？少数民族说是汉族，汉族指着鼻子说是美国/德国银！",
+  "hashtags": [],
+  "id": 1392518665044733963,
+  "id_str": "1392518665044733963",
+  "in_reply_to_screen_name": "Rabbitlili",
+  "in_reply_to_status_id": 1392517733745631234,
+  "in_reply_to_user_id": 246991499,
+  "lang": "zh",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "urls": [],
+  "user": {
+    "id": 246991499,
+    "screen_name": "Rabbitlili"
+  },
+  "user_mentions": []
+}
+{
   "created_at": "Wed May 12 16:52:50 +0000 2021",
   "favorite_count": 1,
   "full_text": "@mindouxiaohua 那得让他们自己来回答。怎么说都错 🤣",
@@ -38719,7 +38091,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Tue May 11 22:29:21 +0000 2021",
-      "favorite_count": 2781,
+      "favorite_count": 2777,
       "full_text": "Taking the streets of NYC in solidarity with Palestine #FreePalestine https://t.co/j1hXUjGKew",
       "hashtags": [
         {
@@ -39775,13 +39147,13 @@
   "lang": "zh",
   "quoted_status": {
     "created_at": "Mon May 10 23:28:06 +0000 2021",
-    "favorite_count": 45745,
+    "favorite_count": 45734,
     "full_text": "I'm standing with the people of Israel who are coming under bombardment attacks, and condemn the Hamas terrorists. The people of NYC will always stand with our brothers and sisters in Israel who face down terrorism and persevere.",
     "hashtags": [],
     "id": 1391897869137887234,
     "id_str": "1391897869137887234",
     "lang": "en",
-    "retweet_count": 6586,
+    "retweet_count": 6584,
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "urls": [],
     "user": {
@@ -39980,7 +39352,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Thu May 13 06:40:02 +0000 2021",
-      "favorite_count": 937,
+      "favorite_count": 936,
       "full_text": "#新疆 #Xinjiang #China Muslims celebrate fast-breaking festival in Xinjiang. https://t.co/N2gZQxfSWm",
       "hashtags": [
         {
@@ -41070,7 +40442,7 @@
   "lang": "zh",
   "quoted_status": {
     "created_at": "Wed May 12 18:45:13 +0000 2021",
-    "favorite_count": 926,
+    "favorite_count": 927,
     "full_text": "某些民运和“反贼”其实并不希望大家可以拿到民主权利，而是希望自己可以拿到专制权力。#小粉红离我远点谢谢",
     "hashtags": [
       {
@@ -41713,7 +41085,7 @@
   "lang": "zh",
   "quoted_status": {
     "created_at": "Thu May 13 15:44:48 +0000 2021",
-    "favorite_count": 2008,
+    "favorite_count": 2009,
     "full_text": "不管哈马斯是否提议“休战”，也不管以色列是否“拒绝”，我个人希望以色列可以一鼓作气灭了这群躲在女人孩子背后把无辜平民当做袭击目标的懦夫废物豬猡！ https://t.co/16IccVUJnd",
     "hashtags": [],
     "id": 1392868439287427075,
@@ -42778,7 +42150,7 @@
     "lang": "ja",
     "quoted_status": {
       "created_at": "Thu May 13 18:09:43 +0000 2021",
-      "favorite_count": 1593,
+      "favorite_count": 1591,
       "full_text": "Guess what: China has consistently supported the Palestinian struggle for national liberation for over half a century. https://t.co/kMy3cVrt9S",
       "hashtags": [],
       "id": 1392904909104812036,
@@ -43620,30 +42992,6 @@
   "id": 1393281887410479104,
   "id_str": "1393281887410479104",
   "lang": "zh",
-  "quoted_status": {
-    "created_at": "Fri May 14 17:40:15 +0000 2021",
-    "favorite_count": 62,
-    "full_text": "我觉得滕彪有点政治正确过头了。谴责中共新疆暴行，对维吾尔人民给予同情和支持，甚至反思一下大汉族主义，我认为这些都没有问题。但滕律拿种族歧视这套叙事来描绘中国社会，有些与现实脱节，有些脱离群众了。另外，与西方政治还是保持距离比较好，如果滕律继续坚持“种族灭绝论”，路会越走越窄的。 https://t.co/MY2l7fozbL",
-    "hashtags": [],
-    "id": 1393259879159144450,
-    "id_str": "1393259879159144450",
-    "lang": "zh",
-    "quoted_status_id": 1393223151148933124,
-    "quoted_status_id_str": "1393223151148933124",
-    "retweet_count": 2,
-    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "urls": [
-      {
-        "expanded_url": "https://twitter.com/whiterock305/status/1393223151148933124",
-        "url": "https://t.co/MY2l7fozbL"
-      }
-    ],
-    "user": {
-      "id": 1126461256024481792,
-      "screen_name": "JackBingfu"
-    },
-    "user_mentions": []
-  },
   "quoted_status_id": 1393259879159144450,
   "quoted_status_id_str": "1393259879159144450",
   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
@@ -43969,10 +43317,10 @@
   "id": 1393438173313871874,
   "id_str": "1393438173313871874",
   "lang": "en",
-  "retweet_count": 2038,
+  "retweet_count": 2037,
   "retweeted_status": {
     "created_at": "Fri May 14 18:51:07 +0000 2021",
-    "favorite_count": 3024,
+    "favorite_count": 3023,
     "full_text": "This evening in #SheikhJarrah, this is how things went: \n\n@IDF, the world’s most moral army, self-defending against a terrorist kite. https://t.co/PG5s785vAH",
     "hashtags": [
       {
@@ -44000,7 +43348,7 @@
         }
       }
     ],
-    "retweet_count": 2038,
+    "retweet_count": 2037,
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "urls": [],
     "user": {
@@ -45523,37 +44871,6 @@
   ]
 }
 {
-  "created_at": "Sat May 15 19:17:10 +0000 2021",
-  "full_text": "@xspadx2 @jennydancingcat 感谢提供链接 ，我再去看看其他资料",
-  "hashtags": [],
-  "id": 1393646657443672066,
-  "id_str": "1393646657443672066",
-  "in_reply_to_screen_name": "xspadx2",
-  "in_reply_to_status_id": 1393641096421396480,
-  "in_reply_to_user_id": 1360065395000967172,
-  "lang": "zh",
-  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-  "urls": [],
-  "user": {
-    "id": 246991499,
-    "screen_name": "Rabbitlili"
-  },
-  "user_mentions": [
-    {
-      "id": 1360065395000967172,
-      "id_str": "1360065395000967172",
-      "name": "Xspadx2",
-      "screen_name": "xspadx2"
-    },
-    {
-      "id": 117657628,
-      "id_str": "117657628",
-      "name": "Yi 依依",
-      "screen_name": "jennydancingcat"
-    }
-  ]
-}
-{
   "created_at": "Sat May 15 19:29:44 +0000 2021",
   "favorite_count": 2,
   "full_text": "刚刚听了他上课的视频，以前没有听过，被惊到。 https://t.co/Y6GCd2d2iw",
@@ -46098,7 +45415,7 @@
     "lang": "en",
     "quoted_status": {
       "created_at": "Sun May 16 13:47:52 +0000 2021",
-      "favorite_count": 6031,
+      "favorite_count": 6028,
       "full_text": "A 10-year-old girl in Gaza \n\n“What do you expect me to do? Fix it? I’m only 10. I’m just a kid”\n\nUtterly heartbreaking \nhttps://t.co/W9lhXnewnH",
       "hashtags": [],
       "id": 1393926172946440192,
@@ -46389,6 +45706,28 @@
     {
       "expanded_url": "https://twitter.com/Sophia36982957/status/1393912163107065858",
       "url": "https://t.co/iEO4Y0Z54r"
+    }
+  ],
+  "user": {
+    "id": 246991499,
+    "screen_name": "Rabbitlili"
+  },
+  "user_mentions": []
+}
+{
+  "created_at": "Sun May 16 17:12:17 +0000 2021",
+  "full_text": "反贼们原是这样起家的，看见了。\n我劝您别拿屠夫背书了，放过他吧... https://t.co/j5xvsUwJMU",
+  "hashtags": [],
+  "id": 1393977619280957440,
+  "id_str": "1393977619280957440",
+  "lang": "zh",
+  "quoted_status_id": 1393579320266821634,
+  "quoted_status_id_str": "1393579320266821634",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "urls": [
+    {
+      "expanded_url": "https://twitter.com/wlh8964/status/1393579320266821634",
+      "url": "https://t.co/j5xvsUwJMU"
     }
   ],
   "user": {
@@ -47546,16 +46885,16 @@
   "id": 1394396078024372225,
   "id_str": "1394396078024372225",
   "lang": "en",
-  "retweet_count": 16110,
+  "retweet_count": 16107,
   "retweeted_status": {
     "created_at": "Sun May 16 19:30:42 +0000 2021",
-    "favorite_count": 67820,
+    "favorite_count": 67809,
     "full_text": "PhD students and their dissertation committees\nhttps://t.co/4rpWFksbur",
     "hashtags": [],
     "id": 1394012452132691968,
     "id_str": "1394012452132691968",
     "lang": "en",
-    "retweet_count": 16110,
+    "retweet_count": 16107,
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "urls": [
       {
@@ -47809,7 +47148,7 @@
   "lang": "zh",
   "quoted_status": {
     "created_at": "Mon May 17 20:10:04 +0000 2021",
-    "favorite_count": 5661,
+    "favorite_count": 5657,
     "full_text": "Biden approves $735M weapons sale to Israel https://t.co/dEdrfl9xyd https://t.co/ieQQFDFc1R",
     "hashtags": [],
     "id": 1394384744746524675,
@@ -47826,7 +47165,7 @@
         "url": "https://t.co/ieQQFDFc1R"
       }
     ],
-    "retweet_count": 3304,
+    "retweet_count": 3301,
     "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
     "urls": [
       {
@@ -48422,7 +47761,7 @@
   "id": 1394887453429964801,
   "id_str": "1394887453429964801",
   "lang": "en",
-  "retweet_count": 4951,
+  "retweet_count": 4950,
   "retweeted_status": {
     "created_at": "Tue May 18 21:38:50 +0000 2021",
     "favorite_count": 7454,
@@ -48483,7 +47822,7 @@
       },
       "attributes": {}
     },
-    "retweet_count": 4951,
+    "retweet_count": 4950,
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "urls": [],
     "user": {
@@ -48540,7 +47879,7 @@
     "lang": "en",
     "quoted_status": {
       "created_at": "Mon May 17 17:54:05 +0000 2021",
-      "favorite_count": 528,
+      "favorite_count": 529,
       "full_text": "Have a listen to @WhateverInGaza describing to @markaustintv what #Gaza is like right now.. https://t.co/Up95Ev8GcQ",
       "hashtags": [
         {
@@ -49927,7 +49266,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Fri Aug 28 22:35:36 +0000 2020",
-      "favorite_count": 3606,
+      "favorite_count": 3605,
       "full_text": "我不確定這位被用鐵棍手腳上鎖的女士是否是維吾爾人，但毫無疑問是中國警察的酷刑！\n\n無論其為哪一個民族的女士，這酷刑已經超出了人類底線！\n\n這是殺人，是殺人不見血的酷刑折磨；難以想像那些女警察是怎麼失去人性的，是怎麼失去女性的溫柔而變成凶神惡煞的！ https://t.co/vyOPpJm7Yz",
       "hashtags": [],
       "id": 1299475751251726340,
@@ -53147,22 +52486,6 @@
   "user_mentions": []
 }
 {
-  "created_at": "Sat May 22 12:19:57 +0000 2021",
-  "favorite_count": 4,
-  "full_text": "在院子里拔草，邻居问我要不要西红柿秧苗，我有些犹豫，指指菜地，俺只敢种点菠菜，香菜，还得靠运气，千万别对我有太多期望 🤣\n\n他们家三只猫，怯怯的问了一句能不能预定个小崽。",
-  "hashtags": [],
-  "id": 1396078376402800641,
-  "id_str": "1396078376402800641",
-  "lang": "zh",
-  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-  "urls": [],
-  "user": {
-    "id": 246991499,
-    "screen_name": "Rabbitlili"
-  },
-  "user_mentions": []
-}
-{
   "created_at": "Sat May 22 12:29:21 +0000 2021",
   "full_text": "@jeeplakeside 一直犹豫的原因是担心猫会欺负俺家美妞",
   "hashtags": [],
@@ -53511,6 +52834,31 @@
       "id_str": "1270577500523950082",
       "name": "嘉叔🌈🚀LSP-MKα",
       "screen_name": "gaunclexx"
+    }
+  ]
+}
+{
+  "created_at": "Sun May 23 13:52:08 +0000 2021",
+  "full_text": "@baggiowubo 彩民都是球迷。博彩公司都是赚钱的吧",
+  "hashtags": [],
+  "id": 1396463965119647744,
+  "id_str": "1396463965119647744",
+  "in_reply_to_screen_name": "baggiowubo",
+  "in_reply_to_status_id": 1396460605276524545,
+  "in_reply_to_user_id": 835579549,
+  "lang": "zh",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "urls": [],
+  "user": {
+    "id": 246991499,
+    "screen_name": "Rabbitlili"
+  },
+  "user_mentions": [
+    {
+      "id": 835579549,
+      "id_str": "835579549",
+      "name": "吴博tiger",
+      "screen_name": "baggiowubo"
     }
   ]
 }
@@ -54174,7 +53522,7 @@
   "lang": "zh",
   "quoted_status": {
     "created_at": "Sun May 23 11:50:16 +0000 2021",
-    "favorite_count": 498,
+    "favorite_count": 497,
     "full_text": "记得我曾经跟父亲斗嘴，他说你应该学会感恩，我们今天能够过上如此美好的生活，比起那时候吃不饱，肉做菜引子的日子，今天就好像在天堂一般，要学会知足了，我一句话问得他回答不了我，那句话是“那时候谁让你们吃不饱的？”😄",
     "hashtags": [],
     "id": 1396433292958732288,
@@ -57350,7 +56698,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Fri May 07 13:35:23 +0000 2021",
-      "favorite_count": 457,
+      "favorite_count": 456,
       "full_text": "更令人失望的是，作出这样评论的还有一些是六四时期的知名民主人士。我年纪小、写字的，从没参与过“民主活动”，甚至刚出国时都不知道六四是什么，不知道中国人在过去几十年抗争过，所以一向对这些民主人士有份特别的敬佩。但如果支持川普还能算是反共策略，在维族问题上鼓吹汉人无罪就真是无法辩驳之恶",
       "hashtags": [],
       "id": 1390661543285510148,
@@ -59936,25 +59284,6 @@
   "user_mentions": []
 }
 {
-  "created_at": "Wed May 26 14:52:11 +0000 2021",
-  "favorite_count": 1,
-  "full_text": "巴丢艹宣扬仇恨，我指出来被他拉黑。现在成了周Sir御用画家",
-  "hashtags": [],
-  "id": 1397566238994440193,
-  "id_str": "1397566238994440193",
-  "in_reply_to_screen_name": "Rabbitlili",
-  "in_reply_to_status_id": 1397565991891218437,
-  "in_reply_to_user_id": 246991499,
-  "lang": "zh",
-  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-  "urls": [],
-  "user": {
-    "id": 246991499,
-    "screen_name": "Rabbitlili"
-  },
-  "user_mentions": []
-}
-{
   "created_at": "Wed May 26 14:52:59 +0000 2021",
   "favorite_count": 1,
   "full_text": "华涌更别提，一把鼻涕一把泪的，恶心银",
@@ -60147,16 +59476,16 @@
   "id": 1397592313493430273,
   "id_str": "1397592313493430273",
   "lang": "en",
-  "retweet_count": 306,
+  "retweet_count": 304,
   "retweeted_status": {
     "created_at": "Wed May 26 16:21:07 +0000 2021",
-    "favorite_count": 784,
+    "favorite_count": 783,
     "full_text": "Suspected gunman dead after opening fire in commuter train yard in California, killing \"multiple\" people, police say https://t.co/ALFgCmAnyZ",
     "hashtags": [],
     "id": 1397588619188125702,
     "id_str": "1397588619188125702",
     "lang": "en",
-    "retweet_count": 306,
+    "retweet_count": 304,
     "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
     "urls": [
       {
@@ -60454,6 +59783,25 @@
   "hashtags": [],
   "id": 1397601492207558660,
   "id_str": "1397601492207558660",
+  "lang": "zh",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "urls": [],
+  "user": {
+    "id": 246991499,
+    "screen_name": "Rabbitlili"
+  },
+  "user_mentions": []
+}
+{
+  "created_at": "Wed May 26 17:15:48 +0000 2021",
+  "favorite_count": 1,
+  "full_text": "话又说回来，你嘴巴那么脏，我还不一定愿意骂你呢。 但基本道德基本礼数你还是要讲的吧。",
+  "hashtags": [],
+  "id": 1397602379776790528,
+  "id_str": "1397602379776790528",
+  "in_reply_to_screen_name": "Rabbitlili",
+  "in_reply_to_status_id": 1397601492207558660,
+  "in_reply_to_user_id": 246991499,
   "lang": "zh",
   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "urls": [],
@@ -62337,7 +61685,7 @@
   "lang": "zh",
   "quoted_status": {
     "created_at": "Thu May 27 13:31:58 +0000 2021",
-    "favorite_count": 31,
+    "favorite_count": 30,
     "full_text": "又该有人说我凡尔赛了，whatever。\n\n往事：刚结婚不久，有一天问他有没有听说过《寂静的春天》这本书。他走到一个书架前：“有啊，我们就有这本书。” 抽出来递给我。\n\n所谓我们，其实那时的书都是他，几千册…两个书迷在一起还是蛮快乐的。\n\n这是1962年第一版呢，才75美分！纸张黄脆，要小心翼翼捧着🤲 https://t.co/XNqeV09tc1 https://t.co/Lrz32EnYsJ",
     "hashtags": [],
     "id": 1397908438806581252,
@@ -63846,7 +63194,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Sat May 29 07:00:01 +0000 2021",
-      "favorite_count": 13239,
+      "favorite_count": 13237,
       "full_text": "Man. City &amp; Chelsea go head-to-head for the ultimate prize in club football 🏆🤩\n\nWho will triumph in Porto? 🤔\n\n#UCL #UCLfinal https://t.co/CIMZnFlQ3J",
       "hashtags": [
         {
@@ -63892,7 +63240,7 @@
           "url": "https://t.co/CIMZnFlQ3J"
         }
       ],
-      "retweet_count": 1922,
+      "retweet_count": 1923,
       "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
       "urls": [],
       "user": {
@@ -64048,37 +63396,6 @@
   "id": 1398565052312137728,
   "id_str": "1398565052312137728",
   "lang": "zh",
-  "quoted_status": {
-    "created_at": "Fri May 28 07:56:17 +0000 2021",
-    "favorite_count": 6,
-    "full_text": "@JianminM 你说的道长是护法道长 #daoge2018 吧？这个人是一个鼓吹民族仇恨，鼓吹对维吾尔人镇压的极端主义者，特别变态。还喜欢装神弄鬼，故扮高深，动不动就居高临下教导别人，殊为可笑。有次我说，你装一两次可权当有趣，装多了就老了。互黑中。\n这个英伦，对于我是属于敬鬼神而远之那一类。",
-    "hashtags": [
-      {
-        "text": "daoge2018"
-      }
-    ],
-    "id": 1398186348746403842,
-    "id_str": "1398186348746403842",
-    "in_reply_to_screen_name": "JianminM",
-    "in_reply_to_status_id": 1398166292939505669,
-    "in_reply_to_user_id": 3159956709,
-    "lang": "zh",
-    "retweet_count": 1,
-    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "urls": [],
-    "user": {
-      "id": 1126461256024481792,
-      "screen_name": "JackBingfu"
-    },
-    "user_mentions": [
-      {
-        "id": 3159956709,
-        "id_str": "3159956709",
-        "name": "JM@SE 瑞典北野原",
-        "screen_name": "JianminM"
-      }
-    ]
-  },
   "quoted_status_id": 1398186348746403842,
   "quoted_status_id_str": "1398186348746403842",
   "retweet_count": 2,
@@ -65771,10 +65088,10 @@
       "url": "https://t.co/7VZ4RP8Kh6"
     }
   ],
-  "retweet_count": 54293,
+  "retweet_count": 54282,
   "retweeted_status": {
     "created_at": "Sat May 29 20:57:11 +0000 2021",
-    "favorite_count": 158143,
+    "favorite_count": 158125,
     "full_text": "WE'VE DONE IT!!!!!!!\n\n#ChelseaChampions #UCLFinal https://t.co/7VZ4RP8Kh6",
     "hashtags": [
       {
@@ -65798,7 +65115,7 @@
         "url": "https://t.co/7VZ4RP8Kh6"
       }
     ],
-    "retweet_count": 54293,
+    "retweet_count": 54282,
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
     "urls": [],
     "user": {
@@ -66116,10 +65433,10 @@
       "url": "https://t.co/buaHnC0pRc"
     }
   ],
-  "retweet_count": 28743,
+  "retweet_count": 28729,
   "retweeted_status": {
     "created_at": "Sat May 29 23:28:31 +0000 2021",
-    "favorite_count": 223329,
+    "favorite_count": 223305,
     "full_text": "Of course. https://t.co/buaHnC0pRc",
     "hashtags": [],
     "id": 1398783342804353026,
@@ -66136,7 +65453,7 @@
         "url": "https://t.co/buaHnC0pRc"
       }
     ],
-    "retweet_count": 28743,
+    "retweet_count": 28729,
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "urls": [],
     "user": {
@@ -66181,7 +65498,7 @@
   "retweet_count": 184,
   "retweeted_status": {
     "created_at": "Sun May 30 01:16:28 +0000 2021",
-    "favorite_count": 3043,
+    "favorite_count": 3044,
     "full_text": "@ChelseaFC The smile 💙 https://t.co/MDa2O7sUTJ",
     "hashtags": [],
     "id": 1398810507843407874,
@@ -66936,38 +66253,6 @@
   ]
 }
 {
-  "created_at": "Sun May 30 14:38:15 +0000 2021",
-  "favorite_count": 2,
-  "full_text": "@jennydancingcat @ydfwind 反思君都是反思别人",
-  "hashtags": [],
-  "id": 1399012284215828488,
-  "id_str": "1399012284215828488",
-  "in_reply_to_screen_name": "jennydancingcat",
-  "in_reply_to_status_id": 1399011919437119491,
-  "in_reply_to_user_id": 117657628,
-  "lang": "ja",
-  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-  "urls": [],
-  "user": {
-    "id": 246991499,
-    "screen_name": "Rabbitlili"
-  },
-  "user_mentions": [
-    {
-      "id": 117657628,
-      "id_str": "117657628",
-      "name": "Yi 依依",
-      "screen_name": "jennydancingcat"
-    },
-    {
-      "id": 980111640,
-      "id_str": "980111640",
-      "name": "云雨道长风叶",
-      "screen_name": "ydfwind"
-    }
-  ]
-}
-{
   "created_at": "Sun May 30 14:43:05 +0000 2021",
   "favorite_count": 7,
   "full_text": "唯色毕业于西南民族学院。这所大学的目的是培养少数民族干部。 https://t.co/cXnKeuV6o0",
@@ -67494,6 +66779,31 @@
     "screen_name": "Rabbitlili"
   },
   "user_mentions": []
+}
+{
+  "created_at": "Sun May 30 15:53:36 +0000 2021",
+  "full_text": "@ROzmX69M0EajULf 我不像你，胡说八道。\n八万数字来自维基百科。",
+  "hashtags": [],
+  "id": 1399031247310098436,
+  "id_str": "1399031247310098436",
+  "in_reply_to_screen_name": "ROzmX69M0EajULf",
+  "in_reply_to_status_id": 1399030741942489091,
+  "in_reply_to_user_id": 1341598943818313728,
+  "lang": "zh",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "urls": [],
+  "user": {
+    "id": 246991499,
+    "screen_name": "Rabbitlili"
+  },
+  "user_mentions": [
+    {
+      "id": 1341598943818313728,
+      "id_str": "1341598943818313728",
+      "name": "DSPs",
+      "screen_name": "ROzmX69M0EajULf"
+    }
+  ]
 }
 {
   "created_at": "Sun May 30 15:53:36 +0000 2021",
@@ -74078,7 +73388,7 @@
   "retweet_count": 146,
   "retweeted_status": {
     "created_at": "Fri May 28 09:00:02 +0000 2021",
-    "favorite_count": 2450,
+    "favorite_count": 2449,
     "full_text": "You know, we know you know...\n\nThe #FriendsReunion is streaming! https://t.co/WEGAaCy0tn",
     "hashtags": [
       {
@@ -74127,57 +73437,6 @@
       "id_str": "510253639",
       "name": "NOW",
       "screen_name": "NOW"
-    }
-  ]
-}
-{
-  "created_at": "Wed Jun 02 09:53:38 +0000 2021",
-  "full_text": "RT @DadingLi: 记忆中从来没和唯色过任何交集，才发现她把我屏蔽了。\n\n也没follow 过这位说汉语长大却说藏语是母语的“藏族”作家。唯色很不诚实。本来是所谓汉藏“团结族”，却为了强调自己特殊族裔，把她爹是汉人这事抹杀了。\n\n一辈子挑唆汉藏矛盾，唯作家就是很让人讨厌…",
-  "hashtags": [],
-  "id": 1400027820680695809,
-  "id_str": "1400027820680695809",
-  "lang": "zh",
-  "retweet_count": 3,
-  "retweeted_status": {
-    "created_at": "Sat Oct 10 04:13:48 +0000 2020",
-    "favorite_count": 70,
-    "full_text": "记忆中从来没和唯色过任何交集，才发现她把我屏蔽了。\n\n也没follow 过这位说汉语长大却说藏语是母语的“藏族”作家。唯色很不诚实。本来是所谓汉藏“团结族”，却为了强调自己特殊族裔，把她爹是汉人这事抹杀了。\n\n一辈子挑唆汉藏矛盾，唯作家就是很让人讨厌的那几 - 最差劲，烧火都不成的牛粪。 https://t.co/olNVuBBDON",
-    "hashtags": [],
-    "id": 1314781152096522241,
-    "id_str": "1314781152096522241",
-    "lang": "zh",
-    "media": [
-      {
-        "display_url": "pic.twitter.com/olNVuBBDON",
-        "expanded_url": "https://twitter.com/DadingLi/status/1314781152096522241/photo/1",
-        "id": 1314781150225858560,
-        "media_url": "http://pbs.twimg.com/media/Ej8KfXiXgAAa-Gh.jpg",
-        "media_url_https": "https://pbs.twimg.com/media/Ej8KfXiXgAAa-Gh.jpg",
-        "type": "photo",
-        "url": "https://t.co/olNVuBBDON"
-      }
-    ],
-    "retweet_count": 3,
-    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "urls": [],
-    "user": {
-      "id": 3293349028,
-      "screen_name": "DadingLi"
-    },
-    "user_mentions": []
-  },
-  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-  "urls": [],
-  "user": {
-    "id": 246991499,
-    "screen_name": "Rabbitlili"
-  },
-  "user_mentions": [
-    {
-      "id": 3293349028,
-      "id_str": "3293349028",
-      "name": "Silk River",
-      "screen_name": "DadingLi"
     }
   ]
 }
@@ -74881,6 +74140,49 @@
       "id_str": "1394924464614232064",
       "name": "短腿郭鸭总被捅",
       "screen_name": "cydteswlny"
+    }
+  ]
+}
+{
+  "created_at": "Wed Jun 02 21:20:40 +0000 2021",
+  "full_text": "@feisha_rain @Starducks12 @xbgm4 @Sinogermane 骂得好 👍",
+  "hashtags": [],
+  "id": 1400200718745800706,
+  "id_str": "1400200718745800706",
+  "in_reply_to_screen_name": "feisha_rain",
+  "in_reply_to_status_id": 1400199323300679683,
+  "in_reply_to_user_id": 1305353990196965377,
+  "lang": "zh",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "urls": [],
+  "user": {
+    "id": 246991499,
+    "screen_name": "Rabbitlili"
+  },
+  "user_mentions": [
+    {
+      "id": 1305353990196965377,
+      "id_str": "1305353990196965377",
+      "name": "菲沙听雨",
+      "screen_name": "feisha_rain"
+    },
+    {
+      "id": 1232779068472516610,
+      "id_str": "1232779068472516610",
+      "name": "花木蘭她叔🇨🇦花不完",
+      "screen_name": "Starducks12"
+    },
+    {
+      "id": 1142241708677259264,
+      "id_str": "1142241708677259264",
+      "name": "xbgm",
+      "screen_name": "xbgm4"
+    },
+    {
+      "id": 2919324085,
+      "id_str": "2919324085",
+      "name": "世界潮流",
+      "screen_name": "Sinogermane"
     }
   ]
 }
@@ -79819,7 +79121,7 @@
   "lang": "zh",
   "quoted_status": {
     "created_at": "Sat Jun 05 02:29:40 +0000 2021",
-    "favorite_count": 2597,
+    "favorite_count": 2601,
     "full_text": "在洛杉矶的”习近平病毒，中共病毒”雕像坐落仪式。 https://t.co/dY5ZRAaWto",
     "hashtags": [],
     "id": 1401003255145000968,
@@ -79843,7 +79145,7 @@
         }
       }
     ],
-    "retweet_count": 722,
+    "retweet_count": 723,
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "urls": [],
     "user": {
@@ -80717,7 +80019,7 @@
   "retweet_count": 2,
   "retweeted_status": {
     "created_at": "Sun Jun 06 21:49:55 +0000 2021",
-    "favorite_count": 10,
+    "favorite_count": 9,
     "full_text": "这个六四别被王主席的声嘶力竭和周sir的新发型忽悠了，扒皮人道中国的part time没停。推特协议的原因暂不公布截图，但可以说周sir已经删除了其房产跟 XIAN 女士的关联，而且周和GExun的信息里也都删了与人道中国的关联，现在看不到人道中国的状态。让他们玩吧，我这也是业余爱好，练完琴不忘搜索。",
     "hashtags": [],
     "id": 1401657629487865856,
@@ -80966,35 +80268,6 @@
   "in_reply_to_status_id": 1401813615485857792,
   "in_reply_to_user_id": 246991499,
   "lang": "zh",
-  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-  "urls": [],
-  "user": {
-    "id": 246991499,
-    "screen_name": "Rabbitlili"
-  },
-  "user_mentions": []
-}
-{
-  "created_at": "Mon Jun 07 08:27:55 +0000 2021",
-  "favorite_count": 7,
-  "full_text": "这是张平教授的微博。张平是大外宣，没有疑问。\n\n常年反共、主张藏独疆独的唐丹鸿为张平工作长达十二年之久。\n丹鸿向推友推送张平的推号，用意何在？值得思考。 https://t.co/Kyl6o1J6f8",
-  "hashtags": [],
-  "id": 1401818188464148480,
-  "id_str": "1401818188464148480",
-  "lang": "zh",
-  "media": [
-    {
-      "display_url": "pic.twitter.com/Kyl6o1J6f8",
-      "expanded_url": "https://twitter.com/Rabbitlili/status/1401818188464148480/photo/1",
-      "id": 1401818183791677445,
-      "media_url": "http://pbs.twimg.com/media/E3RCNgSWEAUoN8v.jpg",
-      "media_url_https": "https://pbs.twimg.com/media/E3RCNgSWEAUoN8v.jpg",
-      "type": "photo",
-      "url": "https://t.co/Kyl6o1J6f8"
-    }
-  ],
-  "possibly_sensitive": true,
-  "retweet_count": 1,
   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "urls": [],
   "user": {
@@ -81480,7 +80753,7 @@
   "retweet_count": 3,
   "retweeted_status": {
     "created_at": "Mon Jun 07 18:20:52 +0000 2021",
-    "favorite_count": 8,
+    "favorite_count": 7,
     "full_text": "Xian女士自证了与人道中国的利益关联，按NGO运营原则，施助方与受助方在项目前后都要避免发生利益关联，Xian女士如果为人道中国工作并获得报酬还说的过去，但为“朋友”帮忙并得利就是问题。作为人道中国的重点项目，今年六四的雕塑公园活动未见周sir影音，这就是规避利益关联，周sir显然意识到这一点。 https://t.co/rVE1gDs1nK https://t.co/gQ5cN1zGYZ",
     "hashtags": [],
     "id": 1401967411146919936,
@@ -81499,7 +80772,7 @@
     ],
     "quoted_status": {
       "created_at": "Sun Jun 06 21:49:55 +0000 2021",
-      "favorite_count": 10,
+      "favorite_count": 9,
       "full_text": "这个六四别被王主席的声嘶力竭和周sir的新发型忽悠了，扒皮人道中国的part time没停。推特协议的原因暂不公布截图，但可以说周sir已经删除了其房产跟 XIAN 女士的关联，而且周和GExun的信息里也都删了与人道中国的关联，现在看不到人道中国的状态。让他们玩吧，我这也是业余爱好，练完琴不忘搜索。",
       "hashtags": [],
       "id": 1401657629487865856,
@@ -81609,6 +80882,32 @@
       "id_str": "1134824998055624705",
       "name": "微空啤酒馆·Feng GU",
       "screen_name": "FengGU9"
+    }
+  ]
+}
+{
+  "created_at": "Mon Jun 07 19:14:26 +0000 2021",
+  "favorite_count": 2,
+  "full_text": "@jennydancingcat 几个朋友的孩子在学校遭遇歧视和霸凌。这种事情不会因为换学校而停止。父母要和孩子一起坚强面对。",
+  "hashtags": [],
+  "id": 1401980889144381444,
+  "id_str": "1401980889144381444",
+  "in_reply_to_screen_name": "jennydancingcat",
+  "in_reply_to_status_id": 1401973904089010176,
+  "in_reply_to_user_id": 117657628,
+  "lang": "zh",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "urls": [],
+  "user": {
+    "id": 246991499,
+    "screen_name": "Rabbitlili"
+  },
+  "user_mentions": [
+    {
+      "id": 117657628,
+      "id_str": "117657628",
+      "name": "Yi 依依",
+      "screen_name": "jennydancingcat"
     }
   ]
 }
@@ -81955,7 +81254,7 @@
     "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
     "urls": [
       {
-        "expanded_url": "https://twitter.com/haomao_canada/status/1401931139418316803",
+        "expanded_url": "https://twitter.com/HaoMao_Canada/status/1401931139418316803",
         "url": "https://t.co/tWHKqCaJ94"
       }
     ],
@@ -86068,10 +85367,10 @@
   "id": 1403253708662751234,
   "id_str": "1403253708662751234",
   "lang": "en",
-  "retweet_count": 12090,
+  "retweet_count": 12097,
   "retweeted_status": {
     "created_at": "Fri Jun 11 03:09:16 +0000 2021",
-    "favorite_count": 83740,
+    "favorite_count": 83758,
     "full_text": "This is professional surfer Billy Kemper — and his son Lion — surfing together. \n\nJust gonna leave it here. Magnificent…https://t.co/Ccv3Li053e",
     "hashtags": [],
     "id": 1403187549137428482,
@@ -86095,7 +85394,7 @@
         }
       }
     ],
-    "retweet_count": 12090,
+    "retweet_count": 12097,
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "urls": [],
     "user": {
@@ -87823,38 +87122,6 @@
   ]
 }
 {
-  "created_at": "Sat Jun 12 05:07:01 +0000 2021",
-  "favorite_count": 3,
-  "full_text": "@Ddominoooo @jeeplakeside 大V们心胸狭隘，不能和他们一般见识。",
-  "hashtags": [],
-  "id": 1403579571295883265,
-  "id_str": "1403579571295883265",
-  "in_reply_to_screen_name": "Ddominoooo",
-  "in_reply_to_status_id": 1403578863658045442,
-  "in_reply_to_user_id": 901952697032744960,
-  "lang": "zh",
-  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-  "urls": [],
-  "user": {
-    "id": 246991499,
-    "screen_name": "Rabbitlili"
-  },
-  "user_mentions": [
-    {
-      "id": 901952697032744960,
-      "id_str": "901952697032744960",
-      "name": "Domino",
-      "screen_name": "Ddominoooo"
-    },
-    {
-      "id": 898015275035095040,
-      "id_str": "898015275035095040",
-      "name": "湖畔新语 三元",
-      "screen_name": "jeeplakeside"
-    }
-  ]
-}
-{
   "created_at": "Sat Jun 12 05:10:01 +0000 2021",
   "full_text": "我最喜欢的翻译是“翡冷翠” https://t.co/2xX87KouLb",
   "hashtags": [],
@@ -88327,7 +87594,7 @@
   "retweet_count": 172,
   "retweeted_status": {
     "created_at": "Sat Jun 12 07:06:38 +0000 2021",
-    "favorite_count": 605,
+    "favorite_count": 604,
     "full_text": "不得不说，布林肯之类的政客，远不如这个高中生有见识 https://t.co/c4bvXhIodk",
     "hashtags": [],
     "id": 1403609671810699264,
@@ -88445,6 +87712,32 @@
     "screen_name": "Rabbitlili"
   },
   "user_mentions": []
+}
+{
+  "created_at": "Sat Jun 12 07:37:05 +0000 2021",
+  "favorite_count": 1,
+  "full_text": "@xiyouji001 哈，一个房间一个国防，一言不合就开枪。进出房门交关税",
+  "hashtags": [],
+  "id": 1403617335139840000,
+  "id_str": "1403617335139840000",
+  "in_reply_to_screen_name": "xiyouji001",
+  "in_reply_to_status_id": 1403616883639734284,
+  "in_reply_to_user_id": 1085588235223556096,
+  "lang": "zh",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "urls": [],
+  "user": {
+    "id": 246991499,
+    "screen_name": "Rabbitlili"
+  },
+  "user_mentions": [
+    {
+      "id": 1085588235223556096,
+      "id_str": "1085588235223556096",
+      "name": "书生",
+      "screen_name": "xiyouji001"
+    }
+  ]
 }
 {
   "created_at": "Sat Jun 12 07:37:05 +0000 2021",
@@ -91792,7 +91085,7 @@
   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "urls": [
     {
-      "expanded_url": "https://twitter.com/voem_radio/status/1404077000596377602",
+      "expanded_url": "https://twitter.com/VOEM_Radio/status/1404077000596377602",
       "url": "https://t.co/FYkKtJB8Ho"
     }
   ],
@@ -94553,16 +93846,16 @@
   "id": 1404353061917712384,
   "id_str": "1404353061917712384",
   "lang": "en",
-  "retweet_count": 521,
+  "retweet_count": 522,
   "retweeted_status": {
     "created_at": "Sun Jun 13 15:38:53 +0000 2021",
-    "favorite_count": 2490,
+    "favorite_count": 2489,
     "full_text": "The idea G7 could create a serious alternative to Belt and Road is pure fantasy:\n\n1 The West is mired in debt\n\n2 They haven't got a clue how to do it\n\n3 They don't believe in offering this kind of help to developing countries \n\n4 They have bad-mouthed Belt&amp;Road ever since 2013",
     "hashtags": [],
     "id": 1404100974243889158,
     "id_str": "1404100974243889158",
     "lang": "en",
-    "retweet_count": 521,
+    "retweet_count": 522,
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
     "urls": [],
     "user": {
@@ -94596,7 +93889,7 @@
   "retweet_count": 204,
   "retweeted_status": {
     "created_at": "Sat Jun 12 13:43:23 +0000 2021",
-    "favorite_count": 1080,
+    "favorite_count": 1081,
     "full_text": "G7: The US and the UK are the two most reactionary Western powers. The US is desperate to remain the global hegemon; the UK dreams it still is. They look to the past. Germany is the most progressive. Forced to reinvent itself, it lives in the present: sensible, pragmatic, modest.",
     "hashtags": [],
     "id": 1403709520036208647,
@@ -94743,26 +94036,6 @@
       "screen_name": "Yangguang_USA"
     }
   ]
-}
-{
-  "created_at": "Mon Jun 14 11:26:43 +0000 2021",
-  "favorite_count": 1,
-  "full_text": "1. 张猛在美国出庭做DNA是必然。法庭必须先澄清张猛和张夏洛特的关系。\n2. 张猛要向法官澄清，女儿出生前后，刘如何描述“强奸”的，张猛为什么要在出生证上签字？ \n#张猛作证",
-  "hashtags": [
-    {
-      "text": "张猛作证"
-    }
-  ],
-  "id": 1404399901522472962,
-  "id_str": "1404399901522472962",
-  "lang": "zh",
-  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-  "urls": [],
-  "user": {
-    "id": 246991499,
-    "screen_name": "Rabbitlili"
-  },
-  "user_mentions": []
 }
 {
   "created_at": "Mon Jun 14 11:26:43 +0000 2021",
@@ -95315,6 +94588,38 @@
   ]
 }
 {
+  "created_at": "Mon Jun 14 16:57:10 +0000 2021",
+  "favorite_count": 1,
+  "full_text": "@Wattaplane @daoge2018 你大首领是哪一个组织，不造谣的说实话的有吗。梦建国",
+  "hashtags": [],
+  "id": 1404483061312638979,
+  "id_str": "1404483061312638979",
+  "in_reply_to_screen_name": "Wattaplane",
+  "in_reply_to_status_id": 1404482683577712640,
+  "in_reply_to_user_id": 412565405,
+  "lang": "zh",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "urls": [],
+  "user": {
+    "id": 246991499,
+    "screen_name": "Rabbitlili"
+  },
+  "user_mentions": [
+    {
+      "id": 412565405,
+      "id_str": "412565405",
+      "name": "Max Xu",
+      "screen_name": "Wattaplane"
+    },
+    {
+      "id": 995771442523459587,
+      "id_str": "995771442523459587",
+      "name": "护法道长",
+      "screen_name": "daoge2018"
+    }
+  ]
+}
+{
   "created_at": "Mon Jun 14 17:09:47 +0000 2021",
   "full_text": "@Wattaplane @daoge2018 大首领只能梦建国，确实不行",
   "hashtags": [],
@@ -95385,7 +94690,7 @@
   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "urls": [
     {
-      "expanded_url": "https://twitter.com/Starducks12/status/1404469481804533770",
+      "expanded_url": "https://twitter.com/starducks12/status/1404469481804533770",
       "url": "https://t.co/PWcdkMapuA"
     }
   ],
@@ -95629,7 +94934,7 @@
   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "urls": [
     {
-      "expanded_url": "https://twitter.com/Starducks12/status/1404489725973499905",
+      "expanded_url": "https://twitter.com/starducks12/status/1404489725973499905",
       "url": "https://t.co/Sz4yxIyPGU"
     }
   ],
@@ -95900,7 +95205,7 @@
   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "urls": [
     {
-      "expanded_url": "https://twitter.com/Starducks12/status/1404499453298479104",
+      "expanded_url": "https://twitter.com/starducks12/status/1404499453298479104",
       "url": "https://t.co/X4C3wLxZmM"
     }
   ],
@@ -96250,7 +95555,7 @@
   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "urls": [
     {
-      "expanded_url": "https://twitter.com/Starducks12/status/1404517468157140996",
+      "expanded_url": "https://twitter.com/starducks12/status/1404517468157140996",
       "url": "https://t.co/C2cJafdiSb"
     }
   ],
@@ -96621,7 +95926,7 @@
   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "urls": [
     {
-      "expanded_url": "https://twitter.com/Starducks12/status/1404517468157140996",
+      "expanded_url": "https://twitter.com/starducks12/status/1404517468157140996",
       "url": "https://t.co/C2cJafdiSb"
     }
   ],
@@ -96728,7 +96033,7 @@
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "urls": [
       {
-        "expanded_url": "https://twitter.com/rabbitlili/status/1404519102383902724",
+        "expanded_url": "https://twitter.com/Rabbitlili/status/1404519102383902724",
         "url": "https://t.co/7FfjrpJ5yP"
       }
     ],
@@ -98411,7 +97716,7 @@
   "possibly_sensitive": true,
   "quoted_status": {
     "created_at": "Mon Jun 14 22:58:38 +0000 2021",
-    "favorite_count": 26,
+    "favorite_count": 27,
     "full_text": "突不突、独不独，只要是当地各民族人民、尤其是原住民族的自由意愿，我都支持。说实话，根本也轮不到你我来反对。至于说暴力革命，则非吾所知也。我只听说中国历朝历代都是“官逼民反”。我的回答够清楚不？去举报领赏吧。 https://t.co/Kwz8YzOZtL https://t.co/PY911EMh7Q",
     "hashtags": [],
     "id": 1404574027000291340,
@@ -98556,7 +97861,7 @@
   "possibly_sensitive": true,
   "quoted_status": {
     "created_at": "Mon Jun 14 22:58:38 +0000 2021",
-    "favorite_count": 26,
+    "favorite_count": 27,
     "full_text": "突不突、独不独，只要是当地各民族人民、尤其是原住民族的自由意愿，我都支持。说实话，根本也轮不到你我来反对。至于说暴力革命，则非吾所知也。我只听说中国历朝历代都是“官逼民反”。我的回答够清楚不？去举报领赏吧。 https://t.co/Kwz8YzOZtL https://t.co/PY911EMh7Q",
     "hashtags": [],
     "id": 1404574027000291340,
@@ -98595,7 +97900,7 @@
   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "urls": [
     {
-      "expanded_url": "https://twitter.com/Starducks12/status/1404574027000291340",
+      "expanded_url": "https://twitter.com/starducks12/status/1404574027000291340",
       "url": "https://t.co/jEFLXSiP45"
     }
   ],
@@ -99063,7 +98368,7 @@
   "possibly_sensitive": true,
   "quoted_status": {
     "created_at": "Tue Jun 15 03:41:02 +0000 2021",
-    "favorite_count": 329,
+    "favorite_count": 330,
     "full_text": "我的确是老了，现在的小朋友真不知道当年的事情了。萨达姆在死之前都不明白为什么自己的消息错的那么多。都兵临城下了，萨达姆儿子还在巴格达公开飙他的红色跑车，内心是多么不怕。为什么我知道，我在现场。你不理解，独裁国家如前伊拉克，新闻媒体也是情报单位。 https://t.co/YqDFng6j9u",
     "hashtags": [],
     "id": 1404645093877948418,
@@ -99719,7 +99024,7 @@
   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "urls": [
     {
-      "expanded_url": "https://twitter.com/Wattaplane/status/1404825783902867458",
+      "expanded_url": "https://twitter.com/wattaplane/status/1404825783902867458",
       "url": "https://t.co/CK1D76PhFb"
     }
   ],
@@ -100189,7 +99494,7 @@
   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "urls": [
     {
-      "expanded_url": "https://twitter.com/Starducks12/status/1404874720345001993",
+      "expanded_url": "https://twitter.com/starducks12/status/1404874720345001993",
       "url": "https://t.co/HZ2kX1KjAS"
     }
   ],
@@ -100263,7 +99568,7 @@
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "urls": [
       {
-        "expanded_url": "https://twitter.com/Alien_Maze/status/1404812924217139200",
+        "expanded_url": "https://twitter.com/alien_maze/status/1404812924217139200",
         "url": "https://t.co/dSs9Sqrg99"
       }
     ],
@@ -100332,7 +99637,7 @@
   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "urls": [
     {
-      "expanded_url": "https://twitter.com/wattaplane/status/1404809793659977740",
+      "expanded_url": "https://twitter.com/Wattaplane/status/1404809793659977740",
       "url": "https://t.co/FAm3yjxz2K"
     }
   ],
@@ -100811,7 +100116,7 @@
   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "urls": [
     {
-      "expanded_url": "https://twitter.com/wattaplane/status/1404999314812907529",
+      "expanded_url": "https://twitter.com/Wattaplane/status/1404999314812907529",
       "url": "https://t.co/ekm5VfWndA"
     }
   ],
@@ -101315,7 +100620,7 @@
   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "urls": [
     {
-      "expanded_url": "https://twitter.com/VOEM_Radio/status/1405067955310845954",
+      "expanded_url": "https://twitter.com/voem_radio/status/1405067955310845954",
       "url": "https://t.co/EpWDd70Kbt"
     }
   ],
@@ -101510,7 +100815,7 @@
   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "urls": [
     {
-      "expanded_url": "https://twitter.com/Thinktank1960/status/1405074998134415363",
+      "expanded_url": "https://twitter.com/thinktank1960/status/1405074998134415363",
       "url": "https://t.co/F3XePQCfdG"
     }
   ],
@@ -101557,7 +100862,7 @@
   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "urls": [
     {
-      "expanded_url": "https://twitter.com/w_mjz88/status/1405032993966616579",
+      "expanded_url": "https://twitter.com/W_mjz88/status/1405032993966616579",
       "url": "https://t.co/qeASr6yjQv"
     }
   ],
@@ -102259,37 +101564,6 @@
   ]
 }
 {
-  "created_at": "Wed Jun 16 11:10:11 +0000 2021",
-  "full_text": "@partigian @mranti 事实对你来说不重要。梦建国。但是奧巴馬比你要脸：“他在最近的一次講話中承認伊戰是一場有爭議的戰爭”",
-  "hashtags": [],
-  "id": 1405120517372317700,
-  "id_str": "1405120517372317700",
-  "in_reply_to_screen_name": "partigian",
-  "in_reply_to_status_id": 1405120022268284929,
-  "in_reply_to_user_id": 1260641373604114433,
-  "lang": "ja",
-  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-  "urls": [],
-  "user": {
-    "id": 246991499,
-    "screen_name": "Rabbitlili"
-  },
-  "user_mentions": [
-    {
-      "id": 1260641373604114433,
-      "id_str": "1260641373604114433",
-      "name": "Partigiano",
-      "screen_name": "partigian"
-    },
-    {
-      "id": 5709522,
-      "id_str": "5709522",
-      "name": "Michael Anti",
-      "screen_name": "mranti"
-    }
-  ]
-}
-{
   "created_at": "Wed Jun 16 11:12:13 +0000 2021",
   "full_text": "@partigian @mranti “布什则在2008年接受美国广播公司（ABC）电视采访时，流露出对这场战争意义的怀疑。他在总统任期结束前表示，对在错误情报的基础上发动伊拉克战争感到遗憾。”",
   "hashtags": [],
@@ -102520,7 +101794,7 @@
   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "urls": [
     {
-      "expanded_url": "https://twitter.com/Wattaplane/status/1405153900014051332",
+      "expanded_url": "https://twitter.com/wattaplane/status/1405153900014051332",
       "url": "https://t.co/l7sSAuZ0oC"
     }
   ],
@@ -102791,6 +102065,30 @@
       "id_str": "423877616",
       "name": "KEVIN",
       "screen_name": "MrOilMan"
+    }
+  ]
+}
+{
+  "created_at": "Wed Jun 16 14:03:48 +0000 2021",
+  "full_text": "@beijing7250 今天点赞的反思君人人有份。你量力而行。给大姐捐50美金不嫌少5000美金不嫌多",
+  "hashtags": [],
+  "id": 1405164207092420610,
+  "id_str": "1405164207092420610",
+  "in_reply_to_screen_name": "beijing7250",
+  "in_reply_to_user_id": 924851820475817984,
+  "lang": "zh",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "urls": [],
+  "user": {
+    "id": 246991499,
+    "screen_name": "Rabbitlili"
+  },
+  "user_mentions": [
+    {
+      "id": 924851820475817984,
+      "id_str": "924851820475817984",
+      "name": "穿云",
+      "screen_name": "beijing7250"
     }
   ]
 }
@@ -104624,7 +103922,7 @@
     "id": 1405182779676102672,
     "id_str": "1405182779676102672",
     "lang": "zh",
-    "retweet_count": 374,
+    "retweet_count": 375,
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
     "urls": [],
     "user": {
@@ -108551,22 +107849,6 @@
   "user_mentions": []
 }
 {
-  "created_at": "Fri Jun 18 10:35:40 +0000 2021",
-  "favorite_count": 5,
-  "full_text": "据我观察原告开启舆论战，但一个证据也没向推友们提供。倒是黄提供了很多关键证据，原告及其队友们忙着反驳，四处灭火，有话留着和法官说多好。\n\n原告和队友们毁损我的名誉也没用啊，法官又看不见。 你们要抓重点，证据证据证据 ！",
-  "hashtags": [],
-  "id": 1405836606481874944,
-  "id_str": "1405836606481874944",
-  "lang": "zh",
-  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-  "urls": [],
-  "user": {
-    "id": 246991499,
-    "screen_name": "Rabbitlili"
-  },
-  "user_mentions": []
-}
-{
   "created_at": "Fri Jun 18 14:26:13 +0000 2021",
   "favorite_count": 2,
   "full_text": "花不完反思得不错，恭喜你又答对了！普通人被极权裹挟，他们也是受害者。普通汉人是innocent people 。 伊藤再次被打脸 。 https://t.co/oidwD8jxcK",
@@ -109043,6 +108325,37 @@
   "in_reply_to_status_id": 1405957685955153921,
   "in_reply_to_user_id": 1285034880452251649,
   "lang": "zh",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "urls": [],
+  "user": {
+    "id": 246991499,
+    "screen_name": "Rabbitlili"
+  },
+  "user_mentions": [
+    {
+      "id": 1285034880452251649,
+      "id_str": "1285034880452251649",
+      "name": "余心所善",
+      "screen_name": "chen76717817"
+    },
+    {
+      "id": 8149482,
+      "id_str": "8149482",
+      "name": "美国之音中文网",
+      "screen_name": "VOAChinese"
+    }
+  ]
+}
+{
+  "created_at": "Fri Jun 18 18:39:36 +0000 2021",
+  "full_text": "@chen76717817 @VOAChinese 大善人于心何忍？！",
+  "hashtags": [],
+  "id": 1405958391118315524,
+  "id_str": "1405958391118315524",
+  "in_reply_to_screen_name": "Rabbitlili",
+  "in_reply_to_status_id": 1405957999450013697,
+  "in_reply_to_user_id": 246991499,
+  "lang": "ja",
   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "urls": [],
   "user": {
@@ -109690,7 +109003,7 @@
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "urls": [
       {
-        "expanded_url": "https://twitter.com/__inty__/status/1405774812035751941",
+        "expanded_url": "https://twitter.com/__Inty__/status/1405774812035751941",
         "url": "https://t.co/kFpbzeAhya"
       }
     ],
@@ -109839,7 +109152,7 @@
   "possibly_sensitive": true,
   "quoted_status": {
     "created_at": "Sat Jun 19 04:02:10 +0000 2021",
-    "favorite_count": 17925,
+    "favorite_count": 18271,
     "full_text": "• Do what interests you the most.\n• Spend time with nature.\n• Ask questions.\n• Never stop learning.\n• Don't pay attention to what others think of you.\n• Read everyday.\n• Study hard.\n• Teach others what you know.\n• Make mistakes and learn.\n• It's Okay to not know things! https://t.co/86w7kteYRI",
     "hashtags": [],
     "id": 1406099967299624963,
@@ -109856,7 +109169,7 @@
         "url": "https://t.co/86w7kteYRI"
       }
     ],
-    "retweet_count": 5704,
+    "retweet_count": 5862,
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
     "urls": [],
     "user": {
@@ -109870,7 +109183,7 @@
   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "urls": [
     {
-      "expanded_url": "https://twitter.com/proffeynman/status/1406099967299624963",
+      "expanded_url": "https://twitter.com/ProfFeynman/status/1406099967299624963",
       "url": "https://t.co/nmPekPr5D5"
     }
   ],
@@ -113013,16 +112326,16 @@
   "id": 1406527528848744450,
   "id_str": "1406527528848744450",
   "lang": "zh",
-  "retweet_count": 111,
+  "retweet_count": 113,
   "retweeted_status": {
     "created_at": "Sun Jun 20 05:13:12 +0000 2021",
-    "favorite_count": 1104,
+    "favorite_count": 1146,
     "full_text": "有个逻辑我是真不懂。你们说起中国的科技，觉得中国至少落后世界500年，什么鸿蒙、造芯都是笑话，救灾只能靠手挖，满大街都是气功中药骗子，但同样是这一群人，坚信中国能造出新冠病毒，领先世界生物科技500年，这一千年的鸿沟你们的脑洞是如何补出来的呢？逻辑在哪儿？",
     "hashtags": [],
     "id": 1406480229523099653,
     "id_str": "1406480229523099653",
     "lang": "zh",
-    "retweet_count": 111,
+    "retweet_count": 113,
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
     "urls": [],
     "user": {
@@ -113529,7 +112842,7 @@
   "possibly_sensitive": true,
   "quoted_status": {
     "created_at": "Sun Jun 20 06:56:04 +0000 2021",
-    "favorite_count": 1664,
+    "favorite_count": 1692,
     "full_text": "求仁得仁造句：\n\n中國變成這副鬼樣子，也可以説是中國人求仁得仁了。 https://t.co/hR0gDAUtKz",
     "hashtags": [],
     "id": 1406506117409251330,
@@ -113546,7 +112859,7 @@
         "url": "https://t.co/hR0gDAUtKz"
       }
     ],
-    "retweet_count": 318,
+    "retweet_count": 323,
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "urls": [],
     "user": {
@@ -113772,37 +113085,13 @@
 }
 {
   "created_at": "Mon Jun 21 07:01:57 +0000 2021",
-  "favorite_count": 1,
+  "favorite_count": 2,
   "full_text": "被民调的人是哪些群体，基础数据和统计方法你们敢公布吗。推上从来不缺这样为了反而反的人。论学术，茉莉和你远不及灭绝大师和清洁男子 https://t.co/sG4OFjHOPc",
   "hashtags": [],
   "id": 1406869983347593217,
   "id_str": "1406869983347593217",
   "lang": "zh",
   "possibly_sensitive": true,
-  "quoted_status": {
-    "created_at": "Sun Jun 20 12:21:06 +0000 2021",
-    "favorite_count": 24,
-    "full_text": "皮尤民调：美国成人认为各国领导人在国际事务中做正确的事的比例%\n\n默克尔  63\n拜登      60\n马克龙  58\n普京      18\n习近平  15 https://t.co/ifnAJGdw6N",
-    "hashtags": [],
-    "id": 1406587915413585929,
-    "id_str": "1406587915413585929",
-    "lang": "zh",
-    "quoted_status_id": 1406584628673196036,
-    "quoted_status_id_str": "1406584628673196036",
-    "retweet_count": 10,
-    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "urls": [
-      {
-        "expanded_url": "https://twitter.com/pewresearch/status/1406584628673196036",
-        "url": "https://t.co/ifnAJGdw6N"
-      }
-    ],
-    "user": {
-      "id": 1126461256024481792,
-      "screen_name": "JackBingfu"
-    },
-    "user_mentions": []
-  },
   "quoted_status_id": 1406587915413585929,
   "quoted_status_id_str": "1406587915413585929",
   "retweet_count": 1,
@@ -113852,7 +113141,7 @@
 }
 {
   "created_at": "Mon Jun 21 07:33:08 +0000 2021",
-  "favorite_count": 1,
+  "favorite_count": 2,
   "full_text": "你也生活在美国媒体和中国媒体中。你和中共发言人说的一样：你去过新疆吗，生活在新疆吗，你了解那里的人吗。 https://t.co/S1SyIFvmsg",
   "hashtags": [],
   "id": 1406877833016877056,
@@ -113861,7 +113150,7 @@
   "possibly_sensitive": true,
   "quoted_status": {
     "created_at": "Mon Jun 21 02:56:16 +0000 2021",
-    "favorite_count": 28,
+    "favorite_count": 31,
     "full_text": "你在美国生活，真觉得美国民间混乱吗？我觉得你同时生活在美国媒体和中国媒体里，而没有生活在美国民间里。 https://t.co/zcOeCBdx5h",
     "hashtags": [],
     "id": 1406808158622957568,
@@ -113909,7 +113198,7 @@
   "possibly_sensitive": true,
   "quoted_status": {
     "created_at": "Mon Jun 21 07:27:04 +0000 2021",
-    "favorite_count": 4,
+    "favorite_count": 5,
     "full_text": "被質疑的民調是誰？\nPew Research. https://t.co/NpC63bVhgX",
     "hashtags": [],
     "id": 1406876307502338052,
@@ -114071,7 +113360,7 @@
 }
 {
   "created_at": "Mon Jun 21 08:34:58 +0000 2021",
-  "favorite_count": 1,
+  "favorite_count": 3,
   "full_text": "所以你就要肢解中国，把恨绵延不断地传递下去。这是纪录历史还是复仇。 https://t.co/LZ2QDjLzL5",
   "hashtags": [],
   "id": 1406893392039194632,
@@ -114080,7 +113369,7 @@
   "possibly_sensitive": true,
   "quoted_status": {
     "created_at": "Mon Jun 21 02:53:37 +0000 2021",
-    "favorite_count": 32,
+    "favorite_count": 36,
     "full_text": "@SimbaDeyunju 我舅公家被没收土地几十亩，被划分为地主，舅公被拉出去游街批斗，后来疯了，这些债历史会记住的",
     "hashtags": [],
     "id": 1406807491241857028,
@@ -114089,7 +113378,7 @@
     "in_reply_to_status_id": 1406658291195793414,
     "in_reply_to_user_id": 1224144118940459009,
     "lang": "zh",
-    "retweet_count": 4,
+    "retweet_count": 5,
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "urls": [],
     "user": {
@@ -114276,7 +113565,7 @@
 }
 {
   "created_at": "Mon Jun 21 14:38:23 +0000 2021",
-  "favorite_count": 1,
+  "favorite_count": 2,
   "full_text": "@Jeremy10017 @mindouxiaohua 假博士 🤣",
   "hashtags": [],
   "id": 1406984851476168704,
@@ -114308,6 +113597,7 @@
 }
 {
   "created_at": "Mon Jun 21 14:38:52 +0000 2021",
+  "favorite_count": 1,
   "full_text": "@Jeremy10017 C罗不是银 🤣",
   "hashtags": [],
   "id": 1406984974008557572,
@@ -114364,16 +113654,16 @@
   "id_str": "1407017847637827585",
   "lang": "en",
   "possibly_sensitive": true,
-  "retweet_count": 21,
+  "retweet_count": 25,
   "retweeted_status": {
     "created_at": "Mon Jun 21 16:43:09 +0000 2021",
-    "favorite_count": 46,
+    "favorite_count": 55,
     "full_text": "KPMG faces a $21 million fine over a conflict of interest with H.I.G. Capital https://t.co/BC1BvpgAFn",
     "hashtags": [],
     "id": 1407016246848196610,
     "id_str": "1407016246848196610",
     "lang": "en",
-    "retweet_count": 21,
+    "retweet_count": 25,
     "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
     "urls": [
       {
@@ -114409,7 +113699,7 @@
 }
 {
   "created_at": "Mon Jun 21 16:50:42 +0000 2021",
-  "favorite_count": 1,
+  "favorite_count": 3,
   "full_text": "@Jonah0168 @WhiteWa1775 反思君一天不造谣就难受",
   "hashtags": [],
   "id": 1407018148755349510,
@@ -114441,7 +113731,7 @@
 }
 {
   "created_at": "Mon Jun 21 16:53:39 +0000 2021",
-  "favorite_count": 2,
+  "favorite_count": 5,
   "full_text": "美国死了60万，一个战败国用得着中共“恶意消费”吗？四个字叫自毁长城！ https://t.co/cgpP7IOjXL",
   "hashtags": [],
   "id": 1407018891457568771,
@@ -114450,13 +113740,13 @@
   "possibly_sensitive": true,
   "quoted_status": {
     "created_at": "Mon Jun 21 16:40:17 +0000 2021",
-    "favorite_count": 22,
+    "favorite_count": 121,
     "full_text": "中共建政70多年，就没有一刻放弃过恶意消费美国。\n\n美国是帝国主义/境外势力/89的黑手/和平演变主子/颜色革命的推手。\n\n美国是中共任何失败的替罪羊/吓唬百姓的怪物/给草民打民族主义鸡血和送大礼的Pinata/大礼包。\n\n今天有人继续在美国恶意诋毁这个国家受到点提醒，就天真地叫冤，\"美国屁股摸不得\"。",
     "hashtags": [],
     "id": 1407015525545398275,
     "id_str": "1407015525545398275",
     "lang": "zh",
-    "retweet_count": 7,
+    "retweet_count": 19,
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
     "urls": [],
     "user": {
@@ -114583,6 +113873,7 @@
 }
 {
   "created_at": "Mon Jun 21 17:26:42 +0000 2021",
+  "favorite_count": 1,
   "full_text": "@KMKL85 夏某人前些日子和我耍jian 说他一月流血一次",
   "hashtags": [],
   "id": 1407027206895853568,
@@ -114603,6 +113894,444 @@
       "id_str": "1268310352460218373",
       "name": "Get Lucky",
       "screen_name": "KMKL85"
+    }
+  ]
+}
+{
+  "created_at": "Mon Jun 21 17:59:10 +0000 2021",
+  "full_text": "@Jeremy10017 我娃从小一直追着他，再就是梅西",
+  "hashtags": [],
+  "id": 1407035377517477892,
+  "id_str": "1407035377517477892",
+  "in_reply_to_screen_name": "Jeremy10017",
+  "in_reply_to_status_id": 1407033867874095105,
+  "in_reply_to_user_id": 1222233053210169344,
+  "lang": "zh",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "urls": [],
+  "user": {
+    "id": 246991499,
+    "screen_name": "Rabbitlili"
+  },
+  "user_mentions": [
+    {
+      "id": 1222233053210169344,
+      "id_str": "1222233053210169344",
+      "name": "Recluse",
+      "screen_name": "Jeremy10017"
+    }
+  ]
+}
+{
+  "created_at": "Mon Jun 21 18:20:40 +0000 2021",
+  "full_text": "儿子今晚去乐团排练。我一个人吃方便面，剩下一半，难以下咽...太难吃了",
+  "hashtags": [],
+  "id": 1407040788513673221,
+  "id_str": "1407040788513673221",
+  "lang": "zh",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "urls": [],
+  "user": {
+    "id": 246991499,
+    "screen_name": "Rabbitlili"
+  },
+  "user_mentions": []
+}
+{
+  "created_at": "Mon Jun 21 19:47:20 +0000 2021",
+  "favorite_count": 2,
+  "full_text": "你英文没学会中文理解也堪忧。请再重复写一遍冬眠熊的原文。 https://t.co/PvTuEIW6JK",
+  "hashtags": [],
+  "id": 1407062601184563205,
+  "id_str": "1407062601184563205",
+  "lang": "zh",
+  "possibly_sensitive": true,
+  "quoted_status_id": 1407047814509649921,
+  "quoted_status_id_str": "1407047814509649921",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "urls": [
+    {
+      "expanded_url": "https://twitter.com/jackbingfu/status/1407047814509649921",
+      "url": "https://t.co/PvTuEIW6JK"
+    }
+  ],
+  "user": {
+    "id": 246991499,
+    "screen_name": "Rabbitlili"
+  },
+  "user_mentions": []
+}
+{
+  "created_at": "Mon Jun 21 19:49:35 +0000 2021",
+  "favorite_count": 17,
+  "full_text": "普通中国人怎么惹着你们了，让你们这么恨！",
+  "hashtags": [],
+  "id": 1407063166941548547,
+  "id_str": "1407063166941548547",
+  "lang": "zh",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "urls": [],
+  "user": {
+    "id": 246991499,
+    "screen_name": "Rabbitlili"
+  },
+  "user_mentions": []
+}
+{
+  "created_at": "Mon Jun 21 20:01:41 +0000 2021",
+  "favorite_count": 1,
+  "full_text": "@teachwonna 谢谢。请我随机问你一下，问卷中“各国领导人在国际事务中做正确的事”是指哪些事情？ 随机被调查人全都知道这些事情吗？ 如果他们不知道说明调查结果有误。如果他们都知道那这些人就不是普通群体。我说的对不对？\n\n另外这个问卷的目的是什么，说明美国人对中俄有敌意？你们不做问卷调查我也知道答案。",
+  "hashtags": [],
+  "id": 1407066210433372160,
+  "id_str": "1407066210433372160",
+  "in_reply_to_screen_name": "teachwonna",
+  "in_reply_to_status_id": 1407063058728448002,
+  "in_reply_to_user_id": 25127244,
+  "lang": "zh",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "urls": [],
+  "user": {
+    "id": 246991499,
+    "screen_name": "Rabbitlili"
+  },
+  "user_mentions": [
+    {
+      "id": 25127244,
+      "id_str": "25127244",
+      "name": "Found Verdict",
+      "screen_name": "teachwonna"
+    }
+  ]
+}
+{
+  "created_at": "Mon Jun 21 20:26:32 +0000 2021",
+  "favorite_count": 3,
+  "full_text": "按时间排序：\n\n生下娃约十三年后，刘怀昭告诉北风夫妇这是她和魏的女儿。\n\n生下娃十多年后，刘突然告诉曾金燕当年她被性侵。\n\n一年前刘怀昭发推说她被强奸后直接告诉了丈夫张猛。\n\n问推友：哪个版本更接近真相",
+  "hashtags": [],
+  "id": 1407072464555872261,
+  "id_str": "1407072464555872261",
+  "lang": "zh",
+  "retweet_count": 1,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "urls": [],
+  "user": {
+    "id": 246991499,
+    "screen_name": "Rabbitlili"
+  },
+  "user_mentions": []
+}
+{
+  "created_at": "Mon Jun 21 20:28:31 +0000 2021",
+  "favorite_count": 1,
+  "full_text": "正常人不能理解刘怀昭的思维和逻辑。再问：刘到底什么时间知道自己被强奸了呢？",
+  "hashtags": [],
+  "id": 1407072965502685196,
+  "id_str": "1407072965502685196",
+  "in_reply_to_screen_name": "Rabbitlili",
+  "in_reply_to_status_id": 1407072464555872261,
+  "in_reply_to_user_id": 246991499,
+  "lang": "zh",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "urls": [],
+  "user": {
+    "id": 246991499,
+    "screen_name": "Rabbitlili"
+  },
+  "user_mentions": []
+}
+{
+  "created_at": "Mon Jun 21 20:30:01 +0000 2021",
+  "favorite_count": 1,
+  "full_text": "推友们智商在线，可以试着解答一下 🤣",
+  "hashtags": [],
+  "id": 1407073341672919044,
+  "id_str": "1407073341672919044",
+  "in_reply_to_screen_name": "Rabbitlili",
+  "in_reply_to_status_id": 1407072965502685196,
+  "in_reply_to_user_id": 246991499,
+  "lang": "zh",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "urls": [],
+  "user": {
+    "id": 246991499,
+    "screen_name": "Rabbitlili"
+  },
+  "user_mentions": []
+}
+{
+  "created_at": "Mon Jun 21 20:41:18 +0000 2021",
+  "full_text": "@Yangguang_USA 等着她上庭出丑吧",
+  "hashtags": [],
+  "id": 1407076182085017601,
+  "id_str": "1407076182085017601",
+  "in_reply_to_screen_name": "Yangguang_USA",
+  "in_reply_to_status_id": 1407075377940353052,
+  "in_reply_to_user_id": 1284363240974082048,
+  "lang": "ja",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "urls": [],
+  "user": {
+    "id": 246991499,
+    "screen_name": "Rabbitlili"
+  },
+  "user_mentions": [
+    {
+      "id": 1284363240974082048,
+      "id_str": "1284363240974082048",
+      "name": "杨光",
+      "screen_name": "Yangguang_USA"
+    }
+  ]
+}
+{
+  "created_at": "Mon Jun 21 21:27:42 +0000 2021",
+  "favorite_count": 1,
+  "full_text": "高大律师把我拉黑了 😅 https://t.co/XTLEMjJchq",
+  "hashtags": [],
+  "id": 1407087857668444160,
+  "id_str": "1407087857668444160",
+  "lang": "zh",
+  "possibly_sensitive": true,
+  "quoted_status": {
+    "created_at": "Sun Jun 20 17:57:31 +0000 2021",
+    "favorite_count": 4,
+    "full_text": "美国律师连“劣等民族”都写出来了？！ \n请教一下哪条法律规定不能用小号发推了呢。 https://t.co/QrCfE50mj8",
+    "hashtags": [],
+    "id": 1406672574923300872,
+    "id_str": "1406672574923300872",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "quoted_status_id": 1405897048730312711,
+    "quoted_status_id_str": "1405897048730312711",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/usa_gaoshenghan/status/1405897048730312711",
+        "url": "https://t.co/QrCfE50mj8"
+      }
+    ],
+    "user": {
+      "id": 246991499,
+      "screen_name": "Rabbitlili"
+    },
+    "user_mentions": []
+  },
+  "quoted_status_id": 1406672574923300872,
+  "quoted_status_id_str": "1406672574923300872",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "urls": [
+    {
+      "expanded_url": "https://twitter.com/rabbitlili/status/1406672574923300872",
+      "url": "https://t.co/XTLEMjJchq"
+    }
+  ],
+  "user": {
+    "id": 246991499,
+    "screen_name": "Rabbitlili"
+  },
+  "user_mentions": []
+}
+{
+  "created_at": "Mon Jun 21 21:28:46 +0000 2021",
+  "full_text": "@teachwonna 回答不上问题你急啥，要咬人啊",
+  "hashtags": [],
+  "id": 1407088126401683464,
+  "id_str": "1407088126401683464",
+  "in_reply_to_screen_name": "teachwonna",
+  "in_reply_to_status_id": 1407087256557416449,
+  "in_reply_to_user_id": 25127244,
+  "lang": "ja",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "urls": [],
+  "user": {
+    "id": 246991499,
+    "screen_name": "Rabbitlili"
+  },
+  "user_mentions": [
+    {
+      "id": 25127244,
+      "id_str": "25127244",
+      "name": "Found Verdict",
+      "screen_name": "teachwonna"
+    }
+  ]
+}
+{
+  "created_at": "Mon Jun 21 21:31:36 +0000 2021",
+  "favorite_count": 1,
+  "full_text": "随机取个样本，没想到样本急了 😂 https://t.co/EqGCJMjmdq",
+  "hashtags": [],
+  "id": 1407088838569304069,
+  "id_str": "1407088838569304069",
+  "lang": "zh",
+  "possibly_sensitive": true,
+  "quoted_status": {
+    "created_at": "Mon Jun 21 21:25:19 +0000 2021",
+    "favorite_count": 1,
+    "full_text": "@Rabbitlili https://t.co/ATHgJZFXc2\n问我干嘛？pew research dataset里面有从2001年开始的记录，自己做好功课了就不会有这些问题了。\n\n信口开河那是有张嘴就自动获得的技能，没啥意思。",
+    "hashtags": [],
+    "id": 1407087256557416449,
+    "id_str": "1407087256557416449",
+    "in_reply_to_screen_name": "Rabbitlili",
+    "in_reply_to_status_id": 1407066210433372160,
+    "in_reply_to_user_id": 246991499,
+    "lang": "zh",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "urls": [
+      {
+        "expanded_url": "https://www.pewresearch.org/global/question-search/",
+        "url": "https://t.co/ATHgJZFXc2"
+      }
+    ],
+    "user": {
+      "id": 25127244,
+      "screen_name": "teachwonna"
+    },
+    "user_mentions": [
+      {
+        "id": 246991499,
+        "id_str": "246991499",
+        "name": "英伦",
+        "screen_name": "Rabbitlili"
+      }
+    ]
+  },
+  "quoted_status_id": 1407087256557416449,
+  "quoted_status_id_str": "1407087256557416449",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "urls": [
+    {
+      "expanded_url": "https://twitter.com/teachwonna/status/1407087256557416449",
+      "url": "https://t.co/EqGCJMjmdq"
+    }
+  ],
+  "user": {
+    "id": 246991499,
+    "screen_name": "Rabbitlili"
+  },
+  "user_mentions": []
+}
+{
+  "created_at": "Mon Jun 21 21:53:00 +0000 2021",
+  "favorite_count": 1,
+  "full_text": "请出示我是中共驻英国使馆的证据。\n\n我揭发皇汉唐丹鸿和以色列使馆官员联欢可是有照片和文字作证。\n你空口白牙就是造谣。 https://t.co/Nfver6JUNM",
+  "hashtags": [],
+  "id": 1407094225364193292,
+  "id_str": "1407094225364193292",
+  "lang": "zh",
+  "possibly_sensitive": true,
+  "quoted_status_id": 1406666450769690629,
+  "quoted_status_id_str": "1406666450769690629",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "urls": [
+    {
+      "expanded_url": "https://twitter.com/zhongshuai3333/status/1406666450769690629",
+      "url": "https://t.co/Nfver6JUNM"
+    }
+  ],
+  "user": {
+    "id": 246991499,
+    "screen_name": "Rabbitlili"
+  },
+  "user_mentions": []
+}
+{
+  "created_at": "Mon Jun 21 21:54:19 +0000 2021",
+  "favorite_count": 2,
+  "full_text": "造谣者手挺快，30秒 https://t.co/H50MUbF3I8",
+  "hashtags": [],
+  "id": 1407094557221830664,
+  "id_str": "1407094557221830664",
+  "in_reply_to_screen_name": "Rabbitlili",
+  "in_reply_to_status_id": 1407094225364193292,
+  "in_reply_to_user_id": 246991499,
+  "lang": "zh",
+  "media": [
+    {
+      "display_url": "pic.twitter.com/H50MUbF3I8",
+      "expanded_url": "https://twitter.com/Rabbitlili/status/1407094557221830664/photo/1",
+      "id": 1407094550951301120,
+      "media_url": "http://pbs.twimg.com/media/E4cBCfrXEAAkrIl.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/E4cBCfrXEAAkrIl.jpg",
+      "type": "photo",
+      "url": "https://t.co/H50MUbF3I8"
+    }
+  ],
+  "possibly_sensitive": true,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "urls": [],
+  "user": {
+    "id": 246991499,
+    "screen_name": "Rabbitlili"
+  },
+  "user_mentions": []
+}
+{
+  "created_at": "Mon Jun 21 21:55:07 +0000 2021",
+  "full_text": "看看支持刘怀昭的都是什么货色，谣棍嘛！",
+  "hashtags": [],
+  "id": 1407094756325445635,
+  "id_str": "1407094756325445635",
+  "in_reply_to_screen_name": "Rabbitlili",
+  "in_reply_to_status_id": 1407094557221830664,
+  "in_reply_to_user_id": 246991499,
+  "lang": "zh",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "urls": [],
+  "user": {
+    "id": 246991499,
+    "screen_name": "Rabbitlili"
+  },
+  "user_mentions": []
+}
+{
+  "created_at": "Mon Jun 21 22:02:12 +0000 2021",
+  "full_text": "@MUNA04321 😂",
+  "hashtags": [],
+  "id": 1407096542520041480,
+  "id_str": "1407096542520041480",
+  "in_reply_to_screen_name": "MUNA04321",
+  "in_reply_to_status_id": 1407096283500711941,
+  "in_reply_to_user_id": 1326861608010698753,
+  "lang": "und",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "urls": [],
+  "user": {
+    "id": 246991499,
+    "screen_name": "Rabbitlili"
+  },
+  "user_mentions": [
+    {
+      "id": 1326861608010698753,
+      "id_str": "1326861608010698753",
+      "name": "MHAO",
+      "screen_name": "MUNA04321"
+    }
+  ]
+}
+{
+  "created_at": "Mon Jun 21 22:11:42 +0000 2021",
+  "favorite_count": 1,
+  "full_text": "@MUNA04321 开心",
+  "hashtags": [],
+  "id": 1407098930974937093,
+  "id_str": "1407098930974937093",
+  "in_reply_to_screen_name": "MUNA04321",
+  "in_reply_to_status_id": 1407097842016034817,
+  "in_reply_to_user_id": 1326861608010698753,
+  "lang": "zh",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "urls": [],
+  "user": {
+    "id": 246991499,
+    "screen_name": "Rabbitlili"
+  },
+  "user_mentions": [
+    {
+      "id": 1326861608010698753,
+      "id_str": "1326861608010698753",
+      "name": "MHAO",
+      "screen_name": "MUNA04321"
     }
   ]
 }
