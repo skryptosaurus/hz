@@ -1,662 +1,4 @@
 {
-  "created_at": "Fri Aug 14 09:02:40 +0000 2020",
-  "full_text": "RT @Yangguang111: @luo_yu_feng @4aCCPfreeChina @QXGjdpYYVnHrc2f @huang_ciping @Lu_Jinghua @kaiwen_kesitena @huaizhao @XuPeiGermany @detecti…",
-  "hashtags": [],
-  "id": 1294197738276413442,
-  "id_str": "1294197738276413442",
-  "lang": "zh",
-  "retweet_count": 2,
-  "retweeted_status": {
-    "created_at": "Fri Aug 14 09:02:27 +0000 2020",
-    "favorite_count": 3,
-    "full_text": "@luo_yu_feng @4aCCPfreeChina @QXGjdpYYVnHrc2f @huang_ciping @Lu_Jinghua @kaiwen_kesitena @huaizhao @XuPeiGermany @detecti28108231 @WEI_JINGSHENG @Angle8964 @lovedcyrose @wutingzy @wenyunchao @ZhouFengSuo @QiaoMoo @FengCongde @ShengXue_ca @LiuGang8964 @free_and_true @zhaoxin8964 @zhaoyan818 @liqunchen @yeningusa @ljpJames @MJTVxchen15 @xianglin8964 @liaoyiwu1 @zengjinyan @caichu88 @XiaBamboohermit @shanshuiyouyan @usa_gaoshenghan @realLudecheng @juntaowang @wangdan1989 @HuPing1 @NewCenturyBaopu @dongle_smith @monkey_qtds2 @libert_zlin 【自由美国,被强奸不报案,且生下孩子,欺骗丈夫,说这是你的孩子,而今又高调于网络,把女儿当筹码,我鄙视这样的人】\n我也鄙视这样的人.\n关键问题是她双重欺骗.孩子可能是别人的,她欺骗魏,说我和你有一个女儿,我未婚,孩子姓刘.\n为什么不敢到美国DNA取样?\n为什么要魏京生基金会全部文件?诉讼目的到底是什么?",
-    "hashtags": [],
-    "id": 1294197684325109761,
-    "id_str": "1294197684325109761",
-    "in_reply_to_screen_name": "luo_yu_feng",
-    "in_reply_to_status_id": 1294181668392230912,
-    "in_reply_to_user_id": 886081539230097408,
-    "lang": "zh",
-    "retweet_count": 2,
-    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "urls": [],
-    "user": {
-      "id": 1284363240974082048,
-      "screen_name": "Yangguang_USA"
-    },
-    "user_mentions": [
-      {
-        "id": 886081539230097408,
-        "id_str": "886081539230097408",
-        "name": "凤姐有话说",
-        "screen_name": "luo_yu_feng"
-      },
-      {
-        "id": 839354635143913472,
-        "id_str": "839354635143913472",
-        "name": "MUSAGA",
-        "screen_name": "4aCCPfreeChina"
-      },
-      {
-        "id": 1135566541657923584,
-        "id_str": "1135566541657923584",
-        "name": "反共大联盟",
-        "screen_name": "QXGjdpYYVnHrc2f"
-      },
-      {
-        "id": 3830160917,
-        "id_str": "3830160917",
-        "name": "Ciping Huang 黄慈萍",
-        "screen_name": "huang_ciping"
-      },
-      {
-        "id": 60573055,
-        "id_str": "60573055",
-        "name": "吕京花/LüJinghua",
-        "screen_name": "Lu_Jinghua"
-      },
-      {
-        "id": 930757994299645952,
-        "id_str": "930757994299645952",
-        "name": "kaiwen kesitena",
-        "screen_name": "kaiwen_kesitena"
-      },
-      {
-        "id": 37938987,
-        "id_str": "37938987",
-        "name": "Huaizhao 懷昭",
-        "screen_name": "huaizhao"
-      },
-      {
-        "id": 259795925,
-        "id_str": "259795925",
-        "name": "徐沛 XU Pei",
-        "screen_name": "XuPeiGermany"
-      },
-      {
-        "id": 3352592393,
-        "id_str": "3352592393",
-        "name": "Wei Jingsheng魏京生",
-        "screen_name": "WEI_JINGSHENG"
-      },
-      {
-        "id": 1193489078,
-        "id_str": "1193489078",
-        "name": "安琪Angel",
-        "screen_name": "Angle8964"
-      },
-      {
-        "id": 860099781481213954,
-        "id_str": "860099781481213954",
-        "name": "🍃🌸蔷薇🌸🍃",
-        "screen_name": "lovedcyrose"
-      },
-      {
-        "id": 812156106189324292,
-        "id_str": "812156106189324292",
-        "name": "雾亭",
-        "screen_name": "wutingzy"
-      },
-      {
-        "id": 14581421,
-        "id_str": "14581421",
-        "name": "Wen",
-        "screen_name": "wenyunchao"
-      },
-      {
-        "id": 202963011,
-        "id_str": "202963011",
-        "name": "周锋锁 Fengsuo Zhou",
-        "screen_name": "ZhouFengSuo"
-      },
-      {
-        "id": 2736402335,
-        "id_str": "2736402335",
-        "name": "Qiao Mu",
-        "screen_name": "QiaoMoo"
-      },
-      {
-        "id": 210878151,
-        "id_str": "210878151",
-        "name": "封從德",
-        "screen_name": "FengCongde"
-      },
-      {
-        "id": 118169394,
-        "id_str": "118169394",
-        "name": "盛雪 SHENG Xue",
-        "screen_name": "ShengXue_ca"
-      },
-      {
-        "id": 212849570,
-        "id_str": "212849570",
-        "name": "刘刚",
-        "screen_name": "LiuGang8964"
-      },
-      {
-        "id": 263472219,
-        "id_str": "263472219",
-        "name": "硅谷码农",
-        "screen_name": "free_and_true"
-      },
-      {
-        "id": 149676479,
-        "id_str": "149676479",
-        "name": "Zhao Xin 赵昕",
-        "screen_name": "zhaoxin8964"
-      },
-      {
-        "id": 114254401,
-        "id_str": "114254401",
-        "name": "赵岩",
-        "screen_name": "zhaoyan818"
-      },
-      {
-        "id": 370360107,
-        "id_str": "370360107",
-        "name": "liqun chen（陈立群）",
-        "screen_name": "liqunchen"
-      },
-      {
-        "id": 1165924908,
-        "id_str": "1165924908",
-        "name": "叶宁",
-        "screen_name": "yeningusa"
-      },
-      {
-        "id": 863895718997749764,
-        "id_str": "863895718997749764",
-        "name": "赖建平James Lai🇨🇦",
-        "screen_name": "ljpJames"
-      },
-      {
-        "id": 49869714,
-        "id_str": "49869714",
-        "name": "陈小平",
-        "screen_name": "MJTVxchen15"
-      },
-      {
-        "id": 1490443346,
-        "id_str": "1490443346",
-        "name": "相林🌸",
-        "screen_name": "xianglin8964"
-      },
-      {
-        "id": 963797622,
-        "id_str": "963797622",
-        "name": "廖亦武 Liao Yiwu",
-        "screen_name": "liaoyiwu1"
-      },
-      {
-        "id": 9031202,
-        "id_str": "9031202",
-        "name": "Zeng Jinyan 曾金燕",
-        "screen_name": "zengjinyan"
-      },
-      {
-        "id": 91661819,
-        "id_str": "91661819",
-        "name": "Cai Chu",
-        "screen_name": "caichu88"
-      },
-      {
-        "id": 229246713,
-        "id_str": "229246713",
-        "name": "Dr. Ming Xia 🥨 夏明",
-        "screen_name": "XiaBamboohermit"
-      },
-      {
-        "id": 49275929,
-        "id_str": "49275929",
-        "name": "山水幽燕",
-        "screen_name": "shanshuiyouyan"
-      },
-      {
-        "id": 2586791480,
-        "id_str": "2586791480",
-        "name": "高勝寒",
-        "screen_name": "usa_gaoshenghan"
-      },
-      {
-        "id": 1103514694952706049,
-        "id_str": "1103514694952706049",
-        "name": "鲁德成 Ludecheng",
-        "screen_name": "realLudecheng"
-      },
-      {
-        "id": 49730238,
-        "id_str": "49730238",
-        "name": "王军涛",
-        "screen_name": "juntaowang"
-      },
-      {
-        "id": 98864871,
-        "id_str": "98864871",
-        "name": "王丹",
-        "screen_name": "wangdan1989"
-      },
-      {
-        "id": 118838969,
-        "id_str": "118838969",
-        "name": "Hu Ping胡平",
-        "screen_name": "HuPing1"
-      },
-      {
-        "id": 547112588,
-        "id_str": "547112588",
-        "name": "Bao Pu 鮑樸",
-        "screen_name": "NewCenturyBaopu"
-      },
-      {
-        "id": 852590009685131264,
-        "id_str": "852590009685131264",
-        "name": "白看戏🔎",
-        "screen_name": "dongle_smith"
-      },
-      {
-        "id": 1134577679750111234,
-        "id_str": "1134577679750111234",
-        "name": "反共先锋",
-        "screen_name": "monkey_qtds2"
-      },
-      {
-        "id": 957596668282724357,
-        "id_str": "957596668282724357",
-        "name": "張林視野",
-        "screen_name": "libert_zlin"
-      }
-    ]
-  },
-  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-  "urls": [],
-  "user": {
-    "id": 1284363240974082048,
-    "screen_name": "Yangguang_USA"
-  },
-  "user_mentions": [
-    {
-      "id": 886081539230097408,
-      "id_str": "886081539230097408",
-      "name": "凤姐有话说",
-      "screen_name": "luo_yu_feng"
-    },
-    {
-      "id": 839354635143913472,
-      "id_str": "839354635143913472",
-      "name": "MUSAGA",
-      "screen_name": "4aCCPfreeChina"
-    },
-    {
-      "id": 1135566541657923584,
-      "id_str": "1135566541657923584",
-      "name": "反共大联盟",
-      "screen_name": "QXGjdpYYVnHrc2f"
-    },
-    {
-      "id": 3830160917,
-      "id_str": "3830160917",
-      "name": "Ciping Huang 黄慈萍",
-      "screen_name": "huang_ciping"
-    },
-    {
-      "id": 60573055,
-      "id_str": "60573055",
-      "name": "吕京花/LüJinghua",
-      "screen_name": "Lu_Jinghua"
-    },
-    {
-      "id": 930757994299645952,
-      "id_str": "930757994299645952",
-      "name": "kaiwen kesitena",
-      "screen_name": "kaiwen_kesitena"
-    },
-    {
-      "id": 37938987,
-      "id_str": "37938987",
-      "name": "Huaizhao 懷昭",
-      "screen_name": "huaizhao"
-    },
-    {
-      "id": 259795925,
-      "id_str": "259795925",
-      "name": "徐沛 XU Pei",
-      "screen_name": "XuPeiGermany"
-    }
-  ]
-}
-{
-  "created_at": "Fri Aug 14 09:11:53 +0000 2020",
-  "favorite_count": 2,
-  "full_text": "此杨光非彼杨光，本人一家4口生活在民主法制的美国，只看证据，不看人情。",
-  "hashtags": [],
-  "id": 1294200058196324353,
-  "id_str": "1294200058196324353",
-  "lang": "zh",
-  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-  "urls": [],
-  "user": {
-    "id": 1284363240974082048,
-    "screen_name": "Yangguang_USA"
-  },
-  "user_mentions": []
-}
-{
-  "created_at": "Fri Aug 14 09:36:56 +0000 2020",
-  "favorite_count": 3,
-  "full_text": "@C789a123Jiawei @Lu_Jinghua @DanHongTang 是刘怀昭自己要打官司，她是原告，怎么总是有人要被告和解？这是原告的事情，原告可以撤诉，可以要求和解，可以继续打下去。\n美国法庭有免费律师，募捐是为了造势吧。\n我的推文上有很多证据，尤其是以色列最先发明人工合成DNA。刘为什么不敢在美国取样?\n强奸罪名已传遍全网了，和解？\n一定要揭穿骗子。",
-  "hashtags": [],
-  "id": 1294206360683311105,
-  "id_str": "1294206360683311105",
-  "in_reply_to_screen_name": "C789a123Jiawei",
-  "in_reply_to_status_id": 1293986181525516288,
-  "in_reply_to_user_id": 302913061,
-  "lang": "zh",
-  "retweet_count": 2,
-  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-  "urls": [],
-  "user": {
-    "id": 1284363240974082048,
-    "screen_name": "Yangguang_USA"
-  },
-  "user_mentions": [
-    {
-      "id": 302913061,
-      "id_str": "302913061",
-      "name": "jiawei",
-      "screen_name": "C789a123Jiawei"
-    },
-    {
-      "id": 60573055,
-      "id_str": "60573055",
-      "name": "吕京花/LüJinghua",
-      "screen_name": "Lu_Jinghua"
-    },
-    {
-      "id": 105857211,
-      "id_str": "105857211",
-      "name": "唐丹鸿",
-      "screen_name": "DanHongTang"
-    }
-  ]
-}
-{
-  "created_at": "Fri Aug 14 09:37:06 +0000 2020",
-  "full_text": "RT @Yangguang111: @C789a123Jiawei @Lu_Jinghua @DanHongTang 是刘怀昭自己要打官司，她是原告，怎么总是有人要被告和解？这是原告的事情，原告可以撤诉，可以要求和解，可以继续打下去。\n美国法庭有免费律师，募捐是为了造势吧。\n我…",
-  "hashtags": [],
-  "id": 1294206401955246080,
-  "id_str": "1294206401955246080",
-  "lang": "zh",
-  "retweet_count": 2,
-  "retweeted_status": {
-    "created_at": "Fri Aug 14 09:36:56 +0000 2020",
-    "favorite_count": 3,
-    "full_text": "@C789a123Jiawei @Lu_Jinghua @DanHongTang 是刘怀昭自己要打官司，她是原告，怎么总是有人要被告和解？这是原告的事情，原告可以撤诉，可以要求和解，可以继续打下去。\n美国法庭有免费律师，募捐是为了造势吧。\n我的推文上有很多证据，尤其是以色列最先发明人工合成DNA。刘为什么不敢在美国取样?\n强奸罪名已传遍全网了，和解？\n一定要揭穿骗子。",
-    "hashtags": [],
-    "id": 1294206360683311105,
-    "id_str": "1294206360683311105",
-    "in_reply_to_screen_name": "C789a123Jiawei",
-    "in_reply_to_status_id": 1293986181525516288,
-    "in_reply_to_user_id": 302913061,
-    "lang": "zh",
-    "retweet_count": 2,
-    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "urls": [],
-    "user": {
-      "id": 1284363240974082048,
-      "screen_name": "Yangguang_USA"
-    },
-    "user_mentions": [
-      {
-        "id": 302913061,
-        "id_str": "302913061",
-        "name": "jiawei",
-        "screen_name": "C789a123Jiawei"
-      },
-      {
-        "id": 60573055,
-        "id_str": "60573055",
-        "name": "吕京花/LüJinghua",
-        "screen_name": "Lu_Jinghua"
-      },
-      {
-        "id": 105857211,
-        "id_str": "105857211",
-        "name": "唐丹鸿",
-        "screen_name": "DanHongTang"
-      }
-    ]
-  },
-  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-  "urls": [],
-  "user": {
-    "id": 1284363240974082048,
-    "screen_name": "Yangguang_USA"
-  },
-  "user_mentions": [
-    {
-      "id": 302913061,
-      "id_str": "302913061",
-      "name": "jiawei",
-      "screen_name": "C789a123Jiawei"
-    },
-    {
-      "id": 60573055,
-      "id_str": "60573055",
-      "name": "吕京花/LüJinghua",
-      "screen_name": "Lu_Jinghua"
-    },
-    {
-      "id": 105857211,
-      "id_str": "105857211",
-      "name": "唐丹鸿",
-      "screen_name": "DanHongTang"
-    }
-  ]
-}
-{
-  "created_at": "Fri Aug 14 09:37:57 +0000 2020",
-  "full_text": "RT @C789a123Jiawei: @huang_ciping 假设确实是老魏的孩子：\n1 ，刘张二人违反了关于parental fraud 的法律\n2， 20年来刘不让老魏见孩子，行为属于parental alienation \n3,    魏最多承担知道这个孩子存在之后…",
-  "hashtags": [],
-  "id": 1294206617764823047,
-  "id_str": "1294206617764823047",
-  "lang": "zh",
-  "retweet_count": 2,
-  "retweeted_status": {
-    "created_at": "Thu Aug 13 17:01:07 +0000 2020",
-    "favorite_count": 5,
-    "full_text": "@huang_ciping 假设确实是老魏的孩子：\n1 ，刘张二人违反了关于parental fraud 的法律\n2， 20年来刘不让老魏见孩子，行为属于parental alienation \n3,    魏最多承担知道这个孩子存在之后的抚养费",
-    "hashtags": [],
-    "id": 1293955755025076224,
-    "id_str": "1293955755025076224",
-    "in_reply_to_screen_name": "huang_ciping",
-    "in_reply_to_status_id": 1293615565538549760,
-    "in_reply_to_user_id": 3830160917,
-    "lang": "zh",
-    "retweet_count": 2,
-    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
-    "urls": [],
-    "user": {
-      "id": 302913061,
-      "screen_name": "C789a123Jiawei"
-    },
-    "user_mentions": [
-      {
-        "id": 3830160917,
-        "id_str": "3830160917",
-        "name": "Ciping Huang 黄慈萍",
-        "screen_name": "huang_ciping"
-      }
-    ]
-  },
-  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-  "urls": [],
-  "user": {
-    "id": 1284363240974082048,
-    "screen_name": "Yangguang_USA"
-  },
-  "user_mentions": [
-    {
-      "id": 302913061,
-      "id_str": "302913061",
-      "name": "jiawei",
-      "screen_name": "C789a123Jiawei"
-    },
-    {
-      "id": 3830160917,
-      "id_str": "3830160917",
-      "name": "Ciping Huang 黄慈萍",
-      "screen_name": "huang_ciping"
-    }
-  ]
-}
-{
-  "created_at": "Fri Aug 14 09:38:42 +0000 2020",
-  "full_text": "RT @C789a123Jiawei: @huang_ciping 关于出生证签名的法律：\nhttps://t.co/A68SCiivLW",
-  "hashtags": [],
-  "id": 1294206808421146625,
-  "id_str": "1294206808421146625",
-  "lang": "zh",
-  "retweet_count": 1,
-  "retweeted_status": {
-    "created_at": "Thu Aug 13 17:05:50 +0000 2020",
-    "favorite_count": 2,
-    "full_text": "@huang_ciping 关于出生证签名的法律：\nhttps://t.co/A68SCiivLW",
-    "hashtags": [],
-    "id": 1293956943921532929,
-    "id_str": "1293956943921532929",
-    "in_reply_to_screen_name": "C789a123Jiawei",
-    "in_reply_to_status_id": 1293955755025076224,
-    "in_reply_to_user_id": 302913061,
-    "lang": "zh",
-    "retweet_count": 1,
-    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
-    "urls": [
-      {
-        "expanded_url": "https://www.oflaherty-law.com/learn-about-law/can-someone-who-is-not-the-biological-father-sign-the-birth-certificate",
-        "url": "https://t.co/A68SCiivLW"
-      }
-    ],
-    "user": {
-      "id": 302913061,
-      "screen_name": "C789a123Jiawei"
-    },
-    "user_mentions": [
-      {
-        "id": 3830160917,
-        "id_str": "3830160917",
-        "name": "Ciping Huang 黄慈萍",
-        "screen_name": "huang_ciping"
-      }
-    ]
-  },
-  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-  "urls": [
-    {
-      "expanded_url": "https://www.oflaherty-law.com/learn-about-law/can-someone-who-is-not-the-biological-father-sign-the-birth-certificate",
-      "url": "https://t.co/A68SCiivLW"
-    }
-  ],
-  "user": {
-    "id": 1284363240974082048,
-    "screen_name": "Yangguang_USA"
-  },
-  "user_mentions": [
-    {
-      "id": 302913061,
-      "id_str": "302913061",
-      "name": "jiawei",
-      "screen_name": "C789a123Jiawei"
-    },
-    {
-      "id": 3830160917,
-      "id_str": "3830160917",
-      "name": "Ciping Huang 黄慈萍",
-      "screen_name": "huang_ciping"
-    }
-  ]
-}
-{
-  "created_at": "Fri Aug 14 09:39:59 +0000 2020",
-  "full_text": "RT @sjSVluifUw7zHYv: @Yangguang111 @wanyanhai @SwedenMoli2017 劉不是個簡單女人！有手腕！有心機！黃主任弄不過她",
-  "hashtags": [],
-  "id": 1294207129864134659,
-  "id_str": "1294207129864134659",
-  "lang": "zh",
-  "retweet_count": 1,
-  "retweeted_status": {
-    "created_at": "Fri Aug 14 09:27:08 +0000 2020",
-    "favorite_count": 1,
-    "full_text": "@Yangguang111 @wanyanhai @SwedenMoli2017 劉不是個簡單女人！有手腕！有心機！黃主任弄不過她",
-    "hashtags": [],
-    "id": 1294203893484666880,
-    "id_str": "1294203893484666880",
-    "in_reply_to_screen_name": "Yangguang_USA",
-    "in_reply_to_status_id": 1294195069218484224,
-    "in_reply_to_user_id": 1284363240974082048,
-    "lang": "zh",
-    "retweet_count": 1,
-    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "urls": [],
-    "user": {
-      "id": 1289967206684479488,
-      "screen_name": "sjSVluifUw7zHYv"
-    },
-    "user_mentions": [
-      {
-        "id": 83217998,
-        "id_str": "83217998",
-        "name": "Wan Yanhai",
-        "screen_name": "wanyanhai"
-      },
-      {
-        "id": 845310299603394560,
-        "id_str": "845310299603394560",
-        "name": "瑞典茉莉",
-        "screen_name": "SwedenMoli2017"
-      }
-    ]
-  },
-  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-  "urls": [],
-  "user": {
-    "id": 1284363240974082048,
-    "screen_name": "Yangguang_USA"
-  },
-  "user_mentions": [
-    {
-      "id": 1289967206684479488,
-      "id_str": "1289967206684479488",
-      "name": "000",
-      "screen_name": "sjSVluifUw7zHYv"
-    }
-  ]
-}
-{
-  "created_at": "Fri Aug 14 17:55:22 +0000 2020",
-  "full_text": "@LiuGang8964 你的意思是，对方写文章到处发，黄慈萍不能为被告辩护？黄慈萍被围攻，我和其他人不能为她辩护？",
-  "hashtags": [],
-  "id": 1294331795928829952,
-  "id_str": "1294331795928829952",
-  "in_reply_to_screen_name": "LiuGang8964",
-  "in_reply_to_status_id": 1294308802846699520,
-  "in_reply_to_user_id": 212849570,
-  "lang": "zh",
-  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-  "urls": [],
-  "user": {
-    "id": 1284363240974082048,
-    "screen_name": "Yangguang_USA"
-  },
-  "user_mentions": [
-    {
-      "id": 212849570,
-      "id_str": "212849570",
-      "name": "刘刚",
-      "screen_name": "LiuGang8964"
-    }
-  ]
-}
-{
   "created_at": "Fri Aug 14 18:01:59 +0000 2020",
   "favorite_count": 2,
   "full_text": "@LiuGang8964 你答非所问，你说黄慈萍和其他魏京生支持者搞个人崇拜，我问你怎么看原告的女支持者。\n\n你的所有回答都在说原告不需要证据就可以胜诉，魏京生会输然后被人暗杀。你是在恐吓威胁被告",
@@ -1531,12 +873,6 @@
       "id_str": "259795925",
       "name": "徐沛 XU Pei",
       "screen_name": "XuPeiGermany"
-    },
-    {
-      "id": 1208387105111658497,
-      "id_str": "1208387105111658497",
-      "name": "Truth Matter-2/律政悟空，IForYou",
-      "screen_name": "detecti28108231"
     },
     {
       "id": 3352592393,
@@ -7523,32 +6859,6 @@
   ]
 }
 {
-  "created_at": "Sun Aug 16 05:40:17 +0000 2020",
-  "favorite_count": 4,
-  "full_text": "@huang_ciping 前面的官司打了5年，女方说他毁约，说他曾答应给五百万，法庭认为合约无效，DNA亲自鉴定孩子不是他的，他反诉五百万，不知道反诉成功否，还没查到，两个案子都有借鉴意义。\nPaternity fraud泛滥，造假，诬告，DNA鉴定做假，等等。女性的尊严何在？大量的真正的女性受害者得不到帮助，假受害者招摇撞骗",
-  "hashtags": [],
-  "id": 1294871583694061569,
-  "id_str": "1294871583694061569",
-  "in_reply_to_screen_name": "huang_ciping",
-  "in_reply_to_status_id": 1294865034192003073,
-  "in_reply_to_user_id": 3830160917,
-  "lang": "zh",
-  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-  "urls": [],
-  "user": {
-    "id": 1284363240974082048,
-    "screen_name": "Yangguang_USA"
-  },
-  "user_mentions": [
-    {
-      "id": 3830160917,
-      "id_str": "3830160917",
-      "name": "Ciping Huang 黄慈萍",
-      "screen_name": "huang_ciping"
-    }
-  ]
-}
-{
   "created_at": "Sun Aug 16 05:43:01 +0000 2020",
   "favorite_count": 3,
   "full_text": "@huang_ciping @luo_yu_feng @4aCCPfreeChina @QXGjdpYYVnHrc2f @kaiwen_kesitena @XuPeiGermany @WEI_JINGSHENG @Angle8964 @lovedcyrose @wutingzy @ZhouFengSuo @FengCongde @ShengXue_ca @free_and_true @zhaoxin8964 @zhaoyan818 @liqunchen @yeningusa @ljpJames @MJTVxchen15 @xianglin8964 @caichu88 @shanshuiyouyan @usa_gaoshenghan @juntaowang @wangdan1989 @HuPing1 @NewCenturyBaopu @dongle_smith @monkey_qtds2 @libert_zlin @qqiaoqiao @Tangfu1 @C789a123Jiawei @milpitas95035 @hongfuding @ar2652006328 @2014hellokitty @XHuan11 @jane680714 前面的官司打了5年，女方说他毁约，说他曾答应给五百万，法庭判决合约无效，DNA亲自鉴定孩子不是他的，他反诉五百万，不知道反诉成功否，还没查到,两个案子都与当前的非常相似.\nPaternity fraud泛滥，造假，诬告，DNA鉴定做假,等等.女性的尊严何在？大量的真正的女性受害者得不到帮助,假受害者招摇撞骗",
@@ -8570,6 +7880,62 @@
       "id_str": "302913061",
       "name": "jiawei",
       "screen_name": "C789a123Jiawei"
+    }
+  ]
+}
+{
+  "created_at": "Sun Aug 16 07:29:01 +0000 2020",
+  "full_text": "RT @wang1333: @FengCongde 这是中共伪政权的老把戏了！因为中共伪政权深知，搞臭一个人，从男女关系最容易突破，因此，它最爱做的就是无中生有。",
+  "hashtags": [],
+  "id": 1294898947656318978,
+  "id_str": "1294898947656318978",
+  "lang": "zh",
+  "retweet_count": 2,
+  "retweeted_status": {
+    "created_at": "Sat Aug 15 19:44:13 +0000 2020",
+    "favorite_count": 6,
+    "full_text": "@FengCongde 这是中共伪政权的老把戏了！因为中共伪政权深知，搞臭一个人，从男女关系最容易突破，因此，它最爱做的就是无中生有。",
+    "hashtags": [],
+    "id": 1294721577083383811,
+    "id_str": "1294721577083383811",
+    "in_reply_to_screen_name": "FengCongde",
+    "in_reply_to_status_id": 1294700077148119040,
+    "in_reply_to_user_id": 210878151,
+    "lang": "zh",
+    "retweet_count": 2,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "urls": [],
+    "user": {
+      "id": 1370778750,
+      "screen_name": "wang1333"
+    },
+    "user_mentions": [
+      {
+        "id": 210878151,
+        "id_str": "210878151",
+        "name": "封從德",
+        "screen_name": "FengCongde"
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "urls": [],
+  "user": {
+    "id": 1284363240974082048,
+    "screen_name": "Yangguang_USA"
+  },
+  "user_mentions": [
+    {
+      "id": 1370778750,
+      "id_str": "1370778750",
+      "name": "Leftists Are Tumors to the World",
+      "screen_name": "wang1333"
+    },
+    {
+      "id": 210878151,
+      "id_str": "210878151",
+      "name": "封從德",
+      "screen_name": "FengCongde"
     }
   ]
 }
@@ -22740,7 +22106,7 @@
   "retweet_count": 432,
   "retweeted_status": {
     "created_at": "Wed Sep 02 01:59:02 +0000 2020",
-    "favorite_count": 1881,
+    "favorite_count": 1880,
     "full_text": "从小学一年级起禁止母语教学，全部采用汉语教学，这种文化断根的灭族做法，极为邪恶。 https://t.co/0Cd4aED8rn",
     "hashtags": [],
     "id": 1300976498971738112,
@@ -24039,7 +23405,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Fri Sep 11 19:30:33 +0000 2020",
-      "favorite_count": 1471,
+      "favorite_count": 1472,
       "full_text": "【独家】蔡霞：中国的政治出路——去习、非共、变革、和平 https://t.co/sl0qrudVVJ",
       "hashtags": [],
       "id": 1304502611123470336,
@@ -25991,369 +25357,6 @@
   ]
 }
 {
-  "created_at": "Sat Sep 12 20:12:46 +0000 2020",
-  "full_text": "@ShangYa97766113 @luo_yu_feng @liaoyiwu1 @yujie89 @huaizhao @huang_ciping @weijingsheng123 @zengjinyan @wenyunchao @degewa @hz8964 @huyong @chenping123 @ZhouFengSuo @FengCongde @HeQinglian @puzhiqiang @ShengXue_ca @LiuGang8964 @shanshuiyouyan 最近得知魏京生2000年3月16日去过洛杉矶 https://t.co/drHiU5lLEw\n并得知黄慈萍没去。我建议不必庭上互撕，但黄说支持老魏坚决反击诬告。\n\"坚决反击\"真的是老魏的意思吗? 法庭是反击的地方?\n美国民事案件97%都是庭外调解。谁最不希望刘v魏一案庭外调解呢? 请参与这个民意调查: https://t.co/HGCaBm7vAJ",
-  "hashtags": [],
-  "id": 1304875623878258688,
-  "id_str": "1304875623878258688",
-  "in_reply_to_screen_name": "ShangYa97766113",
-  "in_reply_to_status_id": 1295673944863911938,
-  "in_reply_to_user_id": 1288004631017086976,
-  "lang": "zh",
-  "quoted_status": {
-    "created_at": "Sat Sep 12 08:21:18 +0000 2020",
-    "full_text": "@luo_yu_feng @Joelgao2020 @LiHongKuan @Angle8964 @detecti28108231 @huang_ciping @XuPeiGermany @WEI_JINGSHENG @lovedcyrose @wutingzy @wenyunchao @ZhouFengSuo @FengCongde @LiuGang8964 @newqiyu @1965_gxyyiyjs @XiaYeliang @Watching_1984 @NewCenturyBaopu @free_and_true @ADd9zsWdzJhy7Zv @d9bd9b @dongle_smith @usa_gaoshenghan @wangdan1989 @jerrykukoc @chenbing171819 @yinquanliu @libert_zlin @yeningusa @zhaoyan818 @BobFu4China @MilesYu196288 第一次民调。刘怀昭v.魏京生一案，如果庭外和解，谁最失望？",
-    "hashtags": [],
-    "id": 1304696577630466049,
-    "id_str": "1304696577630466049",
-    "in_reply_to_screen_name": "luo_yu_feng",
-    "in_reply_to_status_id": 1304692146084118529,
-    "in_reply_to_user_id": 886081539230097408,
-    "lang": "zh",
-    "retweet_count": 2,
-    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "urls": [],
-    "user": {
-      "id": 1284363240974082048,
-      "screen_name": "Yangguang_USA"
-    },
-    "user_mentions": [
-      {
-        "id": 886081539230097408,
-        "id_str": "886081539230097408",
-        "name": "凤姐有话说",
-        "screen_name": "luo_yu_feng"
-      },
-      {
-        "id": 1218536335805313024,
-        "id_str": "1218536335805313024",
-        "name": "高",
-        "screen_name": "Joelgao2020"
-      },
-      {
-        "id": 257336146,
-        "id_str": "257336146",
-        "name": "李洪宽@大参考",
-        "screen_name": "LiHongKuan"
-      },
-      {
-        "id": 1193489078,
-        "id_str": "1193489078",
-        "name": "安琪Angel",
-        "screen_name": "Angle8964"
-      },
-      {
-        "id": 1208387105111658497,
-        "id_str": "1208387105111658497",
-        "name": "Truth Matter-2/律政悟空，IForYou",
-        "screen_name": "detecti28108231"
-      },
-      {
-        "id": 3830160917,
-        "id_str": "3830160917",
-        "name": "Ciping Huang 黄慈萍",
-        "screen_name": "huang_ciping"
-      },
-      {
-        "id": 259795925,
-        "id_str": "259795925",
-        "name": "徐沛 XU Pei",
-        "screen_name": "XuPeiGermany"
-      },
-      {
-        "id": 3352592393,
-        "id_str": "3352592393",
-        "name": "Wei Jingsheng魏京生",
-        "screen_name": "WEI_JINGSHENG"
-      },
-      {
-        "id": 860099781481213954,
-        "id_str": "860099781481213954",
-        "name": "🍃🌸蔷薇🌸🍃",
-        "screen_name": "lovedcyrose"
-      },
-      {
-        "id": 812156106189324292,
-        "id_str": "812156106189324292",
-        "name": "雾亭",
-        "screen_name": "wutingzy"
-      },
-      {
-        "id": 14581421,
-        "id_str": "14581421",
-        "name": "Wen",
-        "screen_name": "wenyunchao"
-      },
-      {
-        "id": 202963011,
-        "id_str": "202963011",
-        "name": "周锋锁 Fengsuo Zhou",
-        "screen_name": "ZhouFengSuo"
-      },
-      {
-        "id": 210878151,
-        "id_str": "210878151",
-        "name": "封從德",
-        "screen_name": "FengCongde"
-      },
-      {
-        "id": 212849570,
-        "id_str": "212849570",
-        "name": "刘刚",
-        "screen_name": "LiuGang8964"
-      },
-      {
-        "id": 839837539372568576,
-        "id_str": "839837539372568576",
-        "name": "齐彧",
-        "screen_name": "newqiyu"
-      },
-      {
-        "id": 884095357151358976,
-        "id_str": "884095357151358976",
-        "name": "千山胡说1965",
-        "screen_name": "1965_gxyyiyjs"
-      },
-      {
-        "id": 49580825,
-        "id_str": "49580825",
-        "name": "夏業良",
-        "screen_name": "XiaYeliang"
-      },
-      {
-        "id": 547112588,
-        "id_str": "547112588",
-        "name": "Bao Pu 鮑樸",
-        "screen_name": "NewCenturyBaopu"
-      },
-      {
-        "id": 263472219,
-        "id_str": "263472219",
-        "name": "硅谷码农",
-        "screen_name": "free_and_true"
-      },
-      {
-        "id": 1253972200207585281,
-        "id_str": "1253972200207585281",
-        "name": "秋风客",
-        "screen_name": "ADd9zsWdzJhy7Zv"
-      },
-      {
-        "id": 45062459,
-        "id_str": "45062459",
-        "name": "带九个表",
-        "screen_name": "d9bd9b"
-      },
-      {
-        "id": 852590009685131264,
-        "id_str": "852590009685131264",
-        "name": "白看戏🔎",
-        "screen_name": "dongle_smith"
-      },
-      {
-        "id": 2586791480,
-        "id_str": "2586791480",
-        "name": "高勝寒",
-        "screen_name": "usa_gaoshenghan"
-      },
-      {
-        "id": 98864871,
-        "id_str": "98864871",
-        "name": "王丹",
-        "screen_name": "wangdan1989"
-      },
-      {
-        "id": 1173760509826469888,
-        "id_str": "1173760509826469888",
-        "name": "jerrykukoc",
-        "screen_name": "jerrykukoc"
-      },
-      {
-        "id": 839107380159856641,
-        "id_str": "839107380159856641",
-        "name": "姚诚",
-        "screen_name": "chenbing171819"
-      },
-      {
-        "id": 892107998600024067,
-        "id_str": "892107998600024067",
-        "name": "刘因全",
-        "screen_name": "yinquanliu"
-      },
-      {
-        "id": 957596668282724357,
-        "id_str": "957596668282724357",
-        "name": "張林視野",
-        "screen_name": "libert_zlin"
-      },
-      {
-        "id": 1165924908,
-        "id_str": "1165924908",
-        "name": "叶宁",
-        "screen_name": "yeningusa"
-      },
-      {
-        "id": 114254401,
-        "id_str": "114254401",
-        "name": "赵岩",
-        "screen_name": "zhaoyan818"
-      },
-      {
-        "id": 172509769,
-        "id_str": "172509769",
-        "name": "Bob Fu傅希秋",
-        "screen_name": "BobFu4China"
-      },
-      {
-        "id": 1276393593800757248,
-        "id_str": "1276393593800757248",
-        "name": "余茂春",
-        "screen_name": "MilesYu196288"
-      }
-    ]
-  },
-  "quoted_status_id": 1304696577630466049,
-  "quoted_status_id_str": "1304696577630466049",
-  "retweet_count": 1,
-  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-  "urls": [
-    {
-      "expanded_url": "https://www.uscirf.gov/news-room/press-releases/commission-sets-la-hearing-china",
-      "url": "https://t.co/drHiU5lLEw"
-    },
-    {
-      "expanded_url": "https://twitter.com/Yangguang111/status/1304696577630466049",
-      "url": "https://t.co/HGCaBm7vAJ"
-    }
-  ],
-  "user": {
-    "id": 1284363240974082048,
-    "screen_name": "Yangguang_USA"
-  },
-  "user_mentions": [
-    {
-      "id": 1288004631017086976,
-      "id_str": "1288004631017086976",
-      "name": "Shang-Yang",
-      "screen_name": "ShangYa97766113"
-    },
-    {
-      "id": 886081539230097408,
-      "id_str": "886081539230097408",
-      "name": "凤姐有话说",
-      "screen_name": "luo_yu_feng"
-    },
-    {
-      "id": 963797622,
-      "id_str": "963797622",
-      "name": "廖亦武 Liao Yiwu",
-      "screen_name": "liaoyiwu1"
-    },
-    {
-      "id": 101662378,
-      "id_str": "101662378",
-      "name": "余杰",
-      "screen_name": "yujie89"
-    },
-    {
-      "id": 37938987,
-      "id_str": "37938987",
-      "name": "Huaizhao 懷昭",
-      "screen_name": "huaizhao"
-    },
-    {
-      "id": 3830160917,
-      "id_str": "3830160917",
-      "name": "Ciping Huang 黄慈萍",
-      "screen_name": "huang_ciping"
-    },
-    {
-      "id": 3342847623,
-      "id_str": "3342847623",
-      "name": "魏京生weijingsheng",
-      "screen_name": "weijingsheng123"
-    },
-    {
-      "id": 9031202,
-      "id_str": "9031202",
-      "name": "Zeng Jinyan 曾金燕",
-      "screen_name": "zengjinyan"
-    },
-    {
-      "id": 14581421,
-      "id_str": "14581421",
-      "name": "Wen",
-      "screen_name": "wenyunchao"
-    },
-    {
-      "id": 54163405,
-      "id_str": "54163405",
-      "name": "འོད་ཟེར།唯色Woeser😷",
-      "screen_name": "degewa"
-    },
-    {
-      "id": 116440928,
-      "id_str": "116440928",
-      "name": "Hua Ze",
-      "screen_name": "hz8964"
-    },
-    {
-      "id": 7401322,
-      "id_str": "7401322",
-      "name": "Hu Yong",
-      "screen_name": "huyong"
-    },
-    {
-      "id": 175628008,
-      "id_str": "175628008",
-      "name": "陳平觀世界",
-      "screen_name": "chenping123"
-    },
-    {
-      "id": 202963011,
-      "id_str": "202963011",
-      "name": "周锋锁 Fengsuo Zhou",
-      "screen_name": "ZhouFengSuo"
-    },
-    {
-      "id": 210878151,
-      "id_str": "210878151",
-      "name": "封從德",
-      "screen_name": "FengCongde"
-    },
-    {
-      "id": 126798663,
-      "id_str": "126798663",
-      "name": "He Qinglian",
-      "screen_name": "HeQinglian"
-    },
-    {
-      "id": 58169383,
-      "id_str": "58169383",
-      "name": "浦志强",
-      "screen_name": "puzhiqiang"
-    },
-    {
-      "id": 118169394,
-      "id_str": "118169394",
-      "name": "盛雪 SHENG Xue",
-      "screen_name": "ShengXue_ca"
-    },
-    {
-      "id": 212849570,
-      "id_str": "212849570",
-      "name": "刘刚",
-      "screen_name": "LiuGang8964"
-    },
-    {
-      "id": 49275929,
-      "id_str": "49275929",
-      "name": "山水幽燕",
-      "screen_name": "shanshuiyouyan"
-    }
-  ]
-}
-{
   "created_at": "Sat Sep 12 20:13:13 +0000 2020",
   "full_text": "RT @Yangguang111: @ShangYa97766113 @luo_yu_feng @liaoyiwu1 @yujie89 @huaizhao @huang_ciping @weijingsheng123 @zengjinyan @wenyunchao @degew…",
   "hashtags": [],
@@ -27799,6 +26802,33 @@
       "id_str": "1193489078",
       "name": "安琪Angel",
       "screen_name": "Angle8964"
+    }
+  ]
+}
+{
+  "created_at": "Sat Sep 12 22:09:56 +0000 2020",
+  "favorite_count": 1,
+  "full_text": "@heanquan 仔细看我的全部推文，我曾经一条一条论证了刘服务的媒体都被转手，都有亲共背景。\n\n我没有180度转弯，我只是建议此事应尽早庭外settle。\n\n道歉? 做梦吧。我对刘怀昭和黄慈萍的质疑都有证据，一个贪钱，一个嫉妒心强、控制欲强。老魏的名节将会毁于她们两人的撕逼中",
+  "hashtags": [],
+  "id": 1304905108455473153,
+  "id_str": "1304905108455473153",
+  "in_reply_to_screen_name": "heanquan",
+  "in_reply_to_status_id": 1304898764864475138,
+  "in_reply_to_user_id": 2411954377,
+  "lang": "zh",
+  "retweet_count": 1,
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "urls": [],
+  "user": {
+    "id": 1284363240974082048,
+    "screen_name": "Yangguang_USA"
+  },
+  "user_mentions": [
+    {
+      "id": 2411954377,
+      "id_str": "2411954377",
+      "name": "何岸泉",
+      "screen_name": "heanquan"
     }
   ]
 }
@@ -31074,7 +30104,7 @@
   "lang": "zh",
   "quoted_status": {
     "created_at": "Sun Sep 13 05:10:25 +0000 2020",
-    "favorite_count": 670,
+    "favorite_count": 669,
     "full_text": "这可是重磅带加磅的消息！\n英国快报刚刚报道，英国前国防工业顾问认为，习近平将在疫情告一段落后辞职！\n这位顾问认为，由于世界主要国家公开指责中国隐匿疫情，新西兰将于11月发布调查报告。英国脱欧后与与五眼联盟一起发难，为避免数万亿美元损失的冷战，习很快会辞职。\nhttps://t.co/9vVhEPLVHa",
     "hashtags": [],
     "id": 1305010928526618625,
@@ -36038,7 +35068,7 @@
   "retweet_count": 313,
   "retweeted_status": {
     "created_at": "Mon Sep 14 09:45:16 +0000 2020",
-    "favorite_count": 1288,
+    "favorite_count": 1287,
     "full_text": "９月１４日星期一，美國國務卿蓬佩奧宣佈，美國駐華大使特里－布蘭斯塔德已經辭職，但他沒有透露布蘭斯塔德的辭職原因。他的辭職給美中關係帶來了更大的不確定性。若川普不任命新駐華大使，美中外交關係將實際上降格到代辦級。有分析認為，大使返國是美中關係向脫鈎方向發展的另一重要徵兆。",
     "hashtags": [],
     "id": 1305442484860923904,
@@ -40401,7 +39431,7 @@
       {
         "id": 192662752,
         "id_str": "192662752",
-        "name": "baiqiao tang 唐柏桥",
+        "name": "佛州家園",
         "screen_name": "tangbaiqiao"
       },
       {
@@ -41547,7 +40577,7 @@
   "retweet_count": 301,
   "retweeted_status": {
     "created_at": "Mon Sep 21 19:07:45 +0000 2020",
-    "favorite_count": 739,
+    "favorite_count": 738,
     "full_text": "重磅：联邦调查局逮捕了一名纽约藏族警察，并指控他作为中国政府的非法代理人。\n白玛达杰-昂旺是被逮捕的警官，中国新移民，他曾被派往皇后区分局。美国藏人最多的社区。\n根据指控文件，昂旺涉嫌报告藏人的活动，出卖藏人情报，并利用他在纽约警察局的职位向中国传递有关纽约警察局内部的非公开信息。 https://t.co/4yF0deDKCo",
     "hashtags": [],
     "id": 1308120753066274816,
@@ -41607,38 +40637,6 @@
     "screen_name": "Yangguang_USA"
   },
   "user_mentions": []
-}
-{
-  "created_at": "Tue Sep 22 02:30:06 +0000 2020",
-  "favorite_count": 1,
-  "full_text": "@1957spirit @dongle_smith 你截屏的最后一句话，lack of \"subject matter\" jurisdiction，也就是说，看是什么claim, 不是所有的claims都无管辖权。当然你对原告的提醒是非常必要的，她的官司最大可能就是被打掉。\n马里兰，对被告最好，对原告最不好",
-  "hashtags": [],
-  "id": 1308232070573957120,
-  "id_str": "1308232070573957120",
-  "in_reply_to_screen_name": "1957spirit",
-  "in_reply_to_status_id": 1308226306933391360,
-  "in_reply_to_user_id": 219207253,
-  "lang": "zh",
-  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-  "urls": [],
-  "user": {
-    "id": 1284363240974082048,
-    "screen_name": "Yangguang_USA"
-  },
-  "user_mentions": [
-    {
-      "id": 219207253,
-      "id_str": "219207253",
-      "name": "陈闯创",
-      "screen_name": "1957spirit"
-    },
-    {
-      "id": 852590009685131264,
-      "id_str": "852590009685131264",
-      "name": "白看戏🔎",
-      "screen_name": "dongle_smith"
-    }
-  ]
 }
 {
   "created_at": "Tue Sep 22 02:30:06 +0000 2020",
@@ -41883,6 +40881,25 @@
   "in_reply_to_status_id": 1308298078722555905,
   "in_reply_to_user_id": 1284363240974082048,
   "lang": "zh",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "urls": [],
+  "user": {
+    "id": 1284363240974082048,
+    "screen_name": "Yangguang_USA"
+  },
+  "user_mentions": []
+}
+{
+  "created_at": "Tue Sep 22 07:38:58 +0000 2020",
+  "full_text": "50\n最恐怖的是，反诉状有很多对刘有利之处\n\n举证在原告，刘还没举证，被告就在反诉中开始辩护\n\n3月16在洛杉矶，接受了很多记者采访（这就不排除刘采访），但不记得与刘接触、性交（不记得不等于没有)\n\n2018年10/4 魏被告知DNA显示他是父亲，但没收到鉴定报告，怀疑真实性和可靠性（蠢,你自己安排的DNA",
+  "hashtags": [],
+  "id": 1308309803094036481,
+  "id_str": "1308309803094036481",
+  "in_reply_to_screen_name": "Yangguang_USA",
+  "in_reply_to_status_id": 1308309801936384000,
+  "in_reply_to_user_id": 1284363240974082048,
+  "lang": "zh",
+  "retweet_count": 1,
   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
   "urls": [],
   "user": {
@@ -44393,7 +43410,7 @@
   "retweet_count": 159,
   "retweeted_status": {
     "created_at": "Sat Sep 26 23:43:49 +0000 2020",
-    "favorite_count": 1217,
+    "favorite_count": 1216,
     "full_text": "刚刚收到一信息，几十年不变的天安门城楼上那张脸要变了。腊肉下地了，包子要挂了，想起了郭德纲的相声.......",
     "hashtags": [],
     "id": 1310002165470105600,
@@ -53119,28 +52136,6 @@
   "user_mentions": []
 }
 {
-  "created_at": "Thu Oct 08 08:59:11 +0000 2020",
-  "full_text": "CCP病毒的传播力非常强大，川普轻视了，太遗憾!\n即使治好，后遗症也很严重.\n我去Covid-19测试中心做了一天义工，测试者每人发一个免费测试袋，里面是一个试管，把口腔唾液用棉签刮下放进去。有了DNA样品，可以检测出很多指标，covid-19用核酸检测. (其它的比如如癌症、祖先、亲子关系等，取样方式一样) https://t.co/7QgKKkXLii",
-  "hashtags": [],
-  "id": 1314128194044260352,
-  "id_str": "1314128194044260352",
-  "lang": "zh",
-  "quoted_status_id": 1313657812283781121,
-  "quoted_status_id_str": "1313657812283781121",
-  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-  "urls": [
-    {
-      "expanded_url": "https://twitter.com/LiuGang8964/status/1313657812283781121",
-      "url": "https://t.co/7QgKKkXLii"
-    }
-  ],
-  "user": {
-    "id": 1284363240974082048,
-    "screen_name": "Yangguang_USA"
-  },
-  "user_mentions": []
-}
-{
   "created_at": "Thu Oct 08 17:44:47 +0000 2020",
   "full_text": "@lingelisawli @LiHongKuan @lianjun6 @dongle_smith @BlesschinaGod @QXGjdpYYVnHrc2f @xuanye1988 @yun64770366 @huang_ciping @luo_yu_feng @XuPeiGermany @WEI_JINGSHENG @Angle8964 @lovedcyrose @wutingzy @FengCongde @ShengXue_ca @LiuGang8964 @free_and_true @zhaoxin8964 @liqunchen @yeningusa @ljpJames @MJTVxchen15 @xianglin8964 @shanshuiyouyan @realLudecheng @juntaowang @wangdan1989 @HuPing1 @NewCenturyBaopu @monkey_qtds2 魏京生的律师昨天，10月7日，截止日最后一天，向法院递交了文件，阐述了将家事法庭的亲子案合并到联邦法庭的理由，也就是good cause。\n看法官怎么决定吧。\n如果合并成功，魏黄还是有赢的希望。\n两军相拼，智者胜。",
   "hashtags": [],
@@ -53489,6 +52484,247 @@
       "id_str": "1165924908",
       "name": "叶宁",
       "screen_name": "yeningusa"
+    }
+  ]
+}
+{
+  "created_at": "Fri Oct 09 20:31:20 +0000 2020",
+  "full_text": "RT @Yangguang111: @lingelisawli @LiHongKuan @lianjun6 @dongle_smith @BlesschinaGod @QXGjdpYYVnHrc2f @xuanye1988 @yun64770366 @huang_ciping…",
+  "hashtags": [],
+  "id": 1314664768372834304,
+  "id_str": "1314664768372834304",
+  "lang": "zh",
+  "retweet_count": 1,
+  "retweeted_status": {
+    "created_at": "Thu Oct 08 17:44:47 +0000 2020",
+    "full_text": "@lingelisawli @LiHongKuan @lianjun6 @dongle_smith @BlesschinaGod @QXGjdpYYVnHrc2f @xuanye1988 @yun64770366 @huang_ciping @luo_yu_feng @XuPeiGermany @WEI_JINGSHENG @Angle8964 @lovedcyrose @wutingzy @FengCongde @ShengXue_ca @LiuGang8964 @free_and_true @zhaoxin8964 @liqunchen @yeningusa @ljpJames @MJTVxchen15 @xianglin8964 @shanshuiyouyan @realLudecheng @juntaowang @wangdan1989 @HuPing1 @NewCenturyBaopu @monkey_qtds2 魏京生的律师昨天，10月7日，截止日最后一天，向法院递交了文件，阐述了将家事法庭的亲子案合并到联邦法庭的理由，也就是good cause。\n看法官怎么决定吧。\n如果合并成功，魏黄还是有赢的希望。\n两军相拼，智者胜。",
+    "hashtags": [],
+    "id": 1314260466802147330,
+    "id_str": "1314260466802147330",
+    "in_reply_to_screen_name": "Yangguang_USA",
+    "in_reply_to_status_id": 1314112200538165254,
+    "in_reply_to_user_id": 1284363240974082048,
+    "lang": "zh",
+    "retweet_count": 1,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "urls": [],
+    "user": {
+      "id": 1284363240974082048,
+      "screen_name": "Yangguang_USA"
+    },
+    "user_mentions": [
+      {
+        "id": 160163032,
+        "id_str": "160163032",
+        "name": "ElisaW",
+        "screen_name": "lingelisawli"
+      },
+      {
+        "id": 257336146,
+        "id_str": "257336146",
+        "name": "李洪宽@大参考",
+        "screen_name": "LiHongKuan"
+      },
+      {
+        "id": 2908805011,
+        "id_str": "2908805011",
+        "name": "吉普赛人",
+        "screen_name": "lianjun6"
+      },
+      {
+        "id": 852590009685131264,
+        "id_str": "852590009685131264",
+        "name": "白看戏🔎",
+        "screen_name": "dongle_smith"
+      },
+      {
+        "id": 1135566541657923584,
+        "id_str": "1135566541657923584",
+        "name": "反共大联盟",
+        "screen_name": "QXGjdpYYVnHrc2f"
+      },
+      {
+        "id": 1138676205224386565,
+        "id_str": "1138676205224386565",
+        "name": "草包帝的爹",
+        "screen_name": "xuanye1988"
+      },
+      {
+        "id": 3830160917,
+        "id_str": "3830160917",
+        "name": "Ciping Huang 黄慈萍",
+        "screen_name": "huang_ciping"
+      },
+      {
+        "id": 886081539230097408,
+        "id_str": "886081539230097408",
+        "name": "凤姐有话说",
+        "screen_name": "luo_yu_feng"
+      },
+      {
+        "id": 259795925,
+        "id_str": "259795925",
+        "name": "徐沛 XU Pei",
+        "screen_name": "XuPeiGermany"
+      },
+      {
+        "id": 3352592393,
+        "id_str": "3352592393",
+        "name": "Wei Jingsheng魏京生",
+        "screen_name": "WEI_JINGSHENG"
+      },
+      {
+        "id": 1193489078,
+        "id_str": "1193489078",
+        "name": "安琪Angel",
+        "screen_name": "Angle8964"
+      },
+      {
+        "id": 860099781481213954,
+        "id_str": "860099781481213954",
+        "name": "🍃🌸蔷薇🌸🍃",
+        "screen_name": "lovedcyrose"
+      },
+      {
+        "id": 812156106189324292,
+        "id_str": "812156106189324292",
+        "name": "雾亭",
+        "screen_name": "wutingzy"
+      },
+      {
+        "id": 210878151,
+        "id_str": "210878151",
+        "name": "封從德",
+        "screen_name": "FengCongde"
+      },
+      {
+        "id": 118169394,
+        "id_str": "118169394",
+        "name": "盛雪 SHENG Xue",
+        "screen_name": "ShengXue_ca"
+      },
+      {
+        "id": 212849570,
+        "id_str": "212849570",
+        "name": "刘刚",
+        "screen_name": "LiuGang8964"
+      },
+      {
+        "id": 263472219,
+        "id_str": "263472219",
+        "name": "硅谷码农",
+        "screen_name": "free_and_true"
+      },
+      {
+        "id": 149676479,
+        "id_str": "149676479",
+        "name": "Zhao Xin 赵昕",
+        "screen_name": "zhaoxin8964"
+      },
+      {
+        "id": 370360107,
+        "id_str": "370360107",
+        "name": "liqun chen（陈立群）",
+        "screen_name": "liqunchen"
+      },
+      {
+        "id": 1165924908,
+        "id_str": "1165924908",
+        "name": "叶宁",
+        "screen_name": "yeningusa"
+      },
+      {
+        "id": 863895718997749764,
+        "id_str": "863895718997749764",
+        "name": "赖建平James Lai🇨🇦",
+        "screen_name": "ljpJames"
+      },
+      {
+        "id": 49869714,
+        "id_str": "49869714",
+        "name": "陈小平",
+        "screen_name": "MJTVxchen15"
+      },
+      {
+        "id": 1490443346,
+        "id_str": "1490443346",
+        "name": "相林🌸",
+        "screen_name": "xianglin8964"
+      },
+      {
+        "id": 49275929,
+        "id_str": "49275929",
+        "name": "山水幽燕",
+        "screen_name": "shanshuiyouyan"
+      },
+      {
+        "id": 1103514694952706049,
+        "id_str": "1103514694952706049",
+        "name": "鲁德成 Ludecheng",
+        "screen_name": "realLudecheng"
+      },
+      {
+        "id": 49730238,
+        "id_str": "49730238",
+        "name": "王军涛",
+        "screen_name": "juntaowang"
+      },
+      {
+        "id": 98864871,
+        "id_str": "98864871",
+        "name": "王丹",
+        "screen_name": "wangdan1989"
+      },
+      {
+        "id": 118838969,
+        "id_str": "118838969",
+        "name": "Hu Ping胡平",
+        "screen_name": "HuPing1"
+      },
+      {
+        "id": 547112588,
+        "id_str": "547112588",
+        "name": "Bao Pu 鮑樸",
+        "screen_name": "NewCenturyBaopu"
+      },
+      {
+        "id": 1134577679750111234,
+        "id_str": "1134577679750111234",
+        "name": "反共先锋",
+        "screen_name": "monkey_qtds2"
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "urls": [],
+  "user": {
+    "id": 1284363240974082048,
+    "screen_name": "Yangguang_USA"
+  },
+  "user_mentions": [
+    {
+      "id": 160163032,
+      "id_str": "160163032",
+      "name": "ElisaW",
+      "screen_name": "lingelisawli"
+    },
+    {
+      "id": 257336146,
+      "id_str": "257336146",
+      "name": "李洪宽@大参考",
+      "screen_name": "LiHongKuan"
+    },
+    {
+      "id": 2908805011,
+      "id_str": "2908805011",
+      "name": "吉普赛人",
+      "screen_name": "lianjun6"
+    },
+    {
+      "id": 852590009685131264,
+      "id_str": "852590009685131264",
+      "name": "白看戏🔎",
+      "screen_name": "dongle_smith"
     }
   ]
 }
@@ -63937,10 +63173,10 @@
   "id": 1317938056758927361,
   "id_str": "1317938056758927361",
   "lang": "en",
-  "retweet_count": 511,
+  "retweet_count": 510,
   "retweeted_status": {
     "created_at": "Sun Oct 18 19:00:29 +0000 2020",
-    "favorite_count": 1208,
+    "favorite_count": 1209,
     "full_text": "#DYK the #FBI opens a China-related counterintelligence case nearly every 10 hours? Our agents and analysts combat threats the Chinese government poses to U.S. economic and national security. https://t.co/UXClR16SXm https://t.co/fWgQqB2uMq",
     "hashtags": [
       {
@@ -63964,7 +63200,7 @@
         "url": "https://t.co/fWgQqB2uMq"
       }
     ],
-    "retweet_count": 511,
+    "retweet_count": 510,
     "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
     "urls": [
       {
@@ -64327,7 +63563,7 @@
   "id": 1319102606824751104,
   "id_str": "1319102606824751104",
   "lang": "zh",
-  "retweet_count": 55,
+  "retweet_count": 54,
   "retweeted_status": {
     "created_at": "Thu Oct 22 01:25:08 +0000 2020",
     "favorite_count": 128,
@@ -64352,7 +63588,7 @@
     "in_reply_to_status_id": 1319048498772312067,
     "in_reply_to_user_id": 839837539372568576,
     "lang": "zh",
-    "retweet_count": 55,
+    "retweet_count": 54,
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
     "urls": [
       {
@@ -66525,7 +65761,7 @@
   "retweet_count": 178,
   "retweeted_status": {
     "created_at": "Tue Oct 27 00:52:32 +0000 2020",
-    "favorite_count": 1322,
+    "favorite_count": 1323,
     "full_text": "美国参议院批准巴雷特出任最高法院大法官 https://t.co/6Nsd3dMakg",
     "hashtags": [],
     "id": 1320891092267532289,
@@ -66700,7 +65936,7 @@
   "lang": "zh",
   "quoted_status": {
     "created_at": "Tue Oct 27 03:30:00 +0000 2020",
-    "favorite_count": 1869,
+    "favorite_count": 1870,
     "full_text": "多年以来，《大纪元时报》一直是一份有反华倾向的低预算小报，在纽约的街角免费派发。\n但自2016年以来，依靠激进的Facebook策略和右翼虚假信息，这份由法轮功支持的报纸创建了一个反中国、亲特朗普的媒体帝国，在全球制造不实信息，不断将边缘叙事推入主流。https://t.co/oOERPT5tbW",
     "hashtags": [],
     "id": 1320930721247031297,
@@ -67254,7 +66490,7 @@
   "lang": "zh",
   "quoted_status": {
     "created_at": "Wed Oct 28 00:52:03 +0000 2020",
-    "favorite_count": 762,
+    "favorite_count": 763,
     "full_text": "BREAKING: Chinese Communist Party-linked firm sent $10M to a JP Morgan Chase business account, with $5M earmarked specifically for “The Biden Family” in 2017.",
     "hashtags": [],
     "id": 1321253361937764352,
@@ -68219,7 +67455,7 @@
   "retweet_count": 124,
   "retweeted_status": {
     "created_at": "Mon Nov 09 05:58:03 +0000 2020",
-    "favorite_count": 513,
+    "favorite_count": 512,
     "full_text": "如此狂怒咒罵 #六四 #八九民運 參與者，看來 #斯坦福大學 #胡佛研究所 兩年前的報告將 #何頻 #明鏡 列入 #中共 #大外宣 名單一點也不冤枉他。前幾天何頻專門來澄清說他去澄清後，後來的報告就沒有明鏡了，我問差別在哪裏？沒有下文。這下和盤托出了。\n\nhttps://t.co/zWFUAj3dJo",
     "hashtags": [
       {
@@ -68412,7 +67648,7 @@
   "lang": "zh",
   "quoted_status": {
     "created_at": "Mon Nov 09 06:08:57 +0000 2020",
-    "favorite_count": 91,
+    "favorite_count": 90,
     "full_text": "這張圖表可能精確描述了 #大外宣 的層次結構，有人說 #明鏡 （及以前也是 #何頻 手中靠 #六四 起家的的 #多維，幾年前幾千萬美元「賣」給 #中共 了）屬於第九層，七分真三分假，關鍵時刻帶風向： https://t.co/E9xdKPnGNb",
     "hashtags": [
       {
@@ -68965,7 +68201,7 @@
   "lang": "ja",
   "quoted_status": {
     "created_at": "Wed Nov 11 14:07:14 +0000 2020",
-    "favorite_count": 271,
+    "favorite_count": 272,
     "full_text": "CNN的报道称，第一夫人梅拉妮娅是劝川普承认败选亲友之一，结果当即（不到一个消失）就被第一夫人怼在脸上。梅拉妮娅发推称，美国人民有权得到公正的选举。每一=张合法的选票，不是非法选票，都应该被计算。我们必须用完全的透明保护我们的民主。 https://t.co/qf5dlwyf6N",
     "hashtags": [],
     "id": 1326526903939985409,
@@ -69125,7 +68361,7 @@
   "lang": "zh",
   "quoted_status": {
     "created_at": "Fri Nov 13 05:40:17 +0000 2020",
-    "favorite_count": 543,
+    "favorite_count": 542,
     "full_text": "看到多位朋友和网友询问推特上一则我离开明镜的消息。我统一回复大家：小平没有离开明镜，我才下夜班节目。谢谢大家关心。",
     "hashtags": [],
     "id": 1327124102138769408,
@@ -69192,31 +68428,6 @@
     "screen_name": "Yangguang_USA"
   },
   "user_mentions": []
-}
-{
-  "created_at": "Fri Nov 13 20:20:54 +0000 2020",
-  "full_text": "@dongle_smith 一天只能测一次",
-  "hashtags": [],
-  "id": 1327345716109328384,
-  "id_str": "1327345716109328384",
-  "in_reply_to_screen_name": "dongle_smith",
-  "in_reply_to_status_id": 1327345235576324097,
-  "in_reply_to_user_id": 852590009685131264,
-  "lang": "zh",
-  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-  "urls": [],
-  "user": {
-    "id": 1284363240974082048,
-    "screen_name": "Yangguang_USA"
-  },
-  "user_mentions": [
-    {
-      "id": 852590009685131264,
-      "id_str": "852590009685131264",
-      "name": "白看戏🔎",
-      "screen_name": "dongle_smith"
-    }
-  ]
 }
 {
   "created_at": "Fri Nov 13 20:20:54 +0000 2020",
@@ -69513,10 +68724,10 @@
       "url": "https://t.co/qDb4hLQ80S"
     }
   ],
-  "retweet_count": 939,
+  "retweet_count": 936,
   "retweeted_status": {
     "created_at": "Sat Nov 14 12:23:25 +0000 2020",
-    "favorite_count": 2505,
+    "favorite_count": 2504,
     "full_text": "各大報紙頭條出奇的一致。美共中央宣傳部通稿！多麼熟悉的配方和味道啊！🤬🤬🤬 https://t.co/qDb4hLQ80S",
     "hashtags": [],
     "id": 1327587940378300416,
@@ -69533,7 +68744,7 @@
         "url": "https://t.co/qDb4hLQ80S"
       }
     ],
-    "retweet_count": 939,
+    "retweet_count": 936,
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
     "urls": [],
     "user": {
@@ -69629,6 +68840,52 @@
       "screen_name": "Cyrano7770"
     }
   ]
+}
+{
+  "created_at": "Sun Nov 15 02:59:18 +0000 2020",
+  "full_text": "四年前美国所有的主流媒体都唱衰川普，但他还是当选了，那就是民意。美国主流媒体被红色渗透之久，我们应该早一些警惕。 https://t.co/OVMawnPAcj",
+  "hashtags": [],
+  "id": 1327808365779566592,
+  "id_str": "1327808365779566592",
+  "lang": "zh",
+  "quoted_status": {
+    "created_at": "Sun Nov 15 02:39:20 +0000 2020",
+    "favorite_count": 61,
+    "full_text": "真实民意不是所谓主流媒体能够扭曲的！ https://t.co/PUTvgm6vY3",
+    "hashtags": [],
+    "id": 1327803341733236743,
+    "id_str": "1327803341733236743",
+    "lang": "zh",
+    "quoted_status_id": 1327787208636436482,
+    "quoted_status_id_str": "1327787208636436482",
+    "retweet_count": 4,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/EvanLi2020/status/1327787208636436482",
+        "url": "https://t.co/PUTvgm6vY3"
+      }
+    ],
+    "user": {
+      "id": 49580825,
+      "screen_name": "XiaYeliang"
+    },
+    "user_mentions": []
+  },
+  "quoted_status_id": 1327803341733236743,
+  "quoted_status_id_str": "1327803341733236743",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "urls": [
+    {
+      "expanded_url": "https://twitter.com/XiaYeliang/status/1327803341733236743",
+      "url": "https://t.co/OVMawnPAcj"
+    }
+  ],
+  "user": {
+    "id": 1284363240974082048,
+    "screen_name": "Yangguang_USA"
+  },
+  "user_mentions": []
 }
 {
   "created_at": "Sun Nov 15 02:59:18 +0000 2020",
@@ -69847,7 +69104,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Thu Nov 12 14:18:16 +0000 2020",
-      "favorite_count": 5519,
+      "favorite_count": 5517,
       "full_text": "FLASHBACK: Dr. Andrew Appel, a Princeton Professor of Computer Science, and an election security expert demonstrates in 2016 on Fox News how a Dominion Voting Machine could be hacked to switch votes from one candidate to another. https://t.co/PHx9eDg7Nt",
       "hashtags": [],
       "id": 1326892069667950592,
@@ -69914,7 +69171,7 @@
           }
         }
       ],
-      "retweet_count": 2928,
+      "retweet_count": 2926,
       "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
       "urls": [],
       "user": {
@@ -70276,7 +69533,7 @@
   "id": 1328884435563868161,
   "id_str": "1328884435563868161",
   "lang": "zh",
-  "retweet_count": 15,
+  "retweet_count": 14,
   "retweeted_status": {
     "created_at": "Wed Nov 18 01:02:35 +0000 2020",
     "favorite_count": 168,
@@ -70285,7 +69542,7 @@
     "id": 1328866157529427969,
     "id_str": "1328866157529427969",
     "lang": "zh",
-    "retweet_count": 15,
+    "retweet_count": 14,
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "urls": [],
     "user": {
@@ -70448,7 +69705,7 @@
   "id": 1328893009090408448,
   "id_str": "1328893009090408448",
   "lang": "zh",
-  "retweet_count": 334,
+  "retweet_count": 333,
   "retweeted_status": {
     "created_at": "Tue Nov 17 05:09:34 +0000 2020",
     "favorite_count": 805,
@@ -70457,7 +69714,7 @@
     "id": 1328565922685095938,
     "id_str": "1328565922685095938",
     "lang": "zh",
-    "retweet_count": 334,
+    "retweet_count": 333,
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
     "urls": [
       {
@@ -71145,7 +70402,7 @@
   "id": 1329891057471950849,
   "id_str": "1329891057471950849",
   "lang": "zh",
-  "retweet_count": 350,
+  "retweet_count": 349,
   "retweeted_status": {
     "created_at": "Fri Nov 20 16:29:56 +0000 2020",
     "favorite_count": 2168,
@@ -71154,7 +70411,7 @@
     "id": 1329824309003501569,
     "id_str": "1329824309003501569",
     "lang": "zh",
-    "retweet_count": 350,
+    "retweet_count": 349,
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
     "urls": [],
     "user": {
@@ -71240,7 +70497,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Fri Nov 20 05:53:56 +0000 2020",
-      "favorite_count": 3196,
+      "favorite_count": 3195,
       "full_text": "计算机教授出庭作证！ https://t.co/AEFrXLLx6V",
       "hashtags": [],
       "id": 1329664253826125824,
@@ -71438,7 +70695,7 @@
     "id": 1329737254777057281,
     "id_str": "1329737254777057281",
     "lang": "zh",
-    "retweet_count": 208,
+    "retweet_count": 207,
     "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
     "urls": [
       {
@@ -72523,7 +71780,7 @@
   "retweet_count": 4,
   "retweeted_status": {
     "created_at": "Mon Nov 23 15:23:18 +0000 2020",
-    "favorite_count": 88,
+    "favorite_count": 87,
     "full_text": "@yangjianli001 杨建利说川普“制造选后宪政危机”，意思是川普不承认目前的选举结果造成宪政危机。但是川普说选举舞弊才是真正的宪政危机。那么选举舞弊的指控是否存在才是宪政危机的起因。杨建利如果说没有舞弊，那就直接按照媒体的口径说就可以。说什么“我不介入两党政争”，那真是又要当婊子又要立牌坊。",
     "hashtags": [],
     "id": 1330894702166544386,
@@ -73139,7 +72396,7 @@
   "lang": "zh",
   "quoted_status": {
     "created_at": "Mon Nov 23 13:49:09 +0000 2020",
-    "favorite_count": 353,
+    "favorite_count": 352,
     "full_text": "@yangjianli001 看了此帖下的评论不由得感叹：杨建利投身海外民运30多年居然得到如此负面的公众形象？“民运小诸葛”似乎混得有点惨！这是“聪明反被聪明误”吗？有利可图时大秀与创普总统的合影，似乎已“介入”美国政策制定；判定拜登胜出时则急忙贬低和归罪创普，是想撇清本来就不存在的干系？做人不能太建利！",
     "hashtags": [],
     "id": 1330871010468491266,
@@ -73298,16 +72555,16 @@
   "id": 1331082256052457475,
   "id_str": "1331082256052457475",
   "lang": "zh",
-  "retweet_count": 613,
+  "retweet_count": 612,
   "retweeted_status": {
     "created_at": "Tue Nov 24 02:52:19 +0000 2020",
-    "favorite_count": 3184,
+    "favorite_count": 3183,
     "full_text": "杨建利发推批川普不反共，不仅完全背离事实，还有向拜登献媚之嫌，想解决他隐瞒中共党员身份入籍问题。杨至少4次欺骗美国：申请签证、政庇、绿卡、入籍。他最近解释文章说“过去30年我4次申请换新中国护照均被拒”涉再次撒谎，2009年去日内瓦开西藏会议时，我亲眼看到他在入境时用的是嘎嘎新的中国护照。",
     "hashtags": [],
     "id": 1331068100289052672,
     "id_str": "1331068100289052672",
     "lang": "zh",
-    "retweet_count": 613,
+    "retweet_count": 612,
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
     "urls": [],
     "user": {
@@ -73341,7 +72598,7 @@
   "retweet_count": 365,
   "retweeted_status": {
     "created_at": "Mon Nov 23 17:36:32 +0000 2020",
-    "favorite_count": 2377,
+    "favorite_count": 2378,
     "full_text": "高举为穷人、为黑人、为少数族裔、为女人，为性别自行定义者、为非法移民争权益的民主党左派媒体们，会对偷窃大选有一丝一毫良心谴责吗？绝不会！共产主义的根基就是为了“正义”可以不惜一切代价、可以使用任何手段。左派的根基就是共产主义根基；他们的正义，就是共产主义的正义，是明确这点的时候了！",
     "hashtags": [],
     "id": 1330928230384115712,
@@ -74224,7 +73481,7 @@
     "id": 1331578383600414723,
     "id_str": "1331578383600414723",
     "lang": "zh",
-    "retweet_count": 155,
+    "retweet_count": 154,
     "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
     "urls": [
       {
@@ -74323,10 +73580,10 @@
       }
     }
   ],
-  "retweet_count": 13229,
+  "retweet_count": 13228,
   "retweeted_status": {
     "created_at": "Wed Nov 25 03:19:47 +0000 2020",
-    "favorite_count": 47605,
+    "favorite_count": 47609,
     "full_text": "America @realDonaldTrump https://t.co/WjkBHRwvdr",
     "hashtags": [],
     "id": 1331437400422158343,
@@ -74350,7 +73607,7 @@
         }
       }
     ],
-    "retweet_count": 13229,
+    "retweet_count": 13228,
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "urls": [],
     "user": {
@@ -74772,7 +74029,7 @@
   "lang": "zh",
   "quoted_status_id": 1331768536323207168,
   "quoted_status_id_str": "1331768536323207168",
-  "retweet_count": 61,
+  "retweet_count": 60,
   "retweeted_status": {
     "created_at": "Thu Nov 26 01:16:52 +0000 2020",
     "favorite_count": 416,
@@ -74783,7 +74040,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Thu Nov 26 01:15:36 +0000 2020",
-      "favorite_count": 20536,
+      "favorite_count": 20531,
       "full_text": "Joe Biden Gets Only 1,000 Viewers to Watch His Thanksgiving Address Live -- But He Got 80 Million Votes? -- What a COMPLETE JOKE! via @gatewaypundit https://t.co/B7cLqIEeci",
       "hashtags": [],
       "id": 1331768536323207168,
@@ -74812,7 +74069,7 @@
     },
     "quoted_status_id": 1331768536323207168,
     "quoted_status_id_str": "1331768536323207168",
-    "retweet_count": 61,
+    "retweet_count": 60,
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "urls": [
       {
@@ -75238,7 +74495,7 @@
   "retweet_count": 133,
   "retweeted_status": {
     "created_at": "Thu Nov 26 01:10:55 +0000 2020",
-    "favorite_count": 1723,
+    "favorite_count": 1722,
     "full_text": "中国的专家这几天都在加班宣传「病毒是在中国发现的，但不是在中国起源的」等胡说八道\n\n我估计下一个对美国的攻击就是「汉堡是在美国出名的，但归根结底是我们的孔子在包包子的过程中发明的」",
     "hashtags": [],
     "id": 1331767355119005697,
@@ -76076,7 +75333,7 @@
           "url": "https://t.co/MFKDgGBxJf"
         }
       ],
-      "retweet_count": 58,
+      "retweet_count": 57,
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "urls": [],
       "user": {
@@ -76196,16 +75453,16 @@
   "id": 1332861296123940864,
   "id_str": "1332861296123940864",
   "lang": "zh",
-  "retweet_count": 472,
+  "retweet_count": 471,
   "retweeted_status": {
     "created_at": "Thu Nov 26 17:27:12 +0000 2020",
-    "favorite_count": 3072,
+    "favorite_count": 3070,
     "full_text": "美国自建国以来就有左右争斗，但一直到奥巴马当选之前，基本维持在“美国”这个框架内。从奥巴马开始，把美国变成“非美国”、变成“社会主义美国”就开始肆无忌惮，左派也越来越不掩饰其共产基因。围绕2020年这场选举的争斗，跟以往有根本不同，这是一场捍卫美国，还是摧毁美国这个自由灯塔的战斗。",
     "hashtags": [],
     "id": 1332013046445744128,
     "id_str": "1332013046445744128",
     "lang": "zh",
-    "retweet_count": 472,
+    "retweet_count": 471,
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
     "urls": [],
     "user": {
@@ -76427,13 +75684,13 @@
   "lang": "zh",
   "quoted_status": {
     "created_at": "Wed Dec 02 21:16:52 +0000 2020",
-    "favorite_count": 2196,
+    "favorite_count": 2195,
     "full_text": "百年来西方左派犯下了罄竹难书的反人类罪。他们一路都是马克思理论的喧嚣者、推销者。哪怕苏联、中国、朝鲜、古巴、越南、柬埔寨等一系列国家的残酷现实被无数人无数遍告知天下，左派们仍推崇作为共产主义初级阶段的社会主义。很多穷人被洗脑，知识分子要道德高地，民主党官僚则是赤裸地为权力和私利。",
     "hashtags": [],
     "id": 1334245171685277697,
     "id_str": "1334245171685277697",
     "lang": "zh",
-    "retweet_count": 346,
+    "retweet_count": 345,
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
     "urls": [],
     "user": {
@@ -76538,16 +75795,16 @@
   "id": 1334680229508354050,
   "id_str": "1334680229508354050",
   "lang": "zh",
-  "retweet_count": 517,
+  "retweet_count": 516,
   "retweeted_status": {
     "created_at": "Fri Dec 04 01:50:48 +0000 2020",
-    "favorite_count": 2385,
+    "favorite_count": 2383,
     "full_text": "仅3个州的大选听证会就提供大量作弊证据。佐治亚就查出13万多违法选票。今福克斯商业台转播内华达法庭审理大选作弊案，共和党提供的证据惊人：多达4.2万人投了两次票；近2万票地址是外州；1.5万票地址是空的或商业地址；8千票是假地址；约6千票地址没人住；2468票选民已搬迁；1500张死人票。太嚣张了！",
     "hashtags": [],
     "id": 1334676494862307329,
     "id_str": "1334676494862307329",
     "lang": "zh",
-    "retweet_count": 517,
+    "retweet_count": 516,
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
     "urls": [],
     "user": {
@@ -77149,7 +76406,7 @@
   "retweet_count": 70,
   "retweeted_status": {
     "created_at": "Sat Dec 05 19:31:27 +0000 2020",
-    "favorite_count": 1014,
+    "favorite_count": 1015,
     "full_text": "不管反川的人怎麼認為，確實有很多挺川的人懷疑舞弊，不服氣。\n\n真正為美國好的人，應該讓川普走完法律程序，如果川普輸了，支持者也心服口服，更有利於選後的社會彌合。\n\n連打官司都被說成是破壞民主，讓川普的支持者如何服氣？不服氣的結果，未來四年美國社會只會更加對立。\n\n這真的對美國好嗎？",
     "hashtags": [],
     "id": 1335305804782702592,
@@ -77262,7 +76519,7 @@
   "id": 1335409045675491331,
   "id_str": "1335409045675491331",
   "lang": "zh",
-  "retweet_count": 144,
+  "retweet_count": 143,
   "retweeted_status": {
     "created_at": "Sat Dec 05 09:48:20 +0000 2020",
     "favorite_count": 703,
@@ -77271,7 +76528,7 @@
     "id": 1335159059880824833,
     "id_str": "1335159059880824833",
     "lang": "zh",
-    "retweet_count": 144,
+    "retweet_count": 143,
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "urls": [],
     "user": {
@@ -78168,32 +77425,6 @@
   ]
 }
 {
-  "created_at": "Sun Dec 06 23:06:51 +0000 2020",
-  "favorite_count": 1,
-  "full_text": "@Rabbitlili 美国也是下周开始注射疫苗。我还是先等等看。反正在家上班",
-  "hashtags": [],
-  "id": 1335722401229721601,
-  "id_str": "1335722401229721601",
-  "in_reply_to_screen_name": "Rabbitlili",
-  "in_reply_to_status_id": 1335721103440961538,
-  "in_reply_to_user_id": 246991499,
-  "lang": "zh",
-  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-  "urls": [],
-  "user": {
-    "id": 1284363240974082048,
-    "screen_name": "Yangguang_USA"
-  },
-  "user_mentions": [
-    {
-      "id": 246991499,
-      "id_str": "246991499",
-      "name": "英伦",
-      "screen_name": "Rabbitlili"
-    }
-  ]
-}
-{
   "created_at": "Sun Dec 06 23:10:28 +0000 2020",
   "full_text": "RT @yulin18494807: 南希·佩洛西（Nancy Pelosi）今天承认，她搁置了几个月的COVID援助计划，试图伤害特朗普总统\n但实际上受伤最大的是美国工人和小企业。 https://t.co/TRPLdgNYpJ",
   "hashtags": [],
@@ -78218,10 +77449,10 @@
       }
     }
   ],
-  "retweet_count": 436,
+  "retweet_count": 435,
   "retweeted_status": {
     "created_at": "Sun Dec 06 11:40:57 +0000 2020",
-    "favorite_count": 1158,
+    "favorite_count": 1157,
     "full_text": "南希·佩洛西（Nancy Pelosi）今天承认，她搁置了几个月的COVID援助计划，试图伤害特朗普总统\n但实际上受伤最大的是美国工人和小企业。 https://t.co/TRPLdgNYpJ",
     "hashtags": [],
     "id": 1335549787660189697,
@@ -78245,7 +77476,7 @@
         }
       }
     ],
-    "retweet_count": 436,
+    "retweet_count": 435,
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
     "urls": [],
     "user": {
@@ -78438,7 +77669,7 @@
   "retweet_count": 85,
   "retweeted_status": {
     "created_at": "Mon Dec 07 07:03:28 +0000 2020",
-    "favorite_count": 279,
+    "favorite_count": 280,
     "full_text": "快过圣诞了，给哥哥炳章写了贺卡。也请大家一起写，关心他，鼓励他好好活着！地址如下：\n中国广东省韶关市浈江区犁市镇7号信箱14-3 邮编512140\n王炳章 博士收 https://t.co/m0TvNoea4I",
     "hashtags": [],
     "id": 1335842343270764544,
@@ -78476,6 +77707,82 @@
       "id_str": "1573241574",
       "name": "王炳章的弟弟",
       "screen_name": "WangBingwu"
+    }
+  ]
+}
+{
+  "created_at": "Mon Dec 07 07:40:05 +0000 2020",
+  "full_text": "RT @Simon33034709: 牆國內不能看的視頻\n https://t.co/Wwi2gt917S",
+  "hashtags": [],
+  "id": 1335851560035700736,
+  "id_str": "1335851560035700736",
+  "lang": "zh",
+  "media": [
+    {
+      "display_url": "pic.twitter.com/Wwi2gt917S",
+      "expanded_url": "https://twitter.com/xiaoxin11786630/status/1311787558142054402/video/1",
+      "id": 1311784594140614656,
+      "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1311784594140614656/pu/img/1uoylqZar9Hu0vKG.jpg",
+      "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1311784594140614656/pu/img/1uoylqZar9Hu0vKG.jpg",
+      "type": "video",
+      "url": "https://t.co/Wwi2gt917S",
+      "video_info": {
+        "aspect_ratio": [
+          4,
+          3
+        ],
+        "duration_millis": 110611
+      }
+    }
+  ],
+  "retweet_count": 485,
+  "retweeted_status": {
+    "created_at": "Sun Dec 06 22:14:16 +0000 2020",
+    "favorite_count": 1144,
+    "full_text": "牆國內不能看的視頻\n https://t.co/Wwi2gt917S",
+    "hashtags": [],
+    "id": 1335709166590169093,
+    "id_str": "1335709166590169093",
+    "lang": "zh",
+    "media": [
+      {
+        "display_url": "pic.twitter.com/Wwi2gt917S",
+        "expanded_url": "https://twitter.com/xiaoxin11786630/status/1311787558142054402/video/1",
+        "id": 1311784594140614656,
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1311784594140614656/pu/img/1uoylqZar9Hu0vKG.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1311784594140614656/pu/img/1uoylqZar9Hu0vKG.jpg",
+        "type": "video",
+        "url": "https://t.co/Wwi2gt917S",
+        "video_info": {
+          "aspect_ratio": [
+            4,
+            3
+          ],
+          "duration_millis": 110611
+        }
+      }
+    ],
+    "retweet_count": 485,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "urls": [],
+    "user": {
+      "id": 1250141326710124545,
+      "screen_name": "Simon33034709"
+    },
+    "user_mentions": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "urls": [],
+  "user": {
+    "id": 1284363240974082048,
+    "screen_name": "Yangguang_USA"
+  },
+  "user_mentions": [
+    {
+      "id": 1250141326710124545,
+      "id_str": "1250141326710124545",
+      "name": "清醒看世界",
+      "screen_name": "Simon33034709"
     }
   ]
 }
@@ -78959,7 +78266,7 @@
     "lang": "en",
     "quoted_status": {
       "created_at": "Tue Dec 08 16:40:16 +0000 2020",
-      "favorite_count": 9579,
+      "favorite_count": 9577,
       "full_text": "This is absolutely wild. China basically admitting its influence in US before Trump...and hopefully after Trump...\n\nWill it get any mainstream coverage?\n\nHint: No. https://t.co/jeTXu1lo4m",
       "hashtags": [],
       "id": 1336349888620228608,
@@ -78967,7 +78274,7 @@
       "lang": "en",
       "quoted_status_id": 1336347865170522113,
       "quoted_status_id_str": "1336347865170522113",
-      "retweet_count": 3451,
+      "retweet_count": 3450,
       "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
       "urls": [
         {
@@ -79453,7 +78760,7 @@
   "retweet_count": 204,
   "retweeted_status": {
     "created_at": "Wed Dec 09 14:36:08 +0000 2020",
-    "favorite_count": 822,
+    "favorite_count": 821,
     "full_text": "抗战后期,日军打到粤北薛岳老家时,村民们很担心日军知道这是薛岳的家乡后，会来报复。可是日军到了后，非但寸草未动，还把薛岳家的祖坟清得干干净净，杀鸡杀羊杀牛来祭祀。据说薛岳把日军打得落花流水,他们觉得薛岳是一个英雄。薛岳侄子薛维忠说,这是真事。 https://t.co/hpGBRvtPaE",
     "hashtags": [],
     "id": 1336681037846310914,
@@ -81871,7 +81178,7 @@
     {
       "id": 917564914734063616,
       "id_str": "917564914734063616",
-      "name": "Formosa in June 六月福爾摩莎（維君）",
+      "name": "Formosa in June 六月福爾摩莎",
       "screen_name": "weijune8"
     },
     {
@@ -87382,56 +86689,6 @@
   ]
 }
 {
-  "created_at": "Sun Dec 27 23:59:45 +0000 2020",
-  "full_text": "RT @Yangguangg1: @hz8964 1周封锁早就宣布辞职,全职干民运\n2他履历上写在Bear Stearns做trader,但刘刚说这家公司2008年破产,我查了确实如此,周的履历作假\n3即使他以前有积蓄,为什么近一年半购买5套房产？鲜桂娥名下三套房子现金购买,以…",
-  "hashtags": [],
-  "id": 1343345857949679616,
-  "id_str": "1343345857949679616",
-  "lang": "zh",
-  "retweet_count": 4,
-  "retweeted_status": {
-    "created_at": "Sun Dec 27 23:28:02 +0000 2020",
-    "favorite_count": 2,
-    "full_text": "@hz8964 1周封锁早就宣布辞职,全职干民运\n2他履历上写在Bear Stearns做trader,但刘刚说这家公司2008年破产,我查了确实如此,周的履历作假\n3即使他以前有积蓄,为什么近一年半购买5套房产？鲜桂娥名下三套房子现金购买,以天安门三君子名义募捐,鲁德成分文未得\n4人道中国接受募捐的账号包括周封锁私人账号,便于贪污",
-    "hashtags": [],
-    "id": 1343337876147249152,
-    "id_str": "1343337876147249152",
-    "in_reply_to_screen_name": "hz8964",
-    "in_reply_to_status_id": 1343259449683808261,
-    "in_reply_to_user_id": 116440928,
-    "lang": "zh",
-    "retweet_count": 4,
-    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "urls": [],
-    "user": {
-      "id": 1284363240974082048,
-      "screen_name": "Yangguang_USA"
-    },
-    "user_mentions": [
-      {
-        "id": 116440928,
-        "id_str": "116440928",
-        "name": "Hua Ze",
-        "screen_name": "hz8964"
-      }
-    ]
-  },
-  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-  "urls": [],
-  "user": {
-    "id": 1284363240974082048,
-    "screen_name": "Yangguang_USA"
-  },
-  "user_mentions": [
-    {
-      "id": 116440928,
-      "id_str": "116440928",
-      "name": "Hua Ze",
-      "screen_name": "hz8964"
-    }
-  ]
-}
-{
   "created_at": "Mon Dec 28 00:14:52 +0000 2020",
   "favorite_count": 6,
   "full_text": "人道中国理事@Yaxuecao @gexun @tengbiao 吴倩@changchengwai 等等,是否知道人道中国收取公益捐款的账号包括周封锁@Zhoufengsuo个人账号？是否知道每一笔捐款,以及每一笔捐款的去处？是否知道周封锁近一年半现金购买5套房产?(最后一个现金未到位立刻贷款)已涉嫌违法 @RFA_Chinese @VOAChinese @IRS_CI https://t.co/4WDQ9BQ7VM",
@@ -87801,6 +87058,37 @@
       "id_str": "995771442523459587",
       "name": "护法道长",
       "screen_name": "daoge2018"
+    },
+    {
+      "id": 1134824998055624705,
+      "id_str": "1134824998055624705",
+      "name": "微空啤酒馆·Feng GU",
+      "screen_name": "FengGU9"
+    }
+  ]
+}
+{
+  "created_at": "Mon Dec 28 05:54:36 +0000 2020",
+  "full_text": "@MichaelYFLyu1 @FengGU9 你太想当然了。在印第安纳波利斯的房子，在鲜桂娥的现金购买的房子旁边，鲜女士帮他打理，有房客。",
+  "hashtags": [],
+  "id": 1343435157571739648,
+  "id_str": "1343435157571739648",
+  "in_reply_to_screen_name": "MichaelYFLyu1",
+  "in_reply_to_status_id": 1342525498497277952,
+  "in_reply_to_user_id": 1205883843082735616,
+  "lang": "zh",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "urls": [],
+  "user": {
+    "id": 1284363240974082048,
+    "screen_name": "Yangguang_USA"
+  },
+  "user_mentions": [
+    {
+      "id": 1205883843082735616,
+      "id_str": "1205883843082735616",
+      "name": "Michael Y.F Lyu",
+      "screen_name": "MichaelYFLyu1"
     },
     {
       "id": 1134824998055624705,

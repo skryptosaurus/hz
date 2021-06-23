@@ -75,82 +75,6 @@
   ]
 }
 {
-  "created_at": "Fri Jan 03 06:21:15 +0000 2020",
-  "full_text": "RT @lizife: 人民代表。 https://t.co/wnI1BD0L2U",
-  "hashtags": [],
-  "id": 1212982232643600385,
-  "id_str": "1212982232643600385",
-  "lang": "zh",
-  "media": [
-    {
-      "display_url": "pic.twitter.com/wnI1BD0L2U",
-      "expanded_url": "https://twitter.com/lizife/status/1212712257249054721/video/1",
-      "id": 1212712093998125058,
-      "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1212712093998125058/pu/img/KCc15VfyyM2zjTjU.jpg",
-      "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1212712093998125058/pu/img/KCc15VfyyM2zjTjU.jpg",
-      "type": "video",
-      "url": "https://t.co/wnI1BD0L2U",
-      "video_info": {
-        "aspect_ratio": [
-          23,
-          40
-        ],
-        "duration_millis": 80875
-      }
-    }
-  ],
-  "retweet_count": 71,
-  "retweeted_status": {
-    "created_at": "Thu Jan 02 12:28:27 +0000 2020",
-    "favorite_count": 108,
-    "full_text": "人民代表。 https://t.co/wnI1BD0L2U",
-    "hashtags": [],
-    "id": 1212712257249054721,
-    "id_str": "1212712257249054721",
-    "lang": "zh",
-    "media": [
-      {
-        "display_url": "pic.twitter.com/wnI1BD0L2U",
-        "expanded_url": "https://twitter.com/lizife/status/1212712257249054721/video/1",
-        "id": 1212712093998125058,
-        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1212712093998125058/pu/img/KCc15VfyyM2zjTjU.jpg",
-        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1212712093998125058/pu/img/KCc15VfyyM2zjTjU.jpg",
-        "type": "video",
-        "url": "https://t.co/wnI1BD0L2U",
-        "video_info": {
-          "aspect_ratio": [
-            23,
-            40
-          ],
-          "duration_millis": 80875
-        }
-      }
-    ],
-    "retweet_count": 71,
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "urls": [],
-    "user": {
-      "id": 338850625,
-      "screen_name": "lizife"
-    },
-    "user_mentions": []
-  },
-  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-  "urls": [],
-  "user": {
-    "id": 547112588,
-    "screen_name": "NewCenturyBaopu"
-  },
-  "user_mentions": [
-    {
-      "id": 338850625,
-      "id_str": "338850625",
-      "name": "李子佛",
-      "screen_name": "lizife"
-    }
-  ]
-}
-{
   "created_at": "Sat Jan 04 02:39:06 +0000 2020",
   "full_text": "RT @wlixiong: 《黄祸》的姊妹篇《转世》是我历时十五年写成的长篇小说，即将完稿。我将在《转世》正式出版前，通过YouTube频道《绝地今书》（https://t.co/LUGp7QJiIU）亲口朗读书稿，作为《转世》与读者见面的首发方式。",
   "hashtags": [],
@@ -279,6 +203,109 @@
     "retweet_count": 42,
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
     "urls": [],
+    "user": {
+      "id": 99501796,
+      "screen_name": "gaoyu200812"
+    },
+    "user_mentions": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "urls": [],
+  "user": {
+    "id": 547112588,
+    "screen_name": "NewCenturyBaopu"
+  },
+  "user_mentions": [
+    {
+      "id": 99501796,
+      "id_str": "99501796",
+      "name": "高瑜",
+      "screen_name": "gaoyu200812"
+    }
+  ]
+}
+{
+  "created_at": "Fri Jan 10 08:23:53 +0000 2020",
+  "full_text": "RT @gaoyu200812: 該新聞既可以看到中共對言論自由的管制已經到村級，村幹部在基層代表中共，是當然的土皇上，自然不能批評和辱罵，包括村民醉酒後寫微信也是觸及法網。再看中共媒體，中新社是國家級通訊社，就這樣一件事竟然不調查阿陽村“基保”是否存在問題，就為刀把子執法“0…",
+  "hashtags": [],
+  "id": 1215549812658978821,
+  "id_str": "1215549812658978821",
+  "lang": "zh",
+  "quoted_status_id": 1215529712526581760,
+  "quoted_status_id_str": "1215529712526581760",
+  "retweet_count": 74,
+  "retweeted_status": {
+    "created_at": "Fri Jan 10 08:15:15 +0000 2020",
+    "favorite_count": 160,
+    "full_text": "該新聞既可以看到中共對言論自由的管制已經到村級，村幹部在基層代表中共，是當然的土皇上，自然不能批評和辱罵，包括村民醉酒後寫微信也是觸及法網。再看中共媒體，中新社是國家級通訊社，就這樣一件事竟然不調查阿陽村“基保”是否存在問題，就為刀把子執法“0容忍”大唱讚歌，可見黨媒墮落到何等程度。 https://t.co/0duTjsnH0c",
+    "hashtags": [],
+    "id": 1215547637354549248,
+    "id_str": "1215547637354549248",
+    "lang": "zh",
+    "quoted_status": {
+      "created_at": "Fri Jan 10 07:04:01 +0000 2020",
+      "favorite_count": 39,
+      "full_text": "甘肃岷县男子吴某忠，因于4月19日在微信群里“辱骂村干部”，被处拘留5日。#言论自由 https://t.co/xB2qWNW1KV",
+      "hashtags": [
+        {
+          "text": "言论自由"
+        }
+      ],
+      "id": 1215529712526581760,
+      "id_str": "1215529712526581760",
+      "lang": "zh",
+      "media": [
+        {
+          "display_url": "pic.twitter.com/xB2qWNW1KV",
+          "expanded_url": "https://twitter.com/SpeechFreedomCN/status/1215529712526581760/photo/1",
+          "id": 1215529706251927552,
+          "media_url": "http://pbs.twimg.com/media/EN5t0-MUwAAmxrz.png",
+          "media_url_https": "https://pbs.twimg.com/media/EN5t0-MUwAAmxrz.png",
+          "sizes": {
+            "large": {
+              "w": 653,
+              "h": 865,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 653,
+              "h": 865,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 513,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/xB2qWNW1KV"
+        }
+      ],
+      "retweet_count": 18,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "urls": [],
+      "user": {
+        "id": 1182833905289707520,
+        "id_str": "1182833905289707520"
+      },
+      "user_mentions": []
+    },
+    "quoted_status_id": 1215529712526581760,
+    "quoted_status_id_str": "1215529712526581760",
+    "retweet_count": 74,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/SpeechFreedomCN/status/1215529712526581760",
+        "url": "https://t.co/0duTjsnH0c"
+      }
+    ],
     "user": {
       "id": 99501796,
       "screen_name": "gaoyu200812"
@@ -921,7 +948,7 @@
   "retweet_count": 159,
   "retweeted_status": {
     "created_at": "Mon Feb 03 06:30:00 +0000 2020",
-    "favorite_count": 276,
+    "favorite_count": 277,
     "full_text": "在疫情中心城市武汉，许多居民每天都在与疾病搏斗，仅在该市，就有4100多人染病，224人丧生。\n上个月，政府宣布“封城“，为遏制疫情的暴发孤注一掷。现在，许多居民表示，他们所需要的针对冠状病毒的治疗——哪怕只是诊断——几乎都不可能获得。https://t.co/KZvV2mzdVy",
     "hashtags": [],
     "id": 1224218459187245057,
@@ -973,7 +1000,7 @@
   "retweet_count": 700,
   "retweeted_status": {
     "created_at": "Mon Feb 03 08:48:23 +0000 2020",
-    "favorite_count": 983,
+    "favorite_count": 985,
     "full_text": "【武汉黄冈实施出门禁止】\n【公安逐家逐户把大门用铁鍊绑上】\n武汉市豁下黄冈市近日实施出门禁止，所有民众在家中隔离，两日可以派一人外出买菜。为确保民众遵守禁令，公安逐家逐户问，「有没有菜和米？」有的话就把大门用铁鍊绑上。\n\n#武汉肺炎\n#封关\n#禁足\n\n網上视频 https://t.co/gSR1gL7ImC",
     "hashtags": [
       {
@@ -1041,7 +1068,7 @@
   "retweet_count": 320,
   "retweeted_status": {
     "created_at": "Tue Feb 04 09:45:00 +0000 2020",
-    "favorite_count": 646,
+    "favorite_count": 647,
     "full_text": "有人在出示身份证后被酒店拒绝。有人被惊恐的当地村民驱逐。还有人在向当局登记后，发现自己的个人信息被泄露到网上。\n这些遭驱逐的人来自疫情中心武汉。这些人成了中国的“贱民”，数百万人无家可归，被认为是神秘冠状病毒的潜在携带者。https://t.co/xrtuei1d5l",
     "hashtags": [],
     "id": 1224629920426381313,
@@ -1083,7 +1110,7 @@
   "id": 1224932034096746496,
   "id_str": "1224932034096746496",
   "lang": "zh",
-  "retweet_count": 1016,
+  "retweet_count": 1015,
   "retweeted_status": {
     "created_at": "Tue Feb 04 16:33:10 +0000 2020",
     "favorite_count": 3407,
@@ -1092,7 +1119,7 @@
     "id": 1224732638835040258,
     "id_str": "1224732638835040258",
     "lang": "zh",
-    "retweet_count": 1016,
+    "retweet_count": 1015,
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "urls": [],
     "user": {
@@ -1387,7 +1414,7 @@
   "lang": "zh",
   "quoted_status": {
     "created_at": "Thu Feb 06 14:51:46 +0000 2020",
-    "favorite_count": 5191,
+    "favorite_count": 5192,
     "full_text": "【最新消息】据中国官方媒体报道，曾率先发布武汉疫情信息而被当局要求签写训诫书的武汉医生李文亮，因感染新型冠状病毒肺炎在今晚去世。https://t.co/hppo7uNMl2",
     "hashtags": [],
     "id": 1225431899310612481,
@@ -1957,7 +1984,7 @@
   "retweet_count": 383,
   "retweeted_status": {
     "created_at": "Sun Feb 09 20:34:56 +0000 2020",
-    "favorite_count": 1134,
+    "favorite_count": 1135,
     "full_text": "今年春節蔣彥永醫生和老伴华仲尉醫生。轉友人初五微信：“剛和華醫生通電話。蔣醫生耳聾，反應慢，需攙扶，白天僱一護工，夜裡由兒子護理。華醫生親切開朗並問候我及朋友們。不由我淚流滿面幾度哽咽，我家屋子小，我連哭的地方都沒有啊！😭😭” https://t.co/9oDIGCKoRJ",
     "hashtags": [],
     "id": 1226605420296331264,
@@ -2183,7 +2210,7 @@
   "retweet_count": 963,
   "retweeted_status": {
     "created_at": "Tue Feb 11 02:49:22 +0000 2020",
-    "favorite_count": 2444,
+    "favorite_count": 2445,
     "full_text": "#观点 北大宪法学教授张千帆认为，体制内外有很多人还在歌颂中央集权在应对危机上的效率，但问题是，在一个宪政民主国家，这场危机极很可能一开始就不会发生。\n毫无悬念的是，只要不践行宪政民主的治理模式，非正常死亡等各种人为悲剧还会不断再度发生。https://t.co/jstQVc4mQ6",
     "hashtags": [
       {
@@ -2324,7 +2351,7 @@
   "retweet_count": 2558,
   "retweeted_status": {
     "created_at": "Tue Feb 11 18:01:57 +0000 2020",
-    "favorite_count": 4651,
+    "favorite_count": 4653,
     "full_text": "Brave Chinese video journalist Chen Quichi has reportedly disappeared after reporting on the Coronavirus. The Chinese gov’t must immediately provide info on his whereabouts. By silencing journalists,Beijing is showing they'd rather hide a health crisis than seek truth from facts. https://t.co/dukK8ld26T",
     "hashtags": [],
     "id": 1227291696729411590,
@@ -2332,7 +2359,7 @@
     "lang": "en",
     "quoted_status": {
       "created_at": "Tue Feb 11 10:50:00 +0000 2020",
-      "favorite_count": 886,
+      "favorite_count": 888,
       "full_text": "Lawyer and citizen journalist Chen Qiushi vanished while documenting the coronavirus lockdown in Wuhan. He spent weeks filming patients and overrun hospitals https://t.co/eFRuYOKXsv",
       "hashtags": [],
       "id": 1227182993246023682,
@@ -2859,7 +2886,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Thu Feb 13 21:44:10 +0000 2020",
-      "favorite_count": 3313,
+      "favorite_count": 3311,
       "full_text": "白宫首席经济顾问库德洛2月13日在白宫对记者表示，我们非常失望，因为中国仍未接受邀请，让美国疾病预防控制中心专家与世卫组织人员一起到中国去。我们以为中国透明度增加了，但事实并非如此。 https://t.co/mofVz6vgtt",
       "hashtags": [],
       "id": 1228072395593961474,
@@ -2926,7 +2953,7 @@
           }
         }
       ],
-      "retweet_count": 1718,
+      "retweet_count": 1717,
       "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
       "urls": [],
       "user": {
@@ -3698,7 +3725,7 @@
   "retweet_count": 495,
   "retweeted_status": {
     "created_at": "Tue Feb 18 07:49:52 +0000 2020",
-    "favorite_count": 890,
+    "favorite_count": 891,
     "full_text": "坐自己家门口晒太阳被带走，中国人的自由比纳粹时候的犹太人少很多了！ https://t.co/9hNGB3BT8b",
     "hashtags": [],
     "id": 1229674376884154368,
@@ -3741,7 +3768,7 @@
   "retweet_count": 301,
   "retweeted_status": {
     "created_at": "Tue Feb 18 17:10:11 +0000 2020",
-    "favorite_count": 1039,
+    "favorite_count": 1040,
     "full_text": "七十年代中学毕业后，国人脑袋都装满了如下内容：李鸿章丧权辱国，义和团保家卫国，蒋介石只会摘桃子，地主个个是周扒皮，旧社会暗无天日……有人评价这种人就是一个中国傻×的标准配置。你要是跟他说：你最好多看几本书，动点脑子再说话。他立马眼珠一翻：你也是汉奸！\n以上传为陈丹青所写，待查。",
     "hashtags": [],
     "id": 1229815387577077762,
@@ -3984,7 +4011,7 @@
   "retweet_count": 103,
   "retweeted_status": {
     "created_at": "Wed Feb 19 15:06:20 +0000 2020",
-    "favorite_count": 270,
+    "favorite_count": 271,
     "full_text": "外交部“以牙還牙”。美國務院昨天將駐美的五家央媒指定為“外國使團”，要求他們像外國使館一樣向國務院登記在美僱員和財產等信息，北京對此表示反對。今天就處理《華爾街日報》“東亞病夫”事件，吊銷該報三名駐京記者的記者證。 https://t.co/B7PQDX0ZC8",
     "hashtags": [],
     "id": 1230146605795299328,
@@ -4355,7 +4382,7 @@
   "retweet_count": 814,
   "retweeted_status": {
     "created_at": "Fri Feb 21 11:40:34 +0000 2020",
-    "favorite_count": 1881,
+    "favorite_count": 1880,
     "full_text": "2012年，🐷头已经确立储君，温家宝说文化大革命还可能再来一次。他看到了什么？ https://t.co/Ek9uBwU5ro",
     "hashtags": [],
     "id": 1230819599496564736,
@@ -4521,7 +4548,7 @@
   "retweet_count": 540,
   "retweeted_status": {
     "created_at": "Fri Feb 21 15:27:06 +0000 2020",
-    "favorite_count": 511,
+    "favorite_count": 512,
     "full_text": "Respected #publichealth expert @DrEricDing says #China is under-reporting magnitude of their #coronavirus crisis:\n\n\"Sloppiness of cheating the case number is getting to level of ridiculous,\" he says:\n\nhttps://t.co/46OybtAdof\n\n#ChinaCoronaVirus #WuhanCoronavius #healthcare #KAG",
     "hashtags": [
       {
@@ -4616,10 +4643,10 @@
       }
     }
   ],
-  "retweet_count": 116,
+  "retweet_count": 117,
   "retweeted_status": {
     "created_at": "Sat Feb 22 19:44:37 +0000 2020",
-    "favorite_count": 312,
+    "favorite_count": 313,
     "full_text": "她因为娘家有急事，在回娘家的路上像猪一样被抓走了。 https://t.co/vio704iR2y",
     "hashtags": [],
     "id": 1231303801816018945,
@@ -4643,7 +4670,7 @@
         }
       }
     ],
-    "retweet_count": 116,
+    "retweet_count": 117,
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "urls": [],
     "user": {
@@ -5078,7 +5105,7 @@
   "retweet_count": 586,
   "retweeted_status": {
     "created_at": "Mon Feb 24 13:51:53 +0000 2020",
-    "favorite_count": 1207,
+    "favorite_count": 1206,
     "full_text": "清华大学历史学教授：救灾不是一个政府最基本的职能吗？从来没有听说哪个国家人民要感谢政府救灾，只有抱怨救灾不力，如果救灾都做不好要你政府干什么？\n\nhttps://t.co/FruhCzyOrw",
     "hashtags": [],
     "id": 1231939810476072961,
@@ -5128,7 +5155,7 @@
   "retweet_count": 95,
   "retweeted_status": {
     "created_at": "Mon Feb 24 20:48:23 +0000 2020",
-    "favorite_count": 126,
+    "favorite_count": 125,
     "full_text": "@兽爷 \n财新20号报道说武汉社会福利院最近有11位老人因为反复发烧、呼吸衰竭去世。\n21日晚上，武汉发布辟谣说没有“11名老人呼吸衰竭而死”这种事。\n今天，财新记者整理了一份长长的死亡名单，最早一例死于12月23日，高烧到42度。\n也是21号晚上，武汉发布强调，疫情期间造谣传谣，最高可以判7年。 https://t.co/sDEddCIDG0",
     "hashtags": [],
     "id": 1232044623352094720,
@@ -5197,7 +5224,7 @@
   "lang": "zh",
   "quoted_status": {
     "created_at": "Tue Feb 25 06:30:00 +0000 2020",
-    "favorite_count": 860,
+    "favorite_count": 861,
     "full_text": "中国一家法院周二宣布，拥有瑞典国籍的书商桂民海因为境外非法提供情报罪获刑10年，并称其已于2018年恢复中国国籍。2015年，桂民海在其泰国家中被带走。\n判决宣布后迅速遭到其支持者的谴责，他们称这是中国政府决心遏制国外批评的最新例证。https://t.co/k5iPa4YN48",
     "hashtags": [],
     "id": 1232190992129781760,
@@ -5527,7 +5554,7 @@
   "retweet_count": 158,
   "retweeted_status": {
     "created_at": "Thu Feb 27 09:15:49 +0000 2020",
-    "favorite_count": 504,
+    "favorite_count": 505,
     "full_text": "《科学》报道美国专家称，中国的防疫措施“令人震惊、史无前例、中世纪式的，被关在家中、受到严密监控、缺乏医疗服务的湖北人民的身心健康尤其令人担忧。无法想象除了中国世界上还有哪个国家会这么干。”不对啊，中国东北方还有一个国家会干得更好，据说已经枪毙了第一个确诊病例，取得防疫彻底胜利。 https://t.co/fJQxMzLD9F",
     "hashtags": [],
     "id": 1232957497633198080,
@@ -5666,7 +5693,7 @@
   "retweet_count": 657,
   "retweeted_status": {
     "created_at": "Thu Feb 27 05:41:50 +0000 2020",
-    "favorite_count": 1306,
+    "favorite_count": 1307,
     "full_text": "方斌，陈秋实，李泽华。\n\n后图是李泽华被带走前的留言。\n\n武汉前线说真话的几乎都这样了。\n\n微博关于他的帖子删除非常快。 https://t.co/re4DZifxCi",
     "hashtags": [],
     "id": 1232903649229062144,
@@ -5741,10 +5768,10 @@
   "id": 1233181052773924864,
   "id_str": "1233181052773924864",
   "lang": "zh",
-  "retweet_count": 2604,
+  "retweet_count": 2605,
   "retweeted_status": {
     "created_at": "Thu Feb 27 11:12:13 +0000 2020",
-    "favorite_count": 5035,
+    "favorite_count": 5038,
     "full_text": "【前央视主持人武汉揭真相后失联】\n\n前央视主持人李泽华周三发布求救视频，表示自己正被国安追截，担心国安想抓他去隔离\n\n他最后一条直播表示自己正被搜查，他读出宣言，表示希望中国有更多年轻人站出来，但他知道理想主义，“在那个春夏之交已经破灭”\n\n他之后开门，两人进屋，直播中断，他至今失联 https://t.co/voCA9yAcib",
     "hashtags": [],
     "id": 1232986789431791617,
@@ -5768,7 +5795,7 @@
         }
       }
     ],
-    "retweet_count": 2604,
+    "retweet_count": 2605,
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
     "urls": [],
     "user": {
@@ -5947,16 +5974,16 @@
   "id": 1233182516913176576,
   "id_str": "1233182516913176576",
   "lang": "zh",
-  "retweet_count": 483,
+  "retweet_count": 482,
   "retweeted_status": {
     "created_at": "Wed Feb 26 14:48:42 +0000 2020",
-    "favorite_count": 998,
+    "favorite_count": 997,
     "full_text": "财新传媒：一位基因测序公司人士透露，2020年1月1日，他接到湖北省卫健委一位官员电话，通知他武汉如有新冠肺炎的病例样本送检，不能再检；已有的病例样本必须销毁，不能对外透露样本信息，不能对外发布相关论文和相关数据，“如果你们在日后检测到了，一定要向我们报告”。",
     "hashtags": [],
     "id": 1232678883759030282,
     "id_str": "1232678883759030282",
     "lang": "zh",
-    "retweet_count": 483,
+    "retweet_count": 482,
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
     "urls": [],
     "user": {
@@ -6066,7 +6093,7 @@
   "lang": "zh",
   "quoted_status": {
     "created_at": "Thu Feb 27 11:12:06 +0000 2020",
-    "favorite_count": 272,
+    "favorite_count": 273,
     "full_text": "【武汉“非新冠肺炎患者”面临的困境】武汉从1月23日开始一直处于“封城”状态。当地的很多医院被征用，科室被关闭，这让很多患有其他疾病的病人生活举步维艰。 https://t.co/av5FUkuL68",
     "hashtags": [],
     "id": 1232986760780513280,
@@ -6187,7 +6214,7 @@
   "retweet_count": 787,
   "retweeted_status": {
     "created_at": "Fri Feb 28 01:32:27 +0000 2020",
-    "favorite_count": 2878,
+    "favorite_count": 2881,
     "full_text": "美国研制了瑞德西韦，日本制出了15分钟搞定的检测仪器，中国，出了一本书，指导世界人民抗疫。",
     "hashtags": [],
     "id": 1233203277174456320,
@@ -6376,7 +6403,7 @@
   "retweet_count": 147,
   "retweeted_status": {
     "created_at": "Mon Mar 02 03:30:00 +0000 2020",
-    "favorite_count": 369,
+    "favorite_count": 370,
     "full_text": "在流行病临近时，政治领导人试图审查卫生官员的言论、淡化感染风险的事情，在许多国家都多次发生。\n历史学家和担任过卫生官员的人说，这种策略几乎从未奏效过。而且，如果死亡人数超过领导者漫不经心的预测数字的话，最终将毁掉领导者本人的声誉。https://t.co/h6PdComUhG",
     "hashtags": [],
     "id": 1234320021205082112,
@@ -6421,7 +6448,7 @@
   "retweet_count": 182,
   "retweeted_status": {
     "created_at": "Mon Mar 02 08:00:00 +0000 2020",
-    "favorite_count": 550,
+    "favorite_count": 551,
     "full_text": "如今的中国政府面临着公众对其失误的怒火，共产党正在试图修复自己的形象，将自己重塑为全球抗击病毒行动中毫不含糊的领导者。\n官媒称赞中国对疫情的应对是世界的榜样，指责美国和韩国等国家在遏制疫情传播方面行动缓慢。https://t.co/irHCC1ovBJ",
     "hashtags": [],
     "id": 1234387970620182528,
@@ -6720,7 +6747,7 @@
       }
     }
   ],
-  "retweet_count": 906,
+  "retweet_count": 905,
   "retweeted_status": {
     "created_at": "Sun Mar 08 15:16:36 +0000 2020",
     "favorite_count": 1623,
@@ -6747,7 +6774,7 @@
         }
       }
     ],
-    "retweet_count": 906,
+    "retweet_count": 905,
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "urls": [],
     "user": {
@@ -6902,7 +6929,7 @@
   "retweet_count": 1035,
   "retweeted_status": {
     "created_at": "Mon Mar 09 06:53:15 +0000 2020",
-    "favorite_count": 2140,
+    "favorite_count": 2141,
     "full_text": "【武汉市委书记倡展开“感恩教育”】\n【武汉人怎麽看？】\n\n武汉官媒《长江日报》报道，武汉市委书记王忠林上周五(6日)提出要通过多种形式的宣传教育活动，在广大市民、党员干部中开展“感恩教育”，“听党话、跟党走”，形成强大正能量。不过相关报导已经全部被删。\n\n那武汉人民感恩政府和国家吗？\n\n网上片段 https://t.co/iMnZj9ME4S",
     "hashtags": [],
     "id": 1236907886283874306,
@@ -7185,10 +7212,10 @@
       }
     }
   ],
-  "retweet_count": 1216,
+  "retweet_count": 1217,
   "retweeted_status": {
     "created_at": "Tue Mar 10 04:38:35 +0000 2020",
-    "favorite_count": 2519,
+    "favorite_count": 2520,
     "full_text": "這是習近平要視察的東湖庭院小區。\n当地居民披露，习近平去之前，武汉东湖這边居民发了肉，其他地方没有。\n为了防范出现孙春兰那种「假的，假的，都是假的」事故，提前安排大批安保進入居民家中看著\n https://t.co/bms1F2rSdg",
     "hashtags": [],
     "id": 1237236386475974656,
@@ -7212,7 +7239,7 @@
         }
       }
     ],
-    "retweet_count": 1216,
+    "retweet_count": 1217,
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "urls": [],
     "user": {
@@ -7361,10 +7388,10 @@
       "url": "https://t.co/YTDoNKJ9GV"
     }
   ],
-  "retweet_count": 282,
+  "retweet_count": 283,
   "retweeted_status": {
     "created_at": "Tue Mar 10 05:32:58 +0000 2020",
-    "favorite_count": 724,
+    "favorite_count": 725,
     "full_text": "即使想喊“都是真的”也喊不了。 https://t.co/YTDoNKJ9GV",
     "hashtags": [],
     "id": 1237250069239181312,
@@ -7390,7 +7417,7 @@
         "url": "https://t.co/YTDoNKJ9GV"
       }
     ],
-    "retweet_count": 282,
+    "retweet_count": 283,
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "urls": [],
     "user": {
@@ -7431,7 +7458,7 @@
   "retweet_count": 364,
   "retweeted_status": {
     "created_at": "Tue Mar 10 04:28:09 +0000 2020",
-    "favorite_count": 682,
+    "favorite_count": 683,
     "full_text": "【武汉最新视频】\n【习近平到达武汉】\n【市面大阵仗】\n\n官媒报道，习近平周二(10日)到达武汉视察，有居民拍到大批人进入东湖庭院小区，小区居民接到通知，会有警察入户进行安全排查，会在他们家待一个小时左右。\n\n#习近平来了\n#不准出门 https://t.co/DyFGdmb1VY",
     "hashtags": [
       {
@@ -7561,10 +7588,10 @@
       }
     }
   ],
-  "retweet_count": 162,
+  "retweet_count": 163,
   "retweeted_status": {
     "created_at": "Fri Mar 13 20:17:13 +0000 2020",
-    "favorite_count": 477,
+    "favorite_count": 478,
     "full_text": "湖北孝感，大批警察进小区抓人。看以后谁还敢抗议高价配送菜？ https://t.co/PGoW3XQkUk",
     "hashtags": [],
     "id": 1238559763354357760,
@@ -7588,7 +7615,7 @@
         }
       }
     ],
-    "retweet_count": 162,
+    "retweet_count": 163,
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "urls": [],
     "user": {
@@ -7700,7 +7727,7 @@
   "retweet_count": 535,
   "retweeted_status": {
     "created_at": "Fri Mar 13 08:37:13 +0000 2020",
-    "favorite_count": 1538,
+    "favorite_count": 1540,
     "full_text": "中国外交部发言人赵立坚在Twitter发布推文，指可能是美军将新冠病毒带到中国，还附上美国疾控与预防中心（CDC）主任罗伯特·雷德菲尔德（Robert Redfield）在美国众议院监督委员会听证会上发言的视频。除此之外，赵立坚未对其指控提供实质证据。 https://t.co/Ba41q1UnOk",
     "hashtags": [],
     "id": 1238383602150318080,
@@ -7827,7 +7854,7 @@
   "retweet_count": 440,
   "retweeted_status": {
     "created_at": "Fri Mar 13 15:29:56 +0000 2020",
-    "favorite_count": 804,
+    "favorite_count": 803,
     "full_text": "Chinese Ambassador Cui Tiankai leaving State. He was summoned earlier this morning. https://t.co/u02KhwCrXK",
     "hashtags": [],
     "id": 1238487465373073408,
@@ -7959,7 +7986,7 @@
   "retweet_count": 149,
   "retweeted_status": {
     "created_at": "Fri Mar 13 07:11:45 +0000 2020",
-    "favorite_count": 573,
+    "favorite_count": 574,
     "full_text": "赵发言人在努力证明新冠病毒就是美国人制造出来毒害中国人的，不仅歪曲美国疾控中心主任的话，还引用加拿大著名阴谋论者Michel Chossudovsky的“研究”当证据。 https://t.co/6xyjEtcIoK",
     "hashtags": [],
     "id": 1238362093700517888,
@@ -8218,7 +8245,7 @@
   "retweet_count": 1527,
   "retweeted_status": {
     "created_at": "Mon Mar 16 23:01:11 +0000 2020",
-    "favorite_count": 12235,
+    "favorite_count": 12234,
     "full_text": "“You can take me to the stake.  You can set me on fire.  But you can’t make me lie about science!”\n -Soviet Botanist Nikolai Vavilov, fighting the obstinate, anti-science Stalinist regime, 1939. \n\nProfiled in tonight’s airing of Cosmos:Possible Worlds, Ep 4. on the @NatGeoChannel https://t.co/S76v8RkkN4",
     "hashtags": [],
     "id": 1239688192120553473,
@@ -8375,7 +8402,7 @@
   "retweet_count": 753,
   "retweeted_status": {
     "created_at": "Tue Mar 17 07:51:21 +0000 2020",
-    "favorite_count": 1802,
+    "favorite_count": 1804,
     "full_text": "随着共产党努力对中国八亿网民的思想、言论甚至记忆进行控制，网络警察获得了更大权力。\n警察会出其不意地来到网上发表批评言论的人家中，强行拉走犯事者，进行数小时的审讯。他们强迫目标对象签署保证书，并宣布不再发表政治上不能允许的言论。https://t.co/k8ngCUrmxg",
     "hashtags": [],
     "id": 1239821610397208576,
@@ -8468,7 +8495,7 @@
   "retweet_count": 551,
   "retweeted_status": {
     "created_at": "Tue Mar 17 07:01:05 +0000 2020",
-    "favorite_count": 1554,
+    "favorite_count": 1555,
     "full_text": "许章润是中国著名法学家、清华大学法学教授。近两年曾公开撰文呼吁恢复国家主席任期制，平反“六四”。他还批评当局“欲令天下无声，惟剩诺诺”，称其“何其愚妄，何其滑稽”。一年后的今天，中国的言论自由有什么变化？\nhttps://t.co/Yp4y9kVm3k",
     "hashtags": [],
     "id": 1239808960057802753,
@@ -8669,7 +8696,7 @@
   "retweet_count": 2582,
   "retweeted_status": {
     "created_at": "Tue Mar 17 18:33:33 +0000 2020",
-    "favorite_count": 7024,
+    "favorite_count": 7027,
     "full_text": "特朗普总统在3月17日白宫举行的记者会上被记者问到使用中国病毒这个词引起争议，他有何回应时。特朗普说，“中国推出不实的信息，说我们的军队把这个(病毒)传给他们，这是不实的。我决定，无须争论，我只须按照它的来源称呼它，它是从中国来的。所以我认为这是一个非常准确的术语。” https://t.co/BknTZCrogH",
     "hashtags": [],
     "id": 1239983224379637760,
@@ -8951,7 +8978,7 @@
   "retweet_count": 293,
   "retweeted_status": {
     "created_at": "Wed Mar 18 19:23:46 +0000 2020",
-    "favorite_count": 1164,
+    "favorite_count": 1165,
     "full_text": "特朗普星期三(3月18日)继续为他使用“中国病毒”的说法进行了辩护。特朗普总统否认使用“中国病毒”是种族主义，并表示这是反击中国政府提出的病毒可能是美军传播的说法。他坚持认为“中国病毒”的说法没错。https://t.co/cR9SnpyiDG https://t.co/Ber9ZUr2WZ",
     "hashtags": [],
     "id": 1240358250220060678,
@@ -9079,7 +9106,7 @@
   "retweet_count": 610,
   "retweeted_status": {
     "created_at": "Wed Mar 18 23:07:43 +0000 2020",
-    "favorite_count": 1417,
+    "favorite_count": 1416,
     "full_text": "美國國家安全委員會官方聲明：中國共產黨壓制中國病毒的早期消息，懲罰洩密的醫生和記者，造成中國和國際專家喪失控制疫情全球大流行的關鍵機會。\n\n直接指名道姓中共！😱😱😱\n\n@ding_gang https://t.co/gh0jhVOxXz",
     "hashtags": [],
     "id": 1240414612123791371,
@@ -9087,13 +9114,13 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Wed Mar 18 18:55:31 +0000 2020",
-      "favorite_count": 15106,
+      "favorite_count": 15104,
       "full_text": "The Chinese Communist Party suppressed initial reports on the Chinese Virus and punished doctors and journalists, causing Chinese and international experts to miss critical opportunities to prevent a global pandemic.\n\n https://t.co/wVfXAWSR7I",
       "hashtags": [],
       "id": 1240351140774137857,
       "id_str": "1240351140774137857",
       "lang": "en",
-      "retweet_count": 9390,
+      "retweet_count": 9388,
       "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">The White House</a>",
       "urls": [
         {
@@ -9690,7 +9717,7 @@
   "retweet_count": 329,
   "retweeted_status": {
     "created_at": "Sat Mar 21 12:30:53 +0000 2020",
-    "favorite_count": 707,
+    "favorite_count": 708,
     "full_text": "任志强：求实、用自己的脑袋想问题、父母和对错无关、消灭国有企业！ https://t.co/0BHgAh8DjH",
     "hashtags": [],
     "id": 1241341511113093120,
@@ -10139,111 +10166,7 @@
   "retweet_count": 1493,
   "retweeted_status": {
     "created_at": "Thu Mar 26 15:43:20 +0000 2020",
-    "favorite_count": 4552,
-    "full_text": "这些听命于中国共产党的宣传机构属于外国代理人，并非“新闻记者”。甚至习总书记也说，他们“必须姓党”。 https://t.co/kSmdcPZoxB",
-    "hashtags": [],
-    "id": 1243201881276547073,
-    "id_str": "1243201881276547073",
-    "lang": "zh",
-    "quoted_status": {
-      "created_at": "Thu Mar 26 12:21:05 +0000 2020",
-      "favorite_count": 4952,
-      "full_text": "Propaganda outlets that report to the Chinese Communist Party are foreign agents, not “journalists.” Even General Secretary Xi says they “must speak for the Party.” https://t.co/f9MIY6WFj1",
-      "hashtags": [],
-      "id": 1243150982139256839,
-      "id_str": "1243150982139256839",
-      "lang": "en",
-      "media": [
-        {
-          "display_url": "pic.twitter.com/f9MIY6WFj1",
-          "expanded_url": "https://twitter.com/statedeptspox/status/1243150982139256839/photo/1",
-          "id": 1243149896242388995,
-          "media_url": "http://pbs.twimg.com/media/EUCOPoAXYAMMWF_.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/EUCOPoAXYAMMWF_.jpg",
-          "sizes": {
-            "large": {
-              "w": 1066,
-              "h": 478,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 1066,
-              "h": 478,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 305,
-              "resize": "fit"
-            }
-          },
-          "type": "photo",
-          "url": "https://t.co/f9MIY6WFj1"
-        }
-      ],
-      "retweet_count": 1783,
-      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "urls": [],
-      "user": {
-        "id": 1967216306,
-        "id_str": "1967216306"
-      },
-      "user_mentions": []
-    },
-    "quoted_status_id": 1243150982139256839,
-    "quoted_status_id_str": "1243150982139256839",
-    "retweet_count": 1493,
-    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "urls": [
-      {
-        "expanded_url": "https://twitter.com/StateDeptSpox/status/1243150982139256839",
-        "url": "https://t.co/kSmdcPZoxB"
-      }
-    ],
-    "user": {
-      "id": 89421672,
-      "screen_name": "USA_China_Talk"
-    },
-    "user_mentions": []
-  },
-  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-  "urls": [
-    {
-      "expanded_url": "https://twitter.com/StateDeptSpox/status/1243150982139256839",
-      "url": "https://t.co/kSmdcPZoxB"
-    }
-  ],
-  "user": {
-    "id": 547112588,
-    "screen_name": "NewCenturyBaopu"
-  },
-  "user_mentions": [
-    {
-      "id": 89421672,
-      "id_str": "89421672",
-      "name": "美国驻华使领馆 US MissionCN",
-      "screen_name": "USA_China_Talk"
-    }
-  ]
-}
-{
-  "created_at": "Thu Mar 26 17:13:16 +0000 2020",
-  "full_text": "RT @USA_China_Talk: 这些听命于中国共产党的宣传机构属于外国代理人，并非“新闻记者”。甚至习总书记也说，他们“必须姓党”。 https://t.co/kSmdcPZoxB",
-  "hashtags": [],
-  "id": 1243224512792911872,
-  "id_str": "1243224512792911872",
-  "lang": "zh",
-  "quoted_status_id": 1243150982139256839,
-  "quoted_status_id_str": "1243150982139256839",
-  "retweet_count": 1493,
-  "retweeted_status": {
-    "created_at": "Thu Mar 26 15:43:20 +0000 2020",
-    "favorite_count": 4552,
+    "favorite_count": 4551,
     "full_text": "这些听命于中国共产党的宣传机构属于外国代理人，并非“新闻记者”。甚至习总书记也说，他们“必须姓党”。 https://t.co/kSmdcPZoxB",
     "hashtags": [],
     "id": 1243201881276547073,
@@ -10479,7 +10402,57 @@
   "retweet_count": 873,
   "retweeted_status": {
     "created_at": "Thu Mar 26 20:20:03 +0000 2020",
-    "favorite_count": 1898,
+    "favorite_count": 1900,
+    "full_text": "西班牙卫生部卫生警报和紧急情况协调中心主任西蒙（Fernando Simón）26日就证实，中国快速检测试剂的准确性低于30％，已经下令停用 https://t.co/NgpdJoCcQQ",
+    "hashtags": [],
+    "id": 1243271517972152321,
+    "id_str": "1243271517972152321",
+    "lang": "zh",
+    "retweet_count": 873,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "urls": [
+      {
+        "expanded_url": "https://www.rfa.org/mandarin/yataibaodao/huanjing/cl-03262020090236.html",
+        "url": "https://t.co/NgpdJoCcQQ"
+      }
+    ],
+    "user": {
+      "id": 17595489,
+      "screen_name": "RFA_Chinese"
+    },
+    "user_mentions": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "urls": [
+    {
+      "expanded_url": "https://www.rfa.org/mandarin/yataibaodao/huanjing/cl-03262020090236.html",
+      "url": "https://t.co/NgpdJoCcQQ"
+    }
+  ],
+  "user": {
+    "id": 547112588,
+    "screen_name": "NewCenturyBaopu"
+  },
+  "user_mentions": [
+    {
+      "id": 17595489,
+      "id_str": "17595489",
+      "name": "自由亚洲电台",
+      "screen_name": "RFA_Chinese"
+    }
+  ]
+}
+{
+  "created_at": "Fri Mar 27 00:07:36 +0000 2020",
+  "full_text": "RT @RFA_Chinese: 西班牙卫生部卫生警报和紧急情况协调中心主任西蒙（Fernando Simón）26日就证实，中国快速检测试剂的准确性低于30％，已经下令停用 https://t.co/NgpdJoCcQQ",
+  "hashtags": [],
+  "id": 1243328783685283840,
+  "id_str": "1243328783685283840",
+  "lang": "zh",
+  "retweet_count": 873,
+  "retweeted_status": {
+    "created_at": "Thu Mar 26 20:20:03 +0000 2020",
+    "favorite_count": 1900,
     "full_text": "西班牙卫生部卫生警报和紧急情况协调中心主任西蒙（Fernando Simón）26日就证实，中国快速检测试剂的准确性低于30％，已经下令停用 https://t.co/NgpdJoCcQQ",
     "hashtags": [],
     "id": 1243271517972152321,
@@ -10526,16 +10499,16 @@
   "id": 1243517006361567232,
   "id_str": "1243517006361567232",
   "lang": "zh",
-  "retweet_count": 742,
+  "retweet_count": 743,
   "retweeted_status": {
     "created_at": "Fri Mar 27 10:00:00 +0000 2020",
-    "favorite_count": 1438,
+    "favorite_count": 1439,
     "full_text": "120年前，俄罗斯哥萨克人把成千上万的中国人淹死在阿穆尔河中。对中俄两国来说，1900年阿穆尔河上的可怕事件是一个棘手的问题。\n但随着两国关系好转，中俄都在试图回避这段历史。如今在阿穆尔河的两岸，记忆大都被失忆所取代。https://t.co/ZBtQRggScD",
     "hashtags": [],
     "id": 1243477865234141184,
     "id_str": "1243477865234141184",
     "lang": "zh",
-    "retweet_count": 742,
+    "retweet_count": 743,
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "urls": [
       {
@@ -10976,7 +10949,7 @@
   "retweet_count": 61,
   "retweeted_status": {
     "created_at": "Sat Apr 04 09:00:00 +0000 2020",
-    "favorite_count": 202,
+    "favorite_count": 203,
     "full_text": "#一周热门 新冠疫情在全球催生独裁和滥权 https://t.co/UtXojKcOVZ",
     "hashtags": [
       {
@@ -11472,7 +11445,7 @@
   "retweet_count": 93,
   "retweeted_status": {
     "created_at": "Mon Apr 06 00:42:12 +0000 2020",
-    "favorite_count": 187,
+    "favorite_count": 186,
     "full_text": "@魏得胜 \n【英国准备向国际法庭起诉中国】英国保守党15名成员向英国政府施压，准备向国际法庭起诉中国，要求中国赔偿英国3510亿英镑防疫损失，还要求英国政府重新审视中英关系。 https://t.co/ArrSn1VvOJ",
     "hashtags": [],
     "id": 1246961367594061825,
@@ -11635,7 +11608,7 @@
   "retweet_count": 1011,
   "retweeted_status": {
     "created_at": "Tue Apr 07 00:16:33 +0000 2020",
-    "favorite_count": 3022,
+    "favorite_count": 3024,
     "full_text": "伊朗卫生部发言人称中国疫情数据是“惨痛的笑话” https://t.co/E6eRrrDh0A",
     "hashtags": [],
     "id": 1247317300815884288,
@@ -11891,7 +11864,7 @@
   "retweet_count": 132,
   "retweeted_status": {
     "created_at": "Tue Apr 07 18:03:41 +0000 2020",
-    "favorite_count": 288,
+    "favorite_count": 287,
     "full_text": "【公道自在人心】（2）大陆网友传来消息：中共挂出任志强被审查的通告后，立即在网络封闭评论，任志强名字被设为敏感词，禁止人们对此发言。但是，公道自在人心，人们用各种方式表达对任志强的认可与尊敬！一位网友再次发出这篇文章《不要把伟大的批评者，当作国家的敌人！》 https://t.co/KEyu9CLXII",
     "hashtags": [],
     "id": 1247585853767135232,
@@ -12044,10 +12017,10 @@
   "id": 1247669361592025093,
   "id_str": "1247669361592025093",
   "lang": "zh",
-  "retweet_count": 919,
+  "retweet_count": 918,
   "retweeted_status": {
     "created_at": "Tue Apr 07 00:19:26 +0000 2020",
-    "favorite_count": 2197,
+    "favorite_count": 2196,
     "full_text": "不是我不想恨美国，是我实在恨不起来：因为我的电动车不是美国人抢的，摆的摊不是美国人踢的，吃的有毒食品不是美国人造的，旅游买的高价门票不是美国人收的，见死不救的医院不是美国人开的，写的微博不是美国人删的，微信号不是美国人封的!\n我所遭遇的一切，都与美国不沾边，你让我怎么恨美国 ...... https://t.co/GWHNk2v0Gs",
     "hashtags": [],
     "id": 1247318028812836865,
@@ -12071,7 +12044,7 @@
         }
       }
     ],
-    "retweet_count": 919,
+    "retweet_count": 918,
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "urls": [],
     "user": {
@@ -12234,7 +12207,7 @@
   "retweet_count": 120,
   "retweeted_status": {
     "created_at": "Wed Apr 08 21:28:06 +0000 2020",
-    "favorite_count": 283,
+    "favorite_count": 284,
     "full_text": "美国国家情报委员会在2004年的一份有关2020年世界前景的报告中预测，到2020年，世界越来越受到身份认同政治的困扰，全球化将面临政治反扑。真正会使经济整合脱轨的，很可能是一种致命新疾病的大规模传播。2004年报告主管是曾任外交官及普林斯顿大学学者的罗伯特‧哈钦斯。https://t.co/5kttKeIJoc",
     "hashtags": [],
     "id": 1247999684813058048,
@@ -12430,7 +12403,7 @@
   "retweet_count": 231,
   "retweeted_status": {
     "created_at": "Wed Apr 08 16:06:15 +0000 2020",
-    "favorite_count": 508,
+    "favorite_count": 509,
     "full_text": "Another fantastic article by @joshrogin who reports there is now widespread agreement by Republicans and Democrats that China’s Communist government can’t be trusted. https://t.co/fAqghdHAFQ",
     "hashtags": [],
     "id": 1247918690726825985,
@@ -12566,7 +12539,7 @@
   "retweet_count": 366,
   "retweeted_status": {
     "created_at": "Thu Apr 09 04:00:06 +0000 2020",
-    "favorite_count": 1412,
+    "favorite_count": 1413,
     "full_text": "随着新冠疫情在全球蔓延，英国议会议员指责中国散布虚假信息，阻碍了全球抗疫努力，让更多人付出生命代价，并要求同中国脱钩。\nhttps://t.co/bAhMZvO2HI",
     "hashtags": [],
     "id": 1248098337670270978,
@@ -12692,7 +12665,7 @@
   "retweet_count": 105,
   "retweeted_status": {
     "created_at": "Thu Apr 09 04:00:00 +0000 2020",
-    "favorite_count": 364,
+    "favorite_count": 365,
     "full_text": "从美国、日本到台湾，世卫组织在新冠疫情中的表现备受诟病。\n评论人士称，世卫组织一直以来过于信任中国，而中国最初试图掩盖武汉的疫情。还有人指责该组织总干事谭德塞在宣布全球卫生紧急事件方面行动太慢。\n但辩护者称该机构权力有限，已尽最大努力来处理这场公共卫生威胁。https://t.co/OS9HzJpKyC",
     "hashtags": [],
     "id": 1248098310184783878,
@@ -12935,16 +12908,16 @@
   "id": 1248334459247550466,
   "id_str": "1248334459247550466",
   "lang": "zh",
-  "retweet_count": 853,
+  "retweet_count": 852,
   "retweeted_status": {
     "created_at": "Thu Apr 09 03:35:00 +0000 2020",
-    "favorite_count": 1994,
+    "favorite_count": 1995,
     "full_text": "美国准许谷歌启动与台湾连接的高速互联网光缆，但禁止其与香港连通，理由是存在国家安全隐患。香港一直是美国互联网电缆的首选目的地，上述决定可能会终结香港这一地位，并危及正在进行的几个连接香港的项目。https://t.co/Aa09O3fTCP",
     "hashtags": [],
     "id": 1248092020171825152,
     "id_str": "1248092020171825152",
     "lang": "zh",
-    "retweet_count": 853,
+    "retweet_count": 852,
     "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
     "urls": [
       {
@@ -12988,7 +12961,7 @@
   "retweet_count": 326,
   "retweeted_status": {
     "created_at": "Sat Apr 11 03:01:38 +0000 2020",
-    "favorite_count": 668,
+    "favorite_count": 669,
     "full_text": "【日美撤企决心大】今天中国大陆微信群里热传下面两个截图：日美两国政府花巨资也要从中国撤出自己的企业。这两则消息对中国政界、经济界、学界心理冲击很大。各界精英担心中国躲不过经济危机和社会危机。危机将对未来中国起什么作用？各有不同看法，精英普遍对前景不乐观。 https://t.co/WAvMEuU9XV",
     "hashtags": [],
     "id": 1248808399124529153,
@@ -13045,10 +13018,10 @@
   "id": 1249479205466722304,
   "id_str": "1249479205466722304",
   "lang": "zh",
-  "retweet_count": 752,
+  "retweet_count": 751,
   "retweeted_status": {
     "created_at": "Sat Apr 11 12:02:47 +0000 2020",
-    "favorite_count": 1236,
+    "favorite_count": 1235,
     "full_text": "【中共花钱操控网络舆论】再次曝光中共公然花钱买粉丝，而且是巨款！五毛自爆也是有趣：转发规定内容跟帖每条五毛。发出时要求把价目说明删掉，一个五毛忘了这个规定，连底一起捅上了网。中国政府的钱花在维持统治民众上；欧美国家政府的钱用提高民众生活质量上。多么鲜明的对比！ https://t.co/bSkO8MCQGP",
     "hashtags": [],
     "id": 1248944581607030794,
@@ -13083,7 +13056,7 @@
         "url": "https://t.co/bSkO8MCQGP"
       }
     ],
-    "retweet_count": 752,
+    "retweet_count": 751,
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "urls": [],
     "user": {
@@ -13117,7 +13090,7 @@
   "retweet_count": 208,
   "retweeted_status": {
     "created_at": "Tue Apr 14 16:23:32 +0000 2020",
-    "favorite_count": 348,
+    "favorite_count": 349,
     "full_text": "【一个五毛亮相】视频是一位五毛的简要介绍。大学生为挣点零花钱去干五毛，不以为耻视为正常。中共以钱为诱饵，毁掉人的是非善恶观、荣辱羞耻感，培养一批活在钱眼里的年轻人。大学生接受了高等教育，却成为反文明反人类的“新极权分子”。中共毁的不只是眼下的中国，而是在毁中国社会的道德良知底线。 https://t.co/vEpY5ZtPZv",
     "hashtags": [],
     "id": 1250097365656178689,
@@ -13175,7 +13148,7 @@
   "retweet_count": 150,
   "retweeted_status": {
     "created_at": "Tue Apr 14 12:33:31 +0000 2020",
-    "favorite_count": 414,
+    "favorite_count": 415,
     "full_text": "有司又來了，問：‘您又寫方方了？“我反問：”方方怎麼了？“回答：”涉及疫情啊。“我再問：”那就是說真實發生的事都不能寫？“扯了半天皮，他說：”您就再忍忍吧。“\n下邊的視頻可起一連串的名字。既然可叫“人人有份”，就發它了。 https://t.co/vtRyN1UKp1",
     "hashtags": [],
     "id": 1250039480406274048,
@@ -13290,7 +13263,7 @@
   "lang": "zh",
   "quoted_status": {
     "created_at": "Fri Apr 17 04:34:01 +0000 2020",
-    "favorite_count": 1220,
+    "favorite_count": 1221,
     "full_text": "【最新消息】中国武汉宣布新增1290例新冠肺炎死亡病例、325例确诊病例。官方称，这是由于疫情早期有患者在家中病亡，救治高峰期“存在迟报、漏报和误报现象”。 https://t.co/EhsqUlkFnw",
     "hashtags": [],
     "id": 1251005973780709376,
@@ -13390,7 +13363,7 @@
   "lang": "zh",
   "quoted_status": {
     "created_at": "Thu Apr 16 10:00:05 +0000 2020",
-    "favorite_count": 1724,
+    "favorite_count": 1726,
     "full_text": "一篇称哈萨克斯坦“渴望回归中国”的网络文章，让这个中国的邻国罕见召见了中国大使表示抗议。但网友发现，类似的文章远不止一篇……https://t.co/1icJwttB97",
     "hashtags": [],
     "id": 1250725645027508224,
@@ -13521,7 +13494,7 @@
       "url": "https://t.co/aIHa1A7VVE"
     }
   ],
-  "retweet_count": 277,
+  "retweet_count": 276,
   "retweeted_status": {
     "created_at": "Fri Apr 17 04:00:12 +0000 2020",
     "favorite_count": 1006,
@@ -13541,7 +13514,7 @@
         "url": "https://t.co/aIHa1A7VVE"
       }
     ],
-    "retweet_count": 277,
+    "retweet_count": 276,
     "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
     "urls": [
       {
@@ -13645,7 +13618,7 @@
   "retweet_count": 543,
   "retweeted_status": {
     "created_at": "Sun Apr 19 03:15:00 +0000 2020",
-    "favorite_count": 1987,
+    "favorite_count": 1988,
     "full_text": "俄罗斯疫情快速蔓延，许多在俄中国公民掉进夹缝：被俄视为传染源，饱受歧视，要回祖国而中国已封关。最让他们寒心的是中国驻俄大使张汉晖不仅不出面救人，还将他们污名化，痛斥“带病”回国者“砸了中俄关系的锅”，“令人不齿”，要他们“就地抗疫”。\n中国外交界怎么尽出这类丧失了人性底线的角色！",
     "hashtags": [],
     "id": 1251710863574269952,
@@ -13957,7 +13930,7 @@
   "id": 1251998830964256768,
   "id_str": "1251998830964256768",
   "lang": "zh",
-  "retweet_count": 1057,
+  "retweet_count": 1056,
   "retweeted_status": {
     "created_at": "Wed Apr 15 16:31:49 +0000 2020",
     "favorite_count": 2992,
@@ -13966,7 +13939,7 @@
     "id": 1250461840292757504,
     "id_str": "1250461840292757504",
     "lang": "zh",
-    "retweet_count": 1057,
+    "retweet_count": 1056,
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "urls": [],
     "user": {
@@ -14004,7 +13977,7 @@
   "retweet_count": 220,
   "retweeted_status": {
     "created_at": "Sat Apr 18 11:18:25 +0000 2020",
-    "favorite_count": 1205,
+    "favorite_count": 1206,
     "full_text": "【#推特上的中国 “警察拦阻了一个复兴的故事”，《纽约时报》驻华记者的“天鹅之歌”】在中国的“驱逐令”下，《纽约时报》记者孟建国将于本周末离开中国。但在离开前最后一次外出采访中，他被警察全程跟踪并采访受阻，麦当劳用餐时被骂“洋垃圾”。他在《中国的后疫情时代：复苏、审查与仇外》一文中感叹... https://t.co/eN5mpeO6OC",
     "hashtags": [
       {
@@ -14116,7 +14089,7 @@
   "retweet_count": 633,
   "retweeted_status": {
     "created_at": "Sat Apr 18 01:18:46 +0000 2020",
-    "favorite_count": 1443,
+    "favorite_count": 1444,
     "full_text": "有一个证据被美国媒体抓住：1月23日上午10点武汉开始封城，武汉进出国内交通中断。但是，武汉机场10点以后仍然放行5个飞往国外的航班，其中就包括飞往倒霉的罗马。为何中共切断从武汉去中国其他地方交通之后，而对飞往国外的航班放行？（各国撤侨航班都有特别检测和隔离，又是另外一回事。） https://t.co/DA2mTvZxpg",
     "hashtags": [],
     "id": 1251319225731502080,
@@ -14214,16 +14187,16 @@
   "id": 1252734547898167296,
   "id_str": "1252734547898167296",
   "lang": "zh",
-  "retweet_count": 563,
+  "retweet_count": 564,
   "retweeted_status": {
     "created_at": "Mon Apr 20 23:34:23 +0000 2020",
-    "favorite_count": 2262,
+    "favorite_count": 2261,
     "full_text": "现在网上很多人骂她，说她不应该把社会阴暗面写出来，给西方递刀子。也有挺她的，说她勇敢地把阴暗面写出来。\n不难发现，其实双方有一个共同点，就是都承认社会有阴暗面。那就奇怪了，为什么不去骂那个制作阴暗面的人，而去骂揭阴暗面的人？难道记录阴暗面的罪责，会比制造阴暗面的罪责还要大？",
     "hashtags": [],
     "id": 1252380120075001861,
     "id_str": "1252380120075001861",
     "lang": "zh",
-    "retweet_count": 563,
+    "retweet_count": 564,
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "urls": [],
     "user": {
@@ -14314,10 +14287,10 @@
   "id": 1252735955384983552,
   "id_str": "1252735955384983552",
   "lang": "zh",
-  "retweet_count": 873,
+  "retweet_count": 872,
   "retweeted_status": {
     "created_at": "Tue Apr 21 10:14:00 +0000 2020",
-    "favorite_count": 1806,
+    "favorite_count": 1805,
     "full_text": "【铜锣湾书店台北开幕前夕 林荣基遭泼红漆】\n【又遭警告有商标纠纷 威胁意味浓厚】\n林荣基21号早在咖啡厅，突遭一男子以红漆泼洒全身。他认为这跟共产党脱不了关系。铜锣湾书店在台湾还遭人抢先注册，林接到律师函要求不得开店。种种遭遇，警告意味浓厚。但林荣基表示，25号书店仍将开幕。\n#铜锣湾书店 https://t.co/sjjSqPqjZw",
     "hashtags": [
       {
@@ -14345,7 +14318,7 @@
         }
       }
     ],
-    "retweet_count": 873,
+    "retweet_count": 872,
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
     "urls": [],
     "user": {
@@ -14654,7 +14627,7 @@
   "retweet_count": 327,
   "retweeted_status": {
     "created_at": "Tue Apr 21 14:42:04 +0000 2020",
-    "favorite_count": 1699,
+    "favorite_count": 1700,
     "full_text": "武漢人從得知病毒“人傳人”，到被封死在城内僅相隔兩天。當時武漢醫療崩潰，大批市民死在家裏，有一個鏡頭震撼了全世界：一個武漢女市民在陽臺上敲鑼，叫天天不應，叫地地不靈。當時整個城市陷入絕望之中，方方用日記小心翼翼地向外界傳遞求救信息。今天活下來的武漢人罵方方，加劇了這個城市悲劇色彩。",
     "hashtags": [],
     "id": 1252608547629797378,
@@ -14704,7 +14677,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Thu Apr 23 17:41:37 +0000 2020",
-      "favorite_count": 1596,
+      "favorite_count": 1595,
       "full_text": "还有一群中国人被国家抛弃，漂流在海上，自生自灭\n\n https://t.co/rNNbD6vg9R",
       "hashtags": [],
       "id": 1253378508123856897,
@@ -14976,7 +14949,7 @@
   "retweet_count": 284,
   "retweeted_status": {
     "created_at": "Thu Apr 30 14:46:16 +0000 2020",
-    "favorite_count": 1032,
+    "favorite_count": 1031,
     "full_text": "如果你身边有女性朋友特别关心政治、人权、体制、社会公平问题，更应该给她们点赞，因为这些知识女性成为母亲后，对儿女后代人格的形成及儿女成人后对社会责任感，甚至延续文明价值的使命都有着巨大的影响。\n\n                             ——刘艳丽 https://t.co/21ilpSZ0mQ",
     "hashtags": [],
     "id": 1255871092750553088,
@@ -15045,7 +15018,7 @@
   "retweet_count": 497,
   "retweeted_status": {
     "created_at": "Thu Apr 30 00:17:41 +0000 2020",
-    "favorite_count": 1506,
+    "favorite_count": 1507,
     "full_text": "魯迅：中國人從來不怕災難，不管是多大的災難，主要是大家一起發霉就行，從不探究真相，也不屑於別人去了解真相，災難過後，慶幸自己躲過了，嘲笑別人離去了，最後扔下一句混帳話：這就是命！ https://t.co/903MiRqEiC",
     "hashtags": [],
     "id": 1255652506291462146,
@@ -15158,7 +15131,7 @@
   "retweet_count": 1268,
   "retweeted_status": {
     "created_at": "Mon May 04 14:13:34 +0000 2020",
-    "favorite_count": 3331,
+    "favorite_count": 3332,
     "full_text": "今天白宮副國安顧問博明用中文演講。他寥寥數語說清楚了李文亮：李文亮並不是一個心懷拯救國家的公知，他只是從一個小小的傳遞疫情短信做起。他號召中國青年繼承五四精神，就是像李文亮那樣有公民意識，從盡一個公民點滴責任開始做起。博明樸實話語秒殺中共的宣傳。 https://t.co/wRr1gP1lOS",
     "hashtags": [],
     "id": 1257312416267825152,
@@ -15319,7 +15292,7 @@
   "retweet_count": 646,
   "retweeted_status": {
     "created_at": "Tue May 05 04:00:09 +0000 2020",
-    "favorite_count": 2339,
+    "favorite_count": 2340,
     "full_text": "“五四运动”101周年当日，美国白宫高官用中文演讲，警告中国若继续控制言论自由，忽视人民群众的真实呼声，或引发执政危机。\nhttps://t.co/TVlSBP9vzV",
     "hashtags": [],
     "id": 1257520431713656836,
@@ -15447,7 +15420,7 @@
   "retweet_count": 260,
   "retweeted_status": {
     "created_at": "Mon May 04 15:21:02 +0000 2020",
-    "favorite_count": 798,
+    "favorite_count": 799,
     "full_text": "路透社：中国政府内部报告称面临1989年以来最严峻国际形势 https://t.co/WImurvpjQW",
     "hashtags": [],
     "id": 1257329396614000641,
@@ -15620,7 +15593,7 @@
   "lang": "zh",
   "quoted_status_id": 1258177445993353217,
   "quoted_status_id_str": "1258177445993353217",
-  "retweet_count": 1341,
+  "retweet_count": 1339,
   "retweeted_status": {
     "created_at": "Thu May 07 14:01:55 +0000 2020",
     "favorite_count": 3307,
@@ -15631,7 +15604,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Wed May 06 23:30:53 +0000 2020",
-      "favorite_count": 3389,
+      "favorite_count": 3390,
       "full_text": "Last night @washingtonpost carried Chinese Amb Cui’s Op-Ed because that’s what freedom of the press looks like.  Also last night, Matt Pottinger’s speech on Weibo disappeared within 5 minutes because that’s what censorship looks like. https://t.co/PP2qdMdj53",
       "hashtags": [],
       "id": 1258177445993353217,
@@ -15701,7 +15674,7 @@
           "url": "https://t.co/PP2qdMdj53"
         }
       ],
-      "retweet_count": 1694,
+      "retweet_count": 1693,
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "urls": [],
       "user": {
@@ -15719,7 +15692,7 @@
     },
     "quoted_status_id": 1258177445993353217,
     "quoted_status_id_str": "1258177445993353217",
-    "retweet_count": 1341,
+    "retweet_count": 1339,
     "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
     "urls": [
       {
@@ -17104,7 +17077,7 @@
   "retweet_count": 421,
   "retweeted_status": {
     "created_at": "Mon May 18 03:09:10 +0000 2020",
-    "favorite_count": 768,
+    "favorite_count": 767,
     "full_text": "中国抗疫成功经验之——防疫人员群殴密切接触者\nhttps://t.co/TyTfAzOMO1",
     "hashtags": [],
     "id": 1262218645448519682,
@@ -18680,16 +18653,16 @@
   "id": 1265800929162362883,
   "id_str": "1265800929162362883",
   "lang": "en",
-  "retweet_count": 50714,
+  "retweet_count": 50705,
   "retweeted_status": {
     "created_at": "Wed May 27 15:38:37 +0000 2020",
-    "favorite_count": 135439,
+    "favorite_count": 135445,
     "full_text": "Today, I reported to Congress that Hong Kong is no longer autonomous from China, given facts on the ground. The United States stands with the people of Hong Kong.",
     "hashtags": [],
     "id": 1265668742220046339,
     "id_str": "1265668742220046339",
     "lang": "en",
-    "retweet_count": 50714,
+    "retweet_count": 50705,
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
     "urls": [],
     "user": {
@@ -18801,7 +18774,7 @@
   "retweet_count": 381,
   "retweeted_status": {
     "created_at": "Thu May 28 07:23:20 +0000 2020",
-    "favorite_count": 902,
+    "favorite_count": 901,
     "full_text": "@看得见的历史 \n好熟悉的画面 https://t.co/ZW5slUp5Fm",
     "hashtags": [],
     "id": 1265906488171626500,
@@ -18876,16 +18849,16 @@
   "id": 1265942020117245952,
   "id_str": "1265942020117245952",
   "lang": "en",
-  "retweet_count": 279,
+  "retweet_count": 278,
   "retweeted_status": {
     "created_at": "Wed May 27 12:50:04 +0000 2020",
-    "favorite_count": 522,
+    "favorite_count": 521,
     "full_text": "\"Western leaders must recognize that they have been complicit in China’s totalitarian rise.\" - Ma Jian\n\nhttps://t.co/yhQrdfZK9C",
     "hashtags": [],
     "id": 1265626322241495047,
     "id_str": "1265626322241495047",
     "lang": "en",
-    "retweet_count": 279,
+    "retweet_count": 278,
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
     "urls": [
       {
@@ -19093,10 +19066,10 @@
       }
     }
   ],
-  "retweet_count": 512,
+  "retweet_count": 513,
   "retweeted_status": {
     "created_at": "Sat May 30 04:22:52 +0000 2020",
-    "favorite_count": 1215,
+    "favorite_count": 1216,
     "full_text": "李中堂揭露中共谎言！\n\n中国人均收入每月¥2500。\n其中有6亿人的月收入只有¥1000。\n\n中共报导的人均年收入10,000美元，在哪儿？ https://t.co/J2KJYOXvJg",
     "hashtags": [],
     "id": 1266585848079806464,
@@ -19120,7 +19093,7 @@
         }
       }
     ],
-    "retweet_count": 512,
+    "retweet_count": 513,
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "urls": [],
     "user": {
@@ -19207,7 +19180,7 @@
           "url": "https://t.co/VFpoxfE60I"
         }
       ],
-      "retweet_count": 468,
+      "retweet_count": 467,
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "urls": [],
       "user": {
@@ -19861,7 +19834,7 @@
   "retweet_count": 2138,
   "retweeted_status": {
     "created_at": "Wed Jun 03 13:27:44 +0000 2020",
-    "favorite_count": 3916,
+    "favorite_count": 3917,
     "full_text": "Mass hunger strike, Tiananmen Square 1989. Photo is by a friend who wants to share it anonymously. I first tweeted it last year. Now, on eve of 31st anniversary of Tiananmen Massacre, it's even more important to remember those days of peaceful protest, and those ideals. https://t.co/J6nEFg12OB",
     "hashtags": [],
     "id": 1268172517828591618,
@@ -19977,7 +19950,7 @@
   "retweet_count": 168,
   "retweeted_status": {
     "created_at": "Wed Jun 03 09:07:44 +0000 2020",
-    "favorite_count": 859,
+    "favorite_count": 860,
     "full_text": "这张照片摄于1989年6月5日悉尼领馆门前。今天澳广采访我时发给我，问是不是我。31周年。六四是一个日子，是一个事件，也是我心头依然流血的伤口。 https://t.co/EVbmeWWVFz",
     "hashtags": [],
     "id": 1268107087487234048,
@@ -20045,10 +20018,10 @@
       "url": "https://t.co/Ps1dWQ12G3"
     }
   ],
-  "retweet_count": 2832,
+  "retweet_count": 2833,
   "retweeted_status": {
     "created_at": "Wed Jun 03 13:48:27 +0000 2020",
-    "favorite_count": 5869,
+    "favorite_count": 5870,
     "full_text": "This is what they killed 31 years ago. https://t.co/Ps1dWQ12G3",
     "hashtags": [],
     "id": 1268177731436584962,
@@ -20065,7 +20038,7 @@
         "url": "https://t.co/Ps1dWQ12G3"
       }
     ],
-    "retweet_count": 2832,
+    "retweet_count": 2833,
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
     "urls": [],
     "user": {
@@ -20193,10 +20166,10 @@
   "id": 1268359574039351303,
   "id_str": "1268359574039351303",
   "lang": "en",
-  "retweet_count": 6547,
+  "retweet_count": 6545,
   "retweeted_status": {
     "created_at": "Thu Jun 04 00:36:38 +0000 2020",
-    "favorite_count": 21936,
+    "favorite_count": 21929,
     "full_text": "Surreal and horrifying to wake up on the morning of June 4 - the 31st anniversary of the Tiananmen Square crackdown - to this headline. https://t.co/vNtiFz3vqq",
     "hashtags": [],
     "id": 1268340850850820097,
@@ -20213,7 +20186,7 @@
         "url": "https://t.co/vNtiFz3vqq"
       }
     ],
-    "retweet_count": 6547,
+    "retweet_count": 6545,
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "urls": [],
     "user": {
@@ -20544,7 +20517,7 @@
   "retweet_count": 4986,
   "retweeted_status": {
     "created_at": "Thu Jun 04 11:53:59 +0000 2020",
-    "favorite_count": 15049,
+    "favorite_count": 15045,
     "full_text": "Defying a government ban and threats to prosecute attendees, thousands of people in Hong Kong have shown up at a Tiananmen vigil (but are still social distancing) https://t.co/UY7eZeQhup",
     "hashtags": [],
     "id": 1268511314051129347,
@@ -20873,10 +20846,10 @@
       }
     }
   ],
-  "retweet_count": 8566,
+  "retweet_count": 8565,
   "retweeted_status": {
     "created_at": "Thu Jun 04 22:58:43 +0000 2020",
-    "favorite_count": 13622,
+    "favorite_count": 13624,
     "full_text": "Today we launch #IPAC\n\n#standtogether https://t.co/bt19tb3bVB",
     "hashtags": [
       {
@@ -20907,7 +20880,7 @@
         }
       }
     ],
-    "retweet_count": 8566,
+    "retweet_count": 8565,
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
     "urls": [],
     "user": {
@@ -21149,10 +21122,10 @@
   "id": 1269662587555217409,
   "id_str": "1269662587555217409",
   "lang": "en",
-  "retweet_count": 22557,
+  "retweet_count": 22554,
   "retweeted_status": {
     "created_at": "Sun Jun 07 14:57:00 +0000 2020",
-    "favorite_count": 81814,
+    "favorite_count": 81808,
     "full_text": "#Bristol statue of Edward Colston has been pulled down and pushed into the harbour during the #BlackLivesMattter march https://t.co/ME1yxAhw7G",
     "hashtags": [
       {
@@ -21217,7 +21190,7 @@
       },
       "attributes": {}
     },
-    "retweet_count": 22557,
+    "retweet_count": 22554,
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "urls": [],
     "user": {
@@ -21496,7 +21469,7 @@
   "retweet_count": 1006,
   "retweeted_status": {
     "created_at": "Mon Jun 08 23:33:15 +0000 2020",
-    "favorite_count": 3540,
+    "favorite_count": 3539,
     "full_text": "有人说: 中国是最自由的国家。\n\n比如，政府可以自由地加税，垄断国企可以自由地涨价，官员可以自由地胡说八道，法官可以自由地解释法律，警察可以自由地威胁他人，历史可以被自由地篡改，常识可以自由地被颠覆。",
     "hashtags": [],
     "id": 1270136839018622981,
@@ -21827,7 +21800,7 @@
   "lang": "zh",
   "quoted_status": {
     "created_at": "Wed Jun 10 19:04:02 +0000 2020",
-    "favorite_count": 2562,
+    "favorite_count": 2563,
     "full_text": "‘Gone With the Wind’ Hits No. 1 on Amazon Best-Sellers Chart After HBO Max Drops Movie https://t.co/L9XnvUjdHh",
     "hashtags": [],
     "id": 1270793864484466688,
@@ -21984,52 +21957,7 @@
   "lang": "en",
   "quoted_status": {
     "created_at": "Thu Jun 11 20:59:17 +0000 2020",
-    "favorite_count": 4859,
-    "full_text": "Criticizing officials' response to Seattle's anti-racism protests, President Trump tweeted: \"Take back your city NOW. If you don't do it, I will.\"\n\nMayor Jenny Durkan fired back, tweeting: \"Make us all safe. Go back to your bunker.\"\nhttps://t.co/hhpfl5tTlD",
-    "hashtags": [],
-    "id": 1271185256180219904,
-    "id_str": "1271185256180219904",
-    "lang": "en",
-    "retweet_count": 1054,
-    "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
-    "urls": [
-      {
-        "expanded_url": "https://trib.al/HgDCz8K",
-        "url": "https://t.co/hhpfl5tTlD"
-      }
-    ],
-    "user": {
-      "id": 5392522,
-      "screen_name": "NPR"
-    },
-    "user_mentions": []
-  },
-  "quoted_status_id": 1271185256180219904,
-  "quoted_status_id_str": "1271185256180219904",
-  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-  "urls": [
-    {
-      "expanded_url": "https://twitter.com/NPR/status/1271185256180219904",
-      "url": "https://t.co/7SWaFRxi13"
-    }
-  ],
-  "user": {
-    "id": 547112588,
-    "screen_name": "NewCenturyBaopu"
-  },
-  "user_mentions": []
-}
-{
-  "created_at": "Fri Jun 12 04:14:58 +0000 2020",
-  "favorite_count": 1,
-  "full_text": "\"Make us all safe. Go back to your bunker.\"🤣🤣🤣 https://t.co/7SWaFRxi13",
-  "hashtags": [],
-  "id": 1271294898906386432,
-  "id_str": "1271294898906386432",
-  "lang": "en",
-  "quoted_status": {
-    "created_at": "Thu Jun 11 20:59:17 +0000 2020",
-    "favorite_count": 4859,
+    "favorite_count": 4858,
     "full_text": "Criticizing officials' response to Seattle's anti-racism protests, President Trump tweeted: \"Take back your city NOW. If you don't do it, I will.\"\n\nMayor Jenny Durkan fired back, tweeting: \"Make us all safe. Go back to your bunker.\"\nhttps://t.co/hhpfl5tTlD",
     "hashtags": [],
     "id": 1271185256180219904,
@@ -22203,6 +22131,46 @@
       "id_str": "295849947",
       "name": "Richard McGregor",
       "screen_name": "mcgregorrichard"
+    }
+  ]
+}
+{
+  "created_at": "Fri Jun 12 09:27:31 +0000 2020",
+  "full_text": "RT @shaojiang: 支聯會主席李卓人、副主席何俊仁和秘書蔡耀昌於6月11日收到警方通知將被檢控，副主席鄒幸彤及常委張文光、麥海華、尹兆堅、趙恩來、梁耀忠和梁錦威也被警方傳票檢控，工黨郭永健、民陣副召集人陳皓桓和媒體人黎智英也被檢控，檢控原因是他們今年6月4日天安門屠殺…",
+  "hashtags": [],
+  "id": 1271373556534796288,
+  "id_str": "1271373556534796288",
+  "lang": "zh",
+  "retweet_count": 9,
+  "retweeted_status": {
+    "created_at": "Fri Jun 12 08:23:10 +0000 2020",
+    "favorite_count": 10,
+    "full_text": "支聯會主席李卓人、副主席何俊仁和秘書蔡耀昌於6月11日收到警方通知將被檢控，副主席鄒幸彤及常委張文光、麥海華、尹兆堅、趙恩來、梁耀忠和梁錦威也被警方傳票檢控，工黨郭永健、民陣副召集人陳皓桓和媒體人黎智英也被檢控，檢控原因是他們今年6月4日天安門屠殺31週年在香港集會燭光悼念死難者。",
+    "hashtags": [],
+    "id": 1271357361203097600,
+    "id_str": "1271357361203097600",
+    "lang": "zh",
+    "retweet_count": 9,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "urls": [],
+    "user": {
+      "id": 30233748,
+      "screen_name": "shaojiang"
+    },
+    "user_mentions": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "urls": [],
+  "user": {
+    "id": 547112588,
+    "screen_name": "NewCenturyBaopu"
+  },
+  "user_mentions": [
+    {
+      "id": 30233748,
+      "id_str": "30233748",
+      "name": "Shao Jiang 邵江",
+      "screen_name": "shaojiang"
     }
   ]
 }
@@ -22491,7 +22459,7 @@
   "lang": "zh",
   "quoted_status": {
     "created_at": "Wed Jun 17 09:45:00 +0000 2020",
-    "favorite_count": 2328,
+    "favorite_count": 2327,
     "full_text": "Not all stages need flashing lights; this countryside couple found online fame in China thanks to their 'rural-style shuffle dance' 🕺 https://t.co/XyKB2iqLjv",
     "hashtags": [],
     "id": 1273189894462959618,
@@ -22800,7 +22768,7 @@
   "retweet_count": 391,
   "retweeted_status": {
     "created_at": "Fri Jun 19 05:55:24 +0000 2020",
-    "favorite_count": 1263,
+    "favorite_count": 1264,
     "full_text": "這篇文章說：文化大革命，有千個不是，只上山下鄉培養出這一個習近平，就一萬個值。\n呵呵，真特麼敢胡說八道。 https://t.co/jRsmdxQPYl",
     "hashtags": [],
     "id": 1273856889760038913,
@@ -23432,7 +23400,7 @@
   "lang": "zh",
   "quoted_status": {
     "created_at": "Thu Jun 25 13:24:18 +0000 2020",
-    "favorite_count": 1543,
+    "favorite_count": 1541,
     "full_text": "北京今天天降冰雹🌩️🌩️……這形狀😱😱……這尺寸😱😱😱……\n\n天怒人怨，莫過於此😡。\n\n@ding_gang https://t.co/IMpEcRBU1K",
     "hashtags": [],
     "id": 1276144186287435784,
@@ -23449,7 +23417,7 @@
         "url": "https://t.co/IMpEcRBU1K"
       }
     ],
-    "retweet_count": 515,
+    "retweet_count": 513,
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
     "urls": [],
     "user": {
@@ -23567,7 +23535,7 @@
   "lang": "en",
   "quoted_status": {
     "created_at": "Sat Jun 27 16:50:22 +0000 2020",
-    "favorite_count": 3270,
+    "favorite_count": 3269,
     "full_text": "BREAKING: Princeton is removing Woodrow Wilson’s name from its public policy school and one of its residential colleges after trustees concluded that his “racist thinking and policies” made him “an inappropriate namesake” https://t.co/j3gGSk8Sbh",
     "hashtags": [],
     "id": 1276920822616260615,
@@ -24368,10 +24336,10 @@
   "id": 1277905597862604801,
   "id_str": "1277905597862604801",
   "lang": "en",
-  "retweet_count": 11438,
+  "retweet_count": 11436,
   "retweeted_status": {
     "created_at": "Tue Jun 30 08:59:48 +0000 2020",
-    "favorite_count": 32372,
+    "favorite_count": 32373,
     "full_text": "China's disregard for the will of Hong Kong’s people proves that  “one country, two systems” is not viable. Many things have changed in #HongKong since 1997, but #Taiwan’s commitment to supporting those #HKers who want freedom &amp; democracy has never changed. #StandWithHongKong https://t.co/1eZBJ46g4e",
     "hashtags": [
       {
@@ -24410,7 +24378,7 @@
         "url": "https://t.co/1eZBJ46g4e"
       }
     ],
-    "retweet_count": 11438,
+    "retweet_count": 11436,
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "urls": [],
     "user": {
@@ -25216,10 +25184,10 @@
   "id": 1279725178696593408,
   "id_str": "1279725178696593408",
   "lang": "zh",
-  "retweet_count": 199,
+  "retweet_count": 200,
   "retweeted_status": {
     "created_at": "Sat Jul 04 06:08:23 +0000 2020",
-    "favorite_count": 956,
+    "favorite_count": 957,
     "full_text": "对于俄国大使馆在中文网上悍然发表戳中国人伤口的辱华言论，胡锡进只是轻描淡写地说“效果不好”“不应该”，好像儿子劝说老爸衣服没穿好似的。胡锡进反美反到变态，连俄国这种与中国有血海深仇的没落国家都要献媚，却倒打一耙说怒斥俄国辱华言论的人是“煽动仇俄”的“崇美公知”，不愧是俄国豢养的文化汉奸。 https://t.co/nMtIIxE8Fb",
     "hashtags": [],
     "id": 1279295977220759552,
@@ -25254,7 +25222,7 @@
         "url": "https://t.co/nMtIIxE8Fb"
       }
     ],
-    "retweet_count": 199,
+    "retweet_count": 200,
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "urls": [],
     "user": {
@@ -25619,10 +25587,10 @@
       }
     }
   ],
-  "retweet_count": 1077,
+  "retweet_count": 1076,
   "retweeted_status": {
     "created_at": "Mon Jul 06 09:10:53 +0000 2020",
-    "favorite_count": 3016,
+    "favorite_count": 3015,
     "full_text": "许章润教授的书房，他就是从这里被警察带走的。请关注中国知识分子，关注我们自己。 https://t.co/5fm9htluMe",
     "hashtags": [],
     "id": 1280066677355528195,
@@ -25646,7 +25614,7 @@
         }
       }
     ],
-    "retweet_count": 1077,
+    "retweet_count": 1076,
     "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
     "urls": [],
     "user": {
@@ -25931,10 +25899,10 @@
   "id": 1280313973817044993,
   "id_str": "1280313973817044993",
   "lang": "zh",
-  "retweet_count": 703,
+  "retweet_count": 702,
   "retweeted_status": {
     "created_at": "Sun Jul 05 05:00:08 +0000 2020",
-    "favorite_count": 977,
+    "favorite_count": 976,
     "full_text": "1949年中苏友好条约附件协议\n签名：周恩来 安•扬•维辛斯基\n1.中华人民共和国无条件承认外蒙古独立。\n2.中华人民共和国承认海参威（包括海参威所辖所以郊区）是苏联固有领土；中华人民共和国承认乌苏里江江北64屯为苏联领土。中华人民共和国承认图门江出海口是苏联主权；新疆北郊是苏联领土； https://t.co/K0v57v9762",
     "hashtags": [],
     "id": 1279641189189185536,
@@ -25951,7 +25919,7 @@
         "url": "https://t.co/K0v57v9762"
       }
     ],
-    "retweet_count": 703,
+    "retweet_count": 702,
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "urls": [],
     "user": {
@@ -26370,7 +26338,7 @@
         "url": "https://t.co/YSkJy8dewA"
       }
     ],
-    "retweet_count": 353,
+    "retweet_count": 352,
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
     "urls": [],
     "user": {
@@ -27041,7 +27009,7 @@
   "lang": "zh",
   "quoted_status": {
     "created_at": "Sun Jul 12 01:20:08 +0000 2020",
-    "favorite_count": 216,
+    "favorite_count": 215,
     "full_text": "我在香港工作时，和这个女孩的妈妈是同事。我从未见过女孩的养父。2012年，孩子的妈妈听说我要到美国开会，就扯了女儿的头发请我带着，请我在能见到魏京生先生的时候跟他说下有个女儿这事。开会期间我跟魏通了电话，魏不置可否。12年底我全家赴美，13年在魏主办的会议期间，我亲手把头发交给了魏先生。 https://t.co/EebsBQu3nr",
     "hashtags": [],
     "id": 1282122539091861505,
@@ -31219,7 +31187,7 @@
   "lang": "en",
   "quoted_status": {
     "created_at": "Sat Jul 25 03:32:43 +0000 2020",
-    "favorite_count": 3034,
+    "favorite_count": 3035,
     "full_text": "Goodbye Hong Kong. I’m heading to Sydney where I will be back at work at last and back to Twitter. Oh, and another two weeks of quarantine. https://t.co/3MlV2Ffizb",
     "hashtags": [],
     "id": 1286866945426391043,
@@ -31605,10 +31573,10 @@
   "id": 1288768664158707717,
   "id_str": "1288768664158707717",
   "lang": "zh",
-  "retweet_count": 998,
+  "retweet_count": 997,
   "retweeted_status": {
     "created_at": "Thu Jul 30 08:32:22 +0000 2020",
-    "favorite_count": 1803,
+    "favorite_count": 1804,
     "full_text": "香港12名立法会选举参选人被裁定提名无效，全部皆为民主派人士，包括被视为立场温和的传统民主派。提名无效者包括黄之锋、岑敖晖、袁嘉蔚、梁晃维、何桂蓝、刘颖匡、郑锦满、杨岳桥、郭家麒、郭荣铿、郑达鸿、梁继昌。 https://t.co/ER94HYN2dV",
     "hashtags": [],
     "id": 1288754293072441344,
@@ -31625,7 +31593,7 @@
         "url": "https://t.co/ER94HYN2dV"
       }
     ],
-    "retweet_count": 998,
+    "retweet_count": 997,
     "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
     "urls": [],
     "user": {
@@ -32924,31 +32892,6 @@
   ]
 }
 {
-  "created_at": "Tue Aug 04 09:32:30 +0000 2020",
-  "full_text": "@wenyunchao 自我反省，換位思考。不能不贊👍",
-  "hashtags": [],
-  "id": 1290581367445581824,
-  "id_str": "1290581367445581824",
-  "in_reply_to_screen_name": "wenyunchao",
-  "in_reply_to_status_id": 1290576159927918593,
-  "in_reply_to_user_id": 14581421,
-  "lang": "ja",
-  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-  "urls": [],
-  "user": {
-    "id": 547112588,
-    "screen_name": "NewCenturyBaopu"
-  },
-  "user_mentions": [
-    {
-      "id": 14581421,
-      "id_str": "14581421",
-      "name": "Wen",
-      "screen_name": "wenyunchao"
-    }
-  ]
-}
-{
   "created_at": "Tue Aug 04 11:19:25 +0000 2020",
   "full_text": "RT @APhillipsIntRel: Exciting! Professor Linda Colley reviews Phillips and Sharman's 'Outsourcing Empire' for @LRB ! \nhttps://t.co/uBnswF5J…",
   "hashtags": [],
@@ -33053,6 +32996,37 @@
     "screen_name": "NewCenturyBaopu"
   },
   "user_mentions": [
+    {
+      "id": 1266109418,
+      "id_str": "1266109418",
+      "name": "鹽",
+      "screen_name": "yanlun70"
+    }
+  ]
+}
+{
+  "created_at": "Wed Aug 05 02:32:27 +0000 2020",
+  "full_text": "@mengsunII @yanlun70 憑什麼替當權者做夢🤓",
+  "hashtags": [],
+  "id": 1290838044744933381,
+  "id_str": "1290838044744933381",
+  "in_reply_to_screen_name": "mengsunII",
+  "in_reply_to_status_id": 1290835449838071808,
+  "in_reply_to_user_id": 1252053644310011905,
+  "lang": "zh",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "urls": [],
+  "user": {
+    "id": 547112588,
+    "screen_name": "NewCenturyBaopu"
+  },
+  "user_mentions": [
+    {
+      "id": 1252053644310011905,
+      "id_str": "1252053644310011905",
+      "name": "mengsunII",
+      "screen_name": "mengsunII"
+    },
     {
       "id": 1266109418,
       "id_str": "1266109418",
@@ -34041,7 +34015,7 @@
   "lang": "zh",
   "quoted_status": {
     "created_at": "Thu Aug 06 17:11:30 +0000 2020",
-    "favorite_count": 243,
+    "favorite_count": 244,
     "full_text": "狼狗审讯，制造27年冤狱：\n偵查人員牽來兩條狼狗，說如果不招，就讓狗把他吃了。民警手一揮，一條狼狗衝上來，狂撕亂咬，張玉環褲子被撕爛，大腿鮮血直流。極端恐懼下，張玉環承認殺害兩小孩。偵查人員找來一條黃綠色軍褲給張玉環，還打趣說比張玉環原來的褲子好\nhttps://t.co/oThYRk1LUH",
     "hashtags": [],
     "id": 1291421652606160898,
@@ -34625,7 +34599,7 @@
   "retweet_count": 183,
   "retweeted_status": {
     "created_at": "Mon Aug 10 03:21:48 +0000 2020",
-    "favorite_count": 526,
+    "favorite_count": 525,
     "full_text": "中国中央电视台与多家香港媒体报导称，香港壹传媒集团创办人黎智英等七人涉嫌勾结外国势力，违反香港《国安法》被捕。中国央视在报导中以“乱港分子”形容黎智英等人。香港媒体播出的片段看到，黎智英被反锁上手扣带离寓所。\nhttps://t.co/vRlGaurs84",
     "hashtags": [],
     "id": 1292662404229341184,
@@ -34693,8 +34667,8 @@
     },
     "user_mentions": [
       {
-        "id": 19403243,
-        "id_str": "19403243",
+        "id": 395484902,
+        "id_str": "395484902",
         "name": "Jenni Marsh",
         "screen_name": "jenniCNN"
       }
@@ -35846,7 +35820,7 @@
   "retweet_count": 407,
   "retweeted_status": {
     "created_at": "Thu Aug 13 02:27:44 +0000 2020",
-    "favorite_count": 1025,
+    "favorite_count": 1026,
     "full_text": "The Beijing that could have been, if Mao wasn’t so enamored of Moscow on his visit circa 1950 https://t.co/pwsCpuiOlX",
     "hashtags": [],
     "id": 1293735963554983936,
@@ -36502,7 +36476,7 @@
   "lang": "en",
   "quoted_status": {
     "created_at": "Tue Aug 25 00:30:00 +0000 2020",
-    "favorite_count": 37616,
+    "favorite_count": 37613,
     "full_text": "Together, united in our love for America and each other, we’ll overcome this season of darkness and restore the soul of our nation. https://t.co/9dPuQVa3CQ",
     "hashtags": [],
     "id": 1298054987394629633,
@@ -36526,7 +36500,7 @@
         }
       }
     ],
-    "retweet_count": 10638,
+    "retweet_count": 10637,
     "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
     "urls": [],
     "user": {
@@ -38807,7 +38781,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Thu Sep 10 01:36:31 +0000 2020",
-      "favorite_count": 426,
+      "favorite_count": 425,
       "full_text": "中共当局疯狂迫害中国政治异见人士，引发社会广泛关注，引发海内外公愤！曾经奔走呼吁救援许章润先生的侠义女士耿潇男夫妇，被北京警方带走拘押，直至现在不见音信。许章润先生不畏暴政高压恐怖，挺身疾呼：还潇男女士以自由，还世界以公道！ https://t.co/Ks3qFxbyzi",
       "hashtags": [],
       "id": 1303869934779404294,
@@ -39186,17 +39160,17 @@
   "id": 1306216650241314817,
   "id_str": "1306216650241314817",
   "lang": "en",
-  "retweet_count": 96746,
+  "retweet_count": 96742,
   "retweeted": true,
   "retweeted_status": {
     "created_at": "Tue Sep 15 13:01:00 +0000 2020",
-    "favorite_count": 213584,
+    "favorite_count": 213563,
     "full_text": "Scientific American has never endorsed a presidential candidate in our 175-year history—until now. \n\nThe 2020 election is literally a matter of life and death. We urge you to vote for health, science and Joe Biden for President.\nhttps://t.co/8TlH7shjFn",
     "hashtags": [],
     "id": 1305854127721910275,
     "id_str": "1305854127721910275",
     "lang": "en",
-    "retweet_count": 96746,
+    "retweet_count": 96742,
     "retweeted": true,
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
     "urls": [
@@ -42146,38 +42120,6 @@
   ]
 }
 {
-  "created_at": "Tue Sep 29 13:45:05 +0000 2020",
-  "favorite_count": 3,
-  "full_text": "@XuPeiGermany @Dazhentan1 繼續作惡就不能當病人了。我很高興有機會這次把這些陳渣滓爛穀子抖落出來，見見陽光。我只會報仇雪恨😂，沒有人家那個「推動全全球華人觀念進步」的雄心壯志。",
-  "hashtags": [],
-  "id": 1310938651946352646,
-  "id_str": "1310938651946352646",
-  "in_reply_to_screen_name": "XuPeiGermany",
-  "in_reply_to_status_id": 1310929558871379972,
-  "in_reply_to_user_id": 259795925,
-  "lang": "zh",
-  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-  "urls": [],
-  "user": {
-    "id": 547112588,
-    "screen_name": "NewCenturyBaopu"
-  },
-  "user_mentions": [
-    {
-      "id": 259795925,
-      "id_str": "259795925",
-      "name": "徐沛 XU Pei",
-      "screen_name": "XuPeiGermany"
-    },
-    {
-      "id": 1295563360843345920,
-      "id_str": "1295563360843345920",
-      "name": "Dazhentan",
-      "screen_name": "Dazhentan1"
-    }
-  ]
-}
-{
   "created_at": "Tue Sep 29 15:39:20 +0000 2020",
   "full_text": "RT @Dazhentan1: @Wade43265670 @NewCenturyBaopu Yes and no. 您說得有道理，即兩人對合同義務權益的理解。但我感覺劉對鮑若有感恩之心就不會以欠薪訴訟為手段要挾討薪。鮑案有價值在於警示對劉懷昭說出口的遭遇和「事實」需核查和存疑…",
   "hashtags": [],
@@ -42267,6 +42209,224 @@
       "id_str": "1072718934212792320",
       "name": "纳酿希亚",
       "screen_name": "Wade43265670"
+    }
+  ]
+}
+{
+  "created_at": "Tue Sep 29 23:36:36 +0000 2020",
+  "full_text": "RT @NewCenturyBaopu: @XuPeiGermany @Yangguang111 @lianjun6 @huang_ciping @huaizhao @detecti28108231 @WEI_JINGSHENG @Angle8964 @wutingzy @Zh…",
+  "hashtags": [],
+  "id": 1311087514321444864,
+  "id_str": "1311087514321444864",
+  "lang": "zh",
+  "retweet_count": 1,
+  "retweeted_status": {
+    "created_at": "Sun Aug 30 00:01:06 +0000 2020",
+    "favorite_count": 2,
+    "full_text": "@XuPeiGermany @Yangguang111 @lianjun6 @huang_ciping @huaizhao @detecti28108231 @WEI_JINGSHENG @Angle8964 @wutingzy @ZhouFengSuo @FengCongde @free_and_true @zhaoxin8964 @zhaoyan818 @liqunchen @yeningusa @ljpJames @MJTVxchen15 @xianglin8964 @liaoyiwu1 @zengjinyan @caichu88 @usa_gaoshenghan @juntaowang @wangdan1989 @HuPing1 @dongle_smith @monkey_qtds2 @QXGjdpYYVnHrc2f @libert_zlin 劉已經寫出的公開文字，已經可以證明有很多事實性錯誤。有人不信請上來挑戰。可逐條列出。你不輕信一方，不採信自相矛盾邏輯混亂的文章，重視證據，凡事查證，依靠邏輯。這樣做沒問題。據劉自己講「還原真相」是她終極目的。那些輕信劉的人正是沒有問一個問題，沒有推敲驗證，對明顯的疑問視而不見。",
+    "hashtags": [],
+    "id": 1299859654025949185,
+    "id_str": "1299859654025949185",
+    "in_reply_to_screen_name": "XuPeiGermany",
+    "in_reply_to_status_id": 1299755175721218051,
+    "in_reply_to_user_id": 259795925,
+    "lang": "zh",
+    "retweet_count": 1,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "urls": [],
+    "user": {
+      "id": 547112588,
+      "screen_name": "NewCenturyBaopu"
+    },
+    "user_mentions": [
+      {
+        "id": 259795925,
+        "id_str": "259795925",
+        "name": "徐沛 XU Pei",
+        "screen_name": "XuPeiGermany"
+      },
+      {
+        "id": 2908805011,
+        "id_str": "2908805011",
+        "name": "吉普赛人",
+        "screen_name": "lianjun6"
+      },
+      {
+        "id": 3830160917,
+        "id_str": "3830160917",
+        "name": "Ciping Huang 黄慈萍",
+        "screen_name": "huang_ciping"
+      },
+      {
+        "id": 37938987,
+        "id_str": "37938987",
+        "name": "Huaizhao 懷昭",
+        "screen_name": "huaizhao"
+      },
+      {
+        "id": 3352592393,
+        "id_str": "3352592393",
+        "name": "Wei Jingsheng魏京生",
+        "screen_name": "WEI_JINGSHENG"
+      },
+      {
+        "id": 1193489078,
+        "id_str": "1193489078",
+        "name": "安琪Angel",
+        "screen_name": "Angle8964"
+      },
+      {
+        "id": 812156106189324292,
+        "id_str": "812156106189324292",
+        "name": "雾亭",
+        "screen_name": "wutingzy"
+      },
+      {
+        "id": 202963011,
+        "id_str": "202963011",
+        "name": "周锋锁 Fengsuo Zhou",
+        "screen_name": "ZhouFengSuo"
+      },
+      {
+        "id": 210878151,
+        "id_str": "210878151",
+        "name": "封從德",
+        "screen_name": "FengCongde"
+      },
+      {
+        "id": 263472219,
+        "id_str": "263472219",
+        "name": "硅谷码农",
+        "screen_name": "free_and_true"
+      },
+      {
+        "id": 149676479,
+        "id_str": "149676479",
+        "name": "Zhao Xin 赵昕",
+        "screen_name": "zhaoxin8964"
+      },
+      {
+        "id": 114254401,
+        "id_str": "114254401",
+        "name": "赵岩",
+        "screen_name": "zhaoyan818"
+      },
+      {
+        "id": 370360107,
+        "id_str": "370360107",
+        "name": "liqun chen（陈立群）",
+        "screen_name": "liqunchen"
+      },
+      {
+        "id": 1165924908,
+        "id_str": "1165924908",
+        "name": "叶宁",
+        "screen_name": "yeningusa"
+      },
+      {
+        "id": 863895718997749764,
+        "id_str": "863895718997749764",
+        "name": "赖建平James Lai🇨🇦",
+        "screen_name": "ljpJames"
+      },
+      {
+        "id": 49869714,
+        "id_str": "49869714",
+        "name": "陈小平",
+        "screen_name": "MJTVxchen15"
+      },
+      {
+        "id": 1490443346,
+        "id_str": "1490443346",
+        "name": "相林🌸",
+        "screen_name": "xianglin8964"
+      },
+      {
+        "id": 963797622,
+        "id_str": "963797622",
+        "name": "廖亦武 Liao Yiwu",
+        "screen_name": "liaoyiwu1"
+      },
+      {
+        "id": 9031202,
+        "id_str": "9031202",
+        "name": "Zeng Jinyan 曾金燕",
+        "screen_name": "zengjinyan"
+      },
+      {
+        "id": 91661819,
+        "id_str": "91661819",
+        "name": "Cai Chu",
+        "screen_name": "caichu88"
+      },
+      {
+        "id": 2586791480,
+        "id_str": "2586791480",
+        "name": "高勝寒",
+        "screen_name": "usa_gaoshenghan"
+      },
+      {
+        "id": 49730238,
+        "id_str": "49730238",
+        "name": "王军涛",
+        "screen_name": "juntaowang"
+      },
+      {
+        "id": 98864871,
+        "id_str": "98864871",
+        "name": "王丹",
+        "screen_name": "wangdan1989"
+      },
+      {
+        "id": 118838969,
+        "id_str": "118838969",
+        "name": "Hu Ping胡平",
+        "screen_name": "HuPing1"
+      },
+      {
+        "id": 852590009685131264,
+        "id_str": "852590009685131264",
+        "name": "白看戏🔎",
+        "screen_name": "dongle_smith"
+      },
+      {
+        "id": 1134577679750111234,
+        "id_str": "1134577679750111234",
+        "name": "反共先锋",
+        "screen_name": "monkey_qtds2"
+      },
+      {
+        "id": 1135566541657923584,
+        "id_str": "1135566541657923584",
+        "name": "反共大联盟",
+        "screen_name": "QXGjdpYYVnHrc2f"
+      },
+      {
+        "id": 957596668282724357,
+        "id_str": "957596668282724357",
+        "name": "張林視野",
+        "screen_name": "libert_zlin"
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "urls": [],
+  "user": {
+    "id": 547112588,
+    "screen_name": "NewCenturyBaopu"
+  },
+  "user_mentions": [
+    {
+      "id": 547112588,
+      "id_str": "547112588",
+      "name": "Bao Pu 鮑樸",
+      "screen_name": "NewCenturyBaopu"
+    },
+    {
+      "id": 259795925,
+      "id_str": "259795925",
+      "name": "徐沛 XU Pei",
+      "screen_name": "XuPeiGermany"
     }
   ]
 }
@@ -43544,7 +43704,7 @@
   "retweet_count": 348,
   "retweeted_status": {
     "created_at": "Wed Sep 30 16:39:26 +0000 2020",
-    "favorite_count": 1109,
+    "favorite_count": 1108,
     "full_text": "转：“一个老兵的呼声：我们不是国民党军队、是国家军队”。老人愤愤地表示：“当时我们不是国民党军队，国民党没有军队，我们的军队是国民政府的军队，是政府的军队”。老人解释道：“因为当时国军部队里连个党团组织都没有，不过党的生活，不发展团员！……请别再叫我国民党老兵，我参加的是国军……” https://t.co/ozpbdzknAF",
     "hashtags": [],
     "id": 1311344917646434304,
@@ -43940,7 +44100,7 @@
   "retweet_count": 35,
   "retweeted_status": {
     "created_at": "Sat Oct 03 04:33:59 +0000 2020",
-    "favorite_count": 125,
+    "favorite_count": 126,
     "full_text": "知情人士称特朗普出现低烧、鼻塞和咳嗽症状。他周五接受了一种有望治疗新冠病毒的实验性药物治疗，随后他前往沃尔特·里德国家军事医学中心，预计将在那里停留几天。\n此外，特朗普的竞选对手拜登、副总统彭斯等人病毒检测呈阴性。https://t.co/ihcv2l4aXL",
     "hashtags": [],
     "id": 1312249513638207489,
@@ -44984,7 +45144,7 @@
   "retweet_count": 471,
   "retweeted_status": {
     "created_at": "Fri Oct 16 12:30:00 +0000 2020",
-    "favorite_count": 1655,
+    "favorite_count": 1654,
     "full_text": ".@BarackObama says Trump is a ‘symptom of’ and ‘accelerant to’ misinformation https://t.co/31FraQ7vSs",
     "hashtags": [],
     "id": 1317080350544121862,
@@ -46697,7 +46857,7 @@
         "url": "https://t.co/oFrpHTWTKt"
       }
     ],
-    "retweet_count": 9042,
+    "retweet_count": 9040,
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
     "urls": [
       {
@@ -46960,7 +47120,7 @@
   "retweet_count": 96,
   "retweeted_status": {
     "created_at": "Mon Nov 09 01:39:41 +0000 2020",
-    "favorite_count": 521,
+    "favorite_count": 520,
     "full_text": "造谣美国大选舞弊的中国人，除了输不起的川粉，还有真正的大外宣，要证明“美大选撕下美式民主遮羞布”。中国人从没有过真正选举，就以为选举都容易舞弊。他们象征性投过票，就以为美国也都是容易造假的无记名投票，不知人家选票上有投票人地址、姓名、签名，还有条形码可在网上追查是否被计入，造假极难 https://t.co/GmAiHZNpNj",
     "hashtags": [],
     "id": 1325614002311884801,
@@ -47551,7 +47711,7 @@
   "retweet_count": 871,
   "retweeted_status": {
     "created_at": "Sat Nov 21 08:08:56 +0000 2020",
-    "favorite_count": 4867,
+    "favorite_count": 4866,
     "full_text": "我老公昨天被重庆市一中院一审判刑20年，我的脑子一片空白！眼泪已流干！除了伤心就是愤怒！怀庆，你作为一名顶天立地的男人，你就因为坚持自由正义而发声，帮助那些需要帮助的人，接交一些友人，难道就是煽颠犯了吗？怀庆，我等你回家！一起与你坚强面对狂风骤雨！迎接黎明的那一天！ https://t.co/HrcMTeVk4m",
     "hashtags": [],
     "id": 1330060613603749889,
@@ -47857,10 +48017,10 @@
       }
     }
   ],
-  "retweet_count": 457,
+  "retweet_count": 456,
   "retweeted_status": {
     "created_at": "Wed Dec 09 01:24:00 +0000 2020",
-    "favorite_count": 1250,
+    "favorite_count": 1249,
     "full_text": "不让出门，不让到运动场运动 https://t.co/beC5pN2T5F",
     "hashtags": [],
     "id": 1336481691204943872,
@@ -47884,7 +48044,7 @@
         }
       }
     ],
-    "retweet_count": 457,
+    "retweet_count": 456,
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
     "urls": [],
     "user": {
@@ -48660,7 +48820,7 @@
     "lang": "en",
     "quoted_status": {
       "created_at": "Mon Dec 21 02:27:48 +0000 2020",
-      "favorite_count": 901,
+      "favorite_count": 902,
       "full_text": "It is with great sadness that we announce the passing of our former director Ezra F. Vogel (1930-2020).\n\nProfessor Vogel served as director from 1973-75 and from 1995-99. He was a true champion of our center, an erudite scholar, and a wonderful friend. He will be truly missed. https://t.co/Zz5XydfEzH",
       "hashtags": [],
       "id": 1340846402419744768,
@@ -48749,7 +48909,7 @@
   "retweet_count": 399,
   "retweeted_status": {
     "created_at": "Mon Dec 21 02:27:48 +0000 2020",
-    "favorite_count": 901,
+    "favorite_count": 902,
     "full_text": "It is with great sadness that we announce the passing of our former director Ezra F. Vogel (1930-2020).\n\nProfessor Vogel served as director from 1973-75 and from 1995-99. He was a true champion of our center, an erudite scholar, and a wonderful friend. He will be truly missed. https://t.co/Zz5XydfEzH",
     "hashtags": [],
     "id": 1340846402419744768,
@@ -50581,7 +50741,7 @@
 }
 {
   "created_at": "Thu Dec 31 04:30:11 +0000 2020",
-  "favorite_count": 380,
+  "favorite_count": 379,
   "full_text": "地方政府㊗️人民新年快樂（續） https://t.co/Unn8K3l9eg",
   "hashtags": [],
   "id": 1344501079589851136,

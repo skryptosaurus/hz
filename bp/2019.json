@@ -70,7 +70,7 @@
   "retweet_count": 984,
   "retweeted_status": {
     "created_at": "Tue Jan 01 02:28:58 +0000 2019",
-    "favorite_count": 1649,
+    "favorite_count": 1650,
     "full_text": "【 真空状态下羽毛与保龄球在相同的高度同时坠落 谁先落地？】学过初中物理的都知道答案，真的如此吗？位于 Ohio 州的美国太空总署 NASA 太空模拟室，是世界上最大的真空室（22653 立方米），物理学家 Brian Cox 做了实际测试 ... https://t.co/YP2bo81ZEa",
     "hashtags": [],
     "id": 1079927430356160512,
@@ -2476,7 +2476,7 @@
       }
     }
   ],
-  "retweet_count": 258,
+  "retweet_count": 257,
   "retweeted_status": {
     "created_at": "Sun Feb 03 09:59:57 +0000 2019",
     "favorite_count": 1071,
@@ -2503,7 +2503,7 @@
         }
       }
     ],
-    "retweet_count": 258,
+    "retweet_count": 257,
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "urls": [
       {
@@ -3758,7 +3758,7 @@
   "lang": "en",
   "quoted_status": {
     "created_at": "Tue Nov 20 13:50:17 +0000 2018",
-    "favorite_count": 3303,
+    "favorite_count": 3305,
     "full_text": "BRUTAL: this is what’s happening now in a China based mining site .... 😨😨 https://t.co/gcN4lVTyBt",
     "hashtags": [],
     "id": 1064878600594305025,
@@ -3782,7 +3782,7 @@
         }
       }
     ],
-    "retweet_count": 1654,
+    "retweet_count": 1655,
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "urls": [],
     "user": {
@@ -4173,7 +4173,7 @@
   "retweet_count": 117,
   "retweeted_status": {
     "created_at": "Mon Feb 25 01:01:20 +0000 2019",
-    "favorite_count": 244,
+    "favorite_count": 243,
     "full_text": "Al Gore answers your burning climate change questions https://t.co/o8GbS8d9qp",
     "hashtags": [],
     "id": 1099836711289278465,
@@ -4402,7 +4402,7 @@
   "lang": "ja",
   "quoted_status": {
     "created_at": "Thu Feb 28 06:28:02 +0000 2019",
-    "favorite_count": 3939,
+    "favorite_count": 3937,
     "full_text": "Incredible scramble as North Korean security climb into moving cars https://t.co/tfdRz8UMWj",
     "hashtags": [],
     "id": 1101006090890670080,
@@ -4450,82 +4450,6 @@
     "screen_name": "NewCenturyBaopu"
   },
   "user_mentions": []
-}
-{
-  "created_at": "Fri Mar 01 02:38:34 +0000 2019",
-  "full_text": "RT @4OONHMEmTtmuKGP: 领袖越伟大，人民越白痴；\n人民越白痴，领袖越伟大。 https://t.co/R9BS32ZPdf",
-  "hashtags": [],
-  "id": 1101310731612434435,
-  "id_str": "1101310731612434435",
-  "lang": "zh",
-  "media": [
-    {
-      "display_url": "pic.twitter.com/R9BS32ZPdf",
-      "expanded_url": "https://twitter.com/4OONHMEmTtmuKGP/status/1100991398029910017/video/1",
-      "id": 1100991345882066945,
-      "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1100991345882066945/pu/img/3IFIpJ5hU0e-iqpj.jpg",
-      "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1100991345882066945/pu/img/3IFIpJ5hU0e-iqpj.jpg",
-      "type": "video",
-      "url": "https://t.co/R9BS32ZPdf",
-      "video_info": {
-        "aspect_ratio": [
-          469,
-          270
-        ],
-        "duration_millis": 10093
-      }
-    }
-  ],
-  "retweet_count": 126,
-  "retweeted_status": {
-    "created_at": "Thu Feb 28 05:29:39 +0000 2019",
-    "favorite_count": 489,
-    "full_text": "领袖越伟大，人民越白痴；\n人民越白痴，领袖越伟大。 https://t.co/R9BS32ZPdf",
-    "hashtags": [],
-    "id": 1100991398029910017,
-    "id_str": "1100991398029910017",
-    "lang": "zh",
-    "media": [
-      {
-        "display_url": "pic.twitter.com/R9BS32ZPdf",
-        "expanded_url": "https://twitter.com/4OONHMEmTtmuKGP/status/1100991398029910017/video/1",
-        "id": 1100991345882066945,
-        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1100991345882066945/pu/img/3IFIpJ5hU0e-iqpj.jpg",
-        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1100991345882066945/pu/img/3IFIpJ5hU0e-iqpj.jpg",
-        "type": "video",
-        "url": "https://t.co/R9BS32ZPdf",
-        "video_info": {
-          "aspect_ratio": [
-            469,
-            270
-          ],
-          "duration_millis": 10093
-        }
-      }
-    ],
-    "retweet_count": 126,
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "urls": [],
-    "user": {
-      "id": 707974414290128897,
-      "screen_name": "4OONHMEmTtmuKGP"
-    },
-    "user_mentions": []
-  },
-  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-  "urls": [],
-  "user": {
-    "id": 547112588,
-    "screen_name": "NewCenturyBaopu"
-  },
-  "user_mentions": [
-    {
-      "id": 707974414290128897,
-      "id_str": "707974414290128897",
-      "name": "鄭若舜Yorkson",
-      "screen_name": "4OONHMEmTtmuKGP"
-    }
-  ]
 }
 {
   "created_at": "Fri Mar 01 02:38:34 +0000 2019",
@@ -4869,6 +4793,95 @@
   ]
 }
 {
+  "created_at": "Sat Mar 02 12:20:55 +0000 2019",
+  "full_text": "RT @SpaceX: Crew Dragon will autonomously dock with the @space_station at approximately 6:00 a.m. EST on March 3 https://t.co/znptJuDCY7",
+  "hashtags": [],
+  "id": 1101819674650542080,
+  "id_str": "1101819674650542080",
+  "lang": "en",
+  "media": [
+    {
+      "display_url": "pic.twitter.com/znptJuDCY7",
+      "expanded_url": "https://twitter.com/SpaceX/status/1101745998852808705/video/1",
+      "id": 1101745901750513664,
+      "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1101745901750513664/pu/img/fIzxH_9TY1owxrWt.jpg",
+      "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1101745901750513664/pu/img/fIzxH_9TY1owxrWt.jpg",
+      "type": "video",
+      "url": "https://t.co/znptJuDCY7",
+      "video_info": {
+        "aspect_ratio": [
+          16,
+          9
+        ],
+        "duration_millis": 44311
+      }
+    }
+  ],
+  "retweet_count": 1562,
+  "retweeted_status": {
+    "created_at": "Sat Mar 02 07:28:10 +0000 2019",
+    "favorite_count": 7839,
+    "full_text": "Crew Dragon will autonomously dock with the @space_station at approximately 6:00 a.m. EST on March 3 https://t.co/znptJuDCY7",
+    "hashtags": [],
+    "id": 1101745998852808705,
+    "id_str": "1101745998852808705",
+    "lang": "en",
+    "media": [
+      {
+        "display_url": "pic.twitter.com/znptJuDCY7",
+        "expanded_url": "https://twitter.com/SpaceX/status/1101745998852808705/video/1",
+        "id": 1101745901750513664,
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1101745901750513664/pu/img/fIzxH_9TY1owxrWt.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1101745901750513664/pu/img/fIzxH_9TY1owxrWt.jpg",
+        "type": "video",
+        "url": "https://t.co/znptJuDCY7",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 44311
+        }
+      }
+    ],
+    "retweet_count": 1562,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "urls": [],
+    "user": {
+      "id": 34743251,
+      "screen_name": "SpaceX"
+    },
+    "user_mentions": [
+      {
+        "id": 1451773004,
+        "id_str": "1451773004",
+        "name": "International Space Station",
+        "screen_name": "Space_Station"
+      }
+    ]
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "urls": [],
+  "user": {
+    "id": 547112588,
+    "screen_name": "NewCenturyBaopu"
+  },
+  "user_mentions": [
+    {
+      "id": 34743251,
+      "id_str": "34743251",
+      "name": "SpaceX",
+      "screen_name": "SpaceX"
+    },
+    {
+      "id": 1451773004,
+      "id_str": "1451773004",
+      "name": "International Space Station",
+      "screen_name": "Space_Station"
+    }
+  ]
+}
+{
   "created_at": "Sat Mar 02 16:37:27 +0000 2019",
   "full_text": "RT @wurenhua: 八九民运三十年了，收集了数千张照片，首次见到自己的照片。香港有线电视来台北找我拍摄六四30周年专题节目，带来香港记者司徒元89年4月22日在天安门广场拍摄的一组照片作为礼物。看到照片的瞬间，我都不敢确认自己当年愤怒、颓废的形象。照片中有人权律师隋牧青…",
   "hashtags": [],
@@ -4929,7 +4942,7 @@
   "lang": "und",
   "quoted_status": {
     "created_at": "Sat Mar 02 17:17:00 +0000 2019",
-    "favorite_count": 142,
+    "favorite_count": 143,
     "full_text": "郫县豆瓣很出名吗？这个题词好实在哟😂 https://t.co/bEMHH5udwk",
     "hashtags": [],
     "id": 1101894185576263680,
@@ -7394,7 +7407,7 @@
   "retweet_count": 170,
   "retweeted_status": {
     "created_at": "Tue Mar 26 09:14:57 +0000 2019",
-    "favorite_count": 624,
+    "favorite_count": 625,
     "full_text": "A interview about #21_Lessons, with M. Serdar Kuzuloğlu on @NatGeoMagTR \n\nFull video: https://t.co/G9mjL52fHF\nYNH Team https://t.co/9nMCeHJm0S",
     "hashtags": [
       {
@@ -7887,10 +7900,10 @@
   "id": 1112226052753911808,
   "id_str": "1112226052753911808",
   "lang": "zh",
-  "retweet_count": 184,
+  "retweet_count": 185,
   "retweeted_status": {
     "created_at": "Sat Mar 30 14:43:35 +0000 2019",
-    "favorite_count": 617,
+    "favorite_count": 618,
     "full_text": "【开放中国互联网市场应为美中贸易协定重要部分】美中贸易谈判有无重大结构性改变的重要标志在于迫使中共开放网络市场。中共多年以“网络主权”、“国家安全”为由将美网络公司拒之门外，除非它们听命中共；而中共网络公司如阿里巴巴、腾讯、京东等利用美开放市场大举进入。不对等就是不公正，必须开放！ https://t.co/vu49qrWWNR",
     "hashtags": [],
     "id": 1112002438029025280,
@@ -7907,7 +7920,7 @@
         "url": "https://t.co/vu49qrWWNR"
       }
     ],
-    "retweet_count": 184,
+    "retweet_count": 185,
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "urls": [],
     "user": {
@@ -10123,7 +10136,7 @@
   "lang": "zh",
   "quoted_status": {
     "created_at": "Tue Apr 09 15:44:54 +0000 2019",
-    "favorite_count": 291,
+    "favorite_count": 292,
     "full_text": "“註冊推特帳號”、“通過該帳號長期瀏覽、關注......”就被公安傳喚，被以“嚴重違反政治紀律和政治規矩”處分、降職？\n新華社、人民日報、胡錫進都註冊一個或多個推特帳號，他們也長期瀏覽、關注海外網站。\n蘇州這個總台對“非法網站”和“有害信息” 界定的依據又是什麼？是否應該虛心地請教北京的胡總編？ https://t.co/NUODCHEitG",
     "hashtags": [],
     "id": 1115641745029484544,
@@ -11769,7 +11782,7 @@
   "lang": "zh",
   "quoted_status": {
     "created_at": "Tue Apr 23 21:08:59 +0000 2019",
-    "favorite_count": 406,
+    "favorite_count": 407,
     "full_text": "Based on the 3,784,309,399 WeChat messages we tried to build a \"keyword trigger list\" with NLP tools which possibly triggered the automatic selection criteria for having the entire conversation being stored for review.\n\nImage: https://t.co/aO0zc01eJT\nText: https://t.co/Bs4XRewx6t https://t.co/0H8r1N1jBH",
     "hashtags": [],
     "id": 1120796735725613056,
@@ -12074,7 +12087,7 @@
   "lang": "en",
   "quoted_status": {
     "created_at": "Fri Apr 26 05:15:45 +0000 2019",
-    "favorite_count": 1121,
+    "favorite_count": 1122,
     "full_text": "中国所谓的“不干涉”已为委内瑞拉前马杜罗政权提供了600亿美元的资助，支持一个腐败的暴君。给马杜罗的每一美元都是从遭受苦难的委内瑞拉人民手中夺走的。https://t.co/BfzHe4zy10",
     "hashtags": [],
     "id": 1121644007098994689,
@@ -12082,7 +12095,7 @@
     "lang": "zh",
     "quoted_status_id": 1121103815615361030,
     "quoted_status_id_str": "1121103815615361030",
-    "retweet_count": 360,
+    "retweet_count": 361,
     "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
     "urls": [
       {
@@ -12824,7 +12837,7 @@
   "lang": "ja",
   "quoted_status": {
     "created_at": "Fri May 03 00:00:00 +0000 2019",
-    "favorite_count": 630,
+    "favorite_count": 631,
     "full_text": "5月3日是世界新闻自由日，然而根据“无国界记者”的统计，世界上只有9%的人生活在新闻自由的国家。中国在180个国家和地区中排倒数第四（177位），目前有64位媒体人在押，他们是谁？ https://t.co/5imBro6oGs",
     "hashtags": [],
     "id": 1124101264579747842,
@@ -13124,7 +13137,7 @@
   "retweet_count": 365,
   "retweeted_status": {
     "created_at": "Fri May 03 13:03:38 +0000 2019",
-    "favorite_count": 905,
+    "favorite_count": 906,
     "full_text": "【史学泰斗余英时批评习近平扭曲五四精神】\n五四运动100周年前夕，台湾中华文化总会举办研讨会，史学家余英时透过预录视频发言，他批评习近平错误解读五四精神，指中共想要的不是民主，只是用来控制人民的科技和技术。\n#五四运动\n#余英时\n#自由民主\n#习近平 https://t.co/Me3A669v2Q",
     "hashtags": [
       {
@@ -13696,7 +13709,7 @@
   "retweet_count": 74,
   "retweeted_status": {
     "created_at": "Mon May 06 00:12:23 +0000 2019",
-    "favorite_count": 163,
+    "favorite_count": 164,
     "full_text": "特朗普写道：“与中国的贸易谈判还在继续，但进展太过缓慢，因为他们试图重新谈判。不行！”https://t.co/qlYJuPXfBw",
     "hashtags": [],
     "id": 1125191543617413120,
@@ -13844,10 +13857,10 @@
   "id": 1126020475665043456,
   "id_str": "1126020475665043456",
   "lang": "zh",
-  "retweet_count": 235,
+  "retweet_count": 236,
   "retweeted_status": {
     "created_at": "Sat May 04 08:28:20 +0000 2019",
-    "favorite_count": 556,
+    "favorite_count": 557,
     "full_text": "【独家】沉寂30年 千张六四新照将面世\n\n今年是“六四事件”30周年，当年，一位普通的北京市民刘建，拍摄了2千张相关照片，由于听信中共宣传尘封至今。\n\n如今，刘建授权大纪元新唐人媒体集团发表并表示：说出真相是每个有良知者的责任。这里也提醒您，视频中包含血腥画面。 https://t.co/veKVDyaBCa",
     "hashtags": [],
     "id": 1124591577307856896,
@@ -13871,7 +13884,7 @@
         }
       }
     ],
-    "retweet_count": 235,
+    "retweet_count": 236,
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "urls": [],
     "user": {
@@ -14588,54 +14601,6 @@
   "user_mentions": []
 }
 {
-  "created_at": "Sat May 11 01:58:57 +0000 2019",
-  "favorite_count": 12,
-  "full_text": "拒絕為劉曉波說一句話的緬甸政治家昂山素姬，結果是個關押記者的人權侵犯者。看來是一慣的主張。把她按照甘地模式捧上上去的英國媒體恐怕腸子都悔青了。 https://t.co/jk91M6BpC0",
-  "hashtags": [],
-  "id": 1127030299412426758,
-  "id_str": "1127030299412426758",
-  "lang": "zh",
-  "quoted_status": {
-    "created_at": "Fri May 10 14:01:15 +0000 2019",
-    "favorite_count": 9,
-    "full_text": "诺贝尔和平奖获得者昂山素季其实是两位缅甸路透社记者获释的最大障碍。\n两人因调查罗兴亚人遭屠杀事件被判刑，被关押一年多后，本周被特赦。 https://t.co/AreYzVJhOd",
-    "hashtags": [],
-    "id": 1126849684838993920,
-    "id_str": "1126849684838993920",
-    "lang": "zh",
-    "quoted_status_id": 1126819274788605952,
-    "quoted_status_id_str": "1126819274788605952",
-    "retweet_count": 2,
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "urls": [
-      {
-        "expanded_url": "https://twitter.com/ewong/status/1126819274788605952",
-        "url": "https://t.co/AreYzVJhOd"
-      }
-    ],
-    "user": {
-      "id": 386615759,
-      "screen_name": "IanniLeung"
-    },
-    "user_mentions": []
-  },
-  "quoted_status_id": 1126849684838993920,
-  "quoted_status_id_str": "1126849684838993920",
-  "retweet_count": 3,
-  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-  "urls": [
-    {
-      "expanded_url": "https://twitter.com/IanniLeung/status/1126849684838993920",
-      "url": "https://t.co/jk91M6BpC0"
-    }
-  ],
-  "user": {
-    "id": 547112588,
-    "screen_name": "NewCenturyBaopu"
-  },
-  "user_mentions": []
-}
-{
   "created_at": "Sat May 11 03:11:00 +0000 2019",
   "favorite_count": 1,
   "full_text": "专栏 |妇幼论坛：一个北京市民的六四：目睹天安门母亲张先玲女士爱子遇难… https://t.co/uVnfspk1nA",
@@ -14775,6 +14740,64 @@
       "id_str": "8149482",
       "name": "美国之音中文网",
       "screen_name": "VOAChinese"
+    }
+  ]
+}
+{
+  "created_at": "Sun May 12 08:48:49 +0000 2019",
+  "full_text": "RT @gaoyu200812: 【轉微信】11日上午八一廠幹部和家屬要求与領導對話，在生產區門口发生撕扯。原因是八一廠被軍委審計出大量經濟問題，限期整改，廠方没錢堵缺口，突發奇想，計算私自擴大住房面積；提高、提前收取物业费；高價出售地下室和地下車庫，以违法违约行为對抗軍委審計…",
+  "hashtags": [],
+  "id": 1127495835753730049,
+  "id_str": "1127495835753730049",
+  "lang": "zh",
+  "retweet_count": 209,
+  "retweeted_status": {
+    "created_at": "Sun May 12 06:41:36 +0000 2019",
+    "favorite_count": 520,
+    "full_text": "【轉微信】11日上午八一廠幹部和家屬要求与領導對話，在生產區門口发生撕扯。原因是八一廠被軍委審計出大量經濟問題，限期整改，廠方没錢堵缺口，突發奇想，計算私自擴大住房面積；提高、提前收取物业费；高價出售地下室和地下車庫，以违法违约行为對抗軍委審計組審計，掩盖重大經濟問題，（1） https://t.co/RbsQdlQDM1",
+    "hashtags": [],
+    "id": 1127463817997209600,
+    "id_str": "1127463817997209600",
+    "lang": "zh",
+    "media": [
+      {
+        "display_url": "pic.twitter.com/RbsQdlQDM1",
+        "expanded_url": "https://twitter.com/gaoyu200812/status/1127463817997209600/video/1",
+        "id": 1127463554204913664,
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1127463554204913664/pu/img/A8FynWbNiG-Ty10o.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1127463554204913664/pu/img/A8FynWbNiG-Ty10o.jpg",
+        "type": "video",
+        "url": "https://t.co/RbsQdlQDM1",
+        "video_info": {
+          "aspect_ratio": [
+            23,
+            40
+          ],
+          "duration_millis": 28207
+        }
+      }
+    ],
+    "retweet_count": 209,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "urls": [],
+    "user": {
+      "id": 99501796,
+      "screen_name": "gaoyu200812"
+    },
+    "user_mentions": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "urls": [],
+  "user": {
+    "id": 547112588,
+    "screen_name": "NewCenturyBaopu"
+  },
+  "user_mentions": [
+    {
+      "id": 99501796,
+      "id_str": "99501796",
+      "name": "高瑜",
+      "screen_name": "gaoyu200812"
     }
   ]
 }
@@ -15065,7 +15088,7 @@
   "retweet_count": 237,
   "retweeted_status": {
     "created_at": "Mon May 13 22:00:23 +0000 2019",
-    "favorite_count": 307,
+    "favorite_count": 306,
     "full_text": "China has announced new tariffs in its trade war with America. President Donald Trump's government has so far seemed unfazed by the damage its tariffs do to the economy https://t.co/6qBaCG7GQq",
     "hashtags": [],
     "id": 1128057425326694402,
@@ -16696,7 +16719,7 @@
   "lang": "zh",
   "quoted_status": {
     "created_at": "Wed May 22 14:35:45 +0000 2019",
-    "favorite_count": 118,
+    "favorite_count": 119,
     "full_text": "录制一段，更清晰的。\n此事，今晚才发生，本人保证此事真实，有任何问题，愿负任何法律责任。\n\n目前，我的电脑由于连接华为路由器，无法使用谷歌一切产品，但谷歌之外的网络可正常使用。\n\n我只想告诉所有人一句话：华为设备，不安全，不可靠！ https://t.co/ynkQBreUtw",
     "hashtags": [],
     "id": 1131207020164468736,
@@ -16757,7 +16780,7 @@
   "lang": "zh",
   "quoted_status": {
     "created_at": "Wed May 22 14:35:45 +0000 2019",
-    "favorite_count": 118,
+    "favorite_count": 119,
     "full_text": "录制一段，更清晰的。\n此事，今晚才发生，本人保证此事真实，有任何问题，愿负任何法律责任。\n\n目前，我的电脑由于连接华为路由器，无法使用谷歌一切产品，但谷歌之外的网络可正常使用。\n\n我只想告诉所有人一句话：华为设备，不安全，不可靠！ https://t.co/ynkQBreUtw",
     "hashtags": [],
     "id": 1131207020164468736,
@@ -17494,7 +17517,7 @@
   "retweet_count": 386,
   "retweeted_status": {
     "created_at": "Sun May 26 09:37:24 +0000 2019",
-    "favorite_count": 1002,
+    "favorite_count": 1001,
     "full_text": "Published in the Opinion section of today's @nytimes.\nhttps://t.co/2Ktt8Wb3a7",
     "hashtags": [],
     "id": 1132581491647631360,
@@ -17717,7 +17740,7 @@
   "retweet_count": 492,
   "retweeted_status": {
     "created_at": "Tue May 28 00:57:19 +0000 2019",
-    "favorite_count": 1032,
+    "favorite_count": 1031,
     "full_text": "草泥马审查！\n我要说话，我要画画，我回来了！\n我的纪录片#ChinasArtfulDissident 将在 #六四30周年 @ABCTV 首播，期待大家。\nScrew the censorship! I am back with my documentary\n#ChinasArtfulDissident. Let's make noise! #badiucao\n\nAirs Tuesday 4 June on @ABCTV https://t.co/H3JUEJGrpX",
     "hashtags": [
       {
@@ -19839,10 +19862,10 @@
   "id": 1135841249686982656,
   "id_str": "1135841249686982656",
   "lang": "en",
-  "retweet_count": 4192,
+  "retweet_count": 4193,
   "retweeted_status": {
     "created_at": "Tue Jun 04 00:47:13 +0000 2019",
-    "favorite_count": 6948,
+    "favorite_count": 6949,
     "full_text": "This spectacular night scene of the mass hunger strike in Tiananmen Square 1989 was taken by a friend of mine. He wants it to be shared, but is too afraid to reveal his name. https://t.co/dlemRXY3l4",
     "hashtags": [],
     "id": 1135709556464607237,
@@ -19859,7 +19882,7 @@
         "url": "https://t.co/dlemRXY3l4"
       }
     ],
-    "retweet_count": 4192,
+    "retweet_count": 4193,
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "urls": [],
     "user": {
@@ -19897,7 +19920,7 @@
   "retweet_count": 236,
   "retweeted_status": {
     "created_at": "Tue Jun 04 09:20:52 +0000 2019",
-    "favorite_count": 817,
+    "favorite_count": 816,
     "full_text": "【六四30周年蔡英文呼吁北京自我反省】\n今日是 #六四事件 30周年，蔡英文表示，30年后的六四，让我们格外地感受到台湾自由民主的可贵，也希望中国或者北京当局，对于六四事件能够展现出一种反省、进步的一个姿态。 https://t.co/YJTq21I22i",
     "hashtags": [
       {
@@ -20032,7 +20055,7 @@
   "lang": "zh",
   "quoted_status": {
     "created_at": "Tue Jun 04 12:58:01 +0000 2019",
-    "favorite_count": 309,
+    "favorite_count": 310,
     "full_text": "在30年前的天安门事件后，尽管谴责了这场镇压，但美国的回应实质上是假装什么都没有发生，并且照常与中方进行商贸往来。而在华盛顿，这一决定曾激起强烈反对。当时的美国政府为何选择对中国的杀戮者手下留情？这一决定是否经受住了时间的检验？https://t.co/D7cu7CdtMK",
     "hashtags": [],
     "id": 1135893467706658816,
@@ -20074,10 +20097,10 @@
   "id": 1136091648377540609,
   "id_str": "1136091648377540609",
   "lang": "en",
-  "retweet_count": 5454,
+  "retweet_count": 5453,
   "retweeted_status": {
     "created_at": "Tue Jun 04 23:29:58 +0000 2019",
-    "favorite_count": 18388,
+    "favorite_count": 18389,
     "full_text": "28 years ago, we traveled to Tiananmen Square to honor the courage &amp; sacrifice of the students, workers &amp; ordinary citizens who stood for the dignity &amp; human rights that all people deserve. To this day, we remain committed to sharing their story with the world. #Tiananmen30 https://t.co/7UqiJVRS3t",
     "hashtags": [
       {
@@ -20105,7 +20128,7 @@
         }
       }
     ],
-    "retweet_count": 5454,
+    "retweet_count": 5453,
     "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
     "urls": [],
     "user": {
@@ -20828,10 +20851,10 @@
   "lang": "zh",
   "quoted_status_id": 1136648770928570368,
   "quoted_status_id_str": "1136648770928570368",
-  "retweet_count": 118,
+  "retweet_count": 119,
   "retweeted_status": {
     "created_at": "Thu Jun 06 16:09:44 +0000 2019",
-    "favorite_count": 311,
+    "favorite_count": 312,
     "full_text": "有人提醒不要忘了肖斌。1989年6月5日肖斌正在街头讲述中共六四屠杀见闻，被中共特务录像，并被判刑十年。肖斌还是中共电视认罪史上第一人。 https://t.co/8rFdZERBW5",
     "hashtags": [],
     "id": 1136666492035063808,
@@ -20839,7 +20862,7 @@
     "lang": "zh",
     "quoted_status_id": 1136648770928570368,
     "quoted_status_id_str": "1136648770928570368",
-    "retweet_count": 118,
+    "retweet_count": 119,
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "urls": [
       {
@@ -21602,7 +21625,7 @@
   "retweet_count": 791,
   "retweeted_status": {
     "created_at": "Sun Jun 09 12:47:52 +0000 2019",
-    "favorite_count": 3275,
+    "favorite_count": 3276,
     "full_text": "自己城市自己救！（照片：蘋果日報） https://t.co/uZUxPlOXE8",
     "hashtags": [],
     "id": 1137702852254584832,
@@ -21760,10 +21783,10 @@
   "id": 1137718043012845568,
   "id_str": "1137718043012845568",
   "lang": "en",
-  "retweet_count": 670,
+  "retweet_count": 669,
   "retweeted_status": {
     "created_at": "Sun Jun 09 12:27:14 +0000 2019",
-    "favorite_count": 1240,
+    "favorite_count": 1241,
     "full_text": "Eight hours into the march against #ExtraditionBill and the protesters are still coming. The streets of #HongKong are alive tonight with a sea of white. https://t.co/XbEsFxn4co",
     "hashtags": [
       {
@@ -21787,7 +21810,7 @@
         "url": "https://t.co/XbEsFxn4co"
       }
     ],
-    "retweet_count": 670,
+    "retweet_count": 669,
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "urls": [],
     "user": {
@@ -21849,7 +21872,7 @@
   "retweet_count": 3938,
   "retweeted_status": {
     "created_at": "Sun Jun 09 13:54:06 +0000 2019",
-    "favorite_count": 11522,
+    "favorite_count": 11521,
     "full_text": "We stand with all freedom-loving people of #HongKong. In their faces, we see the longing for freedom, &amp; are reminded that #Taiwan’s hard-earned democracy must be guarded &amp; renewed by every generation. \n\nAs long as I’m President, “one country, two systems” will never be an option. https://t.co/yYckfeNxw0",
     "hashtags": [
       {
@@ -21912,6 +21935,51 @@
       "id_str": "155814794",
       "name": "蔡英文 Tsai Ing-wen",
       "screen_name": "iingwen"
+    }
+  ]
+}
+{
+  "created_at": "Mon Jun 10 00:31:33 +0000 2019",
+  "full_text": "RT @zhengyichangcun: 这份书摘不错，讲述了六四之后，在邓小平的召集下，中共最高层大约500人参与了一次秘密会议，在会议上发表对六四的具体评论。如徐向前、彭真、王震、李瑞环、杨尚昆、聂荣臻等中共元老对赵紫阳的激烈批评，以及会议总结、为六四定调。\n这次会议基本确…",
+  "hashtags": [],
+  "id": 1137879942203490304,
+  "id_str": "1137879942203490304",
+  "lang": "zh",
+  "retweet_count": 33,
+  "retweeted_status": {
+    "created_at": "Sun Jun 09 22:01:37 +0000 2019",
+    "favorite_count": 65,
+    "full_text": "这份书摘不错，讲述了六四之后，在邓小平的召集下，中共最高层大约500人参与了一次秘密会议，在会议上发表对六四的具体评论。如徐向前、彭真、王震、李瑞环、杨尚昆、聂荣臻等中共元老对赵紫阳的激烈批评，以及会议总结、为六四定调。\n这次会议基本确定了后六四中国的政治基调\nhttps://t.co/kvedjcOynf",
+    "hashtags": [],
+    "id": 1137842209661882373,
+    "id_str": "1137842209661882373",
+    "lang": "zh",
+    "retweet_count": 33,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "urls": [
+      {
+        "expanded_url": "https://theinitium.com/article/20190609-book-secret-document-tianmen/",
+        "url": "https://t.co/kvedjcOynf"
+      }
+    ],
+    "user": {
+      "id": 889308807603429376,
+      "screen_name": "zhengyichangcun"
+    },
+    "user_mentions": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "urls": [],
+  "user": {
+    "id": 547112588,
+    "screen_name": "NewCenturyBaopu"
+  },
+  "user_mentions": [
+    {
+      "id": 889308807603429376,
+      "id_str": "889308807603429376",
+      "name": "王庆民",
+      "screen_name": "zhengyichangcun"
     }
   ]
 }
@@ -21991,7 +22059,7 @@
   "retweet_count": 623,
   "retweeted_status": {
     "created_at": "Mon Jun 10 02:41:40 +0000 2019",
-    "favorite_count": 1402,
+    "favorite_count": 1401,
     "full_text": "Hong Kong protests on the front page of Monday's New York Times, with a great photo by @LamYikFei https://t.co/90AMPzToR7 https://t.co/ZRDsHRYBJp",
     "hashtags": [],
     "id": 1137912684546994178,
@@ -22335,13 +22403,13 @@
   "lang": "en",
   "quoted_status": {
     "created_at": "Sun Jun 09 09:52:30 +0000 2019",
-    "favorite_count": 592877,
+    "favorite_count": 593022,
     "full_text": "ONE\n\nMy dad died. Classic start to a funny story. He was buried in a small village in Sussex. I was really close to my dad so I visited his grave a lot. I still do. [DON’T WORRY, IT GETS FUNNIER.]",
     "hashtags": [],
     "id": 1137658720698228736,
     "id_str": "1137658720698228736",
     "lang": "en",
-    "retweet_count": 254105,
+    "retweet_count": 254154,
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "urls": [],
     "user": {
@@ -22996,7 +23064,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Wed Jun 12 03:31:28 +0000 2019",
-      "favorite_count": 13591,
+      "favorite_count": 13590,
       "full_text": "The hearts of all freedom-loving people were moved by the courage of the one million men &amp; women of Hong Kong who took to the streets to peacefully demand their rights &amp; denounce this horrific extradition bill. America stands with the people of Hong Kong. https://t.co/wX01v5xzHs",
       "hashtags": [],
       "id": 1138649995861737472,
@@ -24159,7 +24227,7 @@
   "retweet_count": 446,
   "retweeted_status": {
     "created_at": "Wed Jun 12 09:49:58 +0000 2019",
-    "favorite_count": 838,
+    "favorite_count": 839,
     "full_text": "香港逃犯条例修订争议--香港教协宣布全港大中小学罢课 https://t.co/Gi71boHG1D",
     "hashtags": [],
     "id": 1138745246555287554,
@@ -24392,10 +24460,10 @@
   "id": 1138815675336613888,
   "id_str": "1138815675336613888",
   "lang": "en",
-  "retweet_count": 7959,
+  "retweet_count": 7958,
   "retweeted_status": {
     "created_at": "Wed Jun 12 14:14:51 +0000 2019",
-    "favorite_count": 17852,
+    "favorite_count": 17855,
     "full_text": "Utterly saddened to see the images of #HongKong police firing rubber bullets at protesters.\n\nTo the people of Hong Kong: you may feel your demands for freedom seem to fall on deaf ears, please know that all like-minded friends in #Taiwan &amp; around the world are standing with you. https://t.co/22cCCFdnLr",
     "hashtags": [
       {
@@ -24419,7 +24487,7 @@
         "url": "https://t.co/22cCCFdnLr"
       }
     ],
-    "retweet_count": 7959,
+    "retweet_count": 7958,
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "urls": [],
     "user": {
@@ -24530,7 +24598,7 @@
   "retweet_count": 344,
   "retweeted_status": {
     "created_at": "Mon Jun 10 20:10:51 +0000 2019",
-    "favorite_count": 1215,
+    "favorite_count": 1214,
     "full_text": "小英总统公开挺香港“反送中”游行👍👍👍 https://t.co/zwNt2AzKhI",
     "hashtags": [],
     "id": 1138176722723954688,
@@ -24608,56 +24676,6 @@
       "id_str": "15774741",
       "name": "George Chen",
       "screen_name": "george_chen"
-    }
-  ]
-}
-{
-  "created_at": "Thu Jun 13 01:51:43 +0000 2019",
-  "full_text": "RT @anti_elab: https://t.co/3vRzCT7pKT",
-  "hashtags": [],
-  "id": 1138987278494195712,
-  "id_str": "1138987278494195712",
-  "lang": "und",
-  "retweet_count": 17,
-  "retweeted_status": {
-    "created_at": "Wed Jun 12 23:30:10 +0000 2019",
-    "favorite_count": 7,
-    "full_text": "https://t.co/3vRzCT7pKT",
-    "hashtags": [],
-    "id": 1138951659122503680,
-    "id_str": "1138951659122503680",
-    "lang": "und",
-    "retweet_count": 17,
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "urls": [
-      {
-        "expanded_url": "https://www.bloomberg.com/news/articles/2019-06-12/pelosi-vows-to-review-hong-kong-trade-ties-over-extradition-bill?fbclid=IwAR3nPOBqaXVJWNoPhOW2ywlqYmuNJmqEGa6B2-Nd7nkEUWpoUTvg5_OnNTY",
-        "url": "https://t.co/3vRzCT7pKT"
-      }
-    ],
-    "user": {
-      "id": 1138468715090124800,
-      "screen_name": "anti_elab"
-    },
-    "user_mentions": []
-  },
-  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-  "urls": [
-    {
-      "expanded_url": "https://www.bloomberg.com/news/articles/2019-06-12/pelosi-vows-to-review-hong-kong-trade-ties-over-extradition-bill?fbclid=IwAR3nPOBqaXVJWNoPhOW2ywlqYmuNJmqEGa6B2-Nd7nkEUWpoUTvg5_OnNTY",
-      "url": "https://t.co/3vRzCT7pKT"
-    }
-  ],
-  "user": {
-    "id": 547112588,
-    "screen_name": "NewCenturyBaopu"
-  },
-  "user_mentions": [
-    {
-      "id": 1138468715090124800,
-      "id_str": "1138468715090124800",
-      "name": "antiELAB",
-      "screen_name": "anti_elab"
     }
   ]
 }
@@ -24858,6 +24876,31 @@
       "id_str": "21272440",
       "name": "Bloomberg Technology",
       "screen_name": "technology"
+    }
+  ]
+}
+{
+  "created_at": "Thu Jun 13 07:08:03 +0000 2019",
+  "full_text": "@xiangdong_shen 請問他說的那一點是您點頭稱是表示贊同的啊。",
+  "hashtags": [],
+  "id": 1139066886316945410,
+  "id_str": "1139066886316945410",
+  "in_reply_to_screen_name": "xiangdong_shen",
+  "in_reply_to_status_id": 1139065666344853504,
+  "in_reply_to_user_id": 863826080624398336,
+  "lang": "zh",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "urls": [],
+  "user": {
+    "id": 547112588,
+    "screen_name": "NewCenturyBaopu"
+  },
+  "user_mentions": [
+    {
+      "id": 863826080624398336,
+      "id_str": "863826080624398336",
+      "name": "沈向东",
+      "screen_name": "xiangdong_shen"
     }
   ]
 }
@@ -26042,7 +26085,7 @@
   "retweet_count": 173,
   "retweeted_status": {
     "created_at": "Sun Jun 16 05:57:29 +0000 2019",
-    "favorite_count": 406,
+    "favorite_count": 407,
     "full_text": "Two young women stand across from police, making their message loud &amp; clear w a sign that imitates the style of the one police show protesters before attacking us. I couldn’t agree more. https://t.co/9DXdRsX0li",
     "hashtags": [],
     "id": 1140136291172003841,
@@ -26200,7 +26243,7 @@
     "lang": "en",
     "quoted_status": {
       "created_at": "Sun Jun 16 15:02:46 +0000 2019",
-      "favorite_count": 2395,
+      "favorite_count": 2390,
       "full_text": "BREAKING: Organisers have announced a turnout estimate of \"close to two million,\" nearly doubling that of last Sunday's rally and making it the largest protest in Hong Kong's history. Police have yet to release their figure.\n\n👉 In full: https://t.co/kmLJLFTZhx https://t.co/dcKJCWAWwZ",
       "hashtags": [],
       "id": 1140273517528846337,
@@ -26314,10 +26357,10 @@
       }
     }
   ],
-  "retweet_count": 1569,
+  "retweet_count": 1567,
   "retweeted_status": {
     "created_at": "Sun Jun 16 17:27:30 +0000 2019",
-    "favorite_count": 3645,
+    "favorite_count": 3643,
     "full_text": "这段视频可能您已经看过，小编忍不住再转一次！政府所称的“暴徒”充满了文明、人性之光。 https://t.co/MzRossHPlc",
     "hashtags": [],
     "id": 1140309939698765826,
@@ -26341,7 +26384,7 @@
         }
       }
     ],
-    "retweet_count": 1569,
+    "retweet_count": 1567,
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
     "urls": [],
     "user": {
@@ -27219,7 +27262,7 @@
   "retweet_count": 387,
   "retweeted_status": {
     "created_at": "Tue Jun 18 10:54:57 +0000 2019",
-    "favorite_count": 1086,
+    "favorite_count": 1087,
     "full_text": "北京雕塑家AS用監獄高牆上的鐵絲網，為100位中國人編了100幅頭像，一樣的規格、尺寸，準備今年6月展出，所有頭像下都沒有姓名，只有每個人介紹自己的一句話。展出只有99幅頭像，第一位是空缺，和空椅子一樣是他的象徵。因為用微信聯繫，5月12日AS被公安傳訊，隨後抄家，公安取走10幅頭像，說是代為保管 https://t.co/ldJatKaSyg",
     "hashtags": [],
     "id": 1140935927549706240,
@@ -27810,7 +27853,7 @@
   "lang": "zh",
   "quoted_status": {
     "created_at": "Thu Jun 20 00:02:12 +0000 2019",
-    "favorite_count": 178,
+    "favorite_count": 179,
     "full_text": "一个黑人朋友转来这张新闻照片，很不解地问为什么会有华人这么狂热支持川普，不知道那是个白人种族主义者吗？如果她知道还有很多华人崇拜希特勒、鄙视曼德拉，更要震惊了。 https://t.co/f7inVUNn8W",
     "hashtags": [],
     "id": 1141496431963856896,
@@ -28049,7 +28092,7 @@
   "retweet_count": 659,
   "retweeted_status": {
     "created_at": "Fri Jun 21 04:22:25 +0000 2019",
-    "favorite_count": 1263,
+    "favorite_count": 1264,
     "full_text": "中共國連塔利班都邀請到北京了，還把國內的老百姓當恐怖分子，挨個查地鐵上乘客的手機。 https://t.co/hQuvGOskbv",
     "hashtags": [],
     "id": 1141924306068262913,
@@ -29056,7 +29099,7 @@
   "retweet_count": 115,
   "retweeted_status": {
     "created_at": "Sun Jun 23 13:11:10 +0000 2019",
-    "favorite_count": 249,
+    "favorite_count": 248,
     "full_text": "#Taipei - A friend of mine shared this aerial shot with me. 100K protesters demonstrated in front of the presidential office to show resistance towards China's infiltration into Taiwanese media. We shall get busier around Ketagalan Boulevard in the coming months...#AntiRedMedia https://t.co/jCIZtv7iIJ",
     "hashtags": [
       {
@@ -29114,7 +29157,7 @@
   "retweet_count": 77,
   "retweeted_status": {
     "created_at": "Sun Jun 23 14:14:43 +0000 2019",
-    "favorite_count": 260,
+    "favorite_count": 261,
     "full_text": "6月23日下午两點，台湾網紅“館長”（本名陳之漢）和時代力量黄國昌共同在總統府前凱達格蘭大道舉辦“拒絶紅色媒體 守䕶台湾民主”大遊行，號召民衆共同站出來反親中共媒體，吸引了逾十萬名民衆冒雨參加，其中絶大多數是年輕人。台湾年輕人開始站出來守護民主，對中共說“不”，這是個好現象。 https://t.co/97lPWNmyxo",
     "hashtags": [],
     "id": 1142798139876753408,
@@ -29165,7 +29208,7 @@
   "retweet_count": 357,
   "retweeted_status": {
     "created_at": "Sun Jun 23 22:01:42 +0000 2019",
-    "favorite_count": 680,
+    "favorite_count": 681,
     "full_text": "The world’s biggest building reveals a lot about China’s economic strengths. It is also a microcosm of the country’s financial frailties https://t.co/cfXajp82av",
     "hashtags": [],
     "id": 1142915661284478986,
@@ -29728,7 +29771,7 @@
   "retweet_count": 1434,
   "retweeted_status": {
     "created_at": "Mon Jun 24 09:15:06 +0000 2019",
-    "favorite_count": 3638,
+    "favorite_count": 3636,
     "full_text": "A group of rich Americans are urging “a moderate wealth tax on the fortunes of the richest one-tenth of the richest 1 percent of Americans — on us” https://t.co/JUh8RhZmyq",
     "hashtags": [],
     "id": 1143085125829308416,
@@ -29828,7 +29871,7 @@
   "id": 1143342685941403648,
   "id_str": "1143342685941403648",
   "lang": "en",
-  "retweet_count": 37,
+  "retweet_count": 36,
   "retweeted_status": {
     "created_at": "Mon Jun 24 06:03:37 +0000 2019",
     "favorite_count": 76,
@@ -29866,7 +29909,7 @@
         "url": "https://t.co/U9Coq2AqqD"
       }
     ],
-    "retweet_count": 37,
+    "retweet_count": 36,
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
     "urls": [],
     "user": {
@@ -30261,7 +30304,7 @@
   "retweet_count": 116,
   "retweeted_status": {
     "created_at": "Mon Jun 24 10:20:00 +0000 2019",
-    "favorite_count": 350,
+    "favorite_count": 351,
     "full_text": "近日，一个注册地址为高雄的人在脸书上爆料：蔡英文政府支持了香港游行10亿元！\n可经警方调查，台湾并无此人，其IP地址在新加坡，姓名还是简体字\n这很可能是中共散布流言，妄图打击香港大游行的正当性～\n\n评：假新闻有800多人点赞，说明很多台湾人吃这一套，这就是红色媒体长期潜移默化的结果吧？\n1/2 https://t.co/8ArNadLwPi",
     "hashtags": [],
     "id": 1143101461045186566,
@@ -30667,7 +30710,7 @@
   "retweet_count": 369,
   "retweeted_status": {
     "created_at": "Tue Jun 25 03:55:25 +0000 2019",
-    "favorite_count": 578,
+    "favorite_count": 579,
     "full_text": "偶然才看到，新华社5月5日发文，从今年开始，全国的村主任（村长）全部由村书记直接兼任。人大98年颁布《村民委员会组织法》，上十亿人参与的村民选村长实施了20年，现在法都懒得改，发一纸文件就实际作废了。 https://t.co/ZRioHlXSKb",
     "hashtags": [],
     "id": 1143367066180866048,
@@ -31905,7 +31948,7 @@
   "retweet_count": 83,
   "retweeted_status": {
     "created_at": "Thu Jun 27 07:00:00 +0000 2019",
-    "favorite_count": 249,
+    "favorite_count": 248,
     "full_text": "在中国严格的审查制度下，西方电影中的一些情节被删除、片子拿不到“龙标“的情况时有发生。但本周，讲述抗日故事的爱国主义商业大片《八佰》在上映前突然撤档。这表明，中共目前正加大对不符合其意识形态的文化作品的打压力度，电影界面临新一波审查浪潮。https://t.co/gyhxNZMkXn",
     "hashtags": [],
     "id": 1144138291714899969,
@@ -32704,7 +32747,7 @@
   "retweet_count": 199,
   "retweeted_status": {
     "created_at": "Fri Jun 28 09:13:30 +0000 2019",
-    "favorite_count": 460,
+    "favorite_count": 461,
     "full_text": "【最新消息：李文足已和王全璋见面】\n\n李文足周五(28日)下午，成功在山东临沂监狱，会见丈夫王全璋。\n\n她接受本台采访表示，会面长约30分钟，期间王全璋表现焦躁，消瘦苍老，“好像变了个人一样”。\n\n她进入监狱会见前，现场出现大批身份不明男子，用雨伞遮挡李文足。有日本传媒拍摄时，被便衣按在地上 https://t.co/UXhzfs2MPG",
     "hashtags": [],
     "id": 1144534276534202369,
@@ -32802,7 +32845,7 @@
   "lang": "zh",
   "quoted_status": {
     "created_at": "Fri Jun 28 13:34:33 +0000 2019",
-    "favorite_count": 1710,
+    "favorite_count": 1711,
     "full_text": "我终于见到了王全璋 我拉着儿子泉泉，和全秀姐一起被警察带着走进会见大厅。 (cont) https://t.co/mDEDYYJHjn",
     "hashtags": [],
     "id": 1144599972912017408,
@@ -33076,7 +33119,7 @@
   "retweet_count": 1545,
   "retweeted_status": {
     "created_at": "Fri Jun 28 19:18:31 +0000 2019",
-    "favorite_count": 7126,
+    "favorite_count": 7130,
     "full_text": "Joe Biden: \"We've got to recognize that kid wearing a hoodie may very well be the next poet laureate and not a gangbanger.\" 😬 https://t.co/67HFGjPON8",
     "hashtags": [],
     "id": 1144686533242445824,
@@ -33255,7 +33298,7 @@
   "retweet_count": 85,
   "retweeted_status": {
     "created_at": "Thu Jun 27 04:29:07 +0000 2019",
-    "favorite_count": 270,
+    "favorite_count": 271,
     "full_text": "有思想的动画片：The Simpsons\n\n89年坦客人只身阻挡坦克的一幕，被他完美的再现了。 https://t.co/hRzvT1lT8X",
     "hashtags": [],
     "id": 1144100321456578560,
@@ -34097,7 +34140,7 @@
   "retweet_count": 511,
   "retweeted_status": {
     "created_at": "Sun Jun 30 02:07:08 +0000 2019",
-    "favorite_count": 2144,
+    "favorite_count": 2146,
     "full_text": "香港歌手何韵诗6月29日在台湾出席金曲奖颁奖典礼。谈及香港问题时，她说，我认为香港跟台湾是命运共同体，我希望台湾有事的时候，我们会站出来，香港有事的时候，台湾的朋友也会站出来。 #金曲奖 https://t.co/edihXk0S6g",
     "hashtags": [
       {
@@ -34664,7 +34707,7 @@
   "retweet_count": 641,
   "retweeted_status": {
     "created_at": "Sun Jun 30 14:06:01 +0000 2019",
-    "favorite_count": 1157,
+    "favorite_count": 1158,
     "full_text": "25 million refugees are generously hosted by countries around the world.\n\nThese are the countries that have stepped up for those who have lost everything. https://t.co/H7XWxM8IzA",
     "hashtags": [],
     "id": 1145332664682995715,
@@ -34709,79 +34752,6 @@
       "id_str": "14361155",
       "name": "UNHCR, the UN Refugee Agency",
       "screen_name": "Refugees"
-    }
-  ]
-}
-{
-  "created_at": "Sun Jun 30 16:05:03 +0000 2019",
-  "full_text": "RT @Alston_Kwan: 昨日台湾金曲奖颁奖人 #任将达 一开口就喊出“香港加油！”引发全场惊呼，并在引言中讲到64天安门事件。\n\n此时中国的所有直播平台暂停了对 #金曲奖 颁奖礼的直播。\n\n因为长久以来，中国与台湾娱乐业的合作紧密，多数台湾艺人都避谈敏感话题。 htt…",
-  "hashtags": [
-    {
-      "text": "任将达"
-    },
-    {
-      "text": "金曲奖"
-    }
-  ],
-  "id": 1145362621220061184,
-  "id_str": "1145362621220061184",
-  "lang": "zh",
-  "retweet_count": 700,
-  "retweeted_status": {
-    "created_at": "Sun Jun 30 03:55:29 +0000 2019",
-    "favorite_count": 1941,
-    "full_text": "昨日台湾金曲奖颁奖人 #任将达 一开口就喊出“香港加油！”引发全场惊呼，并在引言中讲到64天安门事件。\n\n此时中国的所有直播平台暂停了对 #金曲奖 颁奖礼的直播。\n\n因为长久以来，中国与台湾娱乐业的合作紧密，多数台湾艺人都避谈敏感话题。 https://t.co/Q8WMWl66mw",
-    "hashtags": [
-      {
-        "text": "任将达"
-      },
-      {
-        "text": "金曲奖"
-      }
-    ],
-    "id": 1145179018905284608,
-    "id_str": "1145179018905284608",
-    "lang": "zh",
-    "media": [
-      {
-        "display_url": "pic.twitter.com/Q8WMWl66mw",
-        "expanded_url": "https://twitter.com/Alston_Kwan/status/1145179018905284608/video/1",
-        "id": 1145178797806723072,
-        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1145178797806723072/pu/img/47ME-qmark_x3FHN.jpg",
-        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1145178797806723072/pu/img/47ME-qmark_x3FHN.jpg",
-        "type": "video",
-        "url": "https://t.co/Q8WMWl66mw",
-        "video_info": {
-          "aspect_ratio": [
-            16,
-            9
-          ],
-          "duration_millis": 76532
-        }
-      }
-    ],
-    "possibly_sensitive": true,
-    "retweet_count": 700,
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "urls": [],
-    "user": {
-      "id": 804913514087231488,
-      "screen_name": "Alston_Kwan"
-    },
-    "user_mentions": []
-  },
-  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-  "urls": [],
-  "user": {
-    "id": 547112588,
-    "screen_name": "NewCenturyBaopu"
-  },
-  "user_mentions": [
-    {
-      "id": 804913514087231488,
-      "id_str": "804913514087231488",
-      "name": "關堯 · Alston Kwan",
-      "screen_name": "Alston_Kwan"
     }
   ]
 }
@@ -35007,6 +34977,56 @@
       "id_str": "971021455629561856",
       "name": "撮影と詩",
       "screen_name": "kokokneuc"
+    }
+  ]
+}
+{
+  "created_at": "Mon Jul 01 00:21:59 +0000 2019",
+  "full_text": "RT @LifetimeUSCN: 汇丰银行向中共解释，不是他们出卖了孟晚舟。 https://t.co/9DMebA9VwR",
+  "hashtags": [],
+  "id": 1145487677845716992,
+  "id_str": "1145487677845716992",
+  "lang": "zh",
+  "retweet_count": 48,
+  "retweeted_status": {
+    "created_at": "Sun Jun 30 23:17:07 +0000 2019",
+    "favorite_count": 97,
+    "full_text": "汇丰银行向中共解释，不是他们出卖了孟晚舟。 https://t.co/9DMebA9VwR",
+    "hashtags": [],
+    "id": 1145471355980263424,
+    "id_str": "1145471355980263424",
+    "lang": "zh",
+    "retweet_count": 48,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "urls": [
+      {
+        "expanded_url": "https://www.bloomberg.com/news/articles/2019-06-30/hsbc-tells-beijing-it-is-not-to-blame-for-huawei-cfo-arrest-ft",
+        "url": "https://t.co/9DMebA9VwR"
+      }
+    ],
+    "user": {
+      "id": 2865179814,
+      "screen_name": "LifetimeUSCN"
+    },
+    "user_mentions": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "urls": [
+    {
+      "expanded_url": "https://www.bloomberg.com/news/articles/2019-06-30/hsbc-tells-beijing-it-is-not-to-blame-for-huawei-cfo-arrest-ft",
+      "url": "https://t.co/9DMebA9VwR"
+    }
+  ],
+  "user": {
+    "id": 547112588,
+    "screen_name": "NewCenturyBaopu"
+  },
+  "user_mentions": [
+    {
+      "id": 2865179814,
+      "id_str": "2865179814",
+      "name": "LT 視界",
+      "screen_name": "LifetimeUSCN"
     }
   ]
 }
@@ -36294,7 +36314,7 @@
   "retweet_count": 578,
   "retweeted_status": {
     "created_at": "Mon Jul 01 13:04:38 +0000 2019",
-    "favorite_count": 605,
+    "favorite_count": 606,
     "full_text": "JUST IN: Protesters have breached a gate within the legislative complex. People are now streaming into the building.\n\n👉 Story: https://t.co/qOJSVf6Q6d\n👉 In full: https://t.co/kmLJLFCnSX\n#antiELAB #hongkong #HK https://t.co/olSFJ86cG8",
     "hashtags": [
       {
@@ -36368,7 +36388,7 @@
   "id": 1145690275156619264,
   "id_str": "1145690275156619264",
   "lang": "zh",
-  "retweet_count": 56,
+  "retweet_count": 55,
   "retweeted_status": {
     "created_at": "Mon Jul 01 13:26:21 +0000 2019",
     "favorite_count": 52,
@@ -36422,7 +36442,7 @@
         "url": "https://t.co/WP7cKV4FJn"
       }
     ],
-    "retweet_count": 56,
+    "retweet_count": 55,
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "urls": [
       {
@@ -37175,7 +37195,7 @@
   "lang": "zh",
   "quoted_status": {
     "created_at": "Mon Jul 01 16:59:02 +0000 2019",
-    "favorite_count": 477,
+    "favorite_count": 476,
     "full_text": "Some netizens added English subtitles to a clip taken by @StandNewsHK, showing part of a declaration given by the protesters inside the LegCo earlier. https://t.co/IdEdkS7I2L",
     "hashtags": [],
     "id": 1145738593358569477,
@@ -37660,7 +37680,7 @@
   "lang": "und",
   "quoted_status": {
     "created_at": "Tue Jul 02 02:00:42 +0000 2019",
-    "favorite_count": 6090,
+    "favorite_count": 6091,
     "full_text": "#unwantedivanka  the patriot. https://t.co/6S3Of0TBoQ",
     "hashtags": [
       {
@@ -37810,10 +37830,10 @@
   "id": 1145966697188249602,
   "id_str": "1145966697188249602",
   "lang": "en",
-  "retweet_count": 8384,
+  "retweet_count": 8385,
   "retweeted_status": {
     "created_at": "Tue Jul 02 07:05:56 +0000 2019",
-    "favorite_count": 13921,
+    "favorite_count": 13925,
     "full_text": "1. THREAD: Dear world, I want to say a few words about what happened in #HongKong yesterday.",
     "hashtags": [
       {
@@ -37823,7 +37843,7 @@
     "id": 1145951726295326720,
     "id_str": "1145951726295326720",
     "lang": "en",
-    "retweet_count": 8384,
+    "retweet_count": 8385,
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "urls": [],
     "user": {
@@ -38822,7 +38842,7 @@
   "id": 1146386771824926722,
   "id_str": "1146386771824926722",
   "lang": "ja",
-  "retweet_count": 220,
+  "retweet_count": 219,
   "retweeted_status": {
     "created_at": "Wed Jul 03 06:46:48 +0000 2019",
     "favorite_count": 637,
@@ -38831,7 +38851,7 @@
     "id": 1146309295665045505,
     "id_str": "1146309295665045505",
     "lang": "ja",
-    "retweet_count": 220,
+    "retweet_count": 219,
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
     "urls": [
       {
@@ -40589,7 +40609,7 @@
         }
       }
     ],
-    "retweet_count": 256,
+    "retweet_count": 257,
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "urls": [],
     "user": {
@@ -40819,7 +40839,7 @@
   "retweet_count": 479,
   "retweeted_status": {
     "created_at": "Sun Jul 07 12:27:45 +0000 2019",
-    "favorite_count": 1267,
+    "favorite_count": 1268,
     "full_text": "#网传概括中国社会压抑的现状\n\n大陆网传用四位作家名字概括了当下中国社会现象：\n\n非常茅盾，一切巴金，千万莫言，早已冰心…… ?\n网友神回复：拆你老舍，打你田汉，刮起胡风，删你从文。\n网友神跟帖：总之路遥，难以作人",
     "hashtags": [
       {
@@ -41553,7 +41573,7 @@
   "retweet_count": 1161,
   "retweeted_status": {
     "created_at": "Mon Jul 08 20:05:23 +0000 2019",
-    "favorite_count": 3356,
+    "favorite_count": 3359,
     "full_text": "香港歌星、民主活动人士 #何韵诗 （#DeniseHo）8号在联合国人权理事会发言说两度被中国代表打断。何韵诗谈到香港两百万民众参加 #反送中 和平示威，她说主权移交后香港的民主自由被逐渐削弱，她说鉴于中国侵犯人权的行为，联合国应该将中国从人权理事会除名。\nhttps://t.co/UjO2NUTs58 https://t.co/wXb9ikAZFE",
     "hashtags": [
       {
@@ -42306,7 +42326,7 @@
   "retweet_count": 198,
   "retweeted_status": {
     "created_at": "Wed Jul 10 22:30:03 +0000 2019",
-    "favorite_count": 521,
+    "favorite_count": 522,
     "full_text": "这一前所未有的联署声明，由22个人权理事会成员国签署, 包括英国、日本、加拿大等。https://t.co/KKLrLgkXGV",
     "hashtags": [],
     "id": 1149083388739014661,
@@ -45257,6 +45277,74 @@
   ]
 }
 {
+  "created_at": "Sun Jul 21 15:24:22 +0000 2019",
+  "full_text": "RT @VivienneChow: More chaos in Yuen Long MTR station. Police are busy shooting tear gas at protesters on Hong Kong island. No police here…",
+  "hashtags": [],
+  "id": 1152962529728929792,
+  "id_str": "1152962529728929792",
+  "lang": "en",
+  "retweet_count": 193,
+  "retweeted_status": {
+    "created_at": "Sun Jul 21 15:08:52 +0000 2019",
+    "favorite_count": 133,
+    "full_text": "More chaos in Yuen Long MTR station. Police are busy shooting tear gas at protesters on Hong Kong island. No police here to stop these probably thugs from attacking citizens and reporters #antielab #hongkongprotests https://t.co/EUJI5wg5rx",
+    "hashtags": [
+      {
+        "text": "antielab"
+      },
+      {
+        "text": "hongkongprotests"
+      }
+    ],
+    "id": 1152958628569071618,
+    "id_str": "1152958628569071618",
+    "in_reply_to_screen_name": "VivienneChow",
+    "in_reply_to_status_id": 1152955944734613505,
+    "in_reply_to_user_id": 276822292,
+    "lang": "en",
+    "media": [
+      {
+        "display_url": "pic.twitter.com/EUJI5wg5rx",
+        "expanded_url": "https://twitter.com/VivienneChow/status/1152958628569071618/video/1",
+        "id": 1152958576731676674,
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1152958576731676674/pu/img/G0-9iyBrOGnWXrV_.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1152958576731676674/pu/img/G0-9iyBrOGnWXrV_.jpg",
+        "type": "video",
+        "url": "https://t.co/EUJI5wg5rx",
+        "video_info": {
+          "aspect_ratio": [
+            53,
+            30
+          ],
+          "duration_millis": 20133
+        }
+      }
+    ],
+    "retweet_count": 193,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "urls": [],
+    "user": {
+      "id": 276822292,
+      "screen_name": "VivienneChow"
+    },
+    "user_mentions": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "urls": [],
+  "user": {
+    "id": 547112588,
+    "screen_name": "NewCenturyBaopu"
+  },
+  "user_mentions": [
+    {
+      "id": 276822292,
+      "id_str": "276822292",
+      "name": "Vivienne Chow",
+      "screen_name": "VivienneChow"
+    }
+  ]
+}
+{
   "created_at": "Sun Jul 21 15:29:48 +0000 2019",
   "full_text": "RT @bbcchinese: 晚上11时许，香港警方举起橙旗，要求示威者离开，否则开枪。 https://t.co/m4lDhoCcrb",
   "hashtags": [],
@@ -45326,7 +45414,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Sun Jul 21 02:34:26 +0000 2019",
-      "favorite_count": 1150,
+      "favorite_count": 1151,
       "full_text": "神作！香港太太太牛逼了\n https://t.co/9Aw2A4uM70",
       "hashtags": [],
       "id": 1152768767958515712,
@@ -45879,64 +45967,6 @@
   ]
 }
 {
-  "created_at": "Mon Jul 22 01:13:18 +0000 2019",
-  "full_text": "RT @RFA_Chinese: 【香港地区社团人士冲进地铁疯狂袭击市民】\n\n香港经历了一个恐慌的晚上，当参与完和平示威的市民坐地铁回家时，被穿上白衣的地区社团人士冲进地铁站围殴，车厢和车站妇孺小孩也受伤。\n大批市民报警，但警察一小时后，即凶徒离开后才到场。 https://t…",
-  "hashtags": [],
-  "id": 1153110739759927296,
-  "id_str": "1153110739759927296",
-  "lang": "zh",
-  "retweet_count": 659,
-  "retweeted_status": {
-    "created_at": "Mon Jul 22 00:54:06 +0000 2019",
-    "favorite_count": 985,
-    "full_text": "【香港地区社团人士冲进地铁疯狂袭击市民】\n\n香港经历了一个恐慌的晚上，当参与完和平示威的市民坐地铁回家时，被穿上白衣的地区社团人士冲进地铁站围殴，车厢和车站妇孺小孩也受伤。\n大批市民报警，但警察一小时后，即凶徒离开后才到场。 https://t.co/4B7AiqQR3h",
-    "hashtags": [],
-    "id": 1153105906759979008,
-    "id_str": "1153105906759979008",
-    "lang": "zh",
-    "media": [
-      {
-        "display_url": "pic.twitter.com/4B7AiqQR3h",
-        "expanded_url": "https://twitter.com/RFA_Chinese/status/1153105906759979008/video/1",
-        "id": 1153105614542761984,
-        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1153105614542761984/pu/img/qp3bbRup4wBfu2qO.jpg",
-        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1153105614542761984/pu/img/qp3bbRup4wBfu2qO.jpg",
-        "type": "video",
-        "url": "https://t.co/4B7AiqQR3h",
-        "video_info": {
-          "aspect_ratio": [
-            25,
-            53
-          ],
-          "duration_millis": 66493
-        }
-      }
-    ],
-    "retweet_count": 659,
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "urls": [],
-    "user": {
-      "id": 17595489,
-      "screen_name": "RFA_Chinese"
-    },
-    "user_mentions": []
-  },
-  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-  "urls": [],
-  "user": {
-    "id": 547112588,
-    "screen_name": "NewCenturyBaopu"
-  },
-  "user_mentions": [
-    {
-      "id": 17595489,
-      "id_str": "17595489",
-      "name": "自由亚洲电台",
-      "screen_name": "RFA_Chinese"
-    }
-  ]
-}
-{
   "created_at": "Mon Jul 22 08:48:58 +0000 2019",
   "favorite_count": 3,
   "full_text": "https://t.co/Mr2bqHniCM",
@@ -45992,7 +46022,7 @@
   "retweet_count": 672,
   "retweeted_status": {
     "created_at": "Mon Jul 22 05:59:03 +0000 2019",
-    "favorite_count": 1081,
+    "favorite_count": 1082,
     "full_text": "警察给白衣人布置任务～～\n\n这样的镜头被摄下来，这样的罪证被留下来，也难怪牠们会打记者……\n转 https://t.co/bDIqmvWua6",
     "hashtags": [],
     "id": 1153182649453666304,
@@ -46089,6 +46119,102 @@
     "screen_name": "NewCenturyBaopu"
   },
   "user_mentions": []
+}
+{
+  "created_at": "Tue Jul 23 12:21:52 +0000 2019",
+  "favorite_count": 9,
+  "full_text": "「李鵬是技術官僚，政治上不會別的只會聽從黨魁鄧小平，結果鑄成1989年'六四'的悲劇。他作為當代中國政治人物的奇葩之處就是，僅僅是平庸卻為中華民族帶來了禍國殃民、遺害子孫的千古奇禍。」https://t.co/tC4NYvEHgu",
+  "hashtags": [],
+  "id": 1153641376917020673,
+  "id_str": "1153641376917020673",
+  "lang": "zh",
+  "retweet_count": 6,
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "urls": [
+    {
+      "expanded_url": "https://www.bbc.com/zhongwen/trad/chinese-news-49084536",
+      "url": "https://t.co/tC4NYvEHgu"
+    }
+  ],
+  "user": {
+    "id": 547112588,
+    "screen_name": "NewCenturyBaopu"
+  },
+  "user_mentions": []
+}
+{
+  "created_at": "Tue Jul 23 12:35:14 +0000 2019",
+  "full_text": "RT @zhengyichangcun: 李鹏不是“平庸之辈”，也不是“技术官僚”，阿伦特说的“平庸之恶”对他不适用。\n从六四前前后后的表现，李鹏就是一个铁杆死硬分子，在促使镇压中起到很关键作用，并且是实际执行者，刽子手。\n邓小平的罪责当然不能逃脱，但李鹏绝对是第二号元凶。而他…",
+  "hashtags": [],
+  "id": 1153644738567786498,
+  "id_str": "1153644738567786498",
+  "lang": "zh",
+  "quoted_status_id": 1153641376917020673,
+  "quoted_status_id_str": "1153641376917020673",
+  "retweet_count": 2,
+  "retweeted_status": {
+    "created_at": "Tue Jul 23 12:26:41 +0000 2019",
+    "favorite_count": 7,
+    "full_text": "李鹏不是“平庸之辈”，也不是“技术官僚”，阿伦特说的“平庸之恶”对他不适用。\n从六四前前后后的表现，李鹏就是一个铁杆死硬分子，在促使镇压中起到很关键作用，并且是实际执行者，刽子手。\n邓小平的罪责当然不能逃脱，但李鹏绝对是第二号元凶。而他子女的显要也更映衬其无耻贪利\nhttps://t.co/yp9f1NRdaM",
+    "hashtags": [],
+    "id": 1153642590421606402,
+    "id_str": "1153642590421606402",
+    "in_reply_to_screen_name": "zhengyichangcun",
+    "in_reply_to_status_id": 1153638841691070465,
+    "in_reply_to_user_id": 889308807603429376,
+    "lang": "zh",
+    "quoted_status": {
+      "created_at": "Tue Jul 23 12:21:52 +0000 2019",
+      "favorite_count": 9,
+      "full_text": "「李鵬是技術官僚，政治上不會別的只會聽從黨魁鄧小平，結果鑄成1989年'六四'的悲劇。他作為當代中國政治人物的奇葩之處就是，僅僅是平庸卻為中華民族帶來了禍國殃民、遺害子孫的千古奇禍。」https://t.co/tC4NYvEHgu",
+      "hashtags": [],
+      "id": 1153641376917020673,
+      "id_str": "1153641376917020673",
+      "lang": "zh",
+      "retweet_count": 6,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "urls": [
+        {
+          "expanded_url": "https://www.bbc.com/zhongwen/trad/chinese-news-49084536",
+          "url": "https://t.co/tC4NYvEHgu"
+        }
+      ],
+      "user": {
+        "id": 547112588,
+        "id_str": "547112588"
+      },
+      "user_mentions": []
+    },
+    "quoted_status_id": 1153641376917020673,
+    "quoted_status_id_str": "1153641376917020673",
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/newcenturybaopu/status/1153641376917020673?s=21",
+        "url": "https://t.co/yp9f1NRdaM"
+      }
+    ],
+    "user": {
+      "id": 889308807603429376,
+      "screen_name": "zhengyichangcun"
+    },
+    "user_mentions": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "urls": [],
+  "user": {
+    "id": 547112588,
+    "screen_name": "NewCenturyBaopu"
+  },
+  "user_mentions": [
+    {
+      "id": 889308807603429376,
+      "id_str": "889308807603429376",
+      "name": "王庆民",
+      "screen_name": "zhengyichangcun"
+    }
+  ]
 }
 {
   "created_at": "Tue Jul 23 13:38:44 +0000 2019",
@@ -46424,7 +46550,7 @@
   "retweet_count": 358,
   "retweeted_status": {
     "created_at": "Fri Jul 26 08:33:05 +0000 2019",
-    "favorite_count": 1007,
+    "favorite_count": 1008,
     "full_text": "【香港机场集会抗议警察滥权】\n【高喊“林郑下台””】\n香港航空业部分职工今在香港机场举行反暴力集会，示威者高喊多个口号:“Free Hong Kong”、“香港警察，知法犯法”、“没有暴徒，只有暴政”、“林郑下台”、“Carrie Lam go to hell”、“Police Authority go to hell”、“Universal suffrage, now” https://t.co/IjWXxnIBux",
     "hashtags": [],
     "id": 1154670967165079552,
@@ -46917,7 +47043,7 @@
     "lang": "en",
     "quoted_status": {
       "created_at": "Fri Jul 26 06:21:39 +0000 2019",
-      "favorite_count": 2817,
+      "favorite_count": 2819,
       "full_text": "Hundreds of protesters gather at Hong Kong international airport terminal 1 arrival hall. Many are said to be airport and airline employees. https://t.co/deDuwgmYZ0",
       "hashtags": [],
       "id": 1154637890623688706,
@@ -47564,7 +47690,7 @@
   "id": 1155497461575606272,
   "id_str": "1155497461575606272",
   "lang": "zh",
-  "retweet_count": 83,
+  "retweet_count": 84,
   "retweeted_status": {
     "created_at": "Sun Jul 28 06:01:06 +0000 2019",
     "favorite_count": 158,
@@ -47602,7 +47728,7 @@
         "url": "https://t.co/HqmpQqwUw1"
       }
     ],
-    "retweet_count": 83,
+    "retweet_count": 84,
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
     "urls": [],
     "user": {
@@ -48400,7 +48526,7 @@
   "retweet_count": 109,
   "retweeted_status": {
     "created_at": "Thu Aug 01 11:19:32 +0000 2019",
-    "favorite_count": 287,
+    "favorite_count": 288,
     "full_text": "Hundreds from the financial industry held up umbrellas, a symbol of pro-democracy protests in Hong Kong, in the \"Freedom snooze, market lose\" event as they gathered in Central, the financial heart of the city where major banks are located. https://t.co/ipgIOKMwil",
     "hashtags": [],
     "id": 1156887178774847489,
@@ -48621,7 +48747,7 @@
 }
 {
   "created_at": "Fri Aug 02 04:55:04 +0000 2019",
-  "favorite_count": 260,
+  "favorite_count": 261,
   "full_text": "哈哈哈😄這媒體報導，還能怎麼作賤啊？！ https://t.co/gAk16SV0hP",
   "hashtags": [],
   "id": 1157152812972699648,
@@ -51225,7 +51351,7 @@
 }
 {
   "created_at": "Thu Aug 08 10:44:50 +0000 2019",
-  "favorite_count": 148,
+  "favorite_count": 149,
   "full_text": "半年沒聯繫的朋友說微信被封了，原來就因爲這張照片😓據說「微信內部邏輯」認為這是「八九六四」。微信那裡是啥「社交媒體」，明明就是「反社交」媒體。 https://t.co/x0p4towk9S",
   "hashtags": [],
   "id": 1159415163730059264,
@@ -52010,10 +52136,10 @@
   "id": 1160581555842011136,
   "id_str": "1160581555842011136",
   "lang": "zh",
-  "retweet_count": 6736,
+  "retweet_count": 6735,
   "retweeted_status": {
     "created_at": "Sun Aug 11 15:24:25 +0000 2019",
-    "favorite_count": 6007,
+    "favorite_count": 6008,
     "full_text": "【警察暴打已就范示威者】\n【示威者受伤被捕者众多】\n香港警务处早几天突然委任新一位副处长刘业成后，镇压示威者方法比之前更为进取，使用了更大武力，在尖沙咀清场行动中，多位男、女示威者倒地后，仍被警员暴打，清场行动中，更有一位女学生右眼爆裂，右眼很可能永久失明。 https://t.co/HHxc1b2vk2",
     "hashtags": [],
     "id": 1160572684427644928,
@@ -52037,7 +52163,7 @@
         }
       }
     ],
-    "retweet_count": 6736,
+    "retweet_count": 6735,
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
     "urls": [],
     "user": {
@@ -52311,10 +52437,10 @@
       }
     }
   ],
-  "retweet_count": 231,
+  "retweet_count": 230,
   "retweeted_status": {
     "created_at": "Mon Aug 12 04:34:00 +0000 2019",
-    "favorite_count": 453,
+    "favorite_count": 452,
     "full_text": "【香港“反送中”示威】8月11日香港多区再次爆发示威，防暴警察被拍下在港铁太古站内近距离开枪，和在葵芳站内发射催泪弹的镜头。  #antiELAB #HongKongProtests https://t.co/kOfalKb1Vw",
     "hashtags": [
       {
@@ -52345,7 +52471,7 @@
         }
       }
     ],
-    "retweet_count": 231,
+    "retweet_count": 230,
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "urls": [],
     "user": {
@@ -52524,7 +52650,7 @@
     "lang": "en",
     "quoted_status": {
       "created_at": "Sun Aug 11 12:23:54 +0000 2019",
-      "favorite_count": 7715,
+      "favorite_count": 7718,
       "full_text": "HK Riot Police fired bullet and headshot a young lady. I am not sure whether her right eye will turn blind or not but it is totally insane and terrible. US should not export tear gas and rubber bullet to HK Police anymore. https://t.co/R9gZKZysaO",
       "hashtags": [],
       "id": 1160527258953457665,
@@ -52564,7 +52690,7 @@
         }
       ],
       "possibly_sensitive": true,
-      "retweet_count": 7990,
+      "retweet_count": 7989,
       "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
       "urls": [],
       "user": {
@@ -52777,7 +52903,7 @@
   "retweet_count": 510,
   "retweeted_status": {
     "created_at": "Mon Aug 12 08:08:09 +0000 2019",
-    "favorite_count": 460,
+    "favorite_count": 461,
     "full_text": "Breaking: Hong Kong airport cancelling all flights for the rest of the day, and advising public to stay clear of the airport. Meanwhile China says HK has come to \"critical juncture\" and says HK shows sign of terrorism",
     "hashtags": [],
     "id": 1160825282296602625,
@@ -52814,16 +52940,16 @@
   "id": 1160839124099592192,
   "id_str": "1160839124099592192",
   "lang": "zh",
-  "retweet_count": 204,
+  "retweet_count": 203,
   "retweeted_status": {
     "created_at": "Mon Aug 12 08:09:57 +0000 2019",
-    "favorite_count": 380,
+    "favorite_count": 379,
     "full_text": "【突发消息】中国港澳办称，过去一个周末香港示威者的行为“已经构成严重暴力犯罪，并开始出现恐怖主义的苗头”。 https://t.co/XuIVjeMjC4",
     "hashtags": [],
     "id": 1160825736426663936,
     "id_str": "1160825736426663936",
     "lang": "zh",
-    "retweet_count": 204,
+    "retweet_count": 203,
     "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
     "urls": [
       {
@@ -53010,7 +53136,7 @@
   "retweet_count": 1138,
   "retweeted_status": {
     "created_at": "Mon Aug 12 06:10:43 +0000 2019",
-    "favorite_count": 2443,
+    "favorite_count": 2444,
     "full_text": "選擇性報導也就算了，大家都明白媒體作為宣傳工具，必須這樣做。但堂堂國家級媒體，這樣的報導，這樣的標題，不再是宣傳和傳播謠言的問題，而是在散播和支持仇恨和暴力了。 https://t.co/NR4kyVQ5G0",
     "hashtags": [],
     "id": 1160795730728095748,
@@ -53059,16 +53185,16 @@
   "id": 1161332804505878528,
   "id_str": "1161332804505878528",
   "lang": "en",
-  "retweet_count": 14599,
+  "retweet_count": 14598,
   "retweeted_status": {
     "created_at": "Tue Aug 13 14:06:44 +0000 2019",
-    "favorite_count": 93390,
+    "favorite_count": 93389,
     "full_text": "May we all stand in solidarity with the people of Hong Kong as they speak out for democracy, freedom from repression, and a world they long to see.",
     "hashtags": [],
     "id": 1161277912848510976,
     "id_str": "1161277912848510976",
     "lang": "en",
-    "retweet_count": 14599,
+    "retweet_count": 14598,
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
     "urls": [],
     "user": {
@@ -53343,7 +53469,7 @@
   "retweet_count": 151,
   "retweeted_status": {
     "created_at": "Wed Aug 14 15:38:11 +0000 2019",
-    "favorite_count": 477,
+    "favorite_count": 478,
     "full_text": "https://t.co/ACYq0O82Jp",
     "hashtags": [],
     "id": 1161663316344766464,
@@ -53426,7 +53552,7 @@
   "retweet_count": 946,
   "retweeted_status": {
     "created_at": "Thu Aug 15 04:43:20 +0000 2019",
-    "favorite_count": 1664,
+    "favorite_count": 1662,
     "full_text": "In a few years, using a brain implant to control your devices could be as normal as wearing wireless earbuds is today https://t.co/RU8uT4QkCf",
     "hashtags": [],
     "id": 1161860905782644736,
@@ -53700,10 +53826,10 @@
       }
     }
   ],
-  "retweet_count": 1012,
+  "retweet_count": 1011,
   "retweeted_status": {
     "created_at": "Sun Aug 18 11:30:05 +0000 2019",
-    "favorite_count": 3052,
+    "favorite_count": 3051,
     "full_text": "大批市民从港铁站步行至维园参加集会，人潮塞满马路，期间有一辆闪着紧急灯号的救护车经过，上演了这一幕。 https://t.co/BskrZu7ZvU",
     "hashtags": [],
     "id": 1163050428134768645,
@@ -53727,7 +53853,7 @@
         }
       }
     ],
-    "retweet_count": 1012,
+    "retweet_count": 1011,
     "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
     "urls": [],
     "user": {
@@ -53833,7 +53959,7 @@
   "retweet_count": 6277,
   "retweeted_status": {
     "created_at": "Sun Aug 18 14:10:53 +0000 2019",
-    "favorite_count": 14177,
+    "favorite_count": 14173,
     "full_text": "1.7 million citizens took to the streets peacefully with our calls on free-election! #FreedomHK #FreeHongKong #antiELAB https://t.co/J6iwU8lSSP",
     "hashtags": [
       {
@@ -54323,16 +54449,16 @@
   "id": 1163637035988475905,
   "id_str": "1163637035988475905",
   "lang": "zh",
-  "retweet_count": 966,
+  "retweet_count": 965,
   "retweeted_status": {
     "created_at": "Tue Aug 20 00:15:06 +0000 2019",
-    "favorite_count": 2826,
+    "favorite_count": 2827,
     "full_text": "推特与脸书同一天宣布封锁“中国官方主导账号”，称这些账号散播关于香港示威的假信息，背后由中国官方主导。\nhttps://t.co/Qo9rAB1o5j",
     "hashtags": [],
     "id": 1163605342036602881,
     "id_str": "1163605342036602881",
     "lang": "zh",
-    "retweet_count": 966,
+    "retweet_count": 965,
     "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
     "urls": [
       {
@@ -54606,7 +54732,7 @@
   "retweet_count": 187,
   "retweeted_status": {
     "created_at": "Tue Aug 20 11:01:06 +0000 2019",
-    "favorite_count": 368,
+    "favorite_count": 367,
     "full_text": "香港民主党发布医院所得的闭路电视，显示身穿警服的人涉嫌虐待长者，香港警方证实拘捕两名警员，涉嫌袭击致造成伤害罪。\nhttps://t.co/2BPnTqm1cV",
     "hashtags": [],
     "id": 1163767910403321857,
@@ -54842,7 +54968,7 @@
   "id": 1164880907586560000,
   "id_str": "1164880907586560000",
   "lang": "en",
-  "retweet_count": 456,
+  "retweet_count": 455,
   "retweeted_status": {
     "created_at": "Fri Aug 23 12:29:17 +0000 2019",
     "favorite_count": 990,
@@ -54913,7 +55039,7 @@
       },
       "attributes": {}
     },
-    "retweet_count": 456,
+    "retweet_count": 455,
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "urls": [],
     "user": {
@@ -55056,7 +55182,7 @@
   "retweet_count": 3857,
   "retweeted_status": {
     "created_at": "Fri Aug 23 12:10:17 +0000 2019",
-    "favorite_count": 9191,
+    "favorite_count": 9193,
     "full_text": "This is extraordinary. Exactly 30 years after the Baltic Way took place, Hong Kong people have taken inspiration from the demonstration and joined hands across the city to form a massive human chain this Friday night. \n\nThis video was taken in just one small part of Causeway Bay. https://t.co/UEjoJZSfbM",
     "hashtags": [],
     "id": 1164872485654781952,
@@ -55178,7 +55304,7 @@
   "retweet_count": 332,
   "retweeted_status": {
     "created_at": "Fri Aug 23 01:51:27 +0000 2019",
-    "favorite_count": 944,
+    "favorite_count": 945,
     "full_text": "当今世界有一个骨骼精奇、卓尔不群的国度 :\n法官反对司法独立，媒体反对新闻自由，\n清官反对财产公示，人民反对一人一票 。 https://t.co/z2VPtcr2YG",
     "hashtags": [],
     "id": 1164716751285678080,
@@ -55820,7 +55946,7 @@
   "retweet_count": 235,
   "retweeted_status": {
     "created_at": "Mon Aug 26 06:00:02 +0000 2019",
-    "favorite_count": 476,
+    "favorite_count": 477,
     "full_text": "中国政府采购文件显示，官媒投放大量经费，以制作海外平台内容、宣传及分析用户互动数据。 https://t.co/6C5st9HYDV",
     "hashtags": [],
     "id": 1165866473220444160,
@@ -56810,7 +56936,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Fri Aug 30 22:57:06 +0000 2019",
-      "favorite_count": 1487,
+      "favorite_count": 1488,
       "full_text": ".@Reuters makes clear what we’ve known all along: Beijing is the “black hand” in #HongKong. The Chinese Communist Party is the unreasonable one that would rather beat citizens to a pulp than allow HK gov’t the autonomy to find a civic compromise. https://t.co/ZD6SfhFZWi",
       "hashtags": [
         {
@@ -57013,7 +57139,7 @@
     "possibly_sensitive": true,
     "quoted_status": {
       "created_at": "Sat Aug 31 08:11:37 +0000 2019",
-      "favorite_count": 2026,
+      "favorite_count": 2025,
       "full_text": "【蔡英文再为香港发声劝北京不要动武】\n\n台湾的蔡英文总统31日评论香港局势，认为香港情况是否恶化，在于领导人一念之间。\n她说，大家一直很关心香港形势发展，也有些担心，她希望不要再恶化。她表示，民主不是洪水猛兽，只要和人民好好对话，一定可找出和平解决的方法。\n#蔡英文\n#香港 https://t.co/X6bnf2gW4T",
       "hashtags": [
         {
@@ -57254,34 +57380,6 @@
   "user_mentions": []
 }
 {
-  "created_at": "Sun Sep 01 02:50:39 +0000 2019",
-  "favorite_count": 2,
-  "full_text": "這是什麼意思？如何去理解啊！ https://t.co/4GDR7r1dHv",
-  "hashtags": [],
-  "id": 1167993137928630272,
-  "id_str": "1167993137928630272",
-  "lang": "zh",
-  "media": [
-    {
-      "display_url": "pic.twitter.com/4GDR7r1dHv",
-      "expanded_url": "https://twitter.com/NewCenturyBaopu/status/1167993137928630272/photo/1",
-      "id": 1167993126528544768,
-      "media_url": "http://pbs.twimg.com/media/EDWLj27U8AACdeU.jpg",
-      "media_url_https": "https://pbs.twimg.com/media/EDWLj27U8AACdeU.jpg",
-      "type": "photo",
-      "url": "https://t.co/4GDR7r1dHv"
-    }
-  ],
-  "retweet_count": 1,
-  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-  "urls": [],
-  "user": {
-    "id": 547112588,
-    "screen_name": "NewCenturyBaopu"
-  },
-  "user_mentions": []
-}
-{
   "created_at": "Sun Sep 01 03:57:27 +0000 2019",
   "full_text": "RT @RFA_Chinese: 【香港第二次 “列车恐袭”】\n【警察冲入车箱无差别殴打乘客】\n31日接近深夜，大批警员突然冲入太子站，追捕一批怀疑破坏车站设施的示威者，但警员冲入车箱后，无差别用棍殴打乘客，被殴打者都不是穿黑衣。有市民跪地求警员停止攻击，有人相拥而哭。有警员按…",
   "hashtags": [],
@@ -57424,6 +57522,68 @@
     "screen_name": "NewCenturyBaopu"
   },
   "user_mentions": []
+}
+{
+  "created_at": "Sun Sep 01 15:41:36 +0000 2019",
+  "full_text": "RT @zhanglucy88: 2010年這種事偷摸做吧\n居然炫耀的說出來\n白紙黑字😂\n當時當做戰績了吧\n買買買\n買斷全世界\n滲透無極限! https://t.co/pZetaKL2q0",
+  "hashtags": [],
+  "id": 1168187155098685440,
+  "id_str": "1168187155098685440",
+  "lang": "zh",
+  "media": [
+    {
+      "display_url": "pic.twitter.com/pZetaKL2q0",
+      "expanded_url": "https://twitter.com/zhanglucy88/status/1168095935345385472/photo/1",
+      "id": 1168095909483339777,
+      "media_url": "http://pbs.twimg.com/media/EDXpCnRXYAEVq2S.jpg",
+      "media_url_https": "https://pbs.twimg.com/media/EDXpCnRXYAEVq2S.jpg",
+      "type": "photo",
+      "url": "https://t.co/pZetaKL2q0"
+    }
+  ],
+  "retweet_count": 119,
+  "retweeted_status": {
+    "created_at": "Sun Sep 01 09:39:07 +0000 2019",
+    "favorite_count": 159,
+    "full_text": "2010年這種事偷摸做吧\n居然炫耀的說出來\n白紙黑字😂\n當時當做戰績了吧\n買買買\n買斷全世界\n滲透無極限! https://t.co/pZetaKL2q0",
+    "hashtags": [],
+    "id": 1168095935345385472,
+    "id_str": "1168095935345385472",
+    "lang": "zh",
+    "media": [
+      {
+        "display_url": "pic.twitter.com/pZetaKL2q0",
+        "expanded_url": "https://twitter.com/zhanglucy88/status/1168095935345385472/photo/1",
+        "id": 1168095909483339777,
+        "media_url": "http://pbs.twimg.com/media/EDXpCnRXYAEVq2S.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EDXpCnRXYAEVq2S.jpg",
+        "type": "photo",
+        "url": "https://t.co/pZetaKL2q0"
+      }
+    ],
+    "retweet_count": 119,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "urls": [],
+    "user": {
+      "id": 821030674270330880,
+      "screen_name": "zhanglucy88"
+    },
+    "user_mentions": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "urls": [],
+  "user": {
+    "id": 547112588,
+    "screen_name": "NewCenturyBaopu"
+  },
+  "user_mentions": [
+    {
+      "id": 821030674270330880,
+      "id_str": "821030674270330880",
+      "name": "LUCY",
+      "screen_name": "zhanglucy88"
+    }
+  ]
 }
 {
   "created_at": "Sun Sep 01 15:41:36 +0000 2019",
@@ -57749,7 +57909,7 @@
   "retweet_count": 656,
   "retweeted_status": {
     "created_at": "Sun Sep 01 01:22:16 +0000 2019",
-    "favorite_count": 1810,
+    "favorite_count": 1811,
     "full_text": "胡锡进：建信息防火墙是因为外国的实力强于中国，所以是有必要的！\n\n但他自己和混球时报的员工都可以随意翻墙，因为那是是工作需要\n\n这帮人是中国最坏的人，了解多少墙外真相都丝毫改变不了他们投机逐利的心，害人无数！\n恐怕最终不是绝症，就是横死，脏钱有的赚，没得花\n\n https://t.co/LJEqJBl1D6",
     "hashtags": [],
     "id": 1167970897375817728,
@@ -58693,7 +58853,7 @@
   "retweet_count": 3231,
   "retweeted_status": {
     "created_at": "Tue Sep 10 20:24:01 +0000 2019",
-    "favorite_count": 6251,
+    "favorite_count": 6250,
     "full_text": "The most important thing Congress can do is pass Sen Marco Rubio’s Hong Kong Human Rights and Democracy Act. #China’s efforts to control #HongKong demonstrates the need for an annual evaluation of Hong Kong’s special status. https://t.co/vkYwgCUwLk",
     "hashtags": [
       {
@@ -58868,7 +59028,7 @@
   "lang": "ja",
   "quoted_status": {
     "created_at": "Wed Sep 18 05:03:00 +0000 2019",
-    "favorite_count": 539,
+    "favorite_count": 540,
     "full_text": "今天胡锡进的这个抱怨在朋友圈和群里传疯了，他这是觉得香港他立功了，就可以稍微挑战下政府了吗？ https://t.co/OGwWf4bptL",
     "hashtags": [],
     "id": 1174187040671490049,
@@ -59357,7 +59517,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Mon Sep 23 18:34:05 +0000 2019",
-      "favorite_count": 175,
+      "favorite_count": 176,
       "full_text": "贸易战终点未到，中美输赢粗定https://t.co/4pvcSDJYNB\n贸易协议暂时不会签订，中方败了几局：猪肉战役，中国完败；全球产业链重组，外资撤离中国指出中美贸易战的赢家不是中国或美国，而是越南，台湾和智利；美国在科技行业从不设防到筑篱笆，结束了《考克斯报告》被否定之后的科技机密任拿局面。",
       "hashtags": [],
       "id": 1176203095145140224,
@@ -60080,10 +60240,10 @@
   "id": 1178950580619771904,
   "id_str": "1178950580619771904",
   "lang": "en",
-  "retweet_count": 1265,
+  "retweet_count": 1266,
   "retweeted_status": {
     "created_at": "Tue Oct 01 08:14:17 +0000 2019",
-    "favorite_count": 1565,
+    "favorite_count": 1566,
     "full_text": "This captures warning shots fired by police in Yau Ma Tei at 3:40pm, a police source confirmed.\n\nIn another video by HKEJ, the police vehicle stopped on the road as protesters threw objects to attack it. Police then came out of the vehicle and got into scuffles with protesters. https://t.co/8PqidBbdxv",
     "hashtags": [],
     "id": 1178946219868966912,
@@ -60107,7 +60267,7 @@
         }
       }
     ],
-    "retweet_count": 1265,
+    "retweet_count": 1266,
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "urls": [],
     "user": {
@@ -60152,7 +60312,7 @@
   "retweet_count": 121,
   "retweeted_status": {
     "created_at": "Tue Oct 01 10:11:20 +0000 2019",
-    "favorite_count": 181,
+    "favorite_count": 180,
     "full_text": "Home page of NYT right now, on the 70th anniversary of the People's Republic of China. https://t.co/GQt1XHDF6W",
     "hashtags": [],
     "id": 1178975676503863296,
@@ -60699,7 +60859,7 @@
   "retweet_count": 684,
   "retweeted_status": {
     "created_at": "Fri Oct 04 00:35:47 +0000 2019",
-    "favorite_count": 1258,
+    "favorite_count": 1259,
     "full_text": "THREAD: The long, sad history of presidential siblings, children and in-laws who somehow find incredible business opportunities in the People's Republic of China. Have a seat. Buckle up.",
     "hashtags": [],
     "id": 1179918000042004480,
@@ -60911,7 +61071,7 @@
   "retweet_count": 685,
   "retweeted_status": {
     "created_at": "Sun Oct 06 07:36:09 +0000 2019",
-    "favorite_count": 1598,
+    "favorite_count": 1599,
     "full_text": "周日是香港实行“禁蒙面法”第二天，大量示威者在大雨中走上街头，反对政府推行“禁蒙面法”。 https://t.co/t2TkG7DvOV",
     "hashtags": [],
     "id": 1180748564227674112,
@@ -61335,10 +61495,10 @@
   "id": 1182089780210745344,
   "id_str": "1182089780210745344",
   "lang": "zh",
-  "retweet_count": 78,
+  "retweet_count": 79,
   "retweeted_status": {
     "created_at": "Wed Oct 09 13:57:00 +0000 2019",
-    "favorite_count": 306,
+    "favorite_count": 307,
     "full_text": "#股闻天下 西方企业在中国引发愤怒时，向中国政府低头一直是首选策略。但通过近期的事件NBA发现，屈服于北京方面不再是万事大吉的做法。如果该公司高管给人留下被一个专制政府控于股掌的印象，那么其在美国的强大品牌可能会受损。https://t.co/pvoA2V4Mki",
     "hashtags": [
       {
@@ -61348,7 +61508,7 @@
     "id": 1181931572540391426,
     "id_str": "1181931572540391426",
     "lang": "zh",
-    "retweet_count": 78,
+    "retweet_count": 79,
     "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
     "urls": [
       {
@@ -61509,7 +61669,7 @@
   "retweet_count": 107,
   "retweeted_status": {
     "created_at": "Wed Oct 09 22:13:48 +0000 2019",
-    "favorite_count": 382,
+    "favorite_count": 383,
     "full_text": "中国有句很有名的政治口号：“文艺为政治服务”。外界可能没有料到的是，如今体育也要为政治服务了。 https://t.co/DjfrxwvFHS",
     "hashtags": [],
     "id": 1182056593619333120,
@@ -61915,16 +62075,16 @@
   "id": 1182615943236603904,
   "id_str": "1182615943236603904",
   "lang": "zh",
-  "retweet_count": 556,
+  "retweet_count": 557,
   "retweeted_status": {
     "created_at": "Fri Oct 11 10:34:04 +0000 2019",
-    "favorite_count": 855,
+    "favorite_count": 856,
     "full_text": "香港反送中数字令人震惊：港警拘捕两千多人中750人18岁以下 https://t.co/9T0oEfr3im",
     "hashtags": [],
     "id": 1182605275368263680,
     "id_str": "1182605275368263680",
     "lang": "zh",
-    "retweet_count": 556,
+    "retweet_count": 557,
     "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
     "urls": [
       {
@@ -62233,7 +62393,7 @@
 }
 {
   "created_at": "Mon Oct 21 09:41:41 +0000 2019",
-  "favorite_count": 14,
+  "favorite_count": 15,
   "full_text": "用行政手段粗暴直接干預百姓生活是「中國特色」的一部份，也是許多中國人的災難根源。 https://t.co/T80LqYhRlF",
   "hashtags": [],
   "id": 1186215971352014854,
@@ -62241,7 +62401,7 @@
   "lang": "zh",
   "quoted_status": {
     "created_at": "Mon Oct 21 08:22:50 +0000 2019",
-    "favorite_count": 1141,
+    "favorite_count": 1142,
     "full_text": "【入冬下发禁煤令】\n【强行没收老人保暖用煤炭】\n中国大陆北方开始进入冬季，生态环境部在官网印发了《京津冀及周边地区19-20年冬季大气污染综合治理攻坚行动方案》，各地方政府亦开始组织工作组，取缔农村村民烧煤取暖，但由于天然气成本昂贵，部分地区天然气供应不足，有不少村民宁愿继续烧煤取暖。 https://t.co/80t3qcakGf",
     "hashtags": [],
     "id": 1186196130054279174,
@@ -62265,7 +62425,7 @@
         }
       }
     ],
-    "retweet_count": 718,
+    "retweet_count": 719,
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
     "urls": [],
     "user": {
@@ -62764,7 +62924,7 @@
   "retweet_count": 716,
   "retweeted_status": {
     "created_at": "Tue Oct 22 22:27:47 +0000 2019",
-    "favorite_count": 2764,
+    "favorite_count": 2766,
     "full_text": "Each ball is moving back and forth on a straight line. Strangely satisfying to watch. https://t.co/nEJ1o4BCB2",
     "hashtags": [],
     "id": 1186771155996135429,
@@ -63625,7 +63785,7 @@
       }
     }
   ],
-  "retweet_count": 339,
+  "retweet_count": 338,
   "retweeted_status": {
     "created_at": "Sun Nov 03 00:22:57 +0000 2019",
     "favorite_count": 677,
@@ -63652,7 +63812,7 @@
         }
       }
     ],
-    "retweet_count": 339,
+    "retweet_count": 338,
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
     "urls": [],
     "user": {
@@ -64460,7 +64620,7 @@
   "retweet_count": 184,
   "retweeted_status": {
     "created_at": "Tue Nov 12 21:35:12 +0000 2019",
-    "favorite_count": 576,
+    "favorite_count": 577,
     "full_text": "香港中文大学校长试图和入侵校园的警察谈判，结果挨了催泪弹。在这种危急时刻最能看出一个校长的品质。 https://t.co/fkjdj9gyyj",
     "hashtags": [],
     "id": 1194368068341751808,
@@ -64740,7 +64900,7 @@
   "retweet_count": 8,
   "retweeted_status": {
     "created_at": "Wed Nov 13 10:28:43 +0000 2019",
-    "favorite_count": 28,
+    "favorite_count": 27,
     "full_text": "非暴力也许一次次失败，可这是唯一可能赢的道路。 https://t.co/WvqVRgf6ZT",
     "hashtags": [],
     "id": 1194562730046320641,
@@ -64792,7 +64952,7 @@
   "retweet_count": 1697,
   "retweeted_status": {
     "created_at": "Wed Nov 13 02:40:07 +0000 2019",
-    "favorite_count": 13823,
+    "favorite_count": 13824,
     "full_text": "Greta Thunberg will sail to Spain, where she hopes to arrive in time for the next round of U.N.-sponsored climate talks https://t.co/357CXikvU5",
     "hashtags": [],
     "id": 1194444803351691264,
@@ -64869,7 +65029,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Tue Nov 12 20:29:33 +0000 2019",
-      "favorite_count": 17170,
+      "favorite_count": 17169,
       "full_text": "BREAKING: a federal judge has ruled that suspicionless searches of travelers’ cell phones, laptops, and other electronic devices when we cross the U.S. border are unconstitutional. \n\nThis is an enormous victory for privacy. https://t.co/UQYTYVxsH7",
       "hashtags": [],
       "id": 1194351548672774144,
@@ -65502,7 +65662,7 @@
   "retweet_count": 527,
   "retweeted_status": {
     "created_at": "Tue Nov 19 01:43:09 +0000 2019",
-    "favorite_count": 1146,
+    "favorite_count": 1147,
     "full_text": "墙内广为传播的这张装甲车里的警察被燃烧弹烧伤照片，其实是去年马来西亚的新闻照片，拿来为胡总编的“格杀勿论”制造舆论。 https://t.co/0xBQvrVIyh",
     "hashtags": [],
     "id": 1196604795735302145,
@@ -65918,7 +66078,7 @@
   "lang": "zh",
   "quoted_status": {
     "created_at": "Thu Nov 21 13:40:04 +0000 2019",
-    "favorite_count": 281,
+    "favorite_count": 282,
     "full_text": "法官最后采信辩护律师的说法，认为\"当事人行为为政治表达，这一表达行为受日本宪法保护。\" 被告人胡大平被无罪释放。https://t.co/yG4DiJk0Ol",
     "hashtags": [],
     "id": 1197509986194247684,
@@ -67108,7 +67268,7 @@
   "retweet_count": 145,
   "retweeted_status": {
     "created_at": "Wed Dec 18 14:20:06 +0000 2019",
-    "favorite_count": 332,
+    "favorite_count": 331,
     "full_text": "我的朋友孫願平今年3月因為發推特，被石家莊公安拘留7日。至今行動無自由，有護照，有簽證，但屢屢被邊控。胡錫進可以發推特，一家黨媒可以有十幾個推特號，連外交部都上推了，為什麼公民發推特就得受懲罰，長期被侮辱？中共的法制就是這樣因人而異？可惡這種侵犯人權的狀況在中國很普遍。 https://t.co/EmlpEiUEqn",
     "hashtags": [],
     "id": 1207304533329625089,
@@ -67320,10 +67480,10 @@
   "id": 1210243411380301824,
   "id_str": "1210243411380301824",
   "lang": "zh",
-  "retweet_count": 333,
+  "retweet_count": 334,
   "retweeted_status": {
     "created_at": "Thu Dec 26 13:45:02 +0000 2019",
-    "favorite_count": 929,
+    "favorite_count": 932,
     "full_text": "【曹兴诚：九二共识是胡说八道】\n联电荣誉董事长曹兴诚，25号以“两岸要好，先要去除胡说八道“为题发表演讲。他指出，把香港抗争说成暴乱；还有‘台湾自古以来就是中国领土’；以及‘九二共识，一种各表‘，这些说法，都是胡说八道。 https://t.co/YZVfX1cTEs",
     "hashtags": [],
     "id": 1210194814215450624,
@@ -67347,7 +67507,7 @@
         }
       }
     ],
-    "retweet_count": 333,
+    "retweet_count": 334,
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
     "urls": [],
     "user": {

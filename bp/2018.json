@@ -3715,7 +3715,7 @@
   "retweet_count": 447,
   "retweeted_status": {
     "created_at": "Wed Feb 28 17:48:37 +0000 2018",
-    "favorite_count": 610,
+    "favorite_count": 611,
     "full_text": "从1949年到1976年“文革”结束前的27年内，中国经历了55次运动。\n“新中国”，就是一部运动史。\n“新时代”，还得再来一遍吗？ https://t.co/bGRl7YAazc",
     "hashtags": [],
     "id": 968905794644258816,
@@ -5195,7 +5195,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Wed Mar 21 20:59:05 +0000 2018",
-      "favorite_count": 17297,
+      "favorite_count": 17300,
       "full_text": "The problem with Facebook is not *just* the loss of your privacy and the fact that it can be used as a totalitarian panopticon. The more worrying issue, in my opinion, is its use of digital information consumption as a psychological control vector. Time for a thread",
       "hashtags": [],
       "id": 976563870322999296,
@@ -5240,28 +5240,6 @@
       "screen_name": "kuriko_c"
     }
   ]
-}
-{
-  "created_at": "Thu Mar 22 04:43:55 +0000 2018",
-  "favorite_count": 16,
-  "full_text": "毛泽东文辞丰富，擅长景物描写，如\"苍山如海， 残阳如血\"，再如古典主题的\"人间正道是沧桑\"，警句类的\"为有牺牲多壮志\"，以及宣传诗句\"中华儿女多奇志，不爱红妆爱武装\"。毛的作品证明，艺术的完善并非仁政的保证。\nBBC 中文网 - 暴君何故爱写诗 https://t.co/d6UVwrh5YJ",
-  "hashtags": [],
-  "id": 976680852682715136,
-  "id_str": "976680852682715136",
-  "lang": "zh",
-  "retweet_count": 8,
-  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-  "urls": [
-    {
-      "expanded_url": "http://www.bbc.com/zhongwen/simp/indepth-43495886",
-      "url": "https://t.co/d6UVwrh5YJ"
-    }
-  ],
-  "user": {
-    "id": 547112588,
-    "screen_name": "NewCenturyBaopu"
-  },
-  "user_mentions": []
 }
 {
   "created_at": "Thu Mar 22 04:43:55 +0000 2018",
@@ -5407,6 +5385,63 @@
     {
       "expanded_url": "https://twitter.com/UBS/status/976866316459048966",
       "url": "https://t.co/VTdnNYgqoI"
+    }
+  ],
+  "user": {
+    "id": 547112588,
+    "screen_name": "NewCenturyBaopu"
+  },
+  "user_mentions": []
+}
+{
+  "created_at": "Sat Mar 24 01:37:55 +0000 2018",
+  "favorite_count": 5,
+  "full_text": "That is good news! and by the way, I never have a facebook account😂 https://t.co/H7kuXUGrzY",
+  "hashtags": [],
+  "id": 977358817435398144,
+  "id_str": "977358817435398144",
+  "lang": "en",
+  "quoted_status": {
+    "created_at": "Fri Mar 23 22:29:06 +0000 2018",
+    "favorite_count": 1059,
+    "full_text": "Elon Musk Deletes Facebook Pages for SpaceX and Tesla https://t.co/F948GuEOvt https://t.co/r27qRMs951",
+    "hashtags": [],
+    "id": 977311300018569216,
+    "id_str": "977311300018569216",
+    "lang": "en",
+    "media": [
+      {
+        "display_url": "pic.twitter.com/r27qRMs951",
+        "expanded_url": "https://twitter.com/SPACEdotcom/status/977311300018569216/photo/1",
+        "id": 977311293060169728,
+        "media_url": "http://pbs.twimg.com/media/DZAbcWnUQAAz7EZ.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DZAbcWnUQAAz7EZ.jpg",
+        "type": "photo",
+        "url": "https://t.co/r27qRMs951"
+      }
+    ],
+    "retweet_count": 291,
+    "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+    "urls": [
+      {
+        "expanded_url": "https://goo.gl/n6FSNC",
+        "url": "https://t.co/F948GuEOvt"
+      }
+    ],
+    "user": {
+      "id": 15431856,
+      "screen_name": "SPACEdotcom"
+    },
+    "user_mentions": []
+  },
+  "quoted_status_id": 977311300018569216,
+  "quoted_status_id_str": "977311300018569216",
+  "retweet_count": 1,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "urls": [
+    {
+      "expanded_url": "https://twitter.com/SPACEdotcom/status/977311300018569216",
+      "url": "https://t.co/H7kuXUGrzY"
     }
   ],
   "user": {
@@ -6777,7 +6812,7 @@
   "id": 983188552434442240,
   "id_str": "983188552434442240",
   "lang": "zh",
-  "retweet_count": 178,
+  "retweet_count": 177,
   "retweeted_status": {
     "created_at": "Mon Apr 09 03:13:34 +0000 2018",
     "favorite_count": 264,
@@ -6804,7 +6839,7 @@
         }
       }
     ],
-    "retweet_count": 178,
+    "retweet_count": 177,
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "urls": [],
     "user": {
@@ -7070,7 +7105,7 @@
   "retweet_count": 37,
   "retweeted_status": {
     "created_at": "Wed Apr 11 07:32:00 +0000 2018",
-    "favorite_count": 34,
+    "favorite_count": 35,
     "full_text": "警察写好剧本草稿，受惊的被拘留者背诵台词。被戴上黑头套，他们开往秘密地点，@CCTV 的摄制组出现，警察指挥着录制，不断重录后，带子被送到制片室，被拘留者回到自己的关押房间。了解我们最新关于中国电视认罪的报告 #剧本和策划 #SCRIPTEDandSTAGED ，https://t.co/emuj81Ecs7 https://t.co/pU0YdDmCQw",
     "hashtags": [
       {
@@ -8035,7 +8070,7 @@
   "retweet_count": 201,
   "retweeted_status": {
     "created_at": "Sat Apr 21 09:34:53 +0000 2018",
-    "favorite_count": 272,
+    "favorite_count": 273,
     "full_text": "本月17日，曾经的中国第一大淡水湖 -- 鄱阳湖，全干了。 https://t.co/pxVRBRvkos",
     "hashtags": [],
     "id": 987625710956167168,
@@ -8520,7 +8555,7 @@
   "id": 989167936970502144,
   "id_str": "989167936970502144",
   "lang": "zh",
-  "retweet_count": 455,
+  "retweet_count": 454,
   "retweeted_status": {
     "created_at": "Wed Apr 25 08:25:13 +0000 2018",
     "favorite_count": 907,
@@ -8601,7 +8636,7 @@
       },
       "attributes": {}
     },
-    "retweet_count": 455,
+    "retweet_count": 454,
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "urls": [],
     "user": {
@@ -10446,7 +10481,7 @@
   "lang": "zh",
   "quoted_status": {
     "created_at": "Sat Jun 09 14:42:29 +0000 2018",
-    "favorite_count": 560,
+    "favorite_count": 561,
     "full_text": "轉：今天青島的公交車警犬變成乘客，牽狗的說不清是公安、保安還是城管，爲此臨時招募7千餘人；工廠放假；住在會場周邊數公里的居民每人每天發800元，去外地旅遊；數月前就取締了全市早市；近日停止進青島的物流，超市斷貨；十幾天前停了快遞，網購到不了貨；室外兒童遊樂場全部關停，壹片蕭條。 https://t.co/wrUms4tWlB",
     "hashtags": [],
     "id": 1005460125325320192,
@@ -11200,7 +11235,7 @@
   "retweet_count": 430,
   "retweeted_status": {
     "created_at": "Tue Jul 10 12:52:52 +0000 2018",
-    "favorite_count": 1724,
+    "favorite_count": 1725,
     "full_text": "自由了！ https://t.co/av29cJZskB",
     "hashtags": [],
     "id": 1016666566216355840,
@@ -11497,7 +11532,7 @@
   "retweet_count": 85,
   "retweeted_status": {
     "created_at": "Sat Jul 21 09:25:49 +0000 2018",
-    "favorite_count": 109,
+    "favorite_count": 110,
     "full_text": "在墙内被删除的“习近平《人日》头版频率统计”原作者又做了一组新的图表，将习近平的数据与江泽民、李鹏、朱镕基、胡锦涛、温家宝、李克强及所有其他常委的头版出现频率作了比较。 https://t.co/RnN1v8e3mC",
     "hashtags": [],
     "id": 1020600724198060032,
@@ -11952,10 +11987,10 @@
       "url": "https://t.co/Y2cDfMdhd7"
     }
   ],
-  "retweet_count": 432,
+  "retweet_count": 431,
   "retweeted_status": {
     "created_at": "Sun Jul 29 13:46:05 +0000 2018",
-    "favorite_count": 858,
+    "favorite_count": 857,
     "full_text": "今天，7月29日北大学生就「深圳7·27维权工人被捕事件」發表声援书。 https://t.co/Y2cDfMdhd7",
     "hashtags": [],
     "id": 1023565326036811777,
@@ -11990,7 +12025,7 @@
         "url": "https://t.co/Y2cDfMdhd7"
       }
     ],
-    "retweet_count": 432,
+    "retweet_count": 431,
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "urls": [],
     "user": {
@@ -12217,7 +12252,7 @@
   "retweet_count": 96,
   "retweeted_status": {
     "created_at": "Sat Aug 04 03:26:21 +0000 2018",
-    "favorite_count": 286,
+    "favorite_count": 287,
     "full_text": "08年看英文版，覺得這不就是中國日常嗎？但十年之後，真的感謝這本書，紀錄了2000-2007的中國。書中這些人物，現在再看，除了富豪依然富貴，充滿希望的年代，隨著推動社會改變的民間人士和媒體人，已經徹底被邊緣，被遺忘，稍瞬即逝。書中人物今天的境遇，更能理解2008年後的軌跡。香港田園書屋有售。 https://t.co/IeJi3rtm8L",
     "hashtags": [],
     "id": 1025583692599545857,
@@ -13567,7 +13602,7 @@
   "retweet_count": 400,
   "retweeted_status": {
     "created_at": "Tue Sep 18 07:59:25 +0000 2018",
-    "favorite_count": 709,
+    "favorite_count": 710,
     "full_text": "这组“哮天犬”浮雕节选自江西省上饶某县警局的忠诚墙。据该局人士称内容不妥，已经拆除。\n——可以说是一起中小型宣传事故了。 https://t.co/4FM4u67jyq",
     "hashtags": [],
     "id": 1041959865818607616,
@@ -14678,29 +14713,6 @@
   "user_mentions": []
 }
 {
-  "created_at": "Sun Oct 28 03:56:27 +0000 2018",
-  "favorite_count": 1,
-  "full_text": "Masterpiece of translation... https://t.co/2rIZ2u0yLy",
-  "hashtags": [],
-  "id": 1056394234784182272,
-  "id_str": "1056394234784182272",
-  "lang": "en",
-  "quoted_status_id": 1056386302709424128,
-  "quoted_status_id_str": "1056386302709424128",
-  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-  "urls": [
-    {
-      "expanded_url": "https://twitter.com/QiZHAI/status/1056386302709424128",
-      "url": "https://t.co/2rIZ2u0yLy"
-    }
-  ],
-  "user": {
-    "id": 547112588,
-    "screen_name": "NewCenturyBaopu"
-  },
-  "user_mentions": []
-}
-{
   "created_at": "Mon Oct 29 04:54:30 +0000 2018",
   "full_text": "RT @BeiMingRFA: 1991年，歌神鄧麗君小姐到金門前線慰勞國軍將士，並在“自由祖國”廣播站向大陸沿岸同胞喊話：“……我希望大陆的同胞也可以跟我们享受到一样的民主跟自由，唯有在自由民主附设的生活环境下，才能拥有实现个人理想的机会；……国家的未来才能充满光明和希望。……",
   "hashtags": [],
@@ -14855,6 +14867,56 @@
       "id_str": "873567782134136834",
       "name": "鲍简",
       "screen_name": "baojianella"
+    }
+  ]
+}
+{
+  "created_at": "Wed Nov 07 11:06:52 +0000 2018",
+  "full_text": "RT @bbcchinese: 曾参与“保钓”的殷敏鸿对BBC中文说，他申请信息公开是希望中国当局“正本清源”，从法理上说明唐努乌梁海现在是否还是中国未放弃的领土，是否有希望“收复”。 https://t.co/IQAIUtPtMc",
+  "hashtags": [],
+  "id": 1060126431236112384,
+  "id_str": "1060126431236112384",
+  "lang": "zh",
+  "retweet_count": 135,
+  "retweeted_status": {
+    "created_at": "Wed Nov 07 07:36:11 +0000 2018",
+    "favorite_count": 240,
+    "full_text": "曾参与“保钓”的殷敏鸿对BBC中文说，他申请信息公开是希望中国当局“正本清源”，从法理上说明唐努乌梁海现在是否还是中国未放弃的领土，是否有希望“收复”。 https://t.co/IQAIUtPtMc",
+    "hashtags": [],
+    "id": 1060073414008942592,
+    "id_str": "1060073414008942592",
+    "lang": "zh",
+    "retweet_count": 135,
+    "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+    "urls": [
+      {
+        "expanded_url": "https://bbc.in/2DpKR7f",
+        "url": "https://t.co/IQAIUtPtMc"
+      }
+    ],
+    "user": {
+      "id": 791197,
+      "screen_name": "bbcchinese"
+    },
+    "user_mentions": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "urls": [
+    {
+      "expanded_url": "https://bbc.in/2DpKR7f",
+      "url": "https://t.co/IQAIUtPtMc"
+    }
+  ],
+  "user": {
+    "id": 547112588,
+    "screen_name": "NewCenturyBaopu"
+  },
+  "user_mentions": [
+    {
+      "id": 791197,
+      "id_str": "791197",
+      "name": "BBC News 中文",
+      "screen_name": "bbcchinese"
     }
   ]
 }
@@ -15919,7 +15981,7 @@
   "retweet_count": 518,
   "retweeted_status": {
     "created_at": "Tue Dec 04 04:16:06 +0000 2018",
-    "favorite_count": 1654,
+    "favorite_count": 1655,
     "full_text": "@徐唯辛 \n美国科罗拉多州，一只鹿进入一家商店， 店主给了它一把花生。三十分钟后，鹿又来了，带着它的朋友们。 https://t.co/WrRB7BPH0t",
     "hashtags": [],
     "id": 1069807533840261121,
@@ -17125,7 +17187,7 @@
   "retweet_count": 567,
   "retweeted_status": {
     "created_at": "Sat Dec 15 17:29:21 +0000 2018",
-    "favorite_count": 827,
+    "favorite_count": 826,
     "full_text": "McKinsey consultants dined al fresco in Kashgar, treated to a light show that projected two-humped camels onto the city's crenelated wall. 4.19 miles away, a sprawling detention center had been built to house thousands of Muslims.\nhttps://t.co/ESEJIg4SYH",
     "hashtags": [],
     "id": 1073993425287110658,
