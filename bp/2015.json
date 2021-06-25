@@ -1,253 +1,181 @@
 {
-  "created_at": "Mon Jun 22 20:37:37 +0000 2015",
-  "full_text": "@wenyunchao 看來是老毛病了，下次誰遲到誰請客",
-  "hashtags": [],
-  "id": 613083439399575552,
-  "id_str": "613083439399575552",
-  "in_reply_to_screen_name": "wenyunchao",
-  "in_reply_to_status_id": 613081880552976384,
-  "in_reply_to_user_id": 14581421,
-  "lang": "ja",
-  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-  "urls": [],
-  "user": {
-    "id": 547112588,
-    "screen_name": "NewCenturyBaopu"
-  },
-  "user_mentions": [
-    {
-      "id": 14581421,
-      "id_str": "14581421",
-      "name": "Wen",
-      "screen_name": "wenyunchao"
-    }
-  ]
-}
-{
-  "created_at": "Mon Jun 22 20:59:58 +0000 2015",
-  "full_text": "關於雨桐被德國之聲解雇壹事，起因我是非常清楚的，她是為了反對澤林美化中共六四屠殺才得罪上司被辭退。我當時針對澤林的文章，還給德國之聲寫了抗議信，看到雨桐起訴後被駁回，在此表達我的聲援。也為西方媒體不斷被滲透而擔憂  https://t.co/xbRq3A71U9",
-  "hashtags": [],
-  "id": 613089063457935360,
-  "id_str": "613089063457935360",
-  "lang": "zh",
-  "quoted_status": {
-    "created_at": "Fri Jun 19 02:50:22 +0000 2015",
-    "favorite_count": 5,
-    "full_text": "输了官司！继续上诉 https://t.co/bhHO33Hkaf",
+  "681769151346642944": {
+    "created_at": "Tue Dec 29 09:30:06 +0000 2015",
+    "favorite_count": 1,
+    "full_text": "Zhou was probably gay.？ https://t.co/7wvrrgtmF6",
     "hashtags": [],
-    "id": 611727694909341696,
-    "id_str": "611727694909341696",
-    "lang": "zh",
-    "quoted_status_id": 611722103394598913,
-    "quoted_status_id_str": "611722103394598913",
-    "retweet_count": 10,
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "id_str": "681769151346642944",
+    "lang": "en",
+    "quoted_status": {
+      "created_at": "Tue Dec 29 09:00:18 +0000 2015",
+      "favorite_count": 1,
+      "full_text": "New book says Communist China's first premier was probably gay: https://t.co/oqiISZnpu9  @NewCenturyBaopu @HKfighter",
+      "hashtags": [],
+      "id": 681761651679428608,
+      "id_str": "681761651679428608",
+      "lang": "en",
+      "retweet_count": 4,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "urls": [
+        {
+          "expanded_url": "http://www.reuters.com/article/us-china-politics-books-idUSKBN0UC0B020151229",
+          "url": "https://t.co/oqiISZnpu9"
+        }
+      ],
+      "user": {
+        "id": 46327296,
+        "screen_name": "Suyutong"
+      },
+      "user_mentions": [
+        {
+          "id": 547112588,
+          "id_str": "547112588",
+          "name": "Bao Pu 鮑樸",
+          "screen_name": "NewCenturyBaopu"
+        },
+        {
+          "id": 106986777,
+          "id_str": "106986777",
+          "name": "蔡詠梅",
+          "screen_name": "HKfighter"
+        }
+      ]
+    },
+    "quoted_status_id": 681761651679428608,
+    "quoted_status_id_str": "681761651679428608",
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "urls": [
       {
-        "expanded_url": "https://twitter.com/boxunn/status/611722103394598913",
-        "url": "https://t.co/bhHO33Hkaf"
+        "expanded_url": "https://twitter.com/Suyutong/status/681761651679428608",
+        "url": "https://t.co/7wvrrgtmF6"
       }
     ],
     "user": {
-      "id": 46327296,
-      "screen_name": "Suyutong"
+      "id": 547112588,
+      "screen_name": "NewCenturyBaopu"
     },
     "user_mentions": []
   },
-  "quoted_status_id": 611727694909341696,
-  "quoted_status_id_str": "611727694909341696",
-  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-  "urls": [
-    {
-      "expanded_url": "https://twitter.com/Suyutong/status/611727694909341696",
-      "url": "https://t.co/xbRq3A71U9"
-    }
-  ],
-  "user": {
-    "id": 547112588,
-    "screen_name": "NewCenturyBaopu"
-  },
-  "user_mentions": []
-}
-{
-  "created_at": "Tue Jun 23 19:43:00 +0000 2015",
-  "full_text": "即是奉命亦是情願；妳來聲援占中人士也代表了我們六四壹代。請吃飯也是表達我的敬意，再來香港請提前告知 https://t.co/waA3O4RyX6",
-  "hashtags": [],
-  "id": 613432082493259776,
-  "id_str": "613432082493259776",
-  "lang": "zh",
-  "quoted_status": {
-    "created_at": "Tue Jun 23 02:27:19 +0000 2015",
-    "full_text": "@NewCenturyBaopu @Suyutong @wenyunchao 對不起鮑大哥，上次遲到是因為要去六四紀念館參觀及捐款，館址離地鐵遠又打不到的士，之後我到薄扶林看我送給別家的當年我收養的流浪狗，她14歲了，沒準是最後一面，之後又等不來小巴，找不到的士。謝謝您給我過生！",
+  "681768385269620736": {
+    "created_at": "Tue Dec 29 09:27:04 +0000 2015",
+    "full_text": "1月8日是周恩來逝世四十週年，中共將舉行各種紀念活動。香港作家蔡詠梅近日出版《周恩來的秘密情感世界》，通过周恩來在日本留學日記及其他公開權威資料，首次披露這位中共革命領袖、紅色中國第一任總理隱藏終身的性傾向秘密，指出他是一位同性戀者 https://t.co/88owNcmpKB",
     "hashtags": [],
-    "id": 613171445544452096,
-    "id_str": "613171445544452096",
-    "in_reply_to_screen_name": "NewCenturyBaopu",
-    "in_reply_to_status_id": 613080429948702720,
-    "in_reply_to_user_id": 547112588,
+    "id_str": "681768385269620736",
     "lang": "zh",
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "urls": [],
-    "user": {
-      "id": 1251195092,
-      "screen_name": "rosetangy"
-    },
-    "user_mentions": [
-      {
-        "id": 547112588,
-        "id_str": "547112588",
-        "name": "Bao Pu 鮑樸",
-        "screen_name": "NewCenturyBaopu"
-      },
-      {
+    "quoted_status": {
+      "created_at": "Tue Dec 29 09:02:21 +0000 2015",
+      "favorite_count": 2,
+      "full_text": "蔡詠梅 @HKfighter  披露周恩來婚姻和感情生活真相的新著《周恩來的秘密情感世界》由香港新世纪出版社出 版 @NewCenturyBaopu https://t.co/NAyxYqJ0XD",
+      "hashtags": [],
+      "id": 681762166253457408,
+      "id_str": "681762166253457408",
+      "lang": "ja",
+      "media": [
+        {
+          "display_url": "pic.twitter.com/NAyxYqJ0XD",
+          "expanded_url": "https://twitter.com/Suyutong/status/681762166253457408/photo/1",
+          "id": 681762165070630912,
+          "media_url": "http://pbs.twimg.com/media/CXYbE7ZWEAA1gpZ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CXYbE7ZWEAA1gpZ.jpg",
+          "type": "photo",
+          "url": "https://t.co/NAyxYqJ0XD"
+        }
+      ],
+      "retweet_count": 6,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "urls": [],
+      "user": {
         "id": 46327296,
-        "id_str": "46327296",
-        "name": "Suyutong 🎗️",
         "screen_name": "Suyutong"
       },
-      {
-        "id": 14581421,
-        "id_str": "14581421",
-        "name": "Wen",
-        "screen_name": "wenyunchao"
-      }
-    ]
-  },
-  "quoted_status_id": 613171445544452096,
-  "quoted_status_id_str": "613171445544452096",
-  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-  "urls": [
-    {
-      "expanded_url": "https://twitter.com/rosetangy/status/613171445544452096",
-      "url": "https://t.co/waA3O4RyX6"
-    }
-  ],
-  "user": {
-    "id": 547112588,
-    "screen_name": "NewCenturyBaopu"
-  },
-  "user_mentions": []
-}
-{
-  "created_at": "Tue Dec 29 09:27:04 +0000 2015",
-  "full_text": "1月8日是周恩來逝世四十週年，中共將舉行各種紀念活動。香港作家蔡詠梅近日出版《周恩來的秘密情感世界》，通过周恩來在日本留學日記及其他公開權威資料，首次披露這位中共革命領袖、紅色中國第一任總理隱藏終身的性傾向秘密，指出他是一位同性戀者 https://t.co/88owNcmpKB",
-  "hashtags": [],
-  "id": 681768385269620736,
-  "id_str": "681768385269620736",
-  "lang": "zh",
-  "quoted_status": {
-    "created_at": "Tue Dec 29 09:02:21 +0000 2015",
-    "favorite_count": 2,
-    "full_text": "蔡詠梅 @HKfighter  披露周恩來婚姻和感情生活真相的新著《周恩來的秘密情感世界》由香港新世纪出版社出 版 @NewCenturyBaopu https://t.co/NAyxYqJ0XD",
-    "hashtags": [],
-    "id": 681762166253457408,
-    "id_str": "681762166253457408",
-    "lang": "ja",
-    "media": [
-      {
-        "display_url": "pic.twitter.com/NAyxYqJ0XD",
-        "expanded_url": "https://twitter.com/Suyutong/status/681762166253457408/photo/1",
-        "id": 681762165070630912,
-        "media_url": "http://pbs.twimg.com/media/CXYbE7ZWEAA1gpZ.jpg",
-        "media_url_https": "https://pbs.twimg.com/media/CXYbE7ZWEAA1gpZ.jpg",
-        "type": "photo",
-        "url": "https://t.co/NAyxYqJ0XD"
-      }
-    ],
-    "retweet_count": 6,
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "urls": [],
-    "user": {
-      "id": 46327296,
-      "screen_name": "Suyutong"
+      "user_mentions": [
+        {
+          "id": 106986777,
+          "id_str": "106986777",
+          "name": "蔡詠梅",
+          "screen_name": "HKfighter"
+        },
+        {
+          "id": 547112588,
+          "id_str": "547112588",
+          "name": "Bao Pu 鮑樸",
+          "screen_name": "NewCenturyBaopu"
+        }
+      ]
     },
-    "user_mentions": [
-      {
-        "id": 106986777,
-        "id_str": "106986777",
-        "name": "蔡詠梅",
-        "screen_name": "HKfighter"
-      },
-      {
-        "id": 547112588,
-        "id_str": "547112588",
-        "name": "Bao Pu 鮑樸",
-        "screen_name": "NewCenturyBaopu"
-      }
-    ]
-  },
-  "quoted_status_id": 681762166253457408,
-  "quoted_status_id_str": "681762166253457408",
-  "retweet_count": 5,
-  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-  "urls": [
-    {
-      "expanded_url": "https://twitter.com/Suyutong/status/681762166253457408",
-      "url": "https://t.co/88owNcmpKB"
-    }
-  ],
-  "user": {
-    "id": 547112588,
-    "screen_name": "NewCenturyBaopu"
-  },
-  "user_mentions": []
-}
-{
-  "created_at": "Tue Dec 29 09:30:06 +0000 2015",
-  "favorite_count": 1,
-  "full_text": "Zhou was probably gay.？ https://t.co/7wvrrgtmF6",
-  "hashtags": [],
-  "id": 681769151346642944,
-  "id_str": "681769151346642944",
-  "lang": "en",
-  "quoted_status": {
-    "created_at": "Tue Dec 29 09:00:18 +0000 2015",
-    "favorite_count": 1,
-    "full_text": "New book says Communist China's first premier was probably gay: https://t.co/oqiISZnpu9  @NewCenturyBaopu @HKfighter",
-    "hashtags": [],
-    "id": 681761651679428608,
-    "id_str": "681761651679428608",
-    "lang": "en",
-    "retweet_count": 4,
+    "quoted_status_id": 681762166253457408,
+    "quoted_status_id_str": "681762166253457408",
+    "retweet_count": 5,
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "urls": [
       {
-        "expanded_url": "http://www.reuters.com/article/us-china-politics-books-idUSKBN0UC0B020151229",
-        "url": "https://t.co/oqiISZnpu9"
+        "expanded_url": "https://twitter.com/Suyutong/status/681762166253457408",
+        "url": "https://t.co/88owNcmpKB"
       }
     ],
     "user": {
-      "id": 46327296,
-      "screen_name": "Suyutong"
+      "id": 547112588,
+      "screen_name": "NewCenturyBaopu"
     },
-    "user_mentions": [
-      {
-        "id": 547112588,
-        "id_str": "547112588",
-        "name": "Bao Pu 鮑樸",
-        "screen_name": "NewCenturyBaopu"
+    "user_mentions": []
+  },
+  "613432082493259776": {
+    "created_at": "Tue Jun 23 19:43:00 +0000 2015",
+    "full_text": "即是奉命亦是情願；妳來聲援占中人士也代表了我們六四壹代。請吃飯也是表達我的敬意，再來香港請提前告知 https://t.co/waA3O4RyX6",
+    "hashtags": [],
+    "id_str": "613432082493259776",
+    "lang": "zh",
+    "quoted_status": {
+      "created_at": "Tue Jun 23 02:27:19 +0000 2015",
+      "full_text": "@NewCenturyBaopu @Suyutong @wenyunchao 對不起鮑大哥，上次遲到是因為要去六四紀念館參觀及捐款，館址離地鐵遠又打不到的士，之後我到薄扶林看我送給別家的當年我收養的流浪狗，她14歲了，沒準是最後一面，之後又等不來小巴，找不到的士。謝謝您給我過生！",
+      "hashtags": [],
+      "id": 613171445544452096,
+      "id_str": "613171445544452096",
+      "in_reply_to_screen_name": "NewCenturyBaopu",
+      "in_reply_to_status_id": 613080429948702720,
+      "in_reply_to_user_id": 547112588,
+      "lang": "zh",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "urls": [],
+      "user": {
+        "id": 1251195092,
+        "screen_name": "rosetangy"
       },
+      "user_mentions": [
+        {
+          "id": 547112588,
+          "id_str": "547112588",
+          "name": "Bao Pu 鮑樸",
+          "screen_name": "NewCenturyBaopu"
+        },
+        {
+          "id": 46327296,
+          "id_str": "46327296",
+          "name": "Suyutong 🎗️",
+          "screen_name": "Suyutong"
+        },
+        {
+          "id": 14581421,
+          "id_str": "14581421",
+          "name": "Wen",
+          "screen_name": "wenyunchao"
+        }
+      ]
+    },
+    "quoted_status_id": 613171445544452096,
+    "quoted_status_id_str": "613171445544452096",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "urls": [
       {
-        "id": 106986777,
-        "id_str": "106986777",
-        "name": "蔡詠梅",
-        "screen_name": "HKfighter"
+        "expanded_url": "https://twitter.com/rosetangy/status/613171445544452096",
+        "url": "https://t.co/waA3O4RyX6"
       }
-    ]
-  },
-  "quoted_status_id": 681761651679428608,
-  "quoted_status_id_str": "681761651679428608",
-  "retweet_count": 2,
-  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-  "urls": [
-    {
-      "expanded_url": "https://twitter.com/Suyutong/status/681761651679428608",
-      "url": "https://t.co/7wvrrgtmF6"
-    }
-  ],
-  "user": {
-    "id": 547112588,
-    "screen_name": "NewCenturyBaopu"
-  },
-  "user_mentions": []
+    ],
+    "user": {
+      "id": 547112588,
+      "screen_name": "NewCenturyBaopu"
+    },
+    "user_mentions": []
+  }
 }
