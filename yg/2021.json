@@ -1,4 +1,2292 @@
 {
+  "1408380043840032768": {
+    "created_at": "Fri Jun 25 11:02:23 +0000 2021",
+    "favorite_count": 1,
+    "full_text": "李洪宽，鉴于你对茉莉滚刀肉的批评很到位，“茉莉在欧洲是个白左，议论美国的事，也是法盲，哈哈，哪能乱作证的啊：常识错误。” 以上是你的原话，我决定停骂你半天，作为奖励。 https://t.co/NRhDWI6Spy",
+    "hashtags": [],
+    "id_str": "1408380043840032768",
+    "lang": "zh",
+    "quoted_status": {
+      "created_at": "Fri Jun 25 10:56:43 +0000 2021",
+      "full_text": "李洪宽说我与唐汉是一伙的，哈哈你又错了，我是唐汉到小号🎺",
+      "hashtags": [],
+      "id": 1408378615562084356,
+      "id_str": "1408378615562084356",
+      "lang": "zh",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "urls": [],
+      "user": {
+        "id": 1284363240974082048,
+        "screen_name": "Yangguang_USA"
+      },
+      "user_mentions": []
+    },
+    "quoted_status_id": 1408378615562084356,
+    "quoted_status_id_str": "1408378615562084356",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/yangguang_usa/status/1408378615562084356",
+        "url": "https://t.co/NRhDWI6Spy"
+      }
+    ],
+    "user": {
+      "id": 1284363240974082048,
+      "screen_name": "Yangguang_USA"
+    },
+    "user_mentions": []
+  },
+  "1408378615562084356": {
+    "created_at": "Fri Jun 25 10:56:43 +0000 2021",
+    "full_text": "李洪宽说我与唐汉是一伙的，哈哈你又错了，我是唐汉到小号🎺",
+    "hashtags": [],
+    "id_str": "1408378615562084356",
+    "lang": "zh",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "urls": [],
+    "user": {
+      "id": 1284363240974082048,
+      "screen_name": "Yangguang_USA"
+    },
+    "user_mentions": []
+  },
+  "1408302303778541580": {
+    "created_at": "Fri Jun 25 05:53:28 +0000 2021",
+    "full_text": "RT @Yangguang_USA: 茉莉长得像肉铺老板娘，兼任街道居委会主任，说她搅屎棍是对搅屎棍的侮辱，搅屎棍的光荣称号留给帅哥美女【李洪宽张欣萍】更好 https://t.co/GKXpFpX7p6",
+    "hashtags": [],
+    "id_str": "1408302303778541580",
+    "lang": "zh",
+    "quoted_status_id": 1408187633671426052,
+    "quoted_status_id_str": "1408187633671426052",
+    "retweet_count": 1,
+    "retweeted_status": {
+      "created_at": "Fri Jun 25 00:18:32 +0000 2021",
+      "favorite_count": 2,
+      "full_text": "茉莉长得像肉铺老板娘，兼任街道居委会主任，说她搅屎棍是对搅屎棍的侮辱，搅屎棍的光荣称号留给帅哥美女【李洪宽张欣萍】更好 https://t.co/GKXpFpX7p6",
+      "hashtags": [],
+      "id": 1408218015007612929,
+      "id_str": "1408218015007612929",
+      "lang": "zh",
+      "quoted_status": {
+        "created_at": "Thu Jun 24 22:17:49 +0000 2021",
+        "favorite_count": 1,
+        "full_text": "李洪宽，民运里面的末流，民运人士哪个理你了？ https://t.co/qnUp2AnUr6",
+        "hashtags": [],
+        "id": 1408187633671426052,
+        "id_str": "1408187633671426052",
+        "lang": "zh",
+        "quoted_status_id": 1408185160042905600,
+        "quoted_status_id_str": "1408185160042905600",
+        "retweet_count": 1,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "urls": [
+          {
+            "expanded_url": "https://twitter.com/yangguang_usa/status/1408185160042905600",
+            "url": "https://t.co/qnUp2AnUr6"
+          }
+        ],
+        "user": {
+          "id": 1284363240974082048,
+          "id_str": "1284363240974082048"
+        },
+        "user_mentions": []
+      },
+      "quoted_status_id": 1408187633671426052,
+      "quoted_status_id_str": "1408187633671426052",
+      "retweet_count": 1,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "urls": [
+        {
+          "expanded_url": "https://twitter.com/yangguang_usa/status/1408187633671426052",
+          "url": "https://t.co/GKXpFpX7p6"
+        }
+      ],
+      "user": {
+        "id": 1284363240974082048,
+        "screen_name": "Yangguang_USA"
+      },
+      "user_mentions": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/yangguang_usa/status/1408187633671426052",
+        "url": "https://t.co/GKXpFpX7p6"
+      }
+    ],
+    "user": {
+      "id": 1284363240974082048,
+      "screen_name": "Yangguang_USA"
+    },
+    "user_mentions": [
+      {
+        "id": 1284363240974082048,
+        "id_str": "1284363240974082048",
+        "name": "杨光",
+        "screen_name": "Yangguang_USA"
+      }
+    ]
+  },
+  "1408293422788538369": {
+    "created_at": "Fri Jun 25 05:18:11 +0000 2021",
+    "full_text": "高胜寒家的看过来，张欣萍说李洪宽在群里说高胜寒是特务。\n你们用烤鸭招待的都是些蟑螂级别的动物。 https://t.co/1DmqcLyf7a",
+    "hashtags": [],
+    "id_str": "1408293422788538369",
+    "lang": "zh",
+    "media": [
+      {
+        "display_url": "pic.twitter.com/1DmqcLyf7a",
+        "expanded_url": "https://twitter.com/Yangguang_USA/status/1408293422788538369/photo/1",
+        "id": 1408292527136858118,
+        "media_url": "http://pbs.twimg.com/media/E4tCl4vUYAYNWVk.png",
+        "media_url_https": "https://pbs.twimg.com/media/E4tCl4vUYAYNWVk.png",
+        "type": "photo",
+        "url": "https://t.co/1DmqcLyf7a"
+      }
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "urls": [],
+    "user": {
+      "id": 1284363240974082048,
+      "screen_name": "Yangguang_USA"
+    },
+    "user_mentions": []
+  },
+  "1408290938720452613": {
+    "created_at": "Fri Jun 25 05:08:19 +0000 2021",
+    "full_text": "@mimi54045877 @Elina66071271 @Watchin83011245 @turbococo888818 A可以转述B的话，这不奇怪，我不是看内容，而是看表述方式。这些乱七八糟的人都围着吃福利的富翁转，还是该富翁喜欢掺和鸡鸭猫狗之事？",
+    "hashtags": [],
+    "id_str": "1408290938720452613",
+    "in_reply_to_screen_name": "mimi54045877",
+    "in_reply_to_status_id": 1408289331563753475,
+    "in_reply_to_user_id": 1283097670718906368,
+    "lang": "zh",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "urls": [],
+    "user": {
+      "id": 1284363240974082048,
+      "screen_name": "Yangguang_USA"
+    },
+    "user_mentions": [
+      {
+        "id": 1283097670718906368,
+        "id_str": "1283097670718906368",
+        "name": "mimi",
+        "screen_name": "mimi54045877"
+      },
+      {
+        "id": 1261885314995380226,
+        "id_str": "1261885314995380226",
+        "name": "Elina",
+        "screen_name": "Elina66071271"
+      },
+      {
+        "id": 1397174952307085312,
+        "id_str": "1397174952307085312",
+        "name": "Watching🤓",
+        "screen_name": "Watchin83011245"
+      },
+      {
+        "id": 1250336059793092608,
+        "id_str": "1250336059793092608",
+        "name": "Coco的马甲 Corruption China 4/4",
+        "screen_name": "turbococo888818"
+      }
+    ]
+  },
+  "1408288705970786313": {
+    "created_at": "Fri Jun 25 04:59:26 +0000 2021",
+    "full_text": "@juanli324 他说他从不拉黑人的",
+    "hashtags": [],
+    "id_str": "1408288705970786313",
+    "in_reply_to_screen_name": "juanli324",
+    "in_reply_to_status_id": 1408253107687944192,
+    "in_reply_to_user_id": 860533549,
+    "lang": "zh",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "urls": [],
+    "user": {
+      "id": 1284363240974082048,
+      "screen_name": "Yangguang_USA"
+    },
+    "user_mentions": [
+      {
+        "id": 860533549,
+        "id_str": "860533549",
+        "name": "李隽",
+        "screen_name": "juanli324"
+      }
+    ]
+  },
+  "1408287132330778631": {
+    "created_at": "Fri Jun 25 04:53:11 +0000 2021",
+    "full_text": "@mimi54045877 @Elina66071271 @Watchin83011245 @turbococo888818 她说了很多张欣萍不可能知道的魏黄隐私，我用电脑分析过她的推文，结论是：女性，中年，房地产经纪人，自视富裕，语言粗俗。我错怪是吕的小号，被人纠正。最近能够确认，主要是李洪宽的行为出卖了她，他们要怪就怪李洪宽吧。",
+    "hashtags": [],
+    "id_str": "1408287132330778631",
+    "in_reply_to_screen_name": "mimi54045877",
+    "in_reply_to_status_id": 1408282948604887043,
+    "in_reply_to_user_id": 1283097670718906368,
+    "lang": "zh",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "urls": [],
+    "user": {
+      "id": 1284363240974082048,
+      "screen_name": "Yangguang_USA"
+    },
+    "user_mentions": [
+      {
+        "id": 1283097670718906368,
+        "id_str": "1283097670718906368",
+        "name": "mimi",
+        "screen_name": "mimi54045877"
+      },
+      {
+        "id": 1261885314995380226,
+        "id_str": "1261885314995380226",
+        "name": "Elina",
+        "screen_name": "Elina66071271"
+      },
+      {
+        "id": 1397174952307085312,
+        "id_str": "1397174952307085312",
+        "name": "Watching🤓",
+        "screen_name": "Watchin83011245"
+      },
+      {
+        "id": 1250336059793092608,
+        "id_str": "1250336059793092608",
+        "name": "Coco的马甲 Corruption China 4/4",
+        "screen_name": "turbococo888818"
+      }
+    ]
+  },
+  "1408283688131956741": {
+    "created_at": "Fri Jun 25 04:39:30 +0000 2021",
+    "full_text": "图2不错，言论自由与诽谤的区别，普通人与名人的区别，建议受到传票威胁的人看一下 https://t.co/CvuhEmICuW",
+    "hashtags": [],
+    "id_str": "1408283688131956741",
+    "lang": "zh",
+    "quoted_status": {
+      "created_at": "Fri Jun 25 02:43:12 +0000 2021",
+      "full_text": "@realproofread @Yangguang_USA @spCLZ55ekTGA2II @usa_gaoshenghan 有人鼓动高老板起诉盲流子等网人，其实他们不知道图2美国宪法第一修正案保障言论自由，对民事诽谤官司的处理不是以控制和惩罚为主，而高老板也是公众人物，要举证对方有无恶意难度很高。君不见呆米以前动辄威胁起诉，现在被盲流子、coco要求起诉反而缄默？她诉江涛失利学乖了。 https://t.co/zHi8DhfRDJ",
+      "hashtags": [],
+      "id": 1408254420551299075,
+      "id_str": "1408254420551299075",
+      "in_reply_to_screen_name": "realproofread",
+      "in_reply_to_status_id": 1407619914307837962,
+      "in_reply_to_user_id": 882380349061218304,
+      "lang": "zh",
+      "media": [
+        {
+          "display_url": "pic.twitter.com/zHi8DhfRDJ",
+          "expanded_url": "https://twitter.com/mimi54045877/status/1408254420551299075/photo/1",
+          "id": 1408251377764032513,
+          "media_url": "http://pbs.twimg.com/media/E4sdKrYUYAEBvXM.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E4sdKrYUYAEBvXM.jpg",
+          "type": "photo",
+          "url": "https://t.co/zHi8DhfRDJ"
+        },
+        {
+          "display_url": "pic.twitter.com/zHi8DhfRDJ",
+          "expanded_url": "https://twitter.com/mimi54045877/status/1408254420551299075/photo/1",
+          "id": 1408251445699174402,
+          "media_url": "http://pbs.twimg.com/media/E4sdOodUYAIeMt7.png",
+          "media_url_https": "https://pbs.twimg.com/media/E4sdOodUYAIeMt7.png",
+          "type": "photo",
+          "url": "https://t.co/zHi8DhfRDJ"
+        }
+      ],
+      "retweet_count": 1,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "urls": [],
+      "user": {
+        "id": 1283097670718906368,
+        "screen_name": "mimi54045877"
+      },
+      "user_mentions": [
+        {
+          "id": 882380349061218304,
+          "id_str": "882380349061218304",
+          "name": "真女权",
+          "screen_name": "realproofread"
+        },
+        {
+          "id": 1284363240974082048,
+          "id_str": "1284363240974082048",
+          "name": "杨光",
+          "screen_name": "Yangguang_USA"
+        },
+        {
+          "id": 1360837862577508356,
+          "id_str": "1360837862577508356",
+          "name": "十三妖",
+          "screen_name": "spCLZ55ekTGA2II"
+        },
+        {
+          "id": 2586791480,
+          "id_str": "2586791480",
+          "name": "高勝寒",
+          "screen_name": "usa_gaoshenghan"
+        }
+      ]
+    },
+    "quoted_status_id": 1408254420551299075,
+    "quoted_status_id_str": "1408254420551299075",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/mimi54045877/status/1408254420551299075",
+        "url": "https://t.co/CvuhEmICuW"
+      }
+    ],
+    "user": {
+      "id": 1284363240974082048,
+      "screen_name": "Yangguang_USA"
+    },
+    "user_mentions": []
+  },
+  "1408280586108633089": {
+    "created_at": "Fri Jun 25 04:27:10 +0000 2021",
+    "full_text": "@mimi54045877 @Elina66071271 @Watchin83011245 @turbococo888818 我以前不上推，但看过油管，郭事件的出头人物看过几眼，张欣萍的英文比Anncky好。\n你说“应该不是厨子”说明你不了解他。我最近可是做了功课了",
+    "hashtags": [],
+    "id_str": "1408280586108633089",
+    "in_reply_to_screen_name": "mimi54045877",
+    "in_reply_to_status_id": 1408279042906726406,
+    "in_reply_to_user_id": 1283097670718906368,
+    "lang": "zh",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "urls": [],
+    "user": {
+      "id": 1284363240974082048,
+      "screen_name": "Yangguang_USA"
+    },
+    "user_mentions": [
+      {
+        "id": 1283097670718906368,
+        "id_str": "1283097670718906368",
+        "name": "mimi",
+        "screen_name": "mimi54045877"
+      },
+      {
+        "id": 1261885314995380226,
+        "id_str": "1261885314995380226",
+        "name": "Elina",
+        "screen_name": "Elina66071271"
+      },
+      {
+        "id": 1397174952307085312,
+        "id_str": "1397174952307085312",
+        "name": "Watching🤓",
+        "screen_name": "Watchin83011245"
+      },
+      {
+        "id": 1250336059793092608,
+        "id_str": "1250336059793092608",
+        "name": "Coco的马甲 Corruption China 4/4",
+        "screen_name": "turbococo888818"
+      }
+    ]
+  },
+  "1408275536065957889": {
+    "created_at": "Fri Jun 25 04:07:06 +0000 2021",
+    "full_text": "RT @Yangguang_USA: @Recitalone 我不知道魏京生和叶宁对李洪宽有恩，是我上推之前的事情吧？希望高胜寒知道，高家把这种人当朋友绝对是后患",
+    "hashtags": [],
+    "id_str": "1408275536065957889",
+    "lang": "zh",
+    "retweet_count": 1,
+    "retweeted_status": {
+      "created_at": "Fri Jun 25 04:06:59 +0000 2021",
+      "full_text": "@Recitalone 我不知道魏京生和叶宁对李洪宽有恩，是我上推之前的事情吧？希望高胜寒知道，高家把这种人当朋友绝对是后患",
+      "hashtags": [],
+      "id": 1408275506416418816,
+      "id_str": "1408275506416418816",
+      "in_reply_to_screen_name": "Recitalone",
+      "in_reply_to_status_id": 1408188882957615105,
+      "in_reply_to_user_id": 909212785384583168,
+      "lang": "zh",
+      "retweet_count": 1,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "urls": [],
+      "user": {
+        "id": 1284363240974082048,
+        "screen_name": "Yangguang_USA"
+      },
+      "user_mentions": [
+        {
+          "id": 909212785384583168,
+          "id_str": "909212785384583168",
+          "name": "Regent",
+          "screen_name": "Recitalone"
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "urls": [],
+    "user": {
+      "id": 1284363240974082048,
+      "screen_name": "Yangguang_USA"
+    },
+    "user_mentions": [
+      {
+        "id": 1284363240974082048,
+        "id_str": "1284363240974082048",
+        "name": "杨光",
+        "screen_name": "Yangguang_USA"
+      },
+      {
+        "id": 909212785384583168,
+        "id_str": "909212785384583168",
+        "name": "Regent",
+        "screen_name": "Recitalone"
+      }
+    ]
+  },
+  "1408275506416418816": {
+    "created_at": "Fri Jun 25 04:06:59 +0000 2021",
+    "full_text": "@Recitalone 我不知道魏京生和叶宁对李洪宽有恩，是我上推之前的事情吧？希望高胜寒知道，高家把这种人当朋友绝对是后患",
+    "hashtags": [],
+    "id_str": "1408275506416418816",
+    "in_reply_to_screen_name": "Recitalone",
+    "in_reply_to_status_id": 1408188882957615105,
+    "in_reply_to_user_id": 909212785384583168,
+    "lang": "zh",
+    "retweet_count": 1,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "urls": [],
+    "user": {
+      "id": 1284363240974082048,
+      "screen_name": "Yangguang_USA"
+    },
+    "user_mentions": [
+      {
+        "id": 909212785384583168,
+        "id_str": "909212785384583168",
+        "name": "Regent",
+        "screen_name": "Recitalone"
+      }
+    ]
+  },
+  "1408274079111548930": {
+    "created_at": "Fri Jun 25 04:01:19 +0000 2021",
+    "full_text": "@mimi54045877 @Elina66071271 @Watchin83011245 @turbococo888818 我有完整的证据链，目前不想拿出来而已，只要她不再乱咬，我可以放她一马。\n关于你说的英文，高胜寒来美国之前是香港厨子，没什么文化，中英文都很差，写文章逻辑不通。\nAnncky会说几句英文，但不规范，不是正规学的，比张欣萍的英文差。",
+    "hashtags": [],
+    "id_str": "1408274079111548930",
+    "in_reply_to_screen_name": "mimi54045877",
+    "in_reply_to_status_id": 1408239506373832705,
+    "in_reply_to_user_id": 1283097670718906368,
+    "lang": "zh",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "urls": [],
+    "user": {
+      "id": 1284363240974082048,
+      "screen_name": "Yangguang_USA"
+    },
+    "user_mentions": [
+      {
+        "id": 1283097670718906368,
+        "id_str": "1283097670718906368",
+        "name": "mimi",
+        "screen_name": "mimi54045877"
+      },
+      {
+        "id": 1261885314995380226,
+        "id_str": "1261885314995380226",
+        "name": "Elina",
+        "screen_name": "Elina66071271"
+      },
+      {
+        "id": 1397174952307085312,
+        "id_str": "1397174952307085312",
+        "name": "Watching🤓",
+        "screen_name": "Watchin83011245"
+      },
+      {
+        "id": 1250336059793092608,
+        "id_str": "1250336059793092608",
+        "name": "Coco的马甲 Corruption China 4/4",
+        "screen_name": "turbococo888818"
+      }
+    ]
+  },
+  "1408270817784336390": {
+    "created_at": "Fri Jun 25 03:48:22 +0000 2021",
+    "full_text": "@mimi54045877 @realproofread @spCLZ55ekTGA2II @usa_gaoshenghan 这么复杂的关系简直看不明白，高胜寒曾把江涛介绍给张欣萍，呆米又去告江涛，自己人打起来了",
+    "hashtags": [],
+    "id_str": "1408270817784336390",
+    "in_reply_to_screen_name": "mimi54045877",
+    "in_reply_to_status_id": 1408254420551299075,
+    "in_reply_to_user_id": 1283097670718906368,
+    "lang": "zh",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "urls": [],
+    "user": {
+      "id": 1284363240974082048,
+      "screen_name": "Yangguang_USA"
+    },
+    "user_mentions": [
+      {
+        "id": 1283097670718906368,
+        "id_str": "1283097670718906368",
+        "name": "mimi",
+        "screen_name": "mimi54045877"
+      },
+      {
+        "id": 882380349061218304,
+        "id_str": "882380349061218304",
+        "name": "真女权",
+        "screen_name": "realproofread"
+      },
+      {
+        "id": 1360837862577508356,
+        "id_str": "1360837862577508356",
+        "name": "十三妖",
+        "screen_name": "spCLZ55ekTGA2II"
+      },
+      {
+        "id": 2586791480,
+        "id_str": "2586791480",
+        "name": "高勝寒",
+        "screen_name": "usa_gaoshenghan"
+      }
+    ]
+  },
+  "1408269608444825601": {
+    "created_at": "Fri Jun 25 03:43:33 +0000 2021",
+    "full_text": "@truth8964_1 @turbococo888818 @xez_tg @MLGBD2020 @Vincent26024368 @x7oYe8OW9qbQ99Y @RealIrisBrush @hanrg0088 @kankanliuliu @Hao97969309 @WeicaoC @xiaopingtou @OldlifeRecord @turbococo88888 @david05570269 @Tek0Eo6OoGib9Nt @Haze20202 @yaangben @whRXbMDRqb2OzSX @BL90942512 @SBDSMS @fangmincnLA @2247w @hongfuyuan2 @dafashi2020 @lana_dilana @albert81134485 @YsgduCNYDatGpUY @yuanhongfushabi @hongfuyuan @cptbtptp2019 @C71143551 @dashihua1 @hunter080258661 @jingsb2020 @windwave6 @Peter85635405 @bluesky202064 @A_Man_Is_No_I @wenying333 @fredmarney1 @tiedan11 @milpitas95035 @xiteller @GAzUluPO7bwZL4B @zhaoyan818 @ZhaoMingObserve @julia_zhu001 你的建议我会考虑，李洪宽、黛B、高胜寒太太，这个铁三角，如果有一人把我惹毛了，我就会去举报高胜寒的烤鸭店，他们觉得骂人爽快，但骂人是要付出代价的。",
+    "hashtags": [],
+    "id_str": "1408269608444825601",
+    "in_reply_to_screen_name": "truth8964_1",
+    "in_reply_to_status_id": 1407933784910041095,
+    "in_reply_to_user_id": 3063834971,
+    "lang": "zh",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "urls": [],
+    "user": {
+      "id": 1284363240974082048,
+      "screen_name": "Yangguang_USA"
+    },
+    "user_mentions": [
+      {
+        "id": 3063834971,
+        "id_str": "3063834971",
+        "name": "爆料大家谈",
+        "screen_name": "truth8964_1"
+      },
+      {
+        "id": 1250336059793092608,
+        "id_str": "1250336059793092608",
+        "name": "Coco的马甲 Corruption China 4/4",
+        "screen_name": "turbococo888818"
+      },
+      {
+        "id": 988940534709305344,
+        "id_str": "988940534709305344",
+        "name": "高开高走📈",
+        "screen_name": "xez_tg"
+      },
+      {
+        "id": 1259241922792579072,
+        "id_str": "1259241922792579072",
+        "name": "痴🍉群众",
+        "screen_name": "MLGBD2020"
+      },
+      {
+        "id": 1389753825817370627,
+        "id_str": "1389753825817370627",
+        "name": "Vincent",
+        "screen_name": "Vincent26024368"
+      },
+      {
+        "id": 1267500094171033603,
+        "id_str": "1267500094171033603",
+        "name": "孙莉",
+        "screen_name": "x7oYe8OW9qbQ99Y"
+      },
+      {
+        "id": 1258182211766874112,
+        "id_str": "1258182211766874112",
+        "name": "Iris⚜️Brush✝️💖🇺🇸",
+        "screen_name": "RealIrisBrush"
+      },
+      {
+        "id": 1390879246432673797,
+        "id_str": "1390879246432673797",
+        "name": "推军硬推",
+        "screen_name": "hanrg0088"
+      },
+      {
+        "id": 927531706395123712,
+        "id_str": "927531706395123712",
+        "name": "看看",
+        "screen_name": "kankanliuliu"
+      },
+      {
+        "id": 851385178559787009,
+        "id_str": "851385178559787009",
+        "name": "Cal",
+        "screen_name": "Hao97969309"
+      },
+      {
+        "id": 1264204727052496904,
+        "id_str": "1264204727052496904",
+        "name": "人心似水",
+        "screen_name": "WeicaoC"
+      },
+      {
+        "id": 1352410789,
+        "id_str": "1352410789",
+        "name": "小平头",
+        "screen_name": "xiaopingtou"
+      },
+      {
+        "id": 1151311413446631424,
+        "id_str": "1151311413446631424",
+        "name": "Oldlife Record",
+        "screen_name": "OldlifeRecord"
+      },
+      {
+        "id": 1250334584987770880,
+        "id_str": "1250334584987770880",
+        "name": "turbococo88888揭露杨善",
+        "screen_name": "turbococo88888"
+      },
+      {
+        "id": 1019105361834307584,
+        "id_str": "1019105361834307584",
+        "name": "david",
+        "screen_name": "david05570269"
+      },
+      {
+        "id": 1108340086221893633,
+        "id_str": "1108340086221893633",
+        "name": "宝库",
+        "screen_name": "Tek0Eo6OoGib9Nt"
+      },
+      {
+        "id": 1306994245866156035,
+        "id_str": "1306994245866156035",
+        "name": "Haze2020",
+        "screen_name": "Haze20202"
+      },
+      {
+        "id": 1181351633692704768,
+        "id_str": "1181351633692704768",
+        "name": "yaangben",
+        "screen_name": "yaangben"
+      },
+      {
+        "id": 996808992079929349,
+        "id_str": "996808992079929349",
+        "name": "扫地僧大徒弟",
+        "screen_name": "whRXbMDRqb2OzSX"
+      },
+      {
+        "id": 872634599058186242,
+        "id_str": "872634599058186242",
+        "name": "CBL",
+        "screen_name": "BL90942512"
+      },
+      {
+        "id": 916190084650676224,
+        "id_str": "916190084650676224",
+        "name": "不吃人的汉尼拔",
+        "screen_name": "SBDSMS"
+      },
+      {
+        "id": 4493579294,
+        "id_str": "4493579294",
+        "name": "美帝一访民",
+        "screen_name": "fangmincnLA"
+      },
+      {
+        "id": 854747489458585605,
+        "id_str": "854747489458585605",
+        "name": "红尘滚滚",
+        "screen_name": "2247w"
+      },
+      {
+        "id": 856994580578914304,
+        "id_str": "856994580578914304",
+        "name": "人在非洲",
+        "screen_name": "hongfuyuan2"
+      },
+      {
+        "id": 1226980430735400960,
+        "id_str": "1226980430735400960",
+        "name": "非洲袁专案组",
+        "screen_name": "dafashi2020"
+      },
+      {
+        "id": 897391905109032960,
+        "id_str": "897391905109032960",
+        "name": "女四軍總司令🎏🌿🕊",
+        "screen_name": "lana_dilana"
+      },
+      {
+        "id": 1229899267952611328,
+        "id_str": "1229899267952611328",
+        "name": "坛子胡同闷三爷",
+        "screen_name": "albert81134485"
+      },
+      {
+        "id": 1058742303752368128,
+        "id_str": "1058742303752368128",
+        "name": "崔老师",
+        "screen_name": "YsgduCNYDatGpUY"
+      },
+      {
+        "id": 1229151274324647936,
+        "id_str": "1229151274324647936",
+        "name": "揭人在非洲猿",
+        "screen_name": "yuanhongfushabi"
+      },
+      {
+        "id": 1052278184434053120,
+        "id_str": "1052278184434053120",
+        "name": "洪福齐天",
+        "screen_name": "hongfuyuan"
+      },
+      {
+        "id": 1170170562234081280,
+        "id_str": "1170170562234081280",
+        "name": "道貌岸然的老嘎嘎",
+        "screen_name": "cptbtptp2019"
+      },
+      {
+        "id": 1048736386063335424,
+        "id_str": "1048736386063335424",
+        "name": "⛱️⛱️C⛱️⛱️",
+        "screen_name": "C71143551"
+      },
+      {
+        "id": 1197984828857163777,
+        "id_str": "1197984828857163777",
+        "name": "二傻",
+        "screen_name": "dashihua1"
+      },
+      {
+        "id": 885231015391834113,
+        "id_str": "885231015391834113",
+        "name": "hunter08025866@yahoo",
+        "screen_name": "hunter080258661"
+      },
+      {
+        "id": 1225140708975181824,
+        "id_str": "1225140708975181824",
+        "name": "精神病联谊会",
+        "screen_name": "jingsb2020"
+      },
+      {
+        "id": 1043213839016189952,
+        "id_str": "1043213839016189952",
+        "name": "隐尘行",
+        "screen_name": "windwave6"
+      },
+      {
+        "id": 1170040991157489664,
+        "id_str": "1170040991157489664",
+        "name": "Peter",
+        "screen_name": "Peter85635405"
+      },
+      {
+        "id": 1236573931718365184,
+        "id_str": "1236573931718365184",
+        "name": "bluesky",
+        "screen_name": "bluesky202064"
+      },
+      {
+        "id": 723002248972800000,
+        "id_str": "723002248972800000",
+        "name": "No_One",
+        "screen_name": "A_Man_Is_No_I"
+      },
+      {
+        "id": 878114366096261121,
+        "id_str": "878114366096261121",
+        "name": "捅主任茶馆❤️🇺🇸❤️MAGA",
+        "screen_name": "wenying333"
+      },
+      {
+        "id": 1149754574745538560,
+        "id_str": "1149754574745538560",
+        "name": "愛新覺羅~啟哄",
+        "screen_name": "fredmarney1"
+      },
+      {
+        "id": 1135642588583608321,
+        "id_str": "1135642588583608321",
+        "name": "铁蛋儿 铁爷",
+        "screen_name": "tiedan11"
+      },
+      {
+        "id": 190541883,
+        "id_str": "190541883",
+        "name": "郭宝胜 Baosheng Guo",
+        "screen_name": "milpitas95035"
+      },
+      {
+        "id": 872054316198014976,
+        "id_str": "872054316198014976",
+        "name": "细思极恐",
+        "screen_name": "xiteller"
+      },
+      {
+        "id": 1230280358425288704,
+        "id_str": "1230280358425288704",
+        "name": "好怕怕",
+        "screen_name": "GAzUluPO7bwZL4B"
+      },
+      {
+        "id": 114254401,
+        "id_str": "114254401",
+        "name": "赵岩",
+        "screen_name": "zhaoyan818"
+      },
+      {
+        "id": 827607635142717442,
+        "id_str": "827607635142717442",
+        "name": "官场观察工作室 昭明",
+        "screen_name": "ZhaoMingObserve"
+      },
+      {
+        "id": 1389921862763704324,
+        "id_str": "1389921862763704324",
+        "name": "星期七",
+        "screen_name": "julia_zhu001"
+      }
+    ]
+  },
+  "1408266775901261826": {
+    "created_at": "Fri Jun 25 03:32:18 +0000 2021",
+    "full_text": "号外！禁闻网报道李洪宽的刑事案和民事案：\nhttps://t.co/LYP03agcg5",
+    "hashtags": [],
+    "id_str": "1408266775901261826",
+    "lang": "zh",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "urls": [
+      {
+        "expanded_url": "https://www.bannedbook.org/bnews/guowengui/20190113/1063482.html",
+        "url": "https://t.co/LYP03agcg5"
+      }
+    ],
+    "user": {
+      "id": 1284363240974082048,
+      "screen_name": "Yangguang_USA"
+    },
+    "user_mentions": []
+  },
+  "1408218015007612929": {
+    "created_at": "Fri Jun 25 00:18:32 +0000 2021",
+    "favorite_count": 2,
+    "full_text": "茉莉长得像肉铺老板娘，兼任街道居委会主任，说她搅屎棍是对搅屎棍的侮辱，搅屎棍的光荣称号留给帅哥美女【李洪宽张欣萍】更好 https://t.co/GKXpFpX7p6",
+    "hashtags": [],
+    "id_str": "1408218015007612929",
+    "lang": "zh",
+    "quoted_status": {
+      "created_at": "Thu Jun 24 22:17:49 +0000 2021",
+      "favorite_count": 1,
+      "full_text": "李洪宽，民运里面的末流，民运人士哪个理你了？ https://t.co/qnUp2AnUr6",
+      "hashtags": [],
+      "id": 1408187633671426052,
+      "id_str": "1408187633671426052",
+      "lang": "zh",
+      "quoted_status_id": 1408185160042905600,
+      "quoted_status_id_str": "1408185160042905600",
+      "retweet_count": 1,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "urls": [
+        {
+          "expanded_url": "https://twitter.com/yangguang_usa/status/1408185160042905600",
+          "url": "https://t.co/qnUp2AnUr6"
+        }
+      ],
+      "user": {
+        "id": 1284363240974082048,
+        "screen_name": "Yangguang_USA"
+      },
+      "user_mentions": []
+    },
+    "quoted_status_id": 1408187633671426052,
+    "quoted_status_id_str": "1408187633671426052",
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/yangguang_usa/status/1408187633671426052",
+        "url": "https://t.co/GKXpFpX7p6"
+      }
+    ],
+    "user": {
+      "id": 1284363240974082048,
+      "screen_name": "Yangguang_USA"
+    },
+    "user_mentions": []
+  },
+  "1408216941437718528": {
+    "created_at": "Fri Jun 25 00:14:16 +0000 2021",
+    "full_text": "RT @Yangguang_USA: 哈哈李洪宽沦落为张欣萍的下场，主子不认你，你想激怒我到主子那里领赏，人家连鸭架子都不扔给你了",
+    "hashtags": [],
+    "id_str": "1408216941437718528",
+    "lang": "zh",
+    "retweet_count": 2,
+    "retweeted_status": {
+      "created_at": "Thu Jun 24 22:07:59 +0000 2021",
+      "favorite_count": 4,
+      "full_text": "哈哈李洪宽沦落为张欣萍的下场，主子不认你，你想激怒我到主子那里领赏，人家连鸭架子都不扔给你了",
+      "hashtags": [],
+      "id": 1408185160042905600,
+      "id_str": "1408185160042905600",
+      "lang": "zh",
+      "retweet_count": 2,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "urls": [],
+      "user": {
+        "id": 1284363240974082048,
+        "screen_name": "Yangguang_USA"
+      },
+      "user_mentions": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "urls": [],
+    "user": {
+      "id": 1284363240974082048,
+      "screen_name": "Yangguang_USA"
+    },
+    "user_mentions": [
+      {
+        "id": 1284363240974082048,
+        "id_str": "1284363240974082048",
+        "name": "杨光",
+        "screen_name": "Yangguang_USA"
+      }
+    ]
+  },
+  "1408187633671426052": {
+    "created_at": "Thu Jun 24 22:17:49 +0000 2021",
+    "favorite_count": 1,
+    "full_text": "李洪宽，民运里面的末流，民运人士哪个理你了？ https://t.co/qnUp2AnUr6",
+    "hashtags": [],
+    "id_str": "1408187633671426052",
+    "lang": "zh",
+    "quoted_status": {
+      "created_at": "Thu Jun 24 22:07:59 +0000 2021",
+      "favorite_count": 4,
+      "full_text": "哈哈李洪宽沦落为张欣萍的下场，主子不认你，你想激怒我到主子那里领赏，人家连鸭架子都不扔给你了",
+      "hashtags": [],
+      "id": 1408185160042905600,
+      "id_str": "1408185160042905600",
+      "lang": "zh",
+      "retweet_count": 2,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "urls": [],
+      "user": {
+        "id": 1284363240974082048,
+        "screen_name": "Yangguang_USA"
+      },
+      "user_mentions": []
+    },
+    "quoted_status_id": 1408185160042905600,
+    "quoted_status_id_str": "1408185160042905600",
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/yangguang_usa/status/1408185160042905600",
+        "url": "https://t.co/qnUp2AnUr6"
+      }
+    ],
+    "user": {
+      "id": 1284363240974082048,
+      "screen_name": "Yangguang_USA"
+    },
+    "user_mentions": []
+  },
+  "1408187118749245440": {
+    "created_at": "Thu Jun 24 22:15:46 +0000 2021",
+    "full_text": "Henry李，李洪宽哪里跑，你的非婚子女抚养费，懒不掉的。你这丧家之犬，想攀新主子，对方不拿正眼看你，你吃泡泡果维生？哈哈",
+    "hashtags": [],
+    "id_str": "1408187118749245440",
+    "lang": "zh",
+    "retweet_count": 1,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "urls": [],
+    "user": {
+      "id": 1284363240974082048,
+      "screen_name": "Yangguang_USA"
+    },
+    "user_mentions": []
+  },
+  "1408185160042905600": {
+    "created_at": "Thu Jun 24 22:07:59 +0000 2021",
+    "favorite_count": 4,
+    "full_text": "哈哈李洪宽沦落为张欣萍的下场，主子不认你，你想激怒我到主子那里领赏，人家连鸭架子都不扔给你了",
+    "hashtags": [],
+    "id_str": "1408185160042905600",
+    "lang": "zh",
+    "retweet_count": 2,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "urls": [],
+    "user": {
+      "id": 1284363240974082048,
+      "screen_name": "Yangguang_USA"
+    },
+    "user_mentions": []
+  },
+  "1407924050026852354": {
+    "created_at": "Thu Jun 24 04:50:26 +0000 2021",
+    "full_text": "RT @Yangguang_USA: @truth8964_1 @turbococo888818 @xez_tg @MLGBD2020 @Vincent26024368 @x7oYe8OW9qbQ99Y @RealIrisBrush @hanrg0088 @kankanliul…",
+    "hashtags": [],
+    "id_str": "1407924050026852354",
+    "lang": "zh",
+    "retweet_count": 1,
+    "retweeted_status": {
+      "created_at": "Thu Jun 24 04:27:25 +0000 2021",
+      "favorite_count": 1,
+      "full_text": "@truth8964_1 @turbococo888818 @xez_tg @MLGBD2020 @Vincent26024368 @x7oYe8OW9qbQ99Y @RealIrisBrush @hanrg0088 @kankanliuliu @Hao97969309 @WeicaoC @xiaopingtou @OldlifeRecord @turbococo88888 @david05570269 @Tek0Eo6OoGib9Nt @Haze20202 @yaangben @whRXbMDRqb2OzSX @BL90942512 @SBDSMS @fangmincnLA @2247w @hongfuyuan2 @dafashi2020 @lana_dilana @albert81134485 @YsgduCNYDatGpUY @yuanhongfushabi @hongfuyuan @cptbtptp2019 @C71143551 @dashihua1 @hunter080258661 @jingsb2020 @windwave6 @Peter85635405 @bluesky202064 @A_Man_Is_No_I @wenying333 @fredmarney1 @tiedan11 @milpitas95035 @xiteller @GAzUluPO7bwZL4B @zhaoyan818 @ZhaoMingObserve @julia_zhu001 有人向我爆料，瑞典曾经有四所孔子学院，茉莉是其中一家的中文教师，孔子学院关闭后她就退休了，用孔子学院给的钱买了房子，我不在欧洲，无法核实信息是否准确，请自行核实，慎用",
+      "hashtags": [],
+      "id": 1407918258477404161,
+      "id_str": "1407918258477404161",
+      "in_reply_to_screen_name": "Yangguang_USA",
+      "in_reply_to_status_id": 1407821555980115971,
+      "in_reply_to_user_id": 1284363240974082048,
+      "lang": "zh",
+      "retweet_count": 1,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "urls": [],
+      "user": {
+        "id": 1284363240974082048,
+        "screen_name": "Yangguang_USA"
+      },
+      "user_mentions": [
+        {
+          "id": 3063834971,
+          "id_str": "3063834971",
+          "name": "爆料大家谈",
+          "screen_name": "truth8964_1"
+        },
+        {
+          "id": 1250336059793092608,
+          "id_str": "1250336059793092608",
+          "name": "Coco的马甲 Corruption China 4/4",
+          "screen_name": "turbococo888818"
+        },
+        {
+          "id": 988940534709305344,
+          "id_str": "988940534709305344",
+          "name": "高开高走📈",
+          "screen_name": "xez_tg"
+        },
+        {
+          "id": 1259241922792579072,
+          "id_str": "1259241922792579072",
+          "name": "痴🍉群众",
+          "screen_name": "MLGBD2020"
+        },
+        {
+          "id": 1389753825817370627,
+          "id_str": "1389753825817370627",
+          "name": "Vincent",
+          "screen_name": "Vincent26024368"
+        },
+        {
+          "id": 1267500094171033603,
+          "id_str": "1267500094171033603",
+          "name": "孙莉",
+          "screen_name": "x7oYe8OW9qbQ99Y"
+        },
+        {
+          "id": 1258182211766874112,
+          "id_str": "1258182211766874112",
+          "name": "Iris⚜️Brush✝️💖🇺🇸",
+          "screen_name": "RealIrisBrush"
+        },
+        {
+          "id": 1390879246432673797,
+          "id_str": "1390879246432673797",
+          "name": "推军硬推",
+          "screen_name": "hanrg0088"
+        },
+        {
+          "id": 927531706395123712,
+          "id_str": "927531706395123712",
+          "name": "看看",
+          "screen_name": "kankanliuliu"
+        },
+        {
+          "id": 851385178559787009,
+          "id_str": "851385178559787009",
+          "name": "Cal",
+          "screen_name": "Hao97969309"
+        },
+        {
+          "id": 1264204727052496904,
+          "id_str": "1264204727052496904",
+          "name": "人心似水",
+          "screen_name": "WeicaoC"
+        },
+        {
+          "id": 1352410789,
+          "id_str": "1352410789",
+          "name": "小平头",
+          "screen_name": "xiaopingtou"
+        },
+        {
+          "id": 1151311413446631424,
+          "id_str": "1151311413446631424",
+          "name": "Oldlife Record",
+          "screen_name": "OldlifeRecord"
+        },
+        {
+          "id": 1250334584987770880,
+          "id_str": "1250334584987770880",
+          "name": "turbococo88888揭露杨善",
+          "screen_name": "turbococo88888"
+        },
+        {
+          "id": 1019105361834307584,
+          "id_str": "1019105361834307584",
+          "name": "david",
+          "screen_name": "david05570269"
+        },
+        {
+          "id": 1108340086221893633,
+          "id_str": "1108340086221893633",
+          "name": "宝库",
+          "screen_name": "Tek0Eo6OoGib9Nt"
+        },
+        {
+          "id": 1306994245866156035,
+          "id_str": "1306994245866156035",
+          "name": "Haze2020",
+          "screen_name": "Haze20202"
+        },
+        {
+          "id": 1181351633692704768,
+          "id_str": "1181351633692704768",
+          "name": "yaangben",
+          "screen_name": "yaangben"
+        },
+        {
+          "id": 996808992079929349,
+          "id_str": "996808992079929349",
+          "name": "扫地僧大徒弟",
+          "screen_name": "whRXbMDRqb2OzSX"
+        },
+        {
+          "id": 872634599058186242,
+          "id_str": "872634599058186242",
+          "name": "CBL",
+          "screen_name": "BL90942512"
+        },
+        {
+          "id": 916190084650676224,
+          "id_str": "916190084650676224",
+          "name": "不吃人的汉尼拔",
+          "screen_name": "SBDSMS"
+        },
+        {
+          "id": 4493579294,
+          "id_str": "4493579294",
+          "name": "美帝一访民",
+          "screen_name": "fangmincnLA"
+        },
+        {
+          "id": 854747489458585605,
+          "id_str": "854747489458585605",
+          "name": "红尘滚滚",
+          "screen_name": "2247w"
+        },
+        {
+          "id": 856994580578914304,
+          "id_str": "856994580578914304",
+          "name": "人在非洲",
+          "screen_name": "hongfuyuan2"
+        },
+        {
+          "id": 1226980430735400960,
+          "id_str": "1226980430735400960",
+          "name": "非洲袁专案组",
+          "screen_name": "dafashi2020"
+        },
+        {
+          "id": 897391905109032960,
+          "id_str": "897391905109032960",
+          "name": "女四軍總司令🎏🌿🕊",
+          "screen_name": "lana_dilana"
+        },
+        {
+          "id": 1229899267952611328,
+          "id_str": "1229899267952611328",
+          "name": "坛子胡同闷三爷",
+          "screen_name": "albert81134485"
+        },
+        {
+          "id": 1058742303752368128,
+          "id_str": "1058742303752368128",
+          "name": "崔老师",
+          "screen_name": "YsgduCNYDatGpUY"
+        },
+        {
+          "id": 1229151274324647936,
+          "id_str": "1229151274324647936",
+          "name": "揭人在非洲猿",
+          "screen_name": "yuanhongfushabi"
+        },
+        {
+          "id": 1052278184434053120,
+          "id_str": "1052278184434053120",
+          "name": "洪福齐天",
+          "screen_name": "hongfuyuan"
+        },
+        {
+          "id": 1170170562234081280,
+          "id_str": "1170170562234081280",
+          "name": "道貌岸然的老嘎嘎",
+          "screen_name": "cptbtptp2019"
+        },
+        {
+          "id": 1048736386063335424,
+          "id_str": "1048736386063335424",
+          "name": "⛱️⛱️C⛱️⛱️",
+          "screen_name": "C71143551"
+        },
+        {
+          "id": 1197984828857163777,
+          "id_str": "1197984828857163777",
+          "name": "二傻",
+          "screen_name": "dashihua1"
+        },
+        {
+          "id": 885231015391834113,
+          "id_str": "885231015391834113",
+          "name": "hunter08025866@yahoo",
+          "screen_name": "hunter080258661"
+        },
+        {
+          "id": 1225140708975181824,
+          "id_str": "1225140708975181824",
+          "name": "精神病联谊会",
+          "screen_name": "jingsb2020"
+        },
+        {
+          "id": 1043213839016189952,
+          "id_str": "1043213839016189952",
+          "name": "隐尘行",
+          "screen_name": "windwave6"
+        },
+        {
+          "id": 1170040991157489664,
+          "id_str": "1170040991157489664",
+          "name": "Peter",
+          "screen_name": "Peter85635405"
+        },
+        {
+          "id": 1236573931718365184,
+          "id_str": "1236573931718365184",
+          "name": "bluesky",
+          "screen_name": "bluesky202064"
+        },
+        {
+          "id": 723002248972800000,
+          "id_str": "723002248972800000",
+          "name": "No_One",
+          "screen_name": "A_Man_Is_No_I"
+        },
+        {
+          "id": 878114366096261121,
+          "id_str": "878114366096261121",
+          "name": "捅主任茶馆❤️🇺🇸❤️MAGA",
+          "screen_name": "wenying333"
+        },
+        {
+          "id": 1149754574745538560,
+          "id_str": "1149754574745538560",
+          "name": "愛新覺羅~啟哄",
+          "screen_name": "fredmarney1"
+        },
+        {
+          "id": 1135642588583608321,
+          "id_str": "1135642588583608321",
+          "name": "铁蛋儿 铁爷",
+          "screen_name": "tiedan11"
+        },
+        {
+          "id": 190541883,
+          "id_str": "190541883",
+          "name": "郭宝胜 Baosheng Guo",
+          "screen_name": "milpitas95035"
+        },
+        {
+          "id": 872054316198014976,
+          "id_str": "872054316198014976",
+          "name": "细思极恐",
+          "screen_name": "xiteller"
+        },
+        {
+          "id": 1230280358425288704,
+          "id_str": "1230280358425288704",
+          "name": "好怕怕",
+          "screen_name": "GAzUluPO7bwZL4B"
+        },
+        {
+          "id": 114254401,
+          "id_str": "114254401",
+          "name": "赵岩",
+          "screen_name": "zhaoyan818"
+        },
+        {
+          "id": 827607635142717442,
+          "id_str": "827607635142717442",
+          "name": "官场观察工作室 昭明",
+          "screen_name": "ZhaoMingObserve"
+        },
+        {
+          "id": 1389921862763704324,
+          "id_str": "1389921862763704324",
+          "name": "星期七",
+          "screen_name": "julia_zhu001"
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "urls": [],
+    "user": {
+      "id": 1284363240974082048,
+      "screen_name": "Yangguang_USA"
+    },
+    "user_mentions": [
+      {
+        "id": 1284363240974082048,
+        "id_str": "1284363240974082048",
+        "name": "杨光",
+        "screen_name": "Yangguang_USA"
+      },
+      {
+        "id": 3063834971,
+        "id_str": "3063834971",
+        "name": "爆料大家谈",
+        "screen_name": "truth8964_1"
+      },
+      {
+        "id": 1250336059793092608,
+        "id_str": "1250336059793092608",
+        "name": "Coco的马甲 Corruption China 4/4",
+        "screen_name": "turbococo888818"
+      },
+      {
+        "id": 988940534709305344,
+        "id_str": "988940534709305344",
+        "name": "高开高走📈",
+        "screen_name": "xez_tg"
+      },
+      {
+        "id": 1259241922792579072,
+        "id_str": "1259241922792579072",
+        "name": "痴🍉群众",
+        "screen_name": "MLGBD2020"
+      },
+      {
+        "id": 1389753825817370627,
+        "id_str": "1389753825817370627",
+        "name": "Vincent",
+        "screen_name": "Vincent26024368"
+      },
+      {
+        "id": 1267500094171033603,
+        "id_str": "1267500094171033603",
+        "name": "孙莉",
+        "screen_name": "x7oYe8OW9qbQ99Y"
+      },
+      {
+        "id": 1258182211766874112,
+        "id_str": "1258182211766874112",
+        "name": "Iris⚜️Brush✝️💖🇺🇸",
+        "screen_name": "RealIrisBrush"
+      },
+      {
+        "id": 1390879246432673797,
+        "id_str": "1390879246432673797",
+        "name": "推军硬推",
+        "screen_name": "hanrg0088"
+      }
+    ]
+  },
+  "1407923862180831242": {
+    "created_at": "Thu Jun 24 04:49:41 +0000 2021",
+    "favorite_count": 2,
+    "full_text": "昨天法院告示，刘魏案的法官调到上诉巡回法庭去了，新的法官还未安排，\n业余法学家高胜寒和半吊子张欣萍曾暗示此法官对被告不利，不知对此调动又有什么高见\n\nhttps://t.co/1jBLDcQ6ha",
+    "hashtags": [],
+    "id_str": "1407923862180831242",
+    "lang": "zh",
+    "retweet_count": 1,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "urls": [
+      {
+        "expanded_url": "https://www.pacermonitor.com/public/case/36303630/LIU_v_WEI",
+        "url": "https://t.co/1jBLDcQ6ha"
+      }
+    ],
+    "user": {
+      "id": 1284363240974082048,
+      "screen_name": "Yangguang_USA"
+    },
+    "user_mentions": []
+  },
+  "1407918258477404161": {
+    "created_at": "Thu Jun 24 04:27:25 +0000 2021",
+    "favorite_count": 1,
+    "full_text": "@truth8964_1 @turbococo888818 @xez_tg @MLGBD2020 @Vincent26024368 @x7oYe8OW9qbQ99Y @RealIrisBrush @hanrg0088 @kankanliuliu @Hao97969309 @WeicaoC @xiaopingtou @OldlifeRecord @turbococo88888 @david05570269 @Tek0Eo6OoGib9Nt @Haze20202 @yaangben @whRXbMDRqb2OzSX @BL90942512 @SBDSMS @fangmincnLA @2247w @hongfuyuan2 @dafashi2020 @lana_dilana @albert81134485 @YsgduCNYDatGpUY @yuanhongfushabi @hongfuyuan @cptbtptp2019 @C71143551 @dashihua1 @hunter080258661 @jingsb2020 @windwave6 @Peter85635405 @bluesky202064 @A_Man_Is_No_I @wenying333 @fredmarney1 @tiedan11 @milpitas95035 @xiteller @GAzUluPO7bwZL4B @zhaoyan818 @ZhaoMingObserve @julia_zhu001 有人向我爆料，瑞典曾经有四所孔子学院，茉莉是其中一家的中文教师，孔子学院关闭后她就退休了，用孔子学院给的钱买了房子，我不在欧洲，无法核实信息是否准确，请自行核实，慎用",
+    "hashtags": [],
+    "id_str": "1407918258477404161",
+    "in_reply_to_screen_name": "Yangguang_USA",
+    "in_reply_to_status_id": 1407821555980115971,
+    "in_reply_to_user_id": 1284363240974082048,
+    "lang": "zh",
+    "retweet_count": 1,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "urls": [],
+    "user": {
+      "id": 1284363240974082048,
+      "screen_name": "Yangguang_USA"
+    },
+    "user_mentions": [
+      {
+        "id": 3063834971,
+        "id_str": "3063834971",
+        "name": "爆料大家谈",
+        "screen_name": "truth8964_1"
+      },
+      {
+        "id": 1250336059793092608,
+        "id_str": "1250336059793092608",
+        "name": "Coco的马甲 Corruption China 4/4",
+        "screen_name": "turbococo888818"
+      },
+      {
+        "id": 988940534709305344,
+        "id_str": "988940534709305344",
+        "name": "高开高走📈",
+        "screen_name": "xez_tg"
+      },
+      {
+        "id": 1259241922792579072,
+        "id_str": "1259241922792579072",
+        "name": "痴🍉群众",
+        "screen_name": "MLGBD2020"
+      },
+      {
+        "id": 1389753825817370627,
+        "id_str": "1389753825817370627",
+        "name": "Vincent",
+        "screen_name": "Vincent26024368"
+      },
+      {
+        "id": 1267500094171033603,
+        "id_str": "1267500094171033603",
+        "name": "孙莉",
+        "screen_name": "x7oYe8OW9qbQ99Y"
+      },
+      {
+        "id": 1258182211766874112,
+        "id_str": "1258182211766874112",
+        "name": "Iris⚜️Brush✝️💖🇺🇸",
+        "screen_name": "RealIrisBrush"
+      },
+      {
+        "id": 1390879246432673797,
+        "id_str": "1390879246432673797",
+        "name": "推军硬推",
+        "screen_name": "hanrg0088"
+      },
+      {
+        "id": 927531706395123712,
+        "id_str": "927531706395123712",
+        "name": "看看",
+        "screen_name": "kankanliuliu"
+      },
+      {
+        "id": 851385178559787009,
+        "id_str": "851385178559787009",
+        "name": "Cal",
+        "screen_name": "Hao97969309"
+      },
+      {
+        "id": 1264204727052496904,
+        "id_str": "1264204727052496904",
+        "name": "人心似水",
+        "screen_name": "WeicaoC"
+      },
+      {
+        "id": 1352410789,
+        "id_str": "1352410789",
+        "name": "小平头",
+        "screen_name": "xiaopingtou"
+      },
+      {
+        "id": 1151311413446631424,
+        "id_str": "1151311413446631424",
+        "name": "Oldlife Record",
+        "screen_name": "OldlifeRecord"
+      },
+      {
+        "id": 1250334584987770880,
+        "id_str": "1250334584987770880",
+        "name": "turbococo88888揭露杨善",
+        "screen_name": "turbococo88888"
+      },
+      {
+        "id": 1019105361834307584,
+        "id_str": "1019105361834307584",
+        "name": "david",
+        "screen_name": "david05570269"
+      },
+      {
+        "id": 1108340086221893633,
+        "id_str": "1108340086221893633",
+        "name": "宝库",
+        "screen_name": "Tek0Eo6OoGib9Nt"
+      },
+      {
+        "id": 1306994245866156035,
+        "id_str": "1306994245866156035",
+        "name": "Haze2020",
+        "screen_name": "Haze20202"
+      },
+      {
+        "id": 1181351633692704768,
+        "id_str": "1181351633692704768",
+        "name": "yaangben",
+        "screen_name": "yaangben"
+      },
+      {
+        "id": 996808992079929349,
+        "id_str": "996808992079929349",
+        "name": "扫地僧大徒弟",
+        "screen_name": "whRXbMDRqb2OzSX"
+      },
+      {
+        "id": 872634599058186242,
+        "id_str": "872634599058186242",
+        "name": "CBL",
+        "screen_name": "BL90942512"
+      },
+      {
+        "id": 916190084650676224,
+        "id_str": "916190084650676224",
+        "name": "不吃人的汉尼拔",
+        "screen_name": "SBDSMS"
+      },
+      {
+        "id": 4493579294,
+        "id_str": "4493579294",
+        "name": "美帝一访民",
+        "screen_name": "fangmincnLA"
+      },
+      {
+        "id": 854747489458585605,
+        "id_str": "854747489458585605",
+        "name": "红尘滚滚",
+        "screen_name": "2247w"
+      },
+      {
+        "id": 856994580578914304,
+        "id_str": "856994580578914304",
+        "name": "人在非洲",
+        "screen_name": "hongfuyuan2"
+      },
+      {
+        "id": 1226980430735400960,
+        "id_str": "1226980430735400960",
+        "name": "非洲袁专案组",
+        "screen_name": "dafashi2020"
+      },
+      {
+        "id": 897391905109032960,
+        "id_str": "897391905109032960",
+        "name": "女四軍總司令🎏🌿🕊",
+        "screen_name": "lana_dilana"
+      },
+      {
+        "id": 1229899267952611328,
+        "id_str": "1229899267952611328",
+        "name": "坛子胡同闷三爷",
+        "screen_name": "albert81134485"
+      },
+      {
+        "id": 1058742303752368128,
+        "id_str": "1058742303752368128",
+        "name": "崔老师",
+        "screen_name": "YsgduCNYDatGpUY"
+      },
+      {
+        "id": 1229151274324647936,
+        "id_str": "1229151274324647936",
+        "name": "揭人在非洲猿",
+        "screen_name": "yuanhongfushabi"
+      },
+      {
+        "id": 1052278184434053120,
+        "id_str": "1052278184434053120",
+        "name": "洪福齐天",
+        "screen_name": "hongfuyuan"
+      },
+      {
+        "id": 1170170562234081280,
+        "id_str": "1170170562234081280",
+        "name": "道貌岸然的老嘎嘎",
+        "screen_name": "cptbtptp2019"
+      },
+      {
+        "id": 1048736386063335424,
+        "id_str": "1048736386063335424",
+        "name": "⛱️⛱️C⛱️⛱️",
+        "screen_name": "C71143551"
+      },
+      {
+        "id": 1197984828857163777,
+        "id_str": "1197984828857163777",
+        "name": "二傻",
+        "screen_name": "dashihua1"
+      },
+      {
+        "id": 885231015391834113,
+        "id_str": "885231015391834113",
+        "name": "hunter08025866@yahoo",
+        "screen_name": "hunter080258661"
+      },
+      {
+        "id": 1225140708975181824,
+        "id_str": "1225140708975181824",
+        "name": "精神病联谊会",
+        "screen_name": "jingsb2020"
+      },
+      {
+        "id": 1043213839016189952,
+        "id_str": "1043213839016189952",
+        "name": "隐尘行",
+        "screen_name": "windwave6"
+      },
+      {
+        "id": 1170040991157489664,
+        "id_str": "1170040991157489664",
+        "name": "Peter",
+        "screen_name": "Peter85635405"
+      },
+      {
+        "id": 1236573931718365184,
+        "id_str": "1236573931718365184",
+        "name": "bluesky",
+        "screen_name": "bluesky202064"
+      },
+      {
+        "id": 723002248972800000,
+        "id_str": "723002248972800000",
+        "name": "No_One",
+        "screen_name": "A_Man_Is_No_I"
+      },
+      {
+        "id": 878114366096261121,
+        "id_str": "878114366096261121",
+        "name": "捅主任茶馆❤️🇺🇸❤️MAGA",
+        "screen_name": "wenying333"
+      },
+      {
+        "id": 1149754574745538560,
+        "id_str": "1149754574745538560",
+        "name": "愛新覺羅~啟哄",
+        "screen_name": "fredmarney1"
+      },
+      {
+        "id": 1135642588583608321,
+        "id_str": "1135642588583608321",
+        "name": "铁蛋儿 铁爷",
+        "screen_name": "tiedan11"
+      },
+      {
+        "id": 190541883,
+        "id_str": "190541883",
+        "name": "郭宝胜 Baosheng Guo",
+        "screen_name": "milpitas95035"
+      },
+      {
+        "id": 872054316198014976,
+        "id_str": "872054316198014976",
+        "name": "细思极恐",
+        "screen_name": "xiteller"
+      },
+      {
+        "id": 1230280358425288704,
+        "id_str": "1230280358425288704",
+        "name": "好怕怕",
+        "screen_name": "GAzUluPO7bwZL4B"
+      },
+      {
+        "id": 114254401,
+        "id_str": "114254401",
+        "name": "赵岩",
+        "screen_name": "zhaoyan818"
+      },
+      {
+        "id": 827607635142717442,
+        "id_str": "827607635142717442",
+        "name": "官场观察工作室 昭明",
+        "screen_name": "ZhaoMingObserve"
+      },
+      {
+        "id": 1389921862763704324,
+        "id_str": "1389921862763704324",
+        "name": "星期七",
+        "screen_name": "julia_zhu001"
+      }
+    ]
+  },
+  "1407916687597338629": {
+    "created_at": "Thu Jun 24 04:21:10 +0000 2021",
+    "full_text": "@sissyintoca @huaizhao @yanni_vision 瑞典茉莉爆料，高胜寒去找了刘怀昭的律师，此事是否属实? 刘怀昭同意她的说法吗?\n刘怀昭有两位律师，茉莉说的是最新这位吗?",
+    "hashtags": [],
+    "id_str": "1407916687597338629",
+    "in_reply_to_screen_name": "sissyintoca",
+    "in_reply_to_status_id": 1407571672715169793,
+    "in_reply_to_user_id": 968754792347721728,
+    "lang": "zh",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "urls": [],
+    "user": {
+      "id": 1284363240974082048,
+      "screen_name": "Yangguang_USA"
+    },
+    "user_mentions": [
+      {
+        "id": 968754792347721728,
+        "id_str": "968754792347721728",
+        "name": "Sissyintoca",
+        "screen_name": "sissyintoca"
+      },
+      {
+        "id": 37938987,
+        "id_str": "37938987",
+        "name": "Huaizhao 懷昭",
+        "screen_name": "huaizhao"
+      },
+      {
+        "id": 834086207944548354,
+        "id_str": "834086207944548354",
+        "name": "彥子視界",
+        "screen_name": "yanni_vision"
+      }
+    ]
+  },
+  "1407915272321650688": {
+    "created_at": "Thu Jun 24 04:15:33 +0000 2021",
+    "full_text": "RT @Yangguang_USA: @mimi54045877 @Elina66071271 @Watchin83011245 @Anncky21 @turbococo888818 李洪宽和黛米变本加厉了，我爆一条小消息再静观。根据公共信息，推特上有一个经常抹黑魏黄的人，名叫…",
+    "hashtags": [],
+    "id_str": "1407915272321650688",
+    "lang": "zh",
+    "retweet_count": 1,
+    "retweeted_status": {
+      "created_at": "Mon Jun 21 20:04:16 +0000 2021",
+      "favorite_count": 1,
+      "full_text": "@mimi54045877 @Elina66071271 @Watchin83011245 @Anncky21 @turbococo888818 李洪宽和黛米变本加厉了，我爆一条小消息再静观。根据公共信息，推特上有一个经常抹黑魏黄的人，名叫 Vicky Wang Tsui，女，51岁，地址（省略）。\n李洪宽和黛米若不停止攻击抹黑谩骂，我还有猛料，徐老板自己看着办吧，你豢养的两条狗你管不住吗？",
+      "hashtags": [],
+      "id": 1407066860802101294,
+      "id_str": "1407066860802101294",
+      "in_reply_to_screen_name": "mimi54045877",
+      "in_reply_to_status_id": 1406646608490504192,
+      "in_reply_to_user_id": 1283097670718906368,
+      "lang": "zh",
+      "retweet_count": 1,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "urls": [],
+      "user": {
+        "id": 1284363240974082048,
+        "screen_name": "Yangguang_USA"
+      },
+      "user_mentions": [
+        {
+          "id": 1283097670718906368,
+          "id_str": "1283097670718906368",
+          "name": "mimi",
+          "screen_name": "mimi54045877"
+        },
+        {
+          "id": 1261885314995380226,
+          "id_str": "1261885314995380226",
+          "name": "Elina",
+          "screen_name": "Elina66071271"
+        },
+        {
+          "id": 1397174952307085312,
+          "id_str": "1397174952307085312",
+          "name": "Watching🤓",
+          "screen_name": "Watchin83011245"
+        },
+        {
+          "id": 1388624188492091396,
+          "id_str": "1388624188492091396",
+          "name": "Anncky2",
+          "screen_name": "Anncky21"
+        },
+        {
+          "id": 1250336059793092608,
+          "id_str": "1250336059793092608",
+          "name": "Coco的马甲 Corruption China 4/4",
+          "screen_name": "turbococo888818"
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "urls": [],
+    "user": {
+      "id": 1284363240974082048,
+      "screen_name": "Yangguang_USA"
+    },
+    "user_mentions": [
+      {
+        "id": 1284363240974082048,
+        "id_str": "1284363240974082048",
+        "name": "杨光",
+        "screen_name": "Yangguang_USA"
+      },
+      {
+        "id": 1283097670718906368,
+        "id_str": "1283097670718906368",
+        "name": "mimi",
+        "screen_name": "mimi54045877"
+      },
+      {
+        "id": 1261885314995380226,
+        "id_str": "1261885314995380226",
+        "name": "Elina",
+        "screen_name": "Elina66071271"
+      },
+      {
+        "id": 1397174952307085312,
+        "id_str": "1397174952307085312",
+        "name": "Watching🤓",
+        "screen_name": "Watchin83011245"
+      },
+      {
+        "id": 1388624188492091396,
+        "id_str": "1388624188492091396",
+        "name": "Anncky2",
+        "screen_name": "Anncky21"
+      },
+      {
+        "id": 1250336059793092608,
+        "id_str": "1250336059793092608",
+        "name": "Coco的马甲 Corruption China 4/4",
+        "screen_name": "turbococo888818"
+      }
+    ]
+  },
+  "1407915141752975363": {
+    "created_at": "Thu Jun 24 04:15:02 +0000 2021",
+    "full_text": "RT @Yangguang_USA: 作为美国公民，我知道怎样说话不违法，我知道什么属于公共信息，想恐吓我，你还没入门。\n你的家庭地址在whitepages上，我随时可以诉你，但我选择公布属于公共信息的信息，还有更猛的在后面。你的爪牙停止，我就停止。 https://t.co/…",
+    "hashtags": [],
+    "id_str": "1407915141752975363",
+    "lang": "zh",
+    "quoted_status_id": 1407066860802101294,
+    "quoted_status_id_str": "1407066860802101294",
+    "retweet_count": 1,
+    "retweeted_status": {
+      "created_at": "Tue Jun 22 18:03:31 +0000 2021",
+      "favorite_count": 1,
+      "full_text": "作为美国公民，我知道怎样说话不违法，我知道什么属于公共信息，想恐吓我，你还没入门。\n你的家庭地址在whitepages上，我随时可以诉你，但我选择公布属于公共信息的信息，还有更猛的在后面。你的爪牙停止，我就停止。 https://t.co/E16HW33Bha",
+      "hashtags": [],
+      "id": 1407398861581164551,
+      "id_str": "1407398861581164551",
+      "lang": "zh",
+      "quoted_status": {
+        "created_at": "Mon Jun 21 20:04:16 +0000 2021",
+        "favorite_count": 1,
+        "full_text": "@mimi54045877 @Elina66071271 @Watchin83011245 @Anncky21 @turbococo888818 李洪宽和黛米变本加厉了，我爆一条小消息再静观。根据公共信息，推特上有一个经常抹黑魏黄的人，名叫 Vicky Wang Tsui，女，51岁，地址（省略）。\n李洪宽和黛米若不停止攻击抹黑谩骂，我还有猛料，徐老板自己看着办吧，你豢养的两条狗你管不住吗？",
+        "hashtags": [],
+        "id": 1407066860802101294,
+        "id_str": "1407066860802101294",
+        "in_reply_to_screen_name": "mimi54045877",
+        "in_reply_to_status_id": 1406646608490504192,
+        "in_reply_to_user_id": 1283097670718906368,
+        "lang": "zh",
+        "retweet_count": 1,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "urls": [],
+        "user": {
+          "id": 1284363240974082048,
+          "id_str": "1284363240974082048"
+        },
+        "user_mentions": [
+          {
+            "id": 1283097670718906368,
+            "id_str": "1283097670718906368",
+            "name": "mimi",
+            "screen_name": "mimi54045877"
+          },
+          {
+            "id": 1261885314995380226,
+            "id_str": "1261885314995380226",
+            "name": "Elina",
+            "screen_name": "Elina66071271"
+          },
+          {
+            "id": 1397174952307085312,
+            "id_str": "1397174952307085312",
+            "name": "Watching🤓",
+            "screen_name": "Watchin83011245"
+          },
+          {
+            "id": 1388624188492091396,
+            "id_str": "1388624188492091396",
+            "name": "Anncky2",
+            "screen_name": "Anncky21"
+          },
+          {
+            "id": 1250336059793092608,
+            "id_str": "1250336059793092608",
+            "name": "Coco的马甲 Corruption China 4/4",
+            "screen_name": "turbococo888818"
+          }
+        ]
+      },
+      "quoted_status_id": 1407066860802101294,
+      "quoted_status_id_str": "1407066860802101294",
+      "retweet_count": 1,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "urls": [
+        {
+          "expanded_url": "https://twitter.com/Yangguang_USA/status/1407066860802101294",
+          "url": "https://t.co/E16HW33Bha"
+        }
+      ],
+      "user": {
+        "id": 1284363240974082048,
+        "screen_name": "Yangguang_USA"
+      },
+      "user_mentions": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "urls": [],
+    "user": {
+      "id": 1284363240974082048,
+      "screen_name": "Yangguang_USA"
+    },
+    "user_mentions": [
+      {
+        "id": 1284363240974082048,
+        "id_str": "1284363240974082048",
+        "name": "杨光",
+        "screen_name": "Yangguang_USA"
+      }
+    ]
+  },
+  "1407914917273899012": {
+    "created_at": "Thu Jun 24 04:14:08 +0000 2021",
+    "full_text": "RT @Yangguang_USA: @Tanghan2019 高胜寒在烤鸭店招待挺锅团队，法官知道吗？\n\n另一条公共信息：https://t.co/YI44ImpCoo",
+    "hashtags": [],
+    "id_str": "1407914917273899012",
+    "lang": "zh",
+    "quoted_status_id": 1407818028872441859,
+    "quoted_status_id_str": "1407818028872441859",
+    "retweet_count": 2,
+    "retweeted_status": {
+      "created_at": "Wed Jun 23 22:28:21 +0000 2021",
+      "favorite_count": 3,
+      "full_text": "@Tanghan2019 高胜寒在烤鸭店招待挺锅团队，法官知道吗？\n\n另一条公共信息：https://t.co/YI44ImpCoo",
+      "hashtags": [],
+      "id": 1407827897067270144,
+      "id_str": "1407827897067270144",
+      "in_reply_to_screen_name": "Tanghan2019",
+      "in_reply_to_status_id": 1407817923775762434,
+      "in_reply_to_user_id": 1198224804760829960,
+      "lang": "zh",
+      "quoted_status": {
+        "created_at": "Wed Jun 23 21:49:08 +0000 2021",
+        "favorite_count": 4,
+        "full_text": "高胜寒的烤鸭店向联帮政府申请小企业疫情救助贷款高达2百多万美金,\n全美餐馆业申请疫情救助贷款平均获得$129,294，比烤鸭店低90%\n如果欺骗联邦政府，该当何罪?\n联邦资金是纳税人的钱，我们有权责问\nPeking Gourmet Inn received 2 PPP loans totaling $2.24M https://t.co/AIFfvVZda2 #FederalPay #PPP",
+        "hashtags": [
+          {
+            "text": "FederalPay"
+          },
+          {
+            "text": "PPP"
+          }
+        ],
+        "id": 1407818028872441859,
+        "id_str": "1407818028872441859",
+        "lang": "zh",
+        "retweet_count": 2,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "urls": [
+          {
+            "expanded_url": "http://federalpay.org/paycheck-protection-program/peking-gourmet-inn-inc-falls-church-va",
+            "url": "https://t.co/AIFfvVZda2"
+          }
+        ],
+        "user": {
+          "id": 1284363240974082048,
+          "id_str": "1284363240974082048"
+        },
+        "user_mentions": []
+      },
+      "quoted_status_id": 1407818028872441859,
+      "quoted_status_id_str": "1407818028872441859",
+      "retweet_count": 2,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "urls": [
+        {
+          "expanded_url": "https://twitter.com/Yangguang_USA/status/1407818028872441859",
+          "url": "https://t.co/YI44ImpCoo"
+        }
+      ],
+      "user": {
+        "id": 1284363240974082048,
+        "screen_name": "Yangguang_USA"
+      },
+      "user_mentions": [
+        {
+          "id": 1198224804760829960,
+          "id_str": "1198224804760829960",
+          "name": "唐汉",
+          "screen_name": "Tanghan2019"
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/Yangguang_USA/status/1407818028872441859",
+        "url": "https://t.co/YI44ImpCoo"
+      }
+    ],
+    "user": {
+      "id": 1284363240974082048,
+      "screen_name": "Yangguang_USA"
+    },
+    "user_mentions": [
+      {
+        "id": 1284363240974082048,
+        "id_str": "1284363240974082048",
+        "name": "杨光",
+        "screen_name": "Yangguang_USA"
+      },
+      {
+        "id": 1198224804760829960,
+        "id_str": "1198224804760829960",
+        "name": "唐汉",
+        "screen_name": "Tanghan2019"
+      }
+    ]
+  },
+  "1407914548133130241": {
+    "created_at": "Thu Jun 24 04:12:40 +0000 2021",
+    "full_text": "RT @Yangguang_USA: @gloriousgobid @Tanghan2019 谢谢提醒，每位员工的疫情年薪两年加起来不止8万。既然高胜寒向政府申报了疫情期间70名员工，就广为告知，让他们知道。\n牛逼哄哄的鸭老板，竟然向联邦政府申请小企业疫情援助。纳税人都可以去免…",
+    "hashtags": [],
+    "id_str": "1407914548133130241",
+    "lang": "zh",
+    "retweet_count": 1,
+    "retweeted_status": {
+      "created_at": "Wed Jun 23 23:02:15 +0000 2021",
+      "favorite_count": 1,
+      "full_text": "@gloriousgobid @Tanghan2019 谢谢提醒，每位员工的疫情年薪两年加起来不止8万。既然高胜寒向政府申报了疫情期间70名员工，就广为告知，让他们知道。\n牛逼哄哄的鸭老板，竟然向联邦政府申请小企业疫情援助。纳税人都可以去免费吃喝",
+      "hashtags": [],
+      "id": 1407836429997068294,
+      "id_str": "1407836429997068294",
+      "in_reply_to_screen_name": "gloriousgobid",
+      "in_reply_to_status_id": 1407829999873368066,
+      "in_reply_to_user_id": 90616130,
+      "lang": "zh",
+      "retweet_count": 1,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "urls": [],
+      "user": {
+        "id": 1284363240974082048,
+        "screen_name": "Yangguang_USA"
+      },
+      "user_mentions": [
+        {
+          "id": 90616130,
+          "id_str": "90616130",
+          "name": "匪夷所思🇨🇦🇺🇸🇲🇳",
+          "screen_name": "gloriousgobid"
+        },
+        {
+          "id": 1198224804760829960,
+          "id_str": "1198224804760829960",
+          "name": "唐汉",
+          "screen_name": "Tanghan2019"
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "urls": [],
+    "user": {
+      "id": 1284363240974082048,
+      "screen_name": "Yangguang_USA"
+    },
+    "user_mentions": [
+      {
+        "id": 1284363240974082048,
+        "id_str": "1284363240974082048",
+        "name": "杨光",
+        "screen_name": "Yangguang_USA"
+      },
+      {
+        "id": 90616130,
+        "id_str": "90616130",
+        "name": "匪夷所思🇨🇦🇺🇸🇲🇳",
+        "screen_name": "gloriousgobid"
+      },
+      {
+        "id": 1198224804760829960,
+        "id_str": "1198224804760829960",
+        "name": "唐汉",
+        "screen_name": "Tanghan2019"
+      }
+    ]
+  },
+  "1407914314095153152": {
+    "created_at": "Thu Jun 24 04:11:44 +0000 2021",
+    "full_text": "RT @Yangguang_USA: @Tanghan2019 高胜寒的烤鸭店Peking Gourmet Inn向美国联帮政府申请了小企业疫情贷款高达2百多万美金\n2020年4月：$934,907\n2021年1月：$1,308,870\n申报疫情期间有员工70人\n那么每位员工薪…",
+    "hashtags": [],
+    "id_str": "1407914314095153152",
+    "lang": "zh",
+    "retweet_count": 2,
+    "retweeted_status": {
+      "created_at": "Wed Jun 23 22:22:54 +0000 2021",
+      "favorite_count": 3,
+      "full_text": "@Tanghan2019 高胜寒的烤鸭店Peking Gourmet Inn向美国联帮政府申请了小企业疫情贷款高达2百多万美金\n2020年4月：$934,907\n2021年1月：$1,308,870\n申报疫情期间有员工70人\n那么每位员工薪水应是$89,751\n请转告员工是否收到8万多\n全美餐馆业申报疫情期间22名员工，平均获得联邦贷款$129,294，比烤鸭店低90%\n公共信息: https://t.co/tJodgz4FSA",
+      "hashtags": [],
+      "id": 1407826527308304391,
+      "id_str": "1407826527308304391",
+      "in_reply_to_screen_name": "Tanghan2019",
+      "in_reply_to_status_id": 1407824108155408387,
+      "in_reply_to_user_id": 1198224804760829960,
+      "lang": "zh",
+      "media": [
+        {
+          "display_url": "pic.twitter.com/tJodgz4FSA",
+          "expanded_url": "https://twitter.com/Yangguang_USA/status/1407826527308304391/photo/1",
+          "id": 1407825924926541826,
+          "media_url": "http://pbs.twimg.com/media/E4maOEDVEAInXK-.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E4maOEDVEAInXK-.jpg",
+          "type": "photo",
+          "url": "https://t.co/tJodgz4FSA"
+        },
+        {
+          "display_url": "pic.twitter.com/tJodgz4FSA",
+          "expanded_url": "https://twitter.com/Yangguang_USA/status/1407826527308304391/photo/1",
+          "id": 1407825982996697091,
+          "media_url": "http://pbs.twimg.com/media/E4maRcYVUAMii5R.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E4maRcYVUAMii5R.jpg",
+          "type": "photo",
+          "url": "https://t.co/tJodgz4FSA"
+        },
+        {
+          "display_url": "pic.twitter.com/tJodgz4FSA",
+          "expanded_url": "https://twitter.com/Yangguang_USA/status/1407826527308304391/photo/1",
+          "id": 1407826024981622784,
+          "media_url": "http://pbs.twimg.com/media/E4maT4yUcAAfzCf.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E4maT4yUcAAfzCf.jpg",
+          "type": "photo",
+          "url": "https://t.co/tJodgz4FSA"
+        },
+        {
+          "display_url": "pic.twitter.com/tJodgz4FSA",
+          "expanded_url": "https://twitter.com/Yangguang_USA/status/1407826527308304391/photo/1",
+          "id": 1407826062969503749,
+          "media_url": "http://pbs.twimg.com/media/E4maWGTVgAUSDIm.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E4maWGTVgAUSDIm.jpg",
+          "type": "photo",
+          "url": "https://t.co/tJodgz4FSA"
+        }
+      ],
+      "retweet_count": 2,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "urls": [],
+      "user": {
+        "id": 1284363240974082048,
+        "screen_name": "Yangguang_USA"
+      },
+      "user_mentions": [
+        {
+          "id": 1198224804760829960,
+          "id_str": "1198224804760829960",
+          "name": "唐汉",
+          "screen_name": "Tanghan2019"
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "urls": [],
+    "user": {
+      "id": 1284363240974082048,
+      "screen_name": "Yangguang_USA"
+    },
+    "user_mentions": [
+      {
+        "id": 1284363240974082048,
+        "id_str": "1284363240974082048",
+        "name": "杨光",
+        "screen_name": "Yangguang_USA"
+      },
+      {
+        "id": 1198224804760829960,
+        "id_str": "1198224804760829960",
+        "name": "唐汉",
+        "screen_name": "Tanghan2019"
+      }
+    ]
+  },
+  "1407914130305024000": {
+    "created_at": "Thu Jun 24 04:11:01 +0000 2021",
+    "full_text": "RT @Yangguang_USA: 高胜寒的烤鸭店向联帮政府申请小企业疫情救助贷款高达2百多万美金,\n全美餐馆业申请疫情救助贷款平均获得$129,294，比烤鸭店低90%\n如果欺骗联邦政府，该当何罪?\n联邦资金是纳税人的钱，我们有权责问\nPeking Gourmet Inn…",
+    "hashtags": [],
+    "id_str": "1407914130305024000",
+    "lang": "zh",
+    "retweet_count": 2,
+    "retweeted_status": {
+      "created_at": "Wed Jun 23 21:49:08 +0000 2021",
+      "favorite_count": 4,
+      "full_text": "高胜寒的烤鸭店向联帮政府申请小企业疫情救助贷款高达2百多万美金,\n全美餐馆业申请疫情救助贷款平均获得$129,294，比烤鸭店低90%\n如果欺骗联邦政府，该当何罪?\n联邦资金是纳税人的钱，我们有权责问\nPeking Gourmet Inn received 2 PPP loans totaling $2.24M https://t.co/AIFfvVZda2 #FederalPay #PPP",
+      "hashtags": [
+        {
+          "text": "FederalPay"
+        },
+        {
+          "text": "PPP"
+        }
+      ],
+      "id": 1407818028872441859,
+      "id_str": "1407818028872441859",
+      "lang": "zh",
+      "retweet_count": 2,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "urls": [
+        {
+          "expanded_url": "http://federalpay.org/paycheck-protection-program/peking-gourmet-inn-inc-falls-church-va",
+          "url": "https://t.co/AIFfvVZda2"
+        }
+      ],
+      "user": {
+        "id": 1284363240974082048,
+        "screen_name": "Yangguang_USA"
+      },
+      "user_mentions": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "urls": [],
+    "user": {
+      "id": 1284363240974082048,
+      "screen_name": "Yangguang_USA"
+    },
+    "user_mentions": [
+      {
+        "id": 1284363240974082048,
+        "id_str": "1284363240974082048",
+        "name": "杨光",
+        "screen_name": "Yangguang_USA"
+      }
+    ]
+  },
   "1407837917326700545": {
     "created_at": "Wed Jun 23 23:08:10 +0000 2021",
     "full_text": "RT @HeQinglian: @Yuanxing0722 那是精神病，非正常人类，福利喂了几十年炼成的垃圾。",
@@ -8,7 +2296,7 @@
     "retweet_count": 1,
     "retweeted_status": {
       "created_at": "Sun Jun 20 17:54:24 +0000 2021",
-      "favorite_count": 102,
+      "favorite_count": 104,
       "full_text": "@Yuanxing0722 那是精神病，非正常人类，福利喂了几十年炼成的垃圾。",
       "hashtags": [],
       "id": 1406671790571728896,
@@ -109,73 +2397,6 @@
       }
     ]
   },
-  "1407836510339010561": {
-    "created_at": "Wed Jun 23 23:02:35 +0000 2021",
-    "full_text": "RT @Yangguang_USA: @gloriousgobid @Tanghan2019 谢谢提醒，每位员工的疫情年薪两年加起来不止8万。既然高胜寒向政府申报了疫情期间70名员工，就广为告知，让他们知道。\n牛逼哄哄的鸭老板，竟然向联邦政府申请小企业疫情援助。纳税人都可以去免…",
-    "hashtags": [],
-    "id_str": "1407836510339010561",
-    "lang": "zh",
-    "retweet_count": 1,
-    "retweeted_status": {
-      "created_at": "Wed Jun 23 23:02:15 +0000 2021",
-      "favorite_count": 1,
-      "full_text": "@gloriousgobid @Tanghan2019 谢谢提醒，每位员工的疫情年薪两年加起来不止8万。既然高胜寒向政府申报了疫情期间70名员工，就广为告知，让他们知道。\n牛逼哄哄的鸭老板，竟然向联邦政府申请小企业疫情援助。纳税人都可以去免费吃喝",
-      "hashtags": [],
-      "id": 1407836429997068294,
-      "id_str": "1407836429997068294",
-      "in_reply_to_screen_name": "gloriousgobid",
-      "in_reply_to_status_id": 1407829999873368066,
-      "in_reply_to_user_id": 90616130,
-      "lang": "zh",
-      "retweet_count": 1,
-      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "urls": [],
-      "user": {
-        "id": 1284363240974082048,
-        "screen_name": "Yangguang_USA"
-      },
-      "user_mentions": [
-        {
-          "id": 90616130,
-          "id_str": "90616130",
-          "name": "匪夷所思🇨🇦🇺🇸🇲🇳",
-          "screen_name": "gloriousgobid"
-        },
-        {
-          "id": 1198224804760829960,
-          "id_str": "1198224804760829960",
-          "name": "唐汉",
-          "screen_name": "Tanghan2019"
-        }
-      ]
-    },
-    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "urls": [],
-    "user": {
-      "id": 1284363240974082048,
-      "screen_name": "Yangguang_USA"
-    },
-    "user_mentions": [
-      {
-        "id": 1284363240974082048,
-        "id_str": "1284363240974082048",
-        "name": "杨光",
-        "screen_name": "Yangguang_USA"
-      },
-      {
-        "id": 90616130,
-        "id_str": "90616130",
-        "name": "匪夷所思🇨🇦🇺🇸🇲🇳",
-        "screen_name": "gloriousgobid"
-      },
-      {
-        "id": 1198224804760829960,
-        "id_str": "1198224804760829960",
-        "name": "唐汉",
-        "screen_name": "Tanghan2019"
-      }
-    ]
-  },
   "1407836429997068294": {
     "created_at": "Wed Jun 23 23:02:15 +0000 2021",
     "favorite_count": 1,
@@ -208,101 +2429,9 @@
       }
     ]
   },
-  "1407834128423133187": {
-    "created_at": "Wed Jun 23 22:53:07 +0000 2021",
-    "full_text": "RT @Yangguang_USA: @Tanghan2019 高胜寒的烤鸭店Peking Gourmet Inn向美国联帮政府申请了小企业疫情贷款高达2百多万美金\n2020年4月：$934,907\n2021年1月：$1,308,870\n申报疫情期间有员工70人\n那么每位员工薪…",
-    "hashtags": [],
-    "id_str": "1407834128423133187",
-    "lang": "zh",
-    "retweet_count": 1,
-    "retweeted_status": {
-      "created_at": "Wed Jun 23 22:22:54 +0000 2021",
-      "favorite_count": 1,
-      "full_text": "@Tanghan2019 高胜寒的烤鸭店Peking Gourmet Inn向美国联帮政府申请了小企业疫情贷款高达2百多万美金\n2020年4月：$934,907\n2021年1月：$1,308,870\n申报疫情期间有员工70人\n那么每位员工薪水应是$89,751\n请转告员工是否收到8万多\n全美餐馆业申报疫情期间22名员工，平均获得联邦贷款$129,294，比烤鸭店低90%\n公共信息: https://t.co/tJodgz4FSA",
-      "hashtags": [],
-      "id": 1407826527308304391,
-      "id_str": "1407826527308304391",
-      "in_reply_to_screen_name": "Tanghan2019",
-      "in_reply_to_status_id": 1407824108155408387,
-      "in_reply_to_user_id": 1198224804760829960,
-      "lang": "zh",
-      "media": [
-        {
-          "display_url": "pic.twitter.com/tJodgz4FSA",
-          "expanded_url": "https://twitter.com/Yangguang_USA/status/1407826527308304391/photo/1",
-          "id": 1407825924926541826,
-          "media_url": "http://pbs.twimg.com/media/E4maOEDVEAInXK-.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/E4maOEDVEAInXK-.jpg",
-          "type": "photo",
-          "url": "https://t.co/tJodgz4FSA"
-        },
-        {
-          "display_url": "pic.twitter.com/tJodgz4FSA",
-          "expanded_url": "https://twitter.com/Yangguang_USA/status/1407826527308304391/photo/1",
-          "id": 1407825982996697091,
-          "media_url": "http://pbs.twimg.com/media/E4maRcYVUAMii5R.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/E4maRcYVUAMii5R.jpg",
-          "type": "photo",
-          "url": "https://t.co/tJodgz4FSA"
-        },
-        {
-          "display_url": "pic.twitter.com/tJodgz4FSA",
-          "expanded_url": "https://twitter.com/Yangguang_USA/status/1407826527308304391/photo/1",
-          "id": 1407826024981622784,
-          "media_url": "http://pbs.twimg.com/media/E4maT4yUcAAfzCf.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/E4maT4yUcAAfzCf.jpg",
-          "type": "photo",
-          "url": "https://t.co/tJodgz4FSA"
-        },
-        {
-          "display_url": "pic.twitter.com/tJodgz4FSA",
-          "expanded_url": "https://twitter.com/Yangguang_USA/status/1407826527308304391/photo/1",
-          "id": 1407826062969503749,
-          "media_url": "http://pbs.twimg.com/media/E4maWGTVgAUSDIm.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/E4maWGTVgAUSDIm.jpg",
-          "type": "photo",
-          "url": "https://t.co/tJodgz4FSA"
-        }
-      ],
-      "retweet_count": 1,
-      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "urls": [],
-      "user": {
-        "id": 1284363240974082048,
-        "screen_name": "Yangguang_USA"
-      },
-      "user_mentions": [
-        {
-          "id": 1198224804760829960,
-          "id_str": "1198224804760829960",
-          "name": "唐汉",
-          "screen_name": "Tanghan2019"
-        }
-      ]
-    },
-    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "urls": [],
-    "user": {
-      "id": 1284363240974082048,
-      "screen_name": "Yangguang_USA"
-    },
-    "user_mentions": [
-      {
-        "id": 1284363240974082048,
-        "id_str": "1284363240974082048",
-        "name": "杨光",
-        "screen_name": "Yangguang_USA"
-      },
-      {
-        "id": 1198224804760829960,
-        "id_str": "1198224804760829960",
-        "name": "唐汉",
-        "screen_name": "Tanghan2019"
-      }
-    ]
-  },
   "1407831120360603650": {
     "created_at": "Wed Jun 23 22:41:09 +0000 2021",
+    "favorite_count": 1,
     "full_text": "@gloriousgobid @Tanghan2019 2百多万是分两年得到的，\n2020年4月：$934,907\n2021年1月：$1,308,870\n烤鸭店员工的年薪分析是指一年，数据是网上的公共信息，不是我计算的",
     "hashtags": [],
     "id_str": "1407831120360603650",
@@ -368,6 +2497,7 @@
   },
   "1407827897067270144": {
     "created_at": "Wed Jun 23 22:28:21 +0000 2021",
+    "favorite_count": 3,
     "full_text": "@Tanghan2019 高胜寒在烤鸭店招待挺锅团队，法官知道吗？\n\n另一条公共信息：https://t.co/YI44ImpCoo",
     "hashtags": [],
     "id_str": "1407827897067270144",
@@ -377,7 +2507,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Wed Jun 23 21:49:08 +0000 2021",
-      "favorite_count": 2,
+      "favorite_count": 4,
       "full_text": "高胜寒的烤鸭店向联帮政府申请小企业疫情救助贷款高达2百多万美金,\n全美餐馆业申请疫情救助贷款平均获得$129,294，比烤鸭店低90%\n如果欺骗联邦政府，该当何罪?\n联邦资金是纳税人的钱，我们有权责问\nPeking Gourmet Inn received 2 PPP loans totaling $2.24M https://t.co/AIFfvVZda2 #FederalPay #PPP",
       "hashtags": [
         {
@@ -390,7 +2520,7 @@
       "id": 1407818028872441859,
       "id_str": "1407818028872441859",
       "lang": "zh",
-      "retweet_count": 1,
+      "retweet_count": 2,
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "urls": [
         {
@@ -406,6 +2536,7 @@
     },
     "quoted_status_id": 1407818028872441859,
     "quoted_status_id_str": "1407818028872441859",
+    "retweet_count": 2,
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
     "urls": [
       {
@@ -428,7 +2559,7 @@
   },
   "1407826527308304391": {
     "created_at": "Wed Jun 23 22:22:54 +0000 2021",
-    "favorite_count": 1,
+    "favorite_count": 3,
     "full_text": "@Tanghan2019 高胜寒的烤鸭店Peking Gourmet Inn向美国联帮政府申请了小企业疫情贷款高达2百多万美金\n2020年4月：$934,907\n2021年1月：$1,308,870\n申报疫情期间有员工70人\n那么每位员工薪水应是$89,751\n请转告员工是否收到8万多\n全美餐馆业申报疫情期间22名员工，平均获得联邦贷款$129,294，比烤鸭店低90%\n公共信息: https://t.co/tJodgz4FSA",
     "hashtags": [],
     "id_str": "1407826527308304391",
@@ -474,7 +2605,7 @@
         "url": "https://t.co/tJodgz4FSA"
       }
     ],
-    "retweet_count": 1,
+    "retweet_count": 2,
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
     "urls": [],
     "user": {
@@ -487,57 +2618,6 @@
         "id_str": "1198224804760829960",
         "name": "唐汉",
         "screen_name": "Tanghan2019"
-      }
-    ]
-  },
-  "1407823383832666114": {
-    "created_at": "Wed Jun 23 22:10:25 +0000 2021",
-    "full_text": "RT @Yangguang_USA: 高胜寒的烤鸭店向联帮政府申请小企业疫情救助贷款高达2百多万美金,\n全美餐馆业申请疫情救助贷款平均获得$129,294，比烤鸭店低90%\n如果欺骗联邦政府，该当何罪?\n联邦资金是纳税人的钱，我们有权责问\nPeking Gourmet Inn…",
-    "hashtags": [],
-    "id_str": "1407823383832666114",
-    "lang": "zh",
-    "retweet_count": 1,
-    "retweeted_status": {
-      "created_at": "Wed Jun 23 21:49:08 +0000 2021",
-      "favorite_count": 2,
-      "full_text": "高胜寒的烤鸭店向联帮政府申请小企业疫情救助贷款高达2百多万美金,\n全美餐馆业申请疫情救助贷款平均获得$129,294，比烤鸭店低90%\n如果欺骗联邦政府，该当何罪?\n联邦资金是纳税人的钱，我们有权责问\nPeking Gourmet Inn received 2 PPP loans totaling $2.24M https://t.co/AIFfvVZda2 #FederalPay #PPP",
-      "hashtags": [
-        {
-          "text": "FederalPay"
-        },
-        {
-          "text": "PPP"
-        }
-      ],
-      "id": 1407818028872441859,
-      "id_str": "1407818028872441859",
-      "lang": "zh",
-      "retweet_count": 1,
-      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "urls": [
-        {
-          "expanded_url": "http://federalpay.org/paycheck-protection-program/peking-gourmet-inn-inc-falls-church-va",
-          "url": "https://t.co/AIFfvVZda2"
-        }
-      ],
-      "user": {
-        "id": 1284363240974082048,
-        "screen_name": "Yangguang_USA"
-      },
-      "user_mentions": []
-    },
-    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "urls": [],
-    "user": {
-      "id": 1284363240974082048,
-      "screen_name": "Yangguang_USA"
-    },
-    "user_mentions": [
-      {
-        "id": 1284363240974082048,
-        "id_str": "1284363240974082048",
-        "name": "杨光",
-        "screen_name": "Yangguang_USA"
       }
     ]
   },
@@ -1476,7 +3556,7 @@
   },
   "1407818028872441859": {
     "created_at": "Wed Jun 23 21:49:08 +0000 2021",
-    "favorite_count": 2,
+    "favorite_count": 4,
     "full_text": "高胜寒的烤鸭店向联帮政府申请小企业疫情救助贷款高达2百多万美金,\n全美餐馆业申请疫情救助贷款平均获得$129,294，比烤鸭店低90%\n如果欺骗联邦政府，该当何罪?\n联邦资金是纳税人的钱，我们有权责问\nPeking Gourmet Inn received 2 PPP loans totaling $2.24M https://t.co/AIFfvVZda2 #FederalPay #PPP",
     "hashtags": [
       {
@@ -1488,7 +3568,7 @@
     ],
     "id_str": "1407818028872441859",
     "lang": "zh",
-    "retweet_count": 1,
+    "retweet_count": 2,
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
     "urls": [
       {
@@ -1737,6 +3817,7 @@
     },
     "quoted_status_id": 1407066860802101294,
     "quoted_status_id_str": "1407066860802101294",
+    "retweet_count": 1,
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
     "urls": [
       {
@@ -2034,109 +4115,6 @@
         "id_str": "126798663",
         "name": "He Qinglian",
         "screen_name": "HeQinglian"
-      }
-    ]
-  },
-  "1407066887423348749": {
-    "created_at": "Mon Jun 21 20:04:22 +0000 2021",
-    "full_text": "RT @Yangguang_USA: @mimi54045877 @Elina66071271 @Watchin83011245 @Anncky21 @turbococo888818 李洪宽和黛米变本加厉了，我爆一条小消息再静观。根据公共信息，推特上有一个经常抹黑魏黄的人，名叫…",
-    "hashtags": [],
-    "id_str": "1407066887423348749",
-    "lang": "zh",
-    "retweet_count": 1,
-    "retweeted_status": {
-      "created_at": "Mon Jun 21 20:04:16 +0000 2021",
-      "favorite_count": 1,
-      "full_text": "@mimi54045877 @Elina66071271 @Watchin83011245 @Anncky21 @turbococo888818 李洪宽和黛米变本加厉了，我爆一条小消息再静观。根据公共信息，推特上有一个经常抹黑魏黄的人，名叫 Vicky Wang Tsui，女，51岁，地址（省略）。\n李洪宽和黛米若不停止攻击抹黑谩骂，我还有猛料，徐老板自己看着办吧，你豢养的两条狗你管不住吗？",
-      "hashtags": [],
-      "id": 1407066860802101294,
-      "id_str": "1407066860802101294",
-      "in_reply_to_screen_name": "mimi54045877",
-      "in_reply_to_status_id": 1406646608490504192,
-      "in_reply_to_user_id": 1283097670718906368,
-      "lang": "zh",
-      "retweet_count": 1,
-      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "urls": [],
-      "user": {
-        "id": 1284363240974082048,
-        "screen_name": "Yangguang_USA"
-      },
-      "user_mentions": [
-        {
-          "id": 1283097670718906368,
-          "id_str": "1283097670718906368",
-          "name": "mimi",
-          "screen_name": "mimi54045877"
-        },
-        {
-          "id": 1261885314995380226,
-          "id_str": "1261885314995380226",
-          "name": "Elina",
-          "screen_name": "Elina66071271"
-        },
-        {
-          "id": 1397174952307085312,
-          "id_str": "1397174952307085312",
-          "name": "Watching🤓",
-          "screen_name": "Watchin83011245"
-        },
-        {
-          "id": 1388624188492091396,
-          "id_str": "1388624188492091396",
-          "name": "Anncky2",
-          "screen_name": "Anncky21"
-        },
-        {
-          "id": 1250336059793092608,
-          "id_str": "1250336059793092608",
-          "name": "Coco的马甲 Corruption China 4/4",
-          "screen_name": "turbococo888818"
-        }
-      ]
-    },
-    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "urls": [],
-    "user": {
-      "id": 1284363240974082048,
-      "screen_name": "Yangguang_USA"
-    },
-    "user_mentions": [
-      {
-        "id": 1284363240974082048,
-        "id_str": "1284363240974082048",
-        "name": "杨光",
-        "screen_name": "Yangguang_USA"
-      },
-      {
-        "id": 1283097670718906368,
-        "id_str": "1283097670718906368",
-        "name": "mimi",
-        "screen_name": "mimi54045877"
-      },
-      {
-        "id": 1261885314995380226,
-        "id_str": "1261885314995380226",
-        "name": "Elina",
-        "screen_name": "Elina66071271"
-      },
-      {
-        "id": 1397174952307085312,
-        "id_str": "1397174952307085312",
-        "name": "Watching🤓",
-        "screen_name": "Watchin83011245"
-      },
-      {
-        "id": 1388624188492091396,
-        "id_str": "1388624188492091396",
-        "name": "Anncky2",
-        "screen_name": "Anncky21"
-      },
-      {
-        "id": 1250336059793092608,
-        "id_str": "1250336059793092608",
-        "name": "Coco的马甲 Corruption China 4/4",
-        "screen_name": "turbococo888818"
       }
     ]
   },
@@ -2458,7 +4436,7 @@
     "retweet_count": 21,
     "retweeted_status": {
       "created_at": "Sun Jun 20 22:37:12 +0000 2021",
-      "favorite_count": 125,
+      "favorite_count": 128,
       "full_text": "中共政治运动经常宣判思想犯罪分子政治死刑：“由于放松思想与世界观的改造……，误入歧途，走上与党与人民为敌的道路。”\n能用误入歧途来评论不同观点与不同价值观的人，只能说滕彪从去年以来自我封神。\n滕彪老弟，你因何变得如此自我感觉良好？我有兴趣听听。 https://t.co/BEzDe3zXQo",
       "hashtags": [],
       "id": 1406742962281852931,
@@ -2466,7 +4444,7 @@
       "lang": "zh",
       "quoted_status": {
         "created_at": "Sun Jun 20 17:17:36 +0000 2021",
-        "favorite_count": 628,
+        "favorite_count": 632,
         "full_text": "今天看到滕彪：走入歧途的中国自由主义，将我等都列入走入歧途。\n真正走入歧途的是他。\n有机会，我想问他，他喜欢纽约曼哈顿那位变态民主党议员候选人么？他喜欢BLM来他家抢劫么？他喜欢子女吸麻么？\n如果他愿意在推上回答，也欢迎。",
         "hashtags": [],
         "id": 1406662529967919112,
@@ -2573,16 +4551,16 @@
     "hashtags": [],
     "id_str": "1406713770064244742",
     "lang": "zh",
-    "retweet_count": 335,
+    "retweet_count": 337,
     "retweeted_status": {
       "created_at": "Sun Jun 20 17:34:28 +0000 2021",
-      "favorite_count": 1831,
+      "favorite_count": 1834,
       "full_text": "华尔街日报今发长篇专访，报道去年7月驾气泵船从香港逃到台湾，今年初抵美的5名青年的反共故事：他们参加抗共活动，遭中共追捕。原想留在台湾，但被蔡英文政府拒绝，说会给中共攻台提供口实，而且台湾至今不通过《庇护法》。最后是川普政府运作，把5人接来美国。幸福的秘密是自由，自由的秘密是勇敢！",
       "hashtags": [],
       "id": 1406666773437419524,
       "id_str": "1406666773437419524",
       "lang": "zh",
-      "retweet_count": 335,
+      "retweet_count": 337,
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "urls": [],
       "user": {
@@ -2615,7 +4593,7 @@
     "retweet_count": 74,
     "retweeted_status": {
       "created_at": "Sun Jun 20 17:17:36 +0000 2021",
-      "favorite_count": 628,
+      "favorite_count": 632,
       "full_text": "今天看到滕彪：走入歧途的中国自由主义，将我等都列入走入歧途。\n真正走入歧途的是他。\n有机会，我想问他，他喜欢纽约曼哈顿那位变态民主党议员候选人么？他喜欢BLM来他家抢劫么？他喜欢子女吸麻么？\n如果他愿意在推上回答，也欢迎。",
       "hashtags": [],
       "id": 1406662529967919112,
@@ -4229,7 +6207,7 @@
     "full_text": "@helen0080 去年下半年李洪宽发推文吹嘘过跟高胜寒是朋友，吃饭不用付钱，还发过他一个人在烤鸭店大吃大喝的照片，我记得很清楚照片是在烤鸭店，就他一人，大概是疫情没有顾客，或者是关店的时间",
     "hashtags": [],
     "id_str": "1406348851917643776",
-    "in_reply_to_screen_name": "helen0080",
+    "in_reply_to_screen_name": "helen005566",
     "in_reply_to_status_id": 1406344656539979776,
     "in_reply_to_user_id": 1163258679371526144,
     "lang": "zh",
@@ -4239,14 +6217,7 @@
       "id": 1284363240974082048,
       "screen_name": "Yangguang_USA"
     },
-    "user_mentions": [
-      {
-        "id": 1163258679371526144,
-        "id_str": "1163258679371526144",
-        "name": "小丸子",
-        "screen_name": "helen0080"
-      }
-    ]
+    "user_mentions": []
   },
   "1406346509738676226": {
     "created_at": "Sat Jun 19 20:21:51 +0000 2021",
@@ -6270,12 +8241,6 @@
         "screen_name": "3mOpuPiZzOJUZFW"
       },
       {
-        "id": 1388624188492091396,
-        "id_str": "1388624188492091396",
-        "name": "Anncky2",
-        "screen_name": "Anncky21"
-      },
-      {
         "id": 1250336059793092608,
         "id_str": "1250336059793092608",
         "name": "Coco的马甲 Corruption China 4/4",
@@ -6478,12 +8443,6 @@
         "screen_name": "mimi54045877"
       },
       {
-        "id": 1388624188492091396,
-        "id_str": "1388624188492091396",
-        "name": "Anncky2",
-        "screen_name": "Anncky21"
-      },
-      {
         "id": 1250336059793092608,
         "id_str": "1250336059793092608",
         "name": "Coco的马甲 Corruption China 4/4",
@@ -6518,12 +8477,6 @@
         "id_str": "1283097670718906368",
         "name": "mimi",
         "screen_name": "mimi54045877"
-      },
-      {
-        "id": 1388624188492091396,
-        "id_str": "1388624188492091396",
-        "name": "Anncky2",
-        "screen_name": "Anncky21"
       },
       {
         "id": 1250336059793092608,
@@ -6583,12 +8536,6 @@
           "screen_name": "mimi54045877"
         },
         {
-          "id": 1388624188492091396,
-          "id_str": "1388624188492091396",
-          "name": "Anncky2",
-          "screen_name": "Anncky21"
-        },
-        {
           "id": 1250336059793092608,
           "id_str": "1250336059793092608",
           "name": "Coco的马甲 Corruption China 4/4",
@@ -6620,18 +8567,6 @@
         "id_str": "1283097670718906368",
         "name": "mimi",
         "screen_name": "mimi54045877"
-      },
-      {
-        "id": 1388624188492091396,
-        "id_str": "1388624188492091396",
-        "name": "Anncky2",
-        "screen_name": "Anncky21"
-      },
-      {
-        "id": 1250336059793092608,
-        "id_str": "1250336059793092608",
-        "name": "Coco的马甲 Corruption China 4/4",
-        "screen_name": "turbococo888818"
       }
     ]
   },
@@ -6692,12 +8627,6 @@
           "id_str": "1397174952307085312",
           "name": "Watching🤓",
           "screen_name": "Watchin83011245"
-        },
-        {
-          "id": 1388624188492091396,
-          "id_str": "1388624188492091396",
-          "name": "Anncky2",
-          "screen_name": "Anncky21"
         },
         {
           "id": 1250336059793092608,
@@ -6854,12 +8783,6 @@
         "screen_name": "mimi54045877"
       },
       {
-        "id": 1388624188492091396,
-        "id_str": "1388624188492091396",
-        "name": "Anncky2",
-        "screen_name": "Anncky21"
-      },
-      {
         "id": 1250336059793092608,
         "id_str": "1250336059793092608",
         "name": "Coco的马甲 Corruption China 4/4",
@@ -6916,12 +8839,6 @@
         "id_str": "1397174952307085312",
         "name": "Watching🤓",
         "screen_name": "Watchin83011245"
-      },
-      {
-        "id": 1388624188492091396,
-        "id_str": "1388624188492091396",
-        "name": "Anncky2",
-        "screen_name": "Anncky21"
       },
       {
         "id": 1250336059793092608,
@@ -6989,6 +8906,7 @@
     "retweet_count": 1,
     "retweeted_status": {
       "created_at": "Thu Jun 17 21:35:33 +0000 2021",
+      "favorite_count": 1,
       "full_text": "@3mOpuPiZzOJUZFW @mimi54045877 @Anncky21 @turbococo888818 我没有骂她，是她不接受我的停战建议。\n网络信息，高胜寒宴请挺郭人士，又赞助反郭人士。\n刘想博得他同情和赞助，你说的这种可能性，可能有。\n最先说民运人士白吃白喝\"碰瓷骗饭“的是Anncky-Watching，她骂的是赵岩蔡秀玲，后来被张欣萍广为流传，扩大为很多民运人士去吃饭不付钱，她俩为高胜寒先生树敌 https://t.co/koQ1gQRTfv",
       "hashtags": [],
       "id": 1405640283400769537,
@@ -7092,6 +9010,7 @@
   },
   "1405640283400769537": {
     "created_at": "Thu Jun 17 21:35:33 +0000 2021",
+    "favorite_count": 1,
     "full_text": "@3mOpuPiZzOJUZFW @mimi54045877 @Anncky21 @turbococo888818 我没有骂她，是她不接受我的停战建议。\n网络信息，高胜寒宴请挺郭人士，又赞助反郭人士。\n刘想博得他同情和赞助，你说的这种可能性，可能有。\n最先说民运人士白吃白喝\"碰瓷骗饭“的是Anncky-Watching，她骂的是赵岩蔡秀玲，后来被张欣萍广为流传，扩大为很多民运人士去吃饭不付钱，她俩为高胜寒先生树敌 https://t.co/koQ1gQRTfv",
     "hashtags": [],
     "id_str": "1405640283400769537",
@@ -7434,12 +9353,6 @@
         "id_str": "1283097670718906368",
         "name": "mimi",
         "screen_name": "mimi54045877"
-      },
-      {
-        "id": 1388624188492091396,
-        "id_str": "1388624188492091396",
-        "name": "Anncky2",
-        "screen_name": "Anncky21"
       },
       {
         "id": 1250336059793092608,
@@ -7891,12 +9804,6 @@
         "id_str": "1283097670718906368",
         "name": "mimi",
         "screen_name": "mimi54045877"
-      },
-      {
-        "id": 1388624188492091396,
-        "id_str": "1388624188492091396",
-        "name": "Anncky2",
-        "screen_name": "Anncky21"
       }
     ]
   },
@@ -7921,12 +9828,6 @@
         "id_str": "1397174952307085312",
         "name": "Watching🤓",
         "screen_name": "Watchin83011245"
-      },
-      {
-        "id": 1388624188492091396,
-        "id_str": "1388624188492091396",
-        "name": "Anncky2",
-        "screen_name": "Anncky21"
       }
     ]
   },
@@ -7957,12 +9858,6 @@
         "id_str": "1283097670718906368",
         "name": "mimi",
         "screen_name": "mimi54045877"
-      },
-      {
-        "id": 1388624188492091396,
-        "id_str": "1388624188492091396",
-        "name": "Anncky2",
-        "screen_name": "Anncky21"
       }
     ]
   },
@@ -7987,12 +9882,6 @@
         "id_str": "1283097670718906368",
         "name": "mimi",
         "screen_name": "mimi54045877"
-      },
-      {
-        "id": 1388624188492091396,
-        "id_str": "1388624188492091396",
-        "name": "Anncky2",
-        "screen_name": "Anncky21"
       },
       {
         "id": 1397174952307085312,
@@ -8361,17 +10250,12 @@
         "id_str": "1397174952307085312",
         "name": "Watching🤓",
         "screen_name": "Watchin83011245"
-      },
-      {
-        "id": 1163258679371526144,
-        "id_str": "1163258679371526144",
-        "name": "小丸子",
-        "screen_name": "helen0080"
       }
     ]
   },
   "1404220294038888450": {
     "created_at": "Sun Jun 13 23:33:01 +0000 2021",
+    "favorite_count": 1,
     "full_text": "高夫人,\n你先挑起高先生怼我，然后有人公开给我喂料，所以我转发了。互不道歉，扯平了。\n我拉黑你是因为你追着我骂了太久，我现在拉白你是想平息纷争。\n我曾经同情支持刘怀昭，公开和私下都骂过黄慈萍，但她不计前嫌，\n你养尊处优，何必再多事?\n请勿将网络纠纷造成的情绪带入对刘魏案的判断。\n多保重。",
     "hashtags": [],
     "id_str": "1404220294038888450",
@@ -8442,12 +10326,6 @@
         "id_str": "882380349061218304",
         "name": "真女权",
         "screen_name": "realproofread"
-      },
-      {
-        "id": 1163258679371526144,
-        "id_str": "1163258679371526144",
-        "name": "小丸子",
-        "screen_name": "helen0080"
       }
     ]
   },
@@ -11817,7 +13695,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Fri Jun 04 15:29:19 +0000 2021",
-      "favorite_count": 887,
+      "favorite_count": 886,
       "full_text": "June 4, 2010.\n#Tiananmen 🕯 https://t.co/2xoG5Q1eoQ",
       "hashtags": [
         {
@@ -12010,7 +13888,7 @@
     "lang": "en",
     "quoted_status": {
       "created_at": "Thu Jun 03 19:47:32 +0000 2021",
-      "favorite_count": 5711,
+      "favorite_count": 5707,
       "full_text": "Remember the heroes of Tiananmen. 6/4. https://t.co/zwJy4j4t6x",
       "hashtags": [],
       "id": 1400539669012570114,
@@ -12034,7 +13912,7 @@
           }
         }
       ],
-      "retweet_count": 2175,
+      "retweet_count": 2176,
       "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
       "urls": [],
       "user": {
@@ -12259,7 +14137,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Wed Jun 02 03:28:11 +0000 2021",
-      "favorite_count": 1078,
+      "favorite_count": 1077,
       "full_text": "美国保守派网刊Gateway Pundit昨引述美国生物学家Lawrence Sellin的研究说，早在2016年中共解放军南京战区王长军等人就已研制出“腺病毒7型”，并独立分离出舟山蝙蝠病毒；王还画出用病毒生物武器进攻台湾和美国的路线图。王长军被习近平授予勋章。专家说，武汉病毒就是解放军根据这2个病毒改造出来的。",
       "hashtags": [],
       "id": 1399930819062341632,
@@ -14143,7 +16021,7 @@
       {
         "id": 1281876918967472129,
         "id_str": "1281876918967472129",
-        "name": "曼曼",
+        "name": "Penny",
         "screen_name": "amandalily1107"
       },
       {
@@ -14159,7 +16037,7 @@
     "full_text": "@helen0080 @BL90942512 戴米又是金主又是打手？",
     "hashtags": [],
     "id_str": "1399209855143923716",
-    "in_reply_to_screen_name": "helen0080",
+    "in_reply_to_screen_name": "helen005566",
     "in_reply_to_status_id": 1399195784956944385,
     "in_reply_to_user_id": 1163258679371526144,
     "lang": "ja",
@@ -14170,12 +16048,6 @@
       "screen_name": "Yangguang_USA"
     },
     "user_mentions": [
-      {
-        "id": 1163258679371526144,
-        "id_str": "1163258679371526144",
-        "name": "小丸子",
-        "screen_name": "helen0080"
-      },
       {
         "id": 872634599058186242,
         "id_str": "872634599058186242",
@@ -16564,7 +18436,7 @@
       {
         "id": 3389730598,
         "id_str": "3389730598",
-        "name": "后浪炒鸡蛋",
+        "name": "后浪炒鸡蛋🎗",
         "screen_name": "houlangcjd"
       },
       {
@@ -16682,7 +18554,7 @@
       "lang": "zh",
       "quoted_status": {
         "created_at": "Fri May 28 05:43:57 +0000 2021",
-        "favorite_count": 3,
+        "favorite_count": 2,
         "full_text": "感覺某人最近確實是在帶風向，而且是中共希望的風向。\n\n比如病毒溯源，目前焦點是路徑，先證實是武毒所出來的，下一步才是源頭，自然產生或是人工製造。現在就跳出來說不可能人工製造，這就是在攪渾水。\n\n再比如把中共在新疆的種族滅絕往維漢民族矛盾上引。難道中共治下漢族就有高人一等的政治權利？ https://t.co/zj6CwO8CN1",
         "hashtags": [],
         "id": 1398153047717552133,
@@ -16690,7 +18562,6 @@
         "lang": "zh",
         "quoted_status_id": 1398138122886516740,
         "quoted_status_id_str": "1398138122886516740",
-        "retweet_count": 1,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "urls": [
           {
@@ -17377,7 +19248,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Fri May 28 08:16:00 +0000 2021",
-      "favorite_count": 236,
+      "favorite_count": 235,
       "full_text": "拜登: 我们正处于二十一世纪竞争白热化阶段。美国必须是世界第一，我们承担不了落后的后果。 https://t.co/NsmDVWnKhd",
       "hashtags": [],
       "id": 1398191311245746177,
@@ -17401,7 +19272,7 @@
           }
         }
       ],
-      "retweet_count": 36,
+      "retweet_count": 35,
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "urls": [],
       "user": {
@@ -17696,7 +19567,7 @@
         {
           "id": 882380349061218304,
           "id_str": "882380349061218304",
-          "name": "Yi",
+          "name": "真女权",
           "screen_name": "realproofread"
         },
         {
@@ -17723,7 +19594,7 @@
       {
         "id": 882380349061218304,
         "id_str": "882380349061218304",
-        "name": "Yi",
+        "name": "真女权",
         "screen_name": "realproofread"
       },
       {
@@ -17755,7 +19626,7 @@
       {
         "id": 882380349061218304,
         "id_str": "882380349061218304",
-        "name": "Yi",
+        "name": "真女权",
         "screen_name": "realproofread"
       },
       {
@@ -17881,7 +19752,7 @@
       {
         "id": 882380349061218304,
         "id_str": "882380349061218304",
-        "name": "Yi",
+        "name": "真女权",
         "screen_name": "realproofread"
       }
     ]
@@ -17897,7 +19768,7 @@
     "retweet_count": 2,
     "retweeted_status": {
       "created_at": "Thu May 27 15:50:24 +0000 2021",
-      "favorite_count": 43,
+      "favorite_count": 44,
       "full_text": "真没见过你这么厚脸皮成天追在别人屁股后面要别人反思的。你的小伙伴伊利夏提都知道反思是一种自觉行为，你要有了权力是不是也准备办个“学习班”，不按你要求反思的不准回家？ https://t.co/QgaaVJLQQS",
       "hashtags": [],
       "id": 1397943276137713666,
@@ -18333,7 +20204,7 @@
     "full_text": "@helen0080 @huang_ciping 李洪宽不敢上法庭，他的嗡嗡声不需理会，还有他的傀儡Ancky1, Anncky2, Anncky3，这些噪音都是搅混水的，视而不见拉黑就行了。",
     "hashtags": [],
     "id_str": "1397385950615900167",
-    "in_reply_to_screen_name": "helen0080",
+    "in_reply_to_screen_name": "helen005566",
     "in_reply_to_status_id": 1397382345032822786,
     "in_reply_to_user_id": 1163258679371526144,
     "lang": "zh",
@@ -18344,12 +20215,6 @@
       "screen_name": "Yangguang_USA"
     },
     "user_mentions": [
-      {
-        "id": 1163258679371526144,
-        "id_str": "1163258679371526144",
-        "name": "小丸子",
-        "screen_name": "helen0080"
-      },
       {
         "id": 3830160917,
         "id_str": "3830160917",
@@ -18564,7 +20429,7 @@
       {
         "id": 882380349061218304,
         "id_str": "882380349061218304",
-        "name": "Yi",
+        "name": "真女权",
         "screen_name": "realproofread"
       },
       {
@@ -18715,6 +20580,38 @@
     "hashtags": [],
     "id_str": "1397290288314347523",
     "lang": "zh",
+    "quoted_status": {
+      "created_at": "Sun May 23 13:43:20 +0000 2021",
+      "favorite_count": 2,
+      "full_text": "@huang_ciping 謝謝，請看：中共安全部丑陋的美人计 https://t.co/UZ17SXj097",
+      "hashtags": [],
+      "id": 1396461750246154240,
+      "id_str": "1396461750246154240",
+      "in_reply_to_screen_name": "huang_ciping",
+      "in_reply_to_status_id": 1396220362443079682,
+      "in_reply_to_user_id": 3830160917,
+      "lang": "zh",
+      "retweet_count": 1,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "urls": [
+        {
+          "expanded_url": "https://www.epochtimes.com/gb/5/4/12/n885631.htm",
+          "url": "https://t.co/UZ17SXj097"
+        }
+      ],
+      "user": {
+        "id": 259795925,
+        "screen_name": "XuPeiGermany"
+      },
+      "user_mentions": [
+        {
+          "id": 3830160917,
+          "id_str": "3830160917",
+          "name": "Ciping Huang 黄慈萍",
+          "screen_name": "huang_ciping"
+        }
+      ]
+    },
     "quoted_status_id": 1396461750246154240,
     "quoted_status_id_str": "1396461750246154240",
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
@@ -18849,7 +20746,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Mon May 24 08:18:21 +0000 2021",
-      "favorite_count": 350,
+      "favorite_count": 349,
       "full_text": "中共治下难得的明白人！👍\n熊培云教授：共产党用并不存在的“天堂”，夺走了农民的土地，后来又用并不存在的“地狱”，拒绝还给农民土地。\n\n https://t.co/QaW6gA4P9J",
       "hashtags": [],
       "id": 1396742350517329920,
@@ -18961,12 +20858,6 @@
         "id_str": "852590009685131264",
         "name": "白看戏🔎",
         "screen_name": "dongle_smith"
-      },
-      {
-        "id": 1388624188492091396,
-        "id_str": "1388624188492091396",
-        "name": "Anncky2",
-        "screen_name": "Anncky21"
       }
     ]
   },
@@ -19044,7 +20935,7 @@
       {
         "id": 882380349061218304,
         "id_str": "882380349061218304",
-        "name": "Yi",
+        "name": "真女权",
         "screen_name": "realproofread"
       }
     ]
@@ -19442,7 +21333,7 @@
       {
         "id": 882380349061218304,
         "id_str": "882380349061218304",
-        "name": "Yi",
+        "name": "真女权",
         "screen_name": "realproofread"
       }
     ]
@@ -19939,7 +21830,7 @@
   },
   "1394426686066741248": {
     "created_at": "Mon May 17 22:56:43 +0000 2021",
-    "favorite_count": 4,
+    "favorite_count": 3,
     "full_text": "@yangjianli001 杨韩二位先生把与喜国的关系说清楚，对所有人都有好处，没有必要事事都打官司吧，付牧师如果被误导了，那大家都被误导了，找个机会解释清楚不是很好吗，毕竟他是受害者，有委屈没处诉。",
     "hashtags": [],
     "id_str": "1394426686066741248",
@@ -20072,7 +21963,7 @@
         },
         "attributes": {}
       },
-      "retweet_count": 115,
+      "retweet_count": 114,
       "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
       "urls": [],
       "user": {
@@ -20115,7 +22006,7 @@
     "hashtags": [],
     "id_str": "1394368743636041729",
     "lang": "zh",
-    "retweet_count": 115,
+    "retweet_count": 114,
     "retweeted_status": {
       "created_at": "Mon May 17 11:51:44 +0000 2021",
       "favorite_count": 471,
@@ -20158,7 +22049,7 @@
         },
         "attributes": {}
       },
-      "retweet_count": 115,
+      "retweet_count": 114,
       "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
       "urls": [],
       "user": {
@@ -20188,16 +22079,16 @@
     "hashtags": [],
     "id_str": "1393903803380862978",
     "lang": "zh",
-    "retweet_count": 380,
+    "retweet_count": 379,
     "retweeted_status": {
       "created_at": "Sat May 15 19:09:53 +0000 2021",
-      "favorite_count": 2020,
+      "favorite_count": 2019,
       "full_text": "萨尔瓦多总统布克尔被称为“南美川普”，他也是体制外商人，2019年高票当选。今年初他的政党赢得国会67%席位。他强势改革，严打犯罪，亲美，对抗委内瑞拉马杜罗。最近萨国会依法撤换检察长和五名大法官；美左媒群起攻击他独裁；他访美拜登拒见。但布克尔不畏惧，这位39岁全球最年轻总统民众支持率达91%！",
       "hashtags": [],
       "id": 1393644826352963585,
       "id_str": "1393644826352963585",
       "lang": "zh",
-      "retweet_count": 380,
+      "retweet_count": 379,
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "urls": [],
       "user": {
@@ -20395,7 +22286,7 @@
       "lang": "zh",
       "quoted_status": {
         "created_at": "Sat May 15 14:44:53 +0000 2021",
-        "favorite_count": 845,
+        "favorite_count": 844,
         "full_text": "確診180人的台灣人 自動封城了 https://t.co/Hp156waEDr",
         "hashtags": [],
         "id": 1393578136344973314,
@@ -20527,7 +22418,7 @@
             "url": "https://t.co/Hp156waEDr"
           }
         ],
-        "retweet_count": 324,
+        "retweet_count": 323,
         "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
         "urls": [],
         "user": {
@@ -21396,9 +23287,6 @@
       "hashtags": [],
       "id": 1393665703685722114,
       "id_str": "1393665703685722114",
-      "in_reply_to_screen_name": "Anncky21",
-      "in_reply_to_status_id": 1393413792592277505,
-      "in_reply_to_user_id": 1388624188492091396,
       "lang": "zh",
       "retweet_count": 1,
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
@@ -21408,12 +23296,6 @@
         "screen_name": "Yangguang_USA"
       },
       "user_mentions": [
-        {
-          "id": 1388624188492091396,
-          "id_str": "1388624188492091396",
-          "name": "Anncky2",
-          "screen_name": "Anncky21"
-        },
         {
           "id": 1217841519174004736,
           "id_str": "1217841519174004736",
@@ -21440,32 +23322,7 @@
       "id": 1284363240974082048,
       "screen_name": "Yangguang_USA"
     },
-    "user_mentions": [
-      {
-        "id": 1388624188492091396,
-        "id_str": "1388624188492091396",
-        "name": "Anncky2",
-        "screen_name": "Anncky21"
-      },
-      {
-        "id": 1217841519174004736,
-        "id_str": "1217841519174004736",
-        "name": "bao zhang",
-        "screen_name": "baozhan16580515"
-      },
-      {
-        "id": 882380349061218304,
-        "id_str": "882380349061218304",
-        "name": "真女权",
-        "screen_name": "realproofread"
-      },
-      {
-        "id": 2586791480,
-        "id_str": "2586791480",
-        "name": "高勝寒",
-        "screen_name": "usa_gaoshenghan"
-      }
-    ]
+    "user_mentions": []
   },
   "1393690040694296576": {
     "created_at": "Sat May 15 22:09:33 +0000 2021",
@@ -21577,9 +23434,6 @@
       "hashtags": [],
       "id": 1393686269406810112,
       "id_str": "1393686269406810112",
-      "in_reply_to_screen_name": "Anncky21",
-      "in_reply_to_status_id": 1393685425605287941,
-      "in_reply_to_user_id": 1388624188492091396,
       "lang": "zh",
       "retweet_count": 1,
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
@@ -21589,12 +23443,6 @@
         "screen_name": "Yangguang_USA"
       },
       "user_mentions": [
-        {
-          "id": 1388624188492091396,
-          "id_str": "1388624188492091396",
-          "name": "Anncky2",
-          "screen_name": "Anncky21"
-        },
         {
           "id": 882380349061218304,
           "id_str": "882380349061218304",
@@ -21609,20 +23457,7 @@
       "id": 1284363240974082048,
       "screen_name": "Yangguang_USA"
     },
-    "user_mentions": [
-      {
-        "id": 1388624188492091396,
-        "id_str": "1388624188492091396",
-        "name": "Anncky2",
-        "screen_name": "Anncky21"
-      },
-      {
-        "id": 882380349061218304,
-        "id_str": "882380349061218304",
-        "name": "真女权",
-        "screen_name": "realproofread"
-      }
-    ]
+    "user_mentions": []
   },
   "1393689567522267138": {
     "created_at": "Sat May 15 22:07:41 +0000 2021",
@@ -21675,9 +23510,6 @@
       "hashtags": [],
       "id": 1393687764772679680,
       "id_str": "1393687764772679680",
-      "in_reply_to_screen_name": "Anncky21",
-      "in_reply_to_status_id": 1393682791922114564,
-      "in_reply_to_user_id": 1388624188492091396,
       "lang": "zh",
       "retweet_count": 1,
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
@@ -21687,12 +23519,6 @@
         "screen_name": "Yangguang_USA"
       },
       "user_mentions": [
-        {
-          "id": 1388624188492091396,
-          "id_str": "1388624188492091396",
-          "name": "Anncky2",
-          "screen_name": "Anncky21"
-        },
         {
           "id": 882380349061218304,
           "id_str": "882380349061218304",
@@ -21707,20 +23533,7 @@
       "id": 1284363240974082048,
       "screen_name": "Yangguang_USA"
     },
-    "user_mentions": [
-      {
-        "id": 1388624188492091396,
-        "id_str": "1388624188492091396",
-        "name": "Anncky2",
-        "screen_name": "Anncky21"
-      },
-      {
-        "id": 882380349061218304,
-        "id_str": "882380349061218304",
-        "name": "真女权",
-        "screen_name": "realproofread"
-      }
-    ]
+    "user_mentions": []
   },
   "1393689444377534467": {
     "created_at": "Sat May 15 22:07:11 +0000 2021",
@@ -21870,9 +23683,6 @@
     "full_text": "@Anncky21 @realproofread @unrealdt2 你太不值得我恨了，我不过是没功夫跟你耗。高胜寒喜欢遛狗，你这条狗只适合去他那里，让他宠，让他恨。你为他拉了这么多仇恨，他当然会恨你。",
     "hashtags": [],
     "id_str": "1393687764772679680",
-    "in_reply_to_screen_name": "Anncky21",
-    "in_reply_to_status_id": 1393682791922114564,
-    "in_reply_to_user_id": 1388624188492091396,
     "lang": "zh",
     "retweet_count": 1,
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
@@ -21882,12 +23692,6 @@
       "screen_name": "Yangguang_USA"
     },
     "user_mentions": [
-      {
-        "id": 1388624188492091396,
-        "id_str": "1388624188492091396",
-        "name": "Anncky2",
-        "screen_name": "Anncky21"
-      },
       {
         "id": 882380349061218304,
         "id_str": "882380349061218304",
@@ -21924,9 +23728,6 @@
     "full_text": "@Anncky21 @realproofread @unrealdt2 谈不上是黄的朋友，只是好奇这段公案，觉得刘怀昭一伙有诈。",
     "hashtags": [],
     "id_str": "1393686269406810112",
-    "in_reply_to_screen_name": "Anncky21",
-    "in_reply_to_status_id": 1393685425605287941,
-    "in_reply_to_user_id": 1388624188492091396,
     "lang": "zh",
     "retweet_count": 1,
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
@@ -21936,12 +23737,6 @@
       "screen_name": "Yangguang_USA"
     },
     "user_mentions": [
-      {
-        "id": 1388624188492091396,
-        "id_str": "1388624188492091396",
-        "name": "Anncky2",
-        "screen_name": "Anncky21"
-      },
       {
         "id": 882380349061218304,
         "id_str": "882380349061218304",
@@ -21963,9 +23758,6 @@
       "hashtags": [],
       "id": 1393685351755964419,
       "id_str": "1393685351755964419",
-      "in_reply_to_screen_name": "Anncky21",
-      "in_reply_to_status_id": 1393681855921205253,
-      "in_reply_to_user_id": 1388624188492091396,
       "lang": "zh",
       "media": [
         {
@@ -21987,15 +23779,9 @@
       },
       "user_mentions": [
         {
-          "id": 1388624188492091396,
-          "id_str": "1388624188492091396",
-          "name": "Anncky2",
-          "screen_name": "Anncky21"
-        },
-        {
           "id": 882380349061218304,
           "id_str": "882380349061218304",
-          "name": "Yi",
+          "name": "真女权",
           "screen_name": "realproofread"
         }
       ]
@@ -22006,29 +23792,13 @@
       "id": 1284363240974082048,
       "screen_name": "Yangguang_USA"
     },
-    "user_mentions": [
-      {
-        "id": 1388624188492091396,
-        "id_str": "1388624188492091396",
-        "name": "Anncky2",
-        "screen_name": "Anncky21"
-      },
-      {
-        "id": 882380349061218304,
-        "id_str": "882380349061218304",
-        "name": "Yi",
-        "screen_name": "realproofread"
-      }
-    ]
+    "user_mentions": []
   },
   "1393685351755964419": {
     "created_at": "Sat May 15 21:50:55 +0000 2021",
     "full_text": "@Anncky21 @realproofread @unrealdt2 赵岩和高胜寒聊天你都知道？你在旁边？别忘了你骂过赵岩，见图，他不会放过你\n\n私下很多人给你私信？你是哪根葱，值得别人都给你发私信？\n\n说我是黄的小号，对我毫无损失，只能证明你眼拙。\n\n我无钱，无闲，没工夫陪你玩，高胜寒喜欢遛狗，你去他那里最合适，最好是呆着不要乱动乱咬人，狗也要讲狗德！ https://t.co/SpSQAYpfrn",
     "hashtags": [],
     "id_str": "1393685351755964419",
-    "in_reply_to_screen_name": "Anncky21",
-    "in_reply_to_status_id": 1393681855921205253,
-    "in_reply_to_user_id": 1388624188492091396,
     "lang": "zh",
     "media": [
       {
@@ -22050,15 +23820,9 @@
     },
     "user_mentions": [
       {
-        "id": 1388624188492091396,
-        "id_str": "1388624188492091396",
-        "name": "Anncky2",
-        "screen_name": "Anncky21"
-      },
-      {
         "id": 882380349061218304,
         "id_str": "882380349061218304",
-        "name": "Yi",
+        "name": "真女权",
         "screen_name": "realproofread"
       }
     ]
@@ -22605,9 +24369,6 @@
     "full_text": "@Anncky21 @baozhan16580515 @realproofread @usa_gaoshenghan 更年期最好多遛狗，少上网丢人，就你那几句破英文也值得抖？",
     "hashtags": [],
     "id_str": "1393665703685722114",
-    "in_reply_to_screen_name": "Anncky21",
-    "in_reply_to_status_id": 1393413792592277505,
-    "in_reply_to_user_id": 1388624188492091396,
     "lang": "zh",
     "retweet_count": 1,
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
@@ -22617,12 +24378,6 @@
       "screen_name": "Yangguang_USA"
     },
     "user_mentions": [
-      {
-        "id": 1388624188492091396,
-        "id_str": "1388624188492091396",
-        "name": "Anncky2",
-        "screen_name": "Anncky21"
-      },
       {
         "id": 1217841519174004736,
         "id_str": "1217841519174004736",
@@ -22792,10 +24547,10 @@
     "lang": "zh",
     "quoted_status_id": 1392789359586316290,
     "quoted_status_id_str": "1392789359586316290",
-    "retweet_count": 7,
+    "retweet_count": 8,
     "retweeted_status": {
       "created_at": "Thu May 13 19:24:00 +0000 2021",
-      "favorite_count": 48,
+      "favorite_count": 49,
       "full_text": "很多所謂同情藏人和維吾爾人的漢族異議份子，在巴以衝突上卻站在以色列一邊，站在了一個強大的軍事國家的一邊，站在殖民者的一邊。傳播對以色列有利的證據，完全不肯公正地說巴以的歷史問題。\n\n真的讓人懷疑他們的價值觀到底是什麼？是真正的支持中國少數民族嗎\n\n可能茉莉說出天機：這是反共的好機會 https://t.co/VRPw20If1B",
       "hashtags": [],
       "id": 1392923603465871360,
@@ -22803,7 +24558,7 @@
       "lang": "zh",
       "quoted_status_id": 1392789359586316290,
       "quoted_status_id_str": "1392789359586316290",
-      "retweet_count": 7,
+      "retweet_count": 8,
       "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
       "urls": [
         {
@@ -23226,7 +24981,7 @@
     "retweet_count": 77,
     "retweeted_status": {
       "created_at": "Thu May 06 01:01:44 +0000 2021",
-      "favorite_count": 314,
+      "favorite_count": 313,
       "full_text": "重磅：今天下午CBS记者采访”审计美国“的创始人，他是此次审计观察者。\n\n他透露大部分选票都是有折痕的，现在他们在找没有折痕的选票，另外，他说在找4万张竹子做的纸印制的选票，记者追问之下，他拒绝回答是否已经找到这些选票。\n\n好事者现在分析，竹纸选票应该是来自亚洲，最有可能是中国，等待后续。",
       "hashtags": [],
       "id": 1390109492411396096,
@@ -24057,7 +25812,7 @@
     "retweet_count": 2,
     "retweeted_status": {
       "created_at": "Tue May 04 15:39:43 +0000 2021",
-      "favorite_count": 2,
+      "favorite_count": 3,
       "full_text": "@tengbiao @huaizhao 是不是强奸真不好说，没有独立第三方调查，你就下结论是不是太快了？\n你是学法律专业的！法律专业最重要讲证据，而非个人主观判断！\n\n只听一方当事人的陈述最容易被带偏的！",
       "hashtags": [],
       "id": 1389605667011383302,
@@ -24419,7 +26174,7 @@
     "retweet_count": 75,
     "retweeted_status": {
       "created_at": "Sun May 02 18:29:04 +0000 2021",
-      "favorite_count": 322,
+      "favorite_count": 321,
       "full_text": "林培瑞：中国官媒驻美记者至少部分是特务 https://t.co/qu4IHlWcQq https://t.co/3VpCzj455l",
       "hashtags": [],
       "id": 1388923511796768769,
@@ -29725,7 +31480,7 @@
     "retweet_count": 152,
     "retweeted_status": {
       "created_at": "Sat Apr 17 11:37:42 +0000 2021",
-      "favorite_count": 423,
+      "favorite_count": 422,
       "full_text": "民国二十六年三月，美国合众社记者厄尔·利夫到延安采访毛泽东和朱德，当时的延安第一美女吴光伟（大小S的奶奶[让我看看]）担任翻译。 https://t.co/VaPtgMCJso",
       "hashtags": [],
       "id": 1383384167371534338,
@@ -31624,13 +33379,13 @@
     "lang": "ja",
     "quoted_status": {
       "created_at": "Tue Mar 30 02:47:06 +0000 2021",
-      "favorite_count": 4519,
+      "favorite_count": 4518,
       "full_text": "Trump website https://t.co/hhWAZDrsqf has been launched | Just The News https://t.co/hUynnAzZiv",
       "hashtags": [],
       "id": 1376727658420133905,
       "id_str": "1376727658420133905",
       "lang": "en",
-      "retweet_count": 1300,
+      "retweet_count": 1299,
       "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
       "urls": [
         {
@@ -32359,7 +34114,7 @@
     "retweet_count": 3240,
     "retweeted_status": {
       "created_at": "Mon Mar 29 03:02:18 +0000 2021",
-      "favorite_count": 17941,
+      "favorite_count": 17936,
       "full_text": "https://t.co/Kwf9RvHHig",
       "hashtags": [],
       "id": 1376369095378149379,
@@ -32416,7 +34171,7 @@
     "retweet_count": 108,
     "retweeted_status": {
       "created_at": "Mon Mar 29 04:17:13 +0000 2021",
-      "favorite_count": 629,
+      "favorite_count": 628,
       "full_text": "消息，中共将砸4千亿美元，建中国、伊朗和朝鲜三国反美轴心同盟。\n\n邪恶版的大撒币！",
       "hashtags": [],
       "id": 1376387948397084674,
@@ -36820,7 +38575,7 @@
       "lang": "zh",
       "quoted_status": {
         "created_at": "Tue Mar 16 09:50:40 +0000 2021",
-        "favorite_count": 4,
+        "favorite_count": 5,
         "full_text": "任何諷刺也不會超越劉懷昭（刘怀昭）的所謂「不撒謊 守承諾」的自我標榜。她用實際行動證明自己把今天的謊言建立在昨日謊言的基本生活方式；還有「承諾即是放屁」的人生哲學。同許多當代中國「知識份子」差不多吧，哈哈哈。 https://t.co/FgoLn4mfIt",
         "hashtags": [],
         "id": 1371760820850458624,
@@ -37483,7 +39238,7 @@
     "retweet_count": 1,
     "retweeted_status": {
       "created_at": "Fri Mar 26 15:02:03 +0000 2021",
-      "favorite_count": 10,
+      "favorite_count": 9,
       "full_text": "刘怀昭团队是弱智！他们读到过媒体渲染的老魏没驾驶执照飙车，就信以为真。老魏1997年到美国，很快就拿到了驾照。事实上，2000年3月22日我到日内瓦与他们会合，用他的驾照给大家租了个自动挡的小型面包车。刘怀昭声称与他3月16日晚一夜情到早上，3月18日老魏已在欧洲(加州的3月17日)，难道是UFO驾照？ https://t.co/ZXqatDU7Xz",
       "hashtags": [],
       "id": 1375463060790517764,
@@ -40572,10 +42327,10 @@
     "hashtags": [],
     "id_str": "1374959935310626818",
     "lang": "zh",
-    "retweet_count": 109,
+    "retweet_count": 108,
     "retweeted_status": {
       "created_at": "Wed Mar 24 17:49:29 +0000 2021",
-      "favorite_count": 284,
+      "favorite_count": 283,
       "full_text": "我百思不得其解！这么牛B的一群人，在谈判桌上屡次把美帝国主义打得落花流水，中国是世界第二大经济体，也就是暂时屈居第二，当然马上就要做老大啦！但是，为什么你们这些不要脸的人总是把你们的儿女们送到美国留学，偷偷地在美国买房子，把财产藏在美国，偷偷地拿绿卡?为什么厉害国的人要偷渡到美国? https://t.co/TruECVKyAq",
       "hashtags": [],
       "id": 1374780421158879240,
@@ -40592,7 +42347,7 @@
           "url": "https://t.co/TruECVKyAq"
         }
       ],
-      "retweet_count": 109,
+      "retweet_count": 108,
       "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
       "urls": [],
       "user": {
@@ -42456,7 +44211,7 @@
     "retweet_count": 41,
     "retweeted_status": {
       "created_at": "Wed Mar 03 22:18:56 +0000 2021",
-      "favorite_count": 178,
+      "favorite_count": 177,
       "full_text": "Can you believe it, this is NOT Tom Cruise! This is a deep fake video. This is worrying!\nhttps://t.co/eXLBTRg1p3",
       "hashtags": [],
       "id": 1367238086690766848,
@@ -42521,10 +44276,10 @@
         "url": "https://t.co/kSrJJ4CJI6"
       }
     ],
-    "retweet_count": 91,
+    "retweet_count": 90,
     "retweeted_status": {
       "created_at": "Wed Mar 03 04:17:25 +0000 2021",
-      "favorite_count": 252,
+      "favorite_count": 250,
       "full_text": "操塔馬！中共又發明新病毒了⋯⋯ https://t.co/kSrJJ4CJI6",
       "hashtags": [],
       "id": 1366965913132523520,
@@ -42541,7 +44296,7 @@
           "url": "https://t.co/kSrJJ4CJI6"
         }
       ],
-      "retweet_count": 91,
+      "retweet_count": 90,
       "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
       "urls": [],
       "user": {
@@ -42616,7 +44371,7 @@
     "retweet_count": 324,
     "retweeted_status": {
       "created_at": "Wed Mar 03 04:18:07 +0000 2021",
-      "favorite_count": 1376,
+      "favorite_count": 1373,
       "full_text": "奇了怪了，缅甸这么小的国家，人这么勇敢，厉害大国怎么全是懦夫？ https://t.co/x0AX6VcTdH",
       "hashtags": [],
       "id": 1366966088223895553,
@@ -43026,7 +44781,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Mon Mar 01 20:00:06 +0000 2021",
-      "favorite_count": 568,
+      "favorite_count": 567,
       "full_text": "奔着看黄片的心思，用两个小时看了沈冰自述的《我和周永康的故事》\n🌿她第一任老公说的对，央视就是一个高级淫窝，央视名妓，中南海情妇，这帮人完美诠释了“当了婊子还要立牌坊”和“得了便宜还卖乖”\n不过我很好奇，周永康之流老的连自个老婆都满足不了，干嘛还去…公共情妇？干嘛还去…别人的老婆？ https://t.co/63DXCThn7C",
       "hashtags": [],
       "id": 1366478373560741891,
@@ -47702,10 +49457,10 @@
         }
       }
     ],
-    "retweet_count": 806,
+    "retweet_count": 805,
     "retweeted_status": {
       "created_at": "Sat Feb 27 14:41:41 +0000 2021",
-      "favorite_count": 3044,
+      "favorite_count": 3041,
       "full_text": "ご査収願います。 https://t.co/3bLFVmAchP",
       "hashtags": [],
       "id": 1365673463449485313,
@@ -47729,7 +49484,7 @@
           }
         }
       ],
-      "retweet_count": 806,
+      "retweet_count": 805,
       "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
       "urls": [],
       "user": {
@@ -47861,7 +49616,7 @@
     "retweet_count": 18,
     "retweeted_status": {
       "created_at": "Sat Feb 27 17:14:51 +0000 2021",
-      "favorite_count": 141,
+      "favorite_count": 140,
       "full_text": "2014年以前，戴琦在美国贸易代表办公室负责中国事务贸易执法首席顾问。奥巴马政府在WTO对中国的贸易争端诉讼由她一手经办。看一个人的历史就知道她的现在和未来的行事风格，习近平在文革中成长，今天的中国在他的带领下正飞速向荒诞狂奔。呆气在奥巴马治下对中国挠痒痒的诉讼就是未来美国聊骚制裁。",
       "hashtags": [],
       "id": 1365712009694564352,
@@ -48293,16 +50048,16 @@
     "hashtags": [],
     "id_str": "1365770270468763648",
     "lang": "zh",
-    "retweet_count": 349,
+    "retweet_count": 348,
     "retweeted_status": {
       "created_at": "Sat Feb 27 19:15:15 +0000 2021",
-      "favorite_count": 1155,
+      "favorite_count": 1154,
       "full_text": "拜登/哈里斯(背后奥巴马)不仅推行社会主义，还掀起“变性”运动摧残美国孩子、美国文明！一本揭示“变性”带来严重后遗症的畅销书When Harry Became Sally(当男孩变成女孩)竟被左疯富豪贝佐斯的亚马逊下架禁售。今多位共和党参议员写信给贝佐斯要求他解释。现该书在Barnes&amp;Noble畅销。左疯封不住真实声音。",
       "hashtags": [],
       "id": 1365742308776288260,
       "id_str": "1365742308776288260",
       "lang": "zh",
-      "retweet_count": 349,
+      "retweet_count": 348,
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "urls": [],
       "user": {
@@ -48383,7 +50138,7 @@
     "retweet_count": 153,
     "retweeted_status": {
       "created_at": "Fri Feb 26 21:15:52 +0000 2021",
-      "favorite_count": 226,
+      "favorite_count": 227,
       "full_text": "如何合法拒绝疫苗\n问医生：“疫苗中是否含有MRC-5？这些是胎儿流产的胎儿细胞和其他DNA。 您有权拒绝。\n还问：“是否有可能发生“ LATROGENIC反应”？  （由多种化合物或药物相互作用引起的不良反应）（THE ALL）。  -当医生回答“是的”时，\n就可以感谢医生后走人 https://t.co/UZQS6jrcxI",
       "hashtags": [],
       "id": 1365410277022445571,
@@ -48721,7 +50476,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Sat Feb 27 04:08:33 +0000 2021",
-      "favorite_count": 201,
+      "favorite_count": 200,
       "full_text": "Lady Gaga’s French Bull Dogs Recovered Following Violent Robbery https://t.co/AoJNQxHOaU https://t.co/IygUj0gHb7",
       "hashtags": [],
       "id": 1365514129650319360,
@@ -48848,7 +50603,7 @@
     "retweet_count": 137,
     "retweeted_status": {
       "created_at": "Fri Feb 26 22:54:25 +0000 2021",
-      "favorite_count": 1001,
+      "favorite_count": 1002,
       "full_text": "今年最火汉字“翠”已被消失！据说该字可拆解为习习卒，暗喻习近平死两次！",
       "hashtags": [],
       "id": 1365435075098079234,
@@ -48887,7 +50642,7 @@
     "retweet_count": 311,
     "retweeted_status": {
       "created_at": "Sat Feb 27 00:31:40 +0000 2021",
-      "favorite_count": 1443,
+      "favorite_count": 1442,
       "full_text": "今是美国保守派行动大会年会第二天，参议员克鲁兹演讲说，川普受万众支持，令左派恐惧。川普长子今受访说，只有像他父亲那样坚定对抗左派，共和党才有未来；一味退让、体面输掉大选（不据理对窃选抗争）只能使左派更嚣张。拜登、佩洛西的白左政策会毁掉传统美国，只有川普的领导力才能凝聚保守派反击！",
       "hashtags": [],
       "id": 1365459552381005824,
@@ -49402,7 +51157,7 @@
     "retweet_count": 29,
     "retweeted_status": {
       "created_at": "Thu Feb 25 23:59:06 +0000 2021",
-      "favorite_count": 61,
+      "favorite_count": 60,
       "full_text": "#ExitBankofAmerica political revenge starts. my wife &amp; I found out today @BankofAmerica terminated all of our accounts including our children’s.most likely due to our trip to DC on 1/5.No pre-notice. No apology.Horrible arrogant!Pls leave @BankofAmerica shame asTaxpayer #BailOut!",
       "hashtags": [
         {
@@ -49621,10 +51376,10 @@
         }
       }
     ],
-    "retweet_count": 671,
+    "retweet_count": 669,
     "retweeted_status": {
       "created_at": "Thu Feb 25 08:47:39 +0000 2021",
-      "favorite_count": 2438,
+      "favorite_count": 2440,
       "full_text": "『撒胡椒面』\n\n习近平挑战如何在看不懂稿子的情况下6秒之内说出4个中文！ https://t.co/RaXo8Zs9HW",
       "hashtags": [],
       "id": 1364859594971910147,
@@ -49648,7 +51403,7 @@
           }
         }
       ],
-      "retweet_count": 671,
+      "retweet_count": 669,
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "urls": [],
       "user": {
@@ -50413,7 +52168,7 @@
     "retweet_count": 200,
     "retweeted_status": {
       "created_at": "Wed Feb 24 19:28:40 +0000 2021",
-      "favorite_count": 464,
+      "favorite_count": 465,
       "full_text": "文革初期，刘少奇失去自由。恐日后被投进监狱的王光美打算将最小的孩子，6岁的刘潇潇带进监狱抚养。刘少奇劝其另想办法，王光美说《红岩》里面不是还有个监狱之花(小说中指在监狱中抚养成长的孩子)吗?\n少奇同志烦闷地打断她: “那是国民党的监狱！” https://t.co/7H0214qLxc",
       "hashtags": [],
       "id": 1364658522563117056,
@@ -52157,16 +53912,16 @@
     "hashtags": [],
     "id_str": "1364750972329725952",
     "lang": "zh",
-    "retweet_count": 279,
+    "retweet_count": 278,
     "retweeted_status": {
       "created_at": "Thu Feb 25 00:40:01 +0000 2021",
-      "favorite_count": 1519,
+      "favorite_count": 1518,
       "full_text": "今天美国股市大涨，尤其中小企业股飙升；因疫情下降，全美染疫降低57%！瑞辉、莫德纳、强生等五家疫苗公司到7月将提供6亿疫苗。疫情下降得利于疫苗发放。这是川普总统的政绩，他把研发疫苗作为战略重点，并迅速研发成功！川普政府预购了12亿疫苗（美国人口4倍）。川普的强势高效更凸显拜登的无能。",
       "hashtags": [],
       "id": 1364736874355388417,
       "id_str": "1364736874355388417",
       "lang": "zh",
-      "retweet_count": 279,
+      "retweet_count": 278,
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "urls": [],
       "user": {
@@ -55754,7 +57509,7 @@
     "retweet_count": 196,
     "retweeted_status": {
       "created_at": "Wed Feb 17 00:40:42 +0000 2021",
-      "favorite_count": 991,
+      "favorite_count": 990,
       "full_text": "面对左派嚣张，一些川普支持者很沮丧，甚至说只是在社交媒体发声没用。其实意识形态之争，首先是争夺舆论，用真实信息，促被左派洗脑的人觉醒；同时也是释放对左疯的痛恨。当年罗斯福推行社会主义新政时，保守派《时代》周刊创办人卢斯提出：痛恨罗斯福是我的责任。今天决战左派是新一代保守派的责任。",
       "hashtags": [],
       "id": 1361837946341453824,
@@ -55872,13 +57627,13 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Fri Feb 19 02:14:20 +0000 2021",
-      "favorite_count": 1250,
+      "favorite_count": 1248,
       "full_text": "拜登对中共绥靖，从他与习近平首次通话就清楚。福克斯说2小时通话基本是习主导，轮到拜登说，他在CNN上复述，他不批评中共对香港、新疆、台湾的政策，说两国文化标准不同。其实就是不敢得罪中共的专制标准。拜登在通话前就取消对中共孔子学院的限制作为献礼。现在还挺拜登的华人，是装糊涂还是真亲共？",
       "hashtags": [],
       "id": 1362586286234603520,
       "id_str": "1362586286234603520",
       "lang": "zh",
-      "retweet_count": 254,
+      "retweet_count": 253,
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "urls": [],
       "user": {
@@ -55908,16 +57663,16 @@
     "hashtags": [],
     "id_str": "1362596937967407105",
     "lang": "zh",
-    "retweet_count": 254,
+    "retweet_count": 253,
     "retweeted_status": {
       "created_at": "Fri Feb 19 02:14:20 +0000 2021",
-      "favorite_count": 1250,
+      "favorite_count": 1248,
       "full_text": "拜登对中共绥靖，从他与习近平首次通话就清楚。福克斯说2小时通话基本是习主导，轮到拜登说，他在CNN上复述，他不批评中共对香港、新疆、台湾的政策，说两国文化标准不同。其实就是不敢得罪中共的专制标准。拜登在通话前就取消对中共孔子学院的限制作为献礼。现在还挺拜登的华人，是装糊涂还是真亲共？",
       "hashtags": [],
       "id": 1362586286234603520,
       "id_str": "1362586286234603520",
       "lang": "zh",
-      "retweet_count": 254,
+      "retweet_count": 253,
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "urls": [],
       "user": {
@@ -56196,7 +57951,7 @@
     "retweet_count": 87,
     "retweeted_status": {
       "created_at": "Tue Feb 16 02:16:11 +0000 2021",
-      "favorite_count": 258,
+      "favorite_count": 257,
       "full_text": "民主党的弹劾经理，在庭审出示假证据，被抓包。把2020年的推文，篡改时间到2021年，说和1/6事件相关。\n\n媒体洗地的方法就是不但不报道，反倒恶人先告状。CNN竟说每个川普律师都撒谎，因为他们宣称川普是支持警察、反对暴徒的总统。应该吊销执照。\n\n今天所有的主流媒体都在妖魔化川普律师。这是美国吗？ https://t.co/OtJbBt9Y5M",
       "hashtags": [],
       "id": 1361499584669827075,
@@ -56246,7 +58001,7 @@
     "retweet_count": 303,
     "retweeted_status": {
       "created_at": "Tue Feb 16 00:56:32 +0000 2021",
-      "favorite_count": 706,
+      "favorite_count": 705,
       "full_text": "纽约时报悄悄地撤回关于一月六日冲击国会事件的报道。这篇报道称，当天死去的警察是被示威者打击头部受伤后死亡的。该报还宣称消息来自警方。目前证实，该警察死于心肌梗死。时报没有向读者道歉。New York Times retracts story about officer Sicknick's death https://t.co/gpVoMmZnz9 via @YouTube",
       "hashtags": [],
       "id": 1361479543215841285,
@@ -56439,7 +58194,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Sun Feb 14 19:49:32 +0000 2021",
-      "favorite_count": 80,
+      "favorite_count": 79,
       "full_text": "在这次弹劾中，民主党的议员们罔顾宪法，按照党派来投票，全部对对手的弹劾投赞成票，只有列宁主义的党在投票上才如此的一致。那些民主党党人和大洋彼岸的人民大会堂的党代表是否一样？好在美国先贤们，指定了一个好宪法，还有一个反对党。民主党人们正在破坏这个宪法，对他们来说政治高于宪法。住手! https://t.co/Z6eBGEsraN",
       "hashtags": [],
       "id": 1361039894215331847,
@@ -56656,16 +58411,16 @@
     "hashtags": [],
     "id_str": "1360719958162821120",
     "lang": "zh",
-    "retweet_count": 398,
+    "retweet_count": 399,
     "retweeted_status": {
       "created_at": "Fri Feb 12 23:22:54 +0000 2021",
-      "favorite_count": 1575,
+      "favorite_count": 1576,
       "full_text": "拜登上任后发誓，如发现白宫雇员有人威胁同事或非礼，将立即解雇。白宫副新闻秘书Ducklo因一位女记者提问而恼怒，不仅用侮辱女性语言，还说要毁了她，甚至用脏话F---。拜登说一套做一套，根本没把他立即解雇，仅是停职停薪一周。如是川普的雇员有这事，左媒得骂翻天。民主党的御用喉舌左媒永远都双标。",
       "hashtags": [],
       "id": 1360368815725449220,
       "id_str": "1360368815725449220",
       "lang": "zh",
-      "retweet_count": 398,
+      "retweet_count": 399,
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "urls": [],
       "user": {
@@ -56695,16 +58450,16 @@
     "hashtags": [],
     "id_str": "1360719858942447617",
     "lang": "zh",
-    "retweet_count": 569,
+    "retweet_count": 568,
     "retweeted_status": {
       "created_at": "Sat Feb 13 01:19:22 +0000 2021",
-      "favorite_count": 2281,
+      "favorite_count": 2279,
       "full_text": "福克斯新闻曝光拜登首次与习近平通话更多内情：两小时谈话主要被习近平主导（dominate)，拜登像在听训话。拜登对川普总统和挺川者凶得像恶霸，但面对男慈禧习近平却乖得像李莲英，而且还事先取消了对孔子学院的限制做献礼、取悦中共。拜登代表民主党的典型，给独裁者下跪，对美国君子凶神恶煞。可恶！",
       "hashtags": [],
       "id": 1360398126234750976,
       "id_str": "1360398126234750976",
       "lang": "zh",
-      "retweet_count": 569,
+      "retweet_count": 568,
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "urls": [],
       "user": {
@@ -56974,7 +58729,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Sat Feb 13 21:05:56 +0000 2021",
-      "favorite_count": 2177,
+      "favorite_count": 2176,
       "full_text": "https://t.co/KIA0GxZver",
       "hashtags": [],
       "id": 1360696734641438724,
@@ -57018,7 +58773,7 @@
     "retweet_count": 572,
     "retweeted_status": {
       "created_at": "Sat Feb 13 21:05:56 +0000 2021",
-      "favorite_count": 2177,
+      "favorite_count": 2176,
       "full_text": "https://t.co/KIA0GxZver",
       "hashtags": [],
       "id": 1360696734641438724,
@@ -58084,7 +59839,7 @@
     "retweet_count": 84,
     "retweeted_status": {
       "created_at": "Tue Feb 02 06:47:23 +0000 2021",
-      "favorite_count": 609,
+      "favorite_count": 608,
       "full_text": "如果缅甸选举用的也是多猫腻系统，结果经过军方调查，发现了实锤的作弊证据，美国的阿灯政府不是很尴尬？",
       "hashtags": [],
       "id": 1356494404555472899,
@@ -59593,7 +61348,7 @@
     "retweet_count": 433,
     "retweeted_status": {
       "created_at": "Sun Jan 31 15:53:29 +0000 2021",
-      "favorite_count": 1947,
+      "favorite_count": 1946,
       "full_text": "世卫组织专家团队昨天抵武汉华南市场“调查”武汉病毒的源头。事发一年多以后中共才允许专家进去，如同杀人现场在案发后一年，一切清洗得干干净净之后才允许警察进入。真是对全世界人民的侮辱！世卫就真装模作样美其名曰去“调查”。这样一个腐败透顶的世卫，拜登上台就再加入，给它注血，实实在在的败类。",
       "hashtags": [],
       "id": 1355907059376484354,
@@ -62584,7 +64339,7 @@
     "retweet_count": 971,
     "retweeted_status": {
       "created_at": "Sat Jan 30 18:23:48 +0000 2021",
-      "favorite_count": 4084,
+      "favorite_count": 4083,
       "full_text": "Unbelievable moment! Thankful to President Nauseda for nominating me &amp; all people of Belarus for the Nobel Peace Prize. It's a great expression of solidarity with Belarus &amp; acknowledgment of our peaceful fight for freedom that has been inspiring the whole world since last August. https://t.co/SFM1H96qdt",
       "hashtags": [],
       "id": 1355582502363131914,
@@ -62778,7 +64533,7 @@
     "retweet_count": 209,
     "retweeted_status": {
       "created_at": "Sat Jan 30 11:59:19 +0000 2021",
-      "favorite_count": 490,
+      "favorite_count": 491,
       "full_text": "现在回过头来看这段对话，感觉特别的讽刺。 https://t.co/s5Ub5IwISJ",
       "hashtags": [],
       "id": 1355485745109057540,
@@ -63301,7 +65056,7 @@
       "lang": "en",
       "quoted_status_id": 1355211650291429379,
       "quoted_status_id_str": "1355211650291429379",
-      "retweet_count": 4468,
+      "retweet_count": 4467,
       "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
       "urls": [
         {
@@ -63459,7 +65214,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Fri Jan 29 16:57:14 +0000 2021",
-      "favorite_count": 3565,
+      "favorite_count": 3563,
       "full_text": "A video from around 8:15pm video shows the suspect carrying a backpack near his waist as they approach the area where the bomb was discovered on Jan. 6. According to the law enforcement official, this is the last known sighting of the suspect before the placement of the bomb. https://t.co/Zo1bhsv7fZ",
       "hashtags": [],
       "id": 1355198328263372804,
@@ -63486,7 +65241,7 @@
           }
         }
       ],
-      "retweet_count": 2093,
+      "retweet_count": 2092,
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "urls": [],
       "user": {
@@ -63532,7 +65287,7 @@
     "retweet_count": 1048,
     "retweeted_status": {
       "created_at": "Sat Jan 30 02:56:58 +0000 2021",
-      "favorite_count": 7893,
+      "favorite_count": 7892,
       "full_text": "Was talking to a friend who works at a financial services company and one of the restrictions this private company has on its top execs is they can't trade individual stocks.\n\nSo a private company has these restrictions but members of congress can trade individual stocks...got it",
       "hashtags": [],
       "id": 1355349257805471744,
@@ -64148,7 +65903,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Fri Jan 29 17:05:14 +0000 2021",
-      "favorite_count": 3215,
+      "favorite_count": 3214,
       "full_text": "The #FBI and @ATFWashington are offering up to $100,000 for information about the individual(s) who placed pipe bombs at the Democratic National Committee and Republican National Committee headquarters in Washington, D.C., on January 5. https://t.co/f5uzC59PAC https://t.co/NJxepq8PEV",
       "hashtags": [
         {
@@ -64169,7 +65924,7 @@
           "url": "https://t.co/NJxepq8PEV"
         }
       ],
-      "retweet_count": 3294,
+      "retweet_count": 3291,
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "urls": [
         {
@@ -64865,13 +66620,13 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Thu Jan 28 17:33:14 +0000 2021",
-      "favorite_count": 8364,
+      "favorite_count": 8363,
       "full_text": "FLASHBACK: Candidate Biden Says ‘You Can’t Legislate by Executive Order Unless You’re a Dictator’ https://t.co/ZTCwXxmvCX",
       "hashtags": [],
       "id": 1354845001512054784,
       "id_str": "1354845001512054784",
       "lang": "en",
-      "retweet_count": 3164,
+      "retweet_count": 3165,
       "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
       "urls": [
         {
@@ -64967,16 +66722,16 @@
     "hashtags": [],
     "id_str": "1354961634771357705",
     "lang": "en",
-    "retweet_count": 4365,
+    "retweet_count": 4364,
     "retweeted_status": {
       "created_at": "Thu Jan 28 23:12:33 +0000 2021",
-      "favorite_count": 19091,
+      "favorite_count": 19080,
       "full_text": "Speaking of shorting stock did they ever find out who shorted those airlines stocks just before 9/11 ? Just asking. You Wallstreet fucks are worried about GameStop but there are deeper questions that get brought up. Enjoy.",
       "hashtags": [],
       "id": 1354930393531772937,
       "id_str": "1354930393531772937",
       "lang": "en",
-      "retweet_count": 4365,
+      "retweet_count": 4364,
       "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
       "urls": [],
       "user": {
@@ -65543,7 +67298,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Thu Jan 28 19:19:32 +0000 2021",
-      "favorite_count": 1337,
+      "favorite_count": 1338,
       "full_text": "“In light of recent events, I can unequivocally say that vast improvements to the physical security infrastructure must be made to include permanent fencing, and the availability of ready, back-up forces in close proximity to the Capitol,” acting Capitol Police Chief Pittman said",
       "hashtags": [],
       "id": 1354871752761999361,
@@ -67996,7 +69751,7 @@
       "lang": "zh",
       "quoted_status": {
         "created_at": "Fri Jan 22 21:58:46 +0000 2021",
-        "favorite_count": 5729,
+        "favorite_count": 5726,
         "full_text": "First lady Jill Biden surprises National Guard members outside the Capitol with chocolate chip cookies today.\n\n📸 AP https://t.co/YN7BRCAXlu",
         "hashtags": [],
         "id": 1352737495134445569,
@@ -68351,7 +70106,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Sat Jan 23 21:50:31 +0000 2021",
-      "favorite_count": 141,
+      "favorite_count": 139,
       "full_text": "https://t.co/0XcQYsUEbg",
       "hashtags": [],
       "id": 1353097810091126785,
@@ -68710,7 +70465,7 @@
       "lang": "zh",
       "quoted_status": {
         "created_at": "Fri Jan 22 19:24:49 +0000 2021",
-        "favorite_count": 76589,
+        "favorite_count": 76583,
         "full_text": "I want to thank my wife, Susan, and my son, Nick, for their love, support and sacrifice these last four years. I wouldn’t have been able to do my job and serve America without you. I love you both. https://t.co/HGphOC3aS3",
         "hashtags": [],
         "id": 1352698754709774343,
@@ -68718,7 +70473,7 @@
         "lang": "en",
         "quoted_status_id": 1352069544244899843,
         "quoted_status_id_str": "1352069544244899843",
-        "retweet_count": 9146,
+        "retweet_count": 9147,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "urls": [
           {
@@ -69341,7 +71096,7 @@
       "id": 1352728299441709056,
       "id_str": "1352728299441709056",
       "lang": "en",
-      "retweet_count": 447,
+      "retweet_count": 446,
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "urls": [
         {
@@ -69492,13 +71247,13 @@
       "lang": "zh",
       "quoted_status": {
         "created_at": "Fri Jan 22 14:27:38 +0000 2021",
-        "favorite_count": 73723,
+        "favorite_count": 73702,
         "full_text": "BREAKING: Governor DeSantis orders Florida National Guard home. 'This is a half-cocked mission and they are not Nancy Pelosi's servants'",
         "hashtags": [],
         "id": 1352623964410015747,
         "id_str": "1352623964410015747",
         "lang": "en",
-        "retweet_count": 13732,
+        "retweet_count": 13728,
         "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
         "urls": [],
         "user": {
@@ -69593,7 +71348,7 @@
     "retweet_count": 519,
     "retweeted_status": {
       "created_at": "Fri Jan 22 14:40:33 +0000 2021",
-      "favorite_count": 1441,
+      "favorite_count": 1438,
       "full_text": "President Biden's first approval ratings are much lower than both former President Trump's first approval ratings AND his final approval ratings — AFTER getting impeached.\n\n*OUCH.*🔻\nhttps://t.co/GDdAZqsdNz",
       "hashtags": [],
       "id": 1352627215494754304,
@@ -69926,6 +71681,7 @@
     "retweet_count": 1,
     "retweeted_status": {
       "created_at": "Fri Jan 22 11:58:23 +0000 2021",
+      "favorite_count": 1,
       "full_text": "@wuerkaixi @Amadeus1424 拜登也是全人类文明的威胁，最近30年美国对外战争都有他的责任，而且他所代表的民主党已经全面共产主义化，你反共却制止同道反他，逻辑何在？？？",
       "hashtags": [],
       "id": 1352586406795776001,
@@ -69979,6 +71735,7 @@
   },
   "1352586406795776001": {
     "created_at": "Fri Jan 22 11:58:23 +0000 2021",
+    "favorite_count": 1,
     "full_text": "@wuerkaixi @Amadeus1424 拜登也是全人类文明的威胁，最近30年美国对外战争都有他的责任，而且他所代表的民主党已经全面共产主义化，你反共却制止同道反他，逻辑何在？？？",
     "hashtags": [],
     "id_str": "1352586406795776001",
@@ -71118,13 +72875,13 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Fri Jan 22 05:06:42 +0000 2021",
-      "favorite_count": 29744,
+      "favorite_count": 29741,
       "full_text": "Anyone else notice how Biden kind of disappears in the early afternoon until the next morning?",
       "hashtags": [],
       "id": 1352482802030309376,
       "id_str": "1352482802030309376",
       "lang": "en",
-      "retweet_count": 4703,
+      "retweet_count": 4702,
       "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
       "urls": [],
       "user": {
@@ -71154,16 +72911,16 @@
     "hashtags": [],
     "id_str": "1352482066814779392",
     "lang": "en",
-    "retweet_count": 6346,
+    "retweet_count": 6343,
     "retweeted_status": {
       "created_at": "Fri Jan 22 05:01:17 +0000 2021",
-      "favorite_count": 28188,
+      "favorite_count": 28180,
       "full_text": "It’s been hours since the National Guard scandal broke and no response at all from @JoeBiden",
       "hashtags": [],
       "id": 1352481437241520131,
       "id_str": "1352481437241520131",
       "lang": "en",
-      "retweet_count": 6346,
+      "retweet_count": 6343,
       "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
       "urls": [],
       "user": {
@@ -71241,7 +72998,7 @@
     "retweet_count": 1,
     "retweeted_status": {
       "created_at": "Fri Jan 22 04:36:34 +0000 2021",
-      "favorite_count": 11,
+      "favorite_count": 12,
       "full_text": "@wuerkaixi 其实你这就是陈军言论的翻版，民主党曾支持过中国民运，所以要一辈子感恩，批评民主党就是没有良心。\n那么，中共养活了你父母，以及几乎所有民运人士的父母，是否要感恩一辈子而不能反共？\n2，既然反共，就应该反对民主党的共产主义化。\n3，批评民主党不等于把民主党当敌人，不要混淆。",
       "hashtags": [],
       "id": 1352475216975290368,
@@ -71337,7 +73094,7 @@
   },
   "1352475216975290368": {
     "created_at": "Fri Jan 22 04:36:34 +0000 2021",
-    "favorite_count": 11,
+    "favorite_count": 12,
     "full_text": "@wuerkaixi 其实你这就是陈军言论的翻版，民主党曾支持过中国民运，所以要一辈子感恩，批评民主党就是没有良心。\n那么，中共养活了你父母，以及几乎所有民运人士的父母，是否要感恩一辈子而不能反共？\n2，既然反共，就应该反对民主党的共产主义化。\n3，批评民主党不等于把民主党当敌人，不要混淆。",
     "hashtags": [],
     "id_str": "1352475216975290368",
@@ -71394,7 +73151,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Fri Jan 22 00:25:03 +0000 2021",
-      "favorite_count": 63030,
+      "favorite_count": 63003,
       "full_text": "MILITARY SOURCE IN DC:\n“For the last week my battalion has been sleeping on the floor in the Senate cafeteria. Today the Senate kicked us out &amp; moved us to a cold parking garage.\n5000 soldiers.\n1 power outlet.\nOne bathroom.\nThis is how Joe Biden’s America treats solders.”\n\nPHOTOS https://t.co/622sQmciq4",
       "hashtags": [],
       "id": 1352411922390515714,
@@ -71438,7 +73195,7 @@
           "url": "https://t.co/622sQmciq4"
         }
       ],
-      "retweet_count": 40139,
+      "retweet_count": 40127,
       "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
       "urls": [],
       "user": {
@@ -71634,7 +73391,7 @@
       "lang": "zh",
       "quoted_status": {
         "created_at": "Thu Jan 21 13:08:14 +0000 2021",
-        "favorite_count": 1356,
+        "favorite_count": 1355,
         "full_text": "拜登好不容易听到一名疑似支持者在呼喊自己的名字，立马跑过去准备握手签名，原来是一名记者，\n这位记者问他是否偷了总统选举？超级尴尬……[捂脸]😂😂😂 https://t.co/XqBzXfHr5n",
         "hashtags": [],
         "id": 1352241597740675073,
@@ -71701,7 +73458,7 @@
             }
           }
         ],
-        "retweet_count": 537,
+        "retweet_count": 536,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "urls": [],
         "user": {
@@ -71952,7 +73709,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Thu Jan 21 13:08:14 +0000 2021",
-      "favorite_count": 1356,
+      "favorite_count": 1355,
       "full_text": "拜登好不容易听到一名疑似支持者在呼喊自己的名字，立马跑过去准备握手签名，原来是一名记者，\n这位记者问他是否偷了总统选举？超级尴尬……[捂脸]😂😂😂 https://t.co/XqBzXfHr5n",
       "hashtags": [],
       "id": 1352241597740675073,
@@ -71976,7 +73733,7 @@
           }
         }
       ],
-      "retweet_count": 537,
+      "retweet_count": 536,
       "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
       "urls": [],
       "user": {
@@ -72390,7 +74147,7 @@
       "lang": "zh",
       "quoted_status_id": 1352339480720633857,
       "quoted_status_id_str": "1352339480720633857",
-      "retweet_count": 11,
+      "retweet_count": 10,
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "urls": [
         {
@@ -72466,7 +74223,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Thu Jan 21 18:44:51 +0000 2021",
-      "favorite_count": 177,
+      "favorite_count": 178,
       "full_text": "白瞪，你手上沾满了鲜血！你没有资格做总统！\n军人愤怒的指责他！\n https://t.co/c3qcXepFTm",
       "hashtags": [],
       "id": 1352326309674946561,
@@ -72844,7 +74601,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Sat Jan 16 17:00:33 +0000 2021",
-      "favorite_count": 21323,
+      "favorite_count": 21324,
       "full_text": "The #FBI needs your help identifying individuals who instigated violence on January 6 in Washington, D.C. Visit https://t.co/pW9jI3X5tB to see images from current cases, and if you see someone you recognize, submit a tip at https://t.co/buMd8vYXzH. #SeekingInfoSaturday @FBIWFO https://t.co/voDvLceTrE",
       "hashtags": [
         {
@@ -72868,7 +74625,7 @@
           "url": "https://t.co/voDvLceTrE"
         }
       ],
-      "retweet_count": 18602,
+      "retweet_count": 18596,
       "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
       "urls": [
         {
@@ -74490,10 +76247,10 @@
         "url": "https://t.co/3mcTC1E5EA"
       }
     ],
-    "retweet_count": 4246,
+    "retweet_count": 4245,
     "retweeted_status": {
       "created_at": "Mon Jan 18 02:24:23 +0000 2021",
-      "favorite_count": 15088,
+      "favorite_count": 15075,
       "full_text": "And here we have the Very Right Wing™️ Boogaloo movement https://t.co/3mcTC1E5EA",
       "hashtags": [],
       "id": 1350992401901490179,
@@ -74510,7 +76267,7 @@
           "url": "https://t.co/3mcTC1E5EA"
         }
       ],
-      "retweet_count": 4246,
+      "retweet_count": 4245,
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "urls": [],
       "user": {
@@ -74542,7 +76299,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Mon Jan 18 02:46:42 +0000 2021",
-      "favorite_count": 5779,
+      "favorite_count": 5778,
       "full_text": "Defense officials tell AP they fear possible inside attack at inauguration and are having National Guard troops in DC vetted. https://t.co/8CMrpw8DlK",
       "hashtags": [],
       "id": 1350998019823562760,
@@ -74586,7 +76343,7 @@
     "retweet_count": 2699,
     "retweeted_status": {
       "created_at": "Mon Jan 18 02:46:42 +0000 2021",
-      "favorite_count": 5779,
+      "favorite_count": 5778,
       "full_text": "Defense officials tell AP they fear possible inside attack at inauguration and are having National Guard troops in DC vetted. https://t.co/8CMrpw8DlK",
       "hashtags": [],
       "id": 1350998019823562760,
@@ -75418,16 +77175,16 @@
     "hashtags": [],
     "id_str": "1350656569743052801",
     "lang": "und",
-    "retweet_count": 3347,
+    "retweet_count": 3345,
     "retweeted_status": {
       "created_at": "Fri Jan 15 12:15:10 +0000 2021",
-      "favorite_count": 4813,
+      "favorite_count": 4810,
       "full_text": "Oh? https://t.co/r8fneWKZ2q",
       "hashtags": [],
       "id": 1350053914683584514,
       "id_str": "1350053914683584514",
       "lang": "und",
-      "retweet_count": 3347,
+      "retweet_count": 3345,
       "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
       "urls": [
         {
@@ -76002,7 +77759,7 @@
     "lang": "en",
     "quoted_status": {
       "created_at": "Wed Jan 06 20:09:34 +0000 2021",
-      "favorite_count": 113979,
+      "favorite_count": 113966,
       "full_text": "Here’s the scary moment when protesters initially got into the building from the first floor and made their way outside Senate chamber. https://t.co/CfVIBsgywK",
       "hashtags": [],
       "id": 1346911809274478594,
@@ -76029,7 +77786,7 @@
           }
         }
       ],
-      "retweet_count": 50405,
+      "retweet_count": 50408,
       "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
       "urls": [],
       "user": {
@@ -76569,7 +78326,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Sat Aug 29 02:25:32 +0000 2020",
-      "favorite_count": 16156,
+      "favorite_count": 16152,
       "full_text": "BLM inc. threatening to “rip the president out of the White House” \n\nThey say they won’t wait until the next election.\n\nThey’re openly calling for a revolution.\n\nThis is domestic terrorism on full display, out in the open. They don’t even try to hide it. \nhttps://t.co/OyhNSzBEwu",
       "hashtags": [],
       "id": 1299533616070815745,
@@ -76593,7 +78350,7 @@
           }
         }
       ],
-      "retweet_count": 9871,
+      "retweet_count": 9867,
       "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
       "urls": [],
       "user": {
@@ -76647,7 +78404,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Fri Jan 15 01:39:29 +0000 2021",
-      "favorite_count": 9868,
+      "favorite_count": 9862,
       "full_text": "ALSO BREAKING: President Trump has declassified large numbers of documents related to Russia Collusion hoax.\n\nFBI has tried to keep many of these documents secret.\n\nIncldng, Christopher Steele admits he created Trump-Russia collusion hoax to distract from Clinton email scandal. https://t.co/I5B0ze8WMY",
       "hashtags": [],
       "id": 1349893940309340161,
@@ -76671,7 +78428,7 @@
           }
         }
       ],
-      "retweet_count": 4965,
+      "retweet_count": 4964,
       "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
       "urls": [],
       "user": {
@@ -76788,7 +78545,7 @@
           }
         }
       ],
-      "retweet_count": 330,
+      "retweet_count": 331,
       "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
       "urls": [],
       "user": {
@@ -76843,16 +78600,16 @@
     "hashtags": [],
     "id_str": "1349878076755202056",
     "lang": "en",
-    "retweet_count": 5248,
+    "retweet_count": 5252,
     "retweeted_status": {
       "created_at": "Fri Jan 15 00:26:12 +0000 2021",
-      "favorite_count": 15600,
+      "favorite_count": 15595,
       "full_text": "BREAKING: Trump receiving brief on rioter John Sullivan https://t.co/2C4jKcMgLv",
       "hashtags": [],
       "id": 1349875495299473410,
       "id_str": "1349875495299473410",
       "lang": "en",
-      "retweet_count": 5248,
+      "retweet_count": 5252,
       "source": "<a href=\"https://periscope.tv\" rel=\"nofollow\">Periscope</a>",
       "urls": [
         {
@@ -77204,7 +78961,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Thu Jan 14 22:44:35 +0000 2021",
-      "favorite_count": 38981,
+      "favorite_count": 38982,
       "full_text": "BREAKING: @jsolomonReports reports that Pres. Trump has ordered the declassification of intelligence docs from Obamagate, including Christopher Steele’s debriefings and FBI asset Stefan Halper’s instructions. Expected to be released tomorrow or Monday. #MAGA #AmericaFirst #Dobbs https://t.co/8xFBV6wMPQ",
       "hashtags": [
         {
@@ -77238,7 +78995,7 @@
           }
         }
       ],
-      "retweet_count": 17946,
+      "retweet_count": 17941,
       "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
       "urls": [],
       "user": {
@@ -77301,7 +79058,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Thu Jan 14 22:13:05 +0000 2021",
-      "favorite_count": 474,
+      "favorite_count": 473,
       "full_text": "JUST IN: Trump has sought Bannon's consultation to overturn election results: Bloomberg https://t.co/QLnzYTY57k https://t.co/HmbNHA7Lze",
       "hashtags": [],
       "id": 1349841996341538816,
@@ -77318,7 +79075,7 @@
           "url": "https://t.co/HmbNHA7Lze"
         }
       ],
-      "retweet_count": 236,
+      "retweet_count": 235,
       "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
       "urls": [
         {
@@ -78139,7 +79896,7 @@
     "retweet_count": 393,
     "retweeted_status": {
       "created_at": "Tue Jan 12 11:33:55 +0000 2021",
-      "favorite_count": 1137,
+      "favorite_count": 1138,
       "full_text": "日本九州的树林里，一把巨大的木琴，当一个木球从每个 \"键 \"上滚落时，就会演奏出巴赫的曲子。 https://t.co/dxMvvrAHKZ",
       "hashtags": [],
       "id": 1348956367298719745,
@@ -78279,7 +80036,7 @@
     "retweet_count": 1323,
     "retweeted_status": {
       "created_at": "Fri Nov 13 22:24:06 +0000 2020",
-      "favorite_count": 7805,
+      "favorite_count": 7802,
       "full_text": "Dr. Moncef Slaoui: We expect to have enough vaccine doses available to immunize 20 million Americans in the month of December and another 25-30 million per month after that. https://t.co/95Jf3E6YyL",
       "hashtags": [],
       "id": 1327376722996715522,
@@ -79275,7 +81032,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Mon Jan 11 16:50:26 +0000 2021",
-      "favorite_count": 28980,
+      "favorite_count": 28971,
       "full_text": "President Trump is not resigning, and he is not leaving the public stage at all.\n\nDonald J. Trump remains the inspirational leader of a loving and patriotic movement of people who believe America's best days can still be ahead. https://t.co/lNrWffVrW6",
       "hashtags": [],
       "id": 1348673637482721281,
@@ -79299,7 +81056,7 @@
           }
         }
       ],
-      "retweet_count": 6449,
+      "retweet_count": 6448,
       "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
       "urls": [],
       "user": {
@@ -80679,7 +82436,7 @@
       "lang": "zh",
       "quoted_status": {
         "created_at": "Thu Jun 22 16:19:09 +0000 2017",
-        "favorite_count": 10410,
+        "favorite_count": 10412,
         "full_text": "Police drag away protesters, some in wheelchairs, outside of Sen. McConnell's office after draft of Senate health care bill is revealed https://t.co/uWRR0uJniY",
         "hashtags": [],
         "id": 877923923958038528,
@@ -80746,7 +82503,7 @@
             }
           }
         ],
-        "retweet_count": 12112,
+        "retweet_count": 12111,
         "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
         "urls": [],
         "user": {
@@ -81115,7 +82872,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Thu Jun 22 16:19:09 +0000 2017",
-      "favorite_count": 10410,
+      "favorite_count": 10412,
       "full_text": "Police drag away protesters, some in wheelchairs, outside of Sen. McConnell's office after draft of Senate health care bill is revealed https://t.co/uWRR0uJniY",
       "hashtags": [],
       "id": 877923923958038528,
@@ -81139,7 +82896,7 @@
           }
         }
       ],
-      "retweet_count": 12112,
+      "retweet_count": 12111,
       "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
       "urls": [],
       "user": {
@@ -81613,7 +83370,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Sun Jan 10 02:44:05 +0000 2021",
-      "favorite_count": 657,
+      "favorite_count": 656,
       "full_text": "法国总统马克龙\n直播结束后\n\n忘关镜头了\n忘关镜头了\n忘关镜头了\n…… https://t.co/OYivrI0jdB",
       "hashtags": [],
       "id": 1348098256136388608,
@@ -81637,7 +83394,7 @@
           }
         }
       ],
-      "retweet_count": 285,
+      "retweet_count": 284,
       "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
       "urls": [],
       "user": {
@@ -81958,13 +83715,13 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Sat Jan 09 21:10:05 +0000 2021",
-      "favorite_count": 39161,
+      "favorite_count": 39152,
       "full_text": "Today, I am lifting all self-imposed restrictions on executive branch agencies’ interactions with their counterparts from Taiwan. This action will benefit both of our great democracies. https://t.co/JmxE5jsZYf",
       "hashtags": [],
       "id": 1348014204066934785,
       "id_str": "1348014204066934785",
       "lang": "en",
-      "retweet_count": 11283,
+      "retweet_count": 11278,
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "urls": [
         {
@@ -81999,16 +83756,16 @@
     "hashtags": [],
     "id_str": "1348016641376800770",
     "lang": "en",
-    "retweet_count": 11283,
+    "retweet_count": 11278,
     "retweeted_status": {
       "created_at": "Sat Jan 09 21:10:05 +0000 2021",
-      "favorite_count": 39161,
+      "favorite_count": 39152,
       "full_text": "Today, I am lifting all self-imposed restrictions on executive branch agencies’ interactions with their counterparts from Taiwan. This action will benefit both of our great democracies. https://t.co/JmxE5jsZYf",
       "hashtags": [],
       "id": 1348014204066934785,
       "id_str": "1348014204066934785",
       "lang": "en",
-      "retweet_count": 11283,
+      "retweet_count": 11278,
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "urls": [
         {
@@ -82065,7 +83822,7 @@
     "hashtags": [],
     "id_str": "1348014617285464064",
     "lang": "en",
-    "retweet_count": 4042,
+    "retweet_count": 4041,
     "retweeted_status": {
       "created_at": "Sat Jan 09 18:30:00 +0000 2021",
       "favorite_count": 14497,
@@ -82099,7 +83856,7 @@
           }
         }
       ],
-      "retweet_count": 4042,
+      "retweet_count": 4041,
       "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
       "urls": [],
       "user": {
@@ -82140,10 +83897,10 @@
         "url": "https://t.co/dWtuqCN62Y"
       }
     ],
-    "retweet_count": 3118,
+    "retweet_count": 3117,
     "retweeted_status": {
       "created_at": "Sat Jan 09 20:01:32 +0000 2021",
-      "favorite_count": 16574,
+      "favorite_count": 16573,
       "full_text": ".@NATO reform is another Trump Administration success story. https://t.co/dWtuqCN62Y",
       "hashtags": [],
       "id": 1347996951866986503,
@@ -82160,7 +83917,7 @@
           "url": "https://t.co/dWtuqCN62Y"
         }
       ],
-      "retweet_count": 3118,
+      "retweet_count": 3117,
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "urls": [],
       "user": {
@@ -82847,7 +84604,7 @@
     "retweet_count": 630,
     "retweeted_status": {
       "created_at": "Thu Jan 07 09:56:57 +0000 2021",
-      "favorite_count": 1360,
+      "favorite_count": 1361,
       "full_text": "警察可以不事先警告，偷偷打黑枪的吗?\n退伍女军人，死的好惨\n\n https://t.co/Sc6Uyr0N5q",
       "hashtags": [],
       "id": 1347120027976179714,
@@ -82988,7 +84745,7 @@
       "lang": "zh",
       "quoted_status": {
         "created_at": "Thu Jan 07 23:51:21 +0000 2021",
-        "favorite_count": 1517,
+        "favorite_count": 1516,
         "full_text": "Michelle Obama calls on Big Tech to permanently ban President Trump from their platforms - condemns his voters https://t.co/RoWQbf8n6t https://t.co/mdOmjw1PPM",
         "hashtags": [],
         "id": 1347330010349252608,
@@ -83301,7 +85058,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Thu Jan 07 23:51:21 +0000 2021",
-      "favorite_count": 1517,
+      "favorite_count": 1516,
       "full_text": "Michelle Obama calls on Big Tech to permanently ban President Trump from their platforms - condemns his voters https://t.co/RoWQbf8n6t https://t.co/mdOmjw1PPM",
       "hashtags": [],
       "id": 1347330010349252608,
@@ -83894,7 +85651,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Thu Jan 07 05:06:05 +0000 2021",
-      "favorite_count": 3780,
+      "favorite_count": 3779,
       "full_text": "堅持到底的六名參議員：\nSen. Ted Cruz\nSen. Josh Hawley\nSen. Cindy Hyde-Smith\nSen. Roger Marshall\nSen. John Kennedy \nSen. Tommy Tuberville\n注：歷史將永遠記住偉大的您們！🙏 https://t.co/eqbP3FSPph",
       "hashtags": [],
       "id": 1347046827774914560,
@@ -83911,7 +85668,7 @@
           "url": "https://t.co/eqbP3FSPph"
         }
       ],
-      "retweet_count": 1351,
+      "retweet_count": 1350,
       "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
       "urls": [],
       "user": {
@@ -84156,7 +85913,7 @@
     "retweet_count": 35,
     "retweeted_status": {
       "created_at": "Fri Jan 08 00:40:00 +0000 2021",
-      "favorite_count": 116,
+      "favorite_count": 115,
       "full_text": "Federal, state and local officials sought to speed up slow-moving vaccinations, a day after the U.S. endured the pandemic's deadliest day yet, killing more than 4,000 people in a single day, according to a Reuters tally https://t.co/vsjfskUXDK https://t.co/im37Ph6LT4",
       "hashtags": [],
       "id": 1347342253363089408,
@@ -84271,16 +86028,16 @@
     "hashtags": [],
     "id_str": "1347364609708101633",
     "lang": "en",
-    "retweet_count": 3597,
+    "retweet_count": 3596,
     "retweeted_status": {
       "created_at": "Fri Jan 08 02:00:06 +0000 2021",
-      "favorite_count": 18024,
+      "favorite_count": 18022,
       "full_text": "President @realDonaldTrump built on the legacy of the 1998 International Religious Freedom Act with a landmark executive order to promote religious freedom in all we do. https://t.co/i3rIq0MPYF",
       "hashtags": [],
       "id": 1347362410643025926,
       "id_str": "1347362410643025926",
       "lang": "en",
-      "retweet_count": 3597,
+      "retweet_count": 3596,
       "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
       "urls": [
         {
@@ -84851,7 +86608,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Thu Jan 07 15:09:16 +0000 2021",
-      "favorite_count": 1904,
+      "favorite_count": 1903,
       "full_text": "一个剽窃，夺妻，偷票的人做总统，以及他乱伦，吸毒，的臭下三滥家庭住进白宫！！！我怎么也看不出这是主的美意。我只知道，这国有祸了，有祸了。",
       "hashtags": [],
       "id": 1347198622945796097,
@@ -84954,7 +86711,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Thu Jan 07 07:57:19 +0000 2021",
-      "favorite_count": 1843,
+      "favorite_count": 1842,
       "full_text": "#吹哥 从此不再关心政治！\n也不会再报道任何有关政治方面的新闻！\n\n心寒了！",
       "hashtags": [
         {
@@ -85114,7 +86871,7 @@
     "retweet_count": 554,
     "retweeted_status": {
       "created_at": "Thu Jan 07 04:43:14 +0000 2021",
-      "favorite_count": 1615,
+      "favorite_count": 1614,
       "full_text": "Vice President Pence ignored questions from @mkraju and me on whether the President bears responsibility for what happened at the Capitol today https://t.co/aVI5eVDcbN",
       "hashtags": [],
       "id": 1347041080215298050,
@@ -85194,7 +86951,7 @@
       "lang": "zh",
       "quoted_status": {
         "created_at": "Thu Jan 07 00:36:50 +0000 2021",
-        "favorite_count": 8063,
+        "favorite_count": 8066,
         "full_text": "Senators are heading back to the Capitol now https://t.co/VIdenHtqSO",
         "hashtags": [],
         "id": 1346979069682970624,
@@ -85472,7 +87229,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Thu Jan 07 04:06:51 +0000 2021",
-      "favorite_count": 617,
+      "favorite_count": 618,
       "full_text": "看看是誰把安提法帶到了三樓議會廳，表演的真不錯，時間點也正好，在Cruz準備用大量的材料來支撐他們的反對意見時。這難道是總統的安排？總統會做對自己不利的事？如果安提法衝擊國會的事情沒有發生，那麼這些證據就會在全國人民面前被直播展示出來。現在知道為什麼它們衝擊國會的時間點會在這個時候了 https://t.co/lTmGYSBz2k",
       "hashtags": [],
       "id": 1347031922426392586,
@@ -85499,7 +87256,7 @@
           }
         }
       ],
-      "retweet_count": 451,
+      "retweet_count": 452,
       "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
       "urls": [],
       "user": {
@@ -85531,7 +87288,7 @@
     "lang": "ja",
     "quoted_status": {
       "created_at": "Thu Jan 07 04:39:48 +0000 2021",
-      "favorite_count": 28146,
+      "favorite_count": 28142,
       "full_text": "OMG! BUSTED! Video shows Trump supporters stopping &amp; pulling away Antifa men from breaking the Capitol windows. Trump supporters are heard yelling out “That’s Antifa!!!”  \nDems set us up &amp; GOP just threw us under the bus over a trap. Surreal! Wow! \nhttps://t.co/f7ExMZ0DcD",
       "hashtags": [],
       "id": 1347040212602466304,
@@ -85555,7 +87312,7 @@
           }
         }
       ],
-      "retweet_count": 18318,
+      "retweet_count": 18315,
       "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
       "urls": [],
       "user": {
@@ -85608,7 +87365,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Wed Jan 06 20:00:15 +0000 2021",
-      "favorite_count": 71012,
+      "favorite_count": 71007,
       "full_text": "THEY LITERALLY JUST LET THEM THROUGH https://t.co/tWMuchly8w",
       "hashtags": [],
       "id": 1346909463660396550,
@@ -85632,7 +87389,7 @@
           }
         }
       ],
-      "retweet_count": 38880,
+      "retweet_count": 38870,
       "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
       "urls": [],
       "user": {
@@ -86060,7 +87817,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Wed Jan 06 19:32:23 +0000 2021",
-      "favorite_count": 22960,
+      "favorite_count": 22954,
       "full_text": "BREAKING: Clashes reported inside the U.S. Capitol building https://t.co/2twyZAD6wJ",
       "hashtags": [],
       "id": 1346902451950071817,
@@ -86084,7 +87841,7 @@
           }
         }
       ],
-      "retweet_count": 12289,
+      "retweet_count": 12287,
       "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
       "urls": [],
       "user": {
@@ -86136,7 +87893,7 @@
     "retweet_count": 50,
     "retweeted_status": {
       "created_at": "Wed Jan 06 21:29:54 +0000 2021",
-      "favorite_count": 84,
+      "favorite_count": 85,
       "full_text": "FBI SWAT team in Capitol complex\nhttps://t.co/cjSxmDxPnJ",
       "hashtags": [],
       "id": 1346932026067341314,
@@ -86279,10 +88036,10 @@
         "url": "https://t.co/7ceBdJMzcr"
       }
     ],
-    "retweet_count": 9,
+    "retweet_count": 8,
     "retweeted_status": {
       "created_at": "Wed Jan 06 19:42:29 +0000 2021",
-      "favorite_count": 64,
+      "favorite_count": 63,
       "full_text": "国会山前人山人海 https://t.co/7ceBdJMzcr",
       "hashtags": [],
       "id": 1346904993950007299,
@@ -86326,7 +88083,7 @@
           "url": "https://t.co/7ceBdJMzcr"
         }
       ],
-      "retweet_count": 9,
+      "retweet_count": 8,
       "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
       "urls": [],
       "user": {
@@ -86742,7 +88499,7 @@
     "lang": "en",
     "quoted_status": {
       "created_at": "Tue Jan 05 23:27:17 +0000 2021",
-      "favorite_count": 2621,
+      "favorite_count": 2620,
       "full_text": "寒冬腊月，华盛顿自由广场上却旌旗招展，人们和牧师在一起祷告，祈祷这个国家的未来 \nhttps://t.co/9CjTdKTluX",
       "hashtags": [],
       "id": 1346599180731465728,

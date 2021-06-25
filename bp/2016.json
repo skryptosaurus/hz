@@ -20,7 +20,7 @@
         "url": "https://t.co/FIGaIBuYcu"
       }
     ],
-    "retweet_count": 7,
+    "retweet_count": 8,
     "retweeted_status": {
       "created_at": "Sat Dec 17 04:20:21 +0000 2016",
       "favorite_count": 4,
@@ -78,7 +78,7 @@
         },
         "attributes": {}
       },
-      "retweet_count": 7,
+      "retweet_count": 8,
       "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
       "urls": [],
       "user": {
@@ -115,7 +115,7 @@
     ],
     "id_str": "810320845272977413",
     "lang": "zh",
-    "retweet_count": 4,
+    "retweet_count": 5,
     "retweeted_status": {
       "created_at": "Sat Dec 17 23:04:23 +0000 2016",
       "favorite_count": 5,
@@ -131,7 +131,7 @@
       "id": 810259373276758017,
       "id_str": "810259373276758017",
       "lang": "zh",
-      "retweet_count": 4,
+      "retweet_count": 5,
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
       "urls": [
         {
@@ -195,7 +195,7 @@
         "url": "https://t.co/ObS6Y2lUHK"
       }
     ],
-    "retweet_count": 44,
+    "retweet_count": 45,
     "retweeted_status": {
       "created_at": "Sat Dec 17 06:16:17 +0000 2016",
       "favorite_count": 17,
@@ -262,7 +262,7 @@
         },
         "attributes": {}
       },
-      "retweet_count": 44,
+      "retweet_count": 45,
       "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
       "urls": [],
       "user": {
@@ -816,7 +816,7 @@
         "url": "https://t.co/556KdiVavE"
       }
     ],
-    "retweet_count": 29,
+    "retweet_count": 30,
     "retweeted_status": {
       "created_at": "Fri Feb 19 06:13:46 +0000 2016",
       "favorite_count": 12,
@@ -883,7 +883,7 @@
         },
         "attributes": {}
       },
-      "retweet_count": 29,
+      "retweet_count": 30,
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
       "urls": [],
       "user": {

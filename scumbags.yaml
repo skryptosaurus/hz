@@ -9,13 +9,13 @@ huang_ciping:
 - location: USA
 - name: Ciping Huang 黄慈萍
 - screen_name: huang_ciping
-- statuses_count: 9053
+- statuses_count: 9054
 NewCenturyBaopu:
 - created_at: Fri Apr 06 21:16:50 +0000 2012
 - default_profile: True
 - description: 香港新世纪出版社
 - favourites_count: 1962
-- followers_count: 12693
+- followers_count: 12692
 - friends_count: 595
 - id: 547112588
 - listed_count: 79
@@ -28,7 +28,7 @@ Yangguang_USA:
 - default_profile: True
 - description: 多健身少上网，多工作少上推，强迫自己离休推特一个月为什么这么难？需要自律了
 - favourites_count: 4375
-- followers_count: 303
+- followers_count: 304
 - friends_count: 321
 - id: 1284363240974082048
 - listed_count: 6
@@ -39,7 +39,7 @@ realproofread:
 - created_at: Tue Jul 04 23:27:23 +0000 2017
 - default_profile: True
 - favourites_count: 276
-- followers_count: 70
+- followers_count: 69
 - friends_count: 399
 - id: 882380349061218304
 - name: 真女权
@@ -49,18 +49,18 @@ baozhan16580515:
 - created_at: Thu Jan 16 16:10:36 +0000 2020
 - default_profile: True
 - description: 民主自由
-- favourites_count: 7914
+- favourites_count: 7971
 - followers_count: 89
-- friends_count: 245
+- friends_count: 246
 - id: 1217841519174004736
 - name: bao zhang
 - screen_name: baozhan16580515
-- statuses_count: 3203
+- statuses_count: 3231
 rabbitlili:
 - created_at: Thu Feb 03 21:41:34 +0000 2011
 - default_profile: True
 - description: 无
-- favourites_count: 12257
+- favourites_count: 12258
 - followers_count: 1933
 - friends_count: 894
 - geo_enabled: True
@@ -69,4 +69,4 @@ rabbitlili:
 - location: United Kingdom
 - name: 英伦
 - screen_name: Rabbitlili
-- statuses_count: 23876
+- statuses_count: 23878
