@@ -1,4 +1,189 @@
 {
+  "1409304087691104258": {
+    "created_at": "Mon Jun 28 00:14:12 +0000 2021",
+    "full_text": "RT @JackHHazlewood: Tonight an Apple Daily editor was arrested at HK airport under the NSL. His name is Fung Wai-kong (馮偉光) &amp; used the pen-…",
+    "hashtags": [],
+    "id_str": "1409304087691104258",
+    "lang": "en",
+    "retweet_count": 732,
+    "retweeted_status": {
+      "created_at": "Sun Jun 27 16:21:55 +0000 2021",
+      "favorite_count": 873,
+      "full_text": "Tonight an Apple Daily editor was arrested at HK airport under the NSL. His name is Fung Wai-kong (馮偉光) &amp; used the pen-name 盧峯.\n\nHe was my editor &amp; would receive my columns in English &amp; Chinese.\n\n@DominicRaab this man was attempting to board a flight to London. Do something. https://t.co/MInMIXPxPA",
+      "hashtags": [],
+      "id": 1409185231786196993,
+      "id_str": "1409185231786196993",
+      "lang": "en",
+      "media": [
+        {
+          "display_url": "pic.twitter.com/MInMIXPxPA",
+          "expanded_url": "https://twitter.com/JackHHazlewood/status/1409185231786196993/photo/1",
+          "id": 1409185217777213443,
+          "media_url": "http://pbs.twimg.com/media/E45ufUhXoAMC1hp.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E45ufUhXoAMC1hp.jpg",
+          "type": "photo",
+          "url": "https://t.co/MInMIXPxPA"
+        }
+      ],
+      "retweet_count": 732,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "urls": [],
+      "user": {
+        "id": 70659614,
+        "screen_name": "JackHHazlewood"
+      },
+      "user_mentions": [
+        {
+          "id": 4764882552,
+          "id_str": "4764882552",
+          "name": "Dominic Raab",
+          "screen_name": "DominicRaab"
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "urls": [],
+    "user": {
+      "id": 547112588,
+      "screen_name": "NewCenturyBaopu"
+    },
+    "user_mentions": [
+      {
+        "id": 70659614,
+        "id_str": "70659614",
+        "name": "Jack Hazlewood",
+        "screen_name": "JackHHazlewood"
+      }
+    ]
+  },
+  "1409303056248819717": {
+    "created_at": "Mon Jun 28 00:10:06 +0000 2021",
+    "full_text": "RT @realproofread: 曾金燕不出来为协助刘怀昭母女认亲索包养不成诽谤强奸向公众发声明向魏方道歉，就凭这篇在Matters网络上永久不再消除的文章，魏方以后还有机会告她诽谤，无追溯有效时间，想靠玩女权出风头的曾金燕也该反思一下怎么为自己的言行负一下责任 https…",
+    "hashtags": [],
+    "id_str": "1409303056248819717",
+    "lang": "zh",
+    "quoted_status_id": 1408982207960477699,
+    "quoted_status_id_str": "1408982207960477699",
+    "retweet_count": 3,
+    "retweeted_status": {
+      "created_at": "Sun Jun 27 03:37:43 +0000 2021",
+      "favorite_count": 2,
+      "full_text": "曾金燕不出来为协助刘怀昭母女认亲索包养不成诽谤强奸向公众发声明向魏方道歉，就凭这篇在Matters网络上永久不再消除的文章，魏方以后还有机会告她诽谤，无追溯有效时间，想靠玩女权出风头的曾金燕也该反思一下怎么为自己的言行负一下责任 https://t.co/JJiKNoKpVX",
+      "hashtags": [],
+      "id": 1408992916379365378,
+      "id_str": "1408992916379365378",
+      "lang": "zh",
+      "possibly_sensitive": true,
+      "quoted_status": {
+        "created_at": "Sun Jun 27 02:55:10 +0000 2021",
+        "full_text": "不过曾金燕把自己指控魏京生HerToo的文章从微信移植到Matters网站上了。该网站据称是区块链网站，并不能再消除。这样她留下了永久性的关于她自己的拙略品行和底下能力的纪录。 https://t.co/7qMMpIKEil",
+        "hashtags": [],
+        "id": 1408982207960477699,
+        "id_str": "1408982207960477699",
+        "lang": "zh",
+        "quoted_status_id": 1408970108899250179,
+        "quoted_status_id_str": "1408970108899250179",
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "urls": [
+          {
+            "expanded_url": "https://twitter.com/realproofread/status/1408970108899250179",
+            "url": "https://t.co/7qMMpIKEil"
+          }
+        ],
+        "user": {
+          "id": 1288004631017086976,
+          "id_str": "1288004631017086976"
+        },
+        "user_mentions": []
+      },
+      "quoted_status_id": 1408982207960477699,
+      "quoted_status_id_str": "1408982207960477699",
+      "retweet_count": 3,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "urls": [
+        {
+          "expanded_url": "https://twitter.com/shangya97766113/status/1408982207960477699",
+          "url": "https://t.co/JJiKNoKpVX"
+        }
+      ],
+      "user": {
+        "id": 882380349061218304,
+        "screen_name": "realproofread"
+      },
+      "user_mentions": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "urls": [],
+    "user": {
+      "id": 547112588,
+      "screen_name": "NewCenturyBaopu"
+    },
+    "user_mentions": [
+      {
+        "id": 882380349061218304,
+        "id_str": "882380349061218304",
+        "name": "真女权",
+        "screen_name": "realproofread"
+      }
+    ]
+  },
+  "1409092664071397378": {
+    "created_at": "Sun Jun 27 10:14:05 +0000 2021",
+    "full_text": "RT @ooTheFuck: 这一天，终于还是来了。\n我去年的预言成真了：六四将不再成为不能触碰的敏感话题，而是会被他们正名。\n\n6月20日，央视播出政治宣传片《敢教日月换新天》，6月25日播出的第十一集《举旗定向》里说到六四事件，当然是以中共的叙事口吻说的。\n\n这是官方第一次…",
+    "hashtags": [],
+    "id_str": "1409092664071397378",
+    "lang": "zh",
+    "retweet_count": 316,
+    "retweeted_status": {
+      "created_at": "Sat Jun 26 12:48:28 +0000 2021",
+      "favorite_count": 977,
+      "full_text": "这一天，终于还是来了。\n我去年的预言成真了：六四将不再成为不能触碰的敏感话题，而是会被他们正名。\n\n6月20日，央视播出政治宣传片《敢教日月换新天》，6月25日播出的第十一集《举旗定向》里说到六四事件，当然是以中共的叙事口吻说的。\n\n这是官方第一次公开对民众讲及此事。https://t.co/8C48cSVaIT",
+      "hashtags": [],
+      "id": 1408769127985016836,
+      "id_str": "1408769127985016836",
+      "lang": "zh",
+      "media": [
+        {
+          "display_url": "pic.twitter.com/8C48cSVaIT",
+          "expanded_url": "https://twitter.com/GFWfrog/status/1408719163040931842/video/1",
+          "id": 1408719066638979072,
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1408719066638979072/pu/img/zNPzCvO75FfzZVur.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1408719066638979072/pu/img/zNPzCvO75FfzZVur.jpg",
+          "type": "video",
+          "url": "https://t.co/8C48cSVaIT",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 60920
+          }
+        }
+      ],
+      "retweet_count": 316,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "urls": [],
+      "user": {
+        "id": 736207142709923840,
+        "screen_name": "ooTheFuck"
+      },
+      "user_mentions": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "urls": [],
+    "user": {
+      "id": 547112588,
+      "screen_name": "NewCenturyBaopu"
+    },
+    "user_mentions": [
+      {
+        "id": 736207142709923840,
+        "id_str": "736207142709923840",
+        "name": "噴子",
+        "screen_name": "ooTheFuck"
+      }
+    ]
+  },
   "1408345520544772099": {
     "created_at": "Fri Jun 25 08:45:12 +0000 2021",
     "full_text": "COVID-19 Vaccination in China😓 https://t.co/bTZ7x1hhUg",
@@ -42,10 +227,10 @@
     ],
     "id_str": "1407878898285641729",
     "lang": "zh",
-    "retweet_count": 404,
+    "retweet_count": 406,
     "retweeted_status": {
       "created_at": "Wed Jun 23 10:31:14 +0000 2021",
-      "favorite_count": 1192,
+      "favorite_count": 1199,
       "full_text": "圖為黎智英與當時的蘋果日報辦公室，攝於1995年12月15日。\n攝： ERIC LI/South China Morning Post via Getty Images\n#相關閱讀：\n【香港最後一份《蘋果日報》，明天出刊】https://t.co/YZ52nKbMJl https://t.co/xf1DSxtoei",
       "hashtags": [
         {
@@ -66,7 +251,7 @@
           "url": "https://t.co/xf1DSxtoei"
         }
       ],
-      "retweet_count": 404,
+      "retweet_count": 406,
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "urls": [
         {
@@ -128,16 +313,16 @@
     "hashtags": [],
     "id_str": "1407368207212507138",
     "lang": "en",
-    "retweet_count": 1010,
+    "retweet_count": 1013,
     "retweeted_status": {
       "created_at": "Tue Feb 02 17:04:33 +0000 2021",
-      "favorite_count": 5764,
+      "favorite_count": 5777,
       "full_text": "1. Three years ago, I set out to write a book to understand what happened to the world, America, and myself as the undertow of history pulled us into the currents of nationalism and authoritarianism – and what we should do about it. I hope you’ll read it: https://t.co/1pCVBqXSME",
       "hashtags": [],
       "id": 1356649720957952002,
       "id_str": "1356649720957952002",
       "lang": "en",
-      "retweet_count": 1010,
+      "retweet_count": 1013,
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "urls": [
         {
@@ -586,7 +771,7 @@
     "retweet_count": 880,
     "retweeted_status": {
       "created_at": "Sun Jun 06 11:32:01 +0000 2021",
-      "favorite_count": 1158,
+      "favorite_count": 1157,
       "full_text": "A secret video obtained by The New Yorker and @teamtrace shows the N.R.A. chief Wayne LaPierre and his wife hunting elephants. His wife, Susan, kills an elephant, cuts off its tail, and holds it in the air. “Victory!” she shouts. https://t.co/zejDFqo9zd",
       "hashtags": [],
       "id": 1401502130259861506,
@@ -881,10 +1066,10 @@
     "hashtags": [],
     "id_str": "1403687821072736257",
     "lang": "en",
-    "retweet_count": 772,
+    "retweet_count": 770,
     "retweeted_status": {
       "created_at": "Fri Jun 11 17:33:01 +0000 2021",
-      "favorite_count": 3682,
+      "favorite_count": 3685,
       "full_text": "The staff of The New York Times has won the Pulitzer Prize for Public Service for coverage of the pandemic. Here are the award-winning pieces. https://t.co/ghMdQs0W4J https://t.co/2HfAc7E48S",
       "hashtags": [],
       "id": 1403404918975782916,
@@ -901,7 +1086,7 @@
           "url": "https://t.co/2HfAc7E48S"
         }
       ],
-      "retweet_count": 772,
+      "retweet_count": 770,
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "urls": [
         {
@@ -1123,7 +1308,7 @@
     "retweet_count": 92,
     "retweeted_status": {
       "created_at": "Sun Jun 06 04:11:20 +0000 2021",
-      "favorite_count": 250,
+      "favorite_count": 251,
       "full_text": "人類是一個極具破壞力的物種....\n\n https://t.co/7vQEaDyjtn",
       "hashtags": [],
       "id": 1401391229498126340,
@@ -1223,10 +1408,10 @@
     "lang": "en",
     "quoted_status_id": 1400724798833971202,
     "quoted_status_id_str": "1400724798833971202",
-    "retweet_count": 935,
+    "retweet_count": 936,
     "retweeted_status": {
       "created_at": "Sat Jun 05 09:42:49 +0000 2021",
-      "favorite_count": 2778,
+      "favorite_count": 2779,
       "full_text": "The bravery is mesmerizing. https://t.co/2wWSrlLutj",
       "hashtags": [],
       "id": 1401112260811001858,
@@ -1234,7 +1419,7 @@
       "lang": "en",
       "quoted_status": {
         "created_at": "Fri Jun 04 08:03:10 +0000 2021",
-        "favorite_count": 15945,
+        "favorite_count": 15938,
         "full_text": "Remembering the Tank Man on this day in 1989. #TiananmenSquareMassacre https://t.co/MIU6YVOckz",
         "hashtags": [
           {
@@ -1305,7 +1490,7 @@
             }
           }
         ],
-        "retweet_count": 5198,
+        "retweet_count": 5199,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "urls": [],
         "user": {
@@ -1316,7 +1501,7 @@
       },
       "quoted_status_id": 1400724798833971202,
       "quoted_status_id_str": "1400724798833971202",
-      "retweet_count": 935,
+      "retweet_count": 936,
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "urls": [
         {
@@ -1542,10 +1727,10 @@
         }
       }
     ],
-    "retweet_count": 380,
+    "retweet_count": 381,
     "retweeted_status": {
       "created_at": "Fri Jun 04 11:00:00 +0000 2021",
-      "favorite_count": 836,
+      "favorite_count": 834,
       "full_text": "六四屠殺32週年 永遠不要遺忘這段歷史，面對暴政中國人曾經反抗過！ https://t.co/hoX9chOuew",
       "hashtags": [],
       "id": 1400769299632070662,
@@ -1569,7 +1754,7 @@
           }
         }
       ],
-      "retweet_count": 380,
+      "retweet_count": 381,
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "urls": [],
       "user": {
@@ -1630,10 +1815,10 @@
     ],
     "id_str": "1400745238134550530",
     "lang": "de",
-    "retweet_count": 76,
+    "retweet_count": 75,
     "retweeted_status": {
       "created_at": "Fri Jun 04 05:41:29 +0000 2021",
-      "favorite_count": 157,
+      "favorite_count": 156,
       "full_text": "🇨🇳 Vor 32 Jahren wurde #China​s friedliche Demokratiebewegung durch die Staats- und Parteiführung gewaltsam beendet. Öffentliches Erinnern, Trauern und Gedenken sind landesweit verboten, nun auch in #Hongkong und #Macau. (Ausschnitt aus Doku-Film \"The Gate of Heavenly Peace\") https://t.co/dUb0YOr0Yk",
       "hashtags": [
         {
@@ -1667,7 +1852,7 @@
           }
         }
       ],
-      "retweet_count": 76,
+      "retweet_count": 75,
       "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
       "urls": [],
       "user": {
@@ -1711,7 +1896,7 @@
     "retweet_count": 415,
     "retweeted_status": {
       "created_at": "Fri Jun 04 03:17:49 +0000 2021",
-      "favorite_count": 1814,
+      "favorite_count": 1813,
       "full_text": "7名天安門母親成員早上到北京萬安公墓集體拜祭親人。 https://t.co/Ou9V6kFQmA",
       "hashtags": [],
       "id": 1400652984917233668,
@@ -1949,7 +2134,7 @@
     "hashtags": [],
     "id_str": "1400718829978718213",
     "lang": "zh",
-    "retweet_count": 320,
+    "retweet_count": 319,
     "retweeted_status": {
       "created_at": "Fri Jun 04 07:15:11 +0000 2021",
       "favorite_count": 965,
@@ -1976,7 +2161,7 @@
           }
         }
       ],
-      "retweet_count": 320,
+      "retweet_count": 319,
       "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
       "urls": [],
       "user": {
@@ -2019,7 +2204,7 @@
       "lang": "zh",
       "quoted_status": {
         "created_at": "Fri Jun 04 04:34:37 +0000 2021",
-        "favorite_count": 1142,
+        "favorite_count": 1141,
         "full_text": "1989年6月4日，共产党对中国人民进行了残酷的屠杀。 https://t.co/itAZNMw1H6",
         "hashtags": [],
         "id": 1400672313515909121,
@@ -2255,7 +2440,7 @@
     "retweet_count": 18,
     "retweeted_status": {
       "created_at": "Fri Jun 04 02:29:40 +0000 2021",
-      "favorite_count": 40,
+      "favorite_count": 39,
       "full_text": "Given that Chow Hang-tung had recently only called for people to engage in private commemorations of the Tiananmen Massacre, this should show everyone that banning the Vigil on the grounds of COVID was always a facade. \n\nhttps://t.co/1S2wJ9YNjw",
       "hashtags": [],
       "id": 1400640867245780997,
@@ -2314,7 +2499,7 @@
     "retweet_count": 221,
     "retweeted_status": {
       "created_at": "Thu Jun 03 13:28:19 +0000 2021",
-      "favorite_count": 415,
+      "favorite_count": 413,
       "full_text": "May 35th\n#TiananmenSquareMassacre \n\nIllustration by Hong Kong artist Apink Cartoons. https://t.co/XGlI5riFdT",
       "hashtags": [
         {
@@ -2368,7 +2553,7 @@
     "retweet_count": 138,
     "retweeted_status": {
       "created_at": "Thu Jun 03 13:19:00 +0000 2021",
-      "favorite_count": 374,
+      "favorite_count": 373,
       "full_text": "台湾监控中国资讯战的NGO组织“台湾民主实验室”从去年初起，针对长期散播中国假讯息的一万七千多个脸书粉丝页进行监控，发现至少有三万则帖子与六四洗白论述有关。 \nhttps://t.co/WYX5CzuGRz",
       "hashtags": [],
       "id": 1400441890386984965,
@@ -2414,10 +2599,10 @@
     "hashtags": [],
     "id_str": "1400420535226408962",
     "lang": "zh",
-    "retweet_count": 846,
+    "retweet_count": 845,
     "retweeted_status": {
       "created_at": "Wed Jun 02 08:00:20 +0000 2021",
-      "favorite_count": 1724,
+      "favorite_count": 1722,
       "full_text": "1989年6月3至4日的夜晚，坦克驶入天安门广场，残暴镇压了一场规模空前的民主运动。30多年来，任何提及此事的内容在中国被系统性地删除。所有寻求悼念的人都冒着极大的危险。在香港，延续了30年的纪念晚会，今年再次被禁。\n但记忆不会因此消失。\n#WeRemember64\n#六四我记得 https://t.co/wZyaoM64Ie",
       "hashtags": [
         {
@@ -2448,7 +2633,7 @@
           }
         }
       ],
-      "retweet_count": 846,
+      "retweet_count": 845,
       "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
       "urls": [],
       "user": {
@@ -2620,7 +2805,7 @@
     "retweet_count": 682,
     "retweeted_status": {
       "created_at": "Thu Jun 03 11:00:11 +0000 2021",
-      "favorite_count": 2042,
+      "favorite_count": 2044,
       "full_text": "【六四回顾】“你认识坦克人吗？”BBC记者沙磊在北京问民众，有没有看过1989年那张挡坦克的照片⋯⋯ https://t.co/wUo90iATFx",
       "hashtags": [],
       "id": 1400406958713278464,
@@ -2735,7 +2920,7 @@
         "url": "https://t.co/6EZa5lLfTG"
       }
     ],
-    "retweet_count": 322,
+    "retweet_count": 321,
     "retweeted_status": {
       "created_at": "Tue Jun 01 13:37:11 +0000 2021",
       "favorite_count": 782,
@@ -2782,7 +2967,7 @@
           "url": "https://t.co/6EZa5lLfTG"
         }
       ],
-      "retweet_count": 322,
+      "retweet_count": 321,
       "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
       "urls": [],
       "user": {
@@ -2814,7 +2999,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Tue Jun 01 07:07:35 +0000 2021",
-      "favorite_count": 339,
+      "favorite_count": 340,
       "full_text": "打了美国疫苗回国的，测出抗体阳性，享受新冠感染者待遇，除了隔离28天，还要出做胸部CT的钱。又多了一条不让回国的理由。 https://t.co/5492jSqkNT",
       "hashtags": [],
       "id": 1399623643689226241,
@@ -3061,7 +3246,7 @@
     "retweet_count": 29,
     "retweeted_status": {
       "created_at": "Thu May 27 23:02:22 +0000 2021",
-      "favorite_count": 79,
+      "favorite_count": 78,
       "full_text": "Ex @HRW China researcher Robin Munro was a trailblazer:\n1. Eyewitness reporting from Tiananmen Square.\n2. Reports on psychiatric abuse of prisoners, abysmal orphanages, \"reform through labor\" detention in Xinjiang, Three Gorges Dam cover-up.\nWe miss him. https://t.co/bjCBfAp5GP https://t.co/rj4u68idc9",
       "hashtags": [],
       "id": 1398051984490512385,
@@ -3139,7 +3324,7 @@
       "lang": "zh",
       "quoted_status": {
         "created_at": "Thu May 27 11:30:22 +0000 2021",
-        "favorite_count": 2317,
+        "favorite_count": 2318,
         "full_text": "不比不知道 https://t.co/qIe3NrXKSU",
         "hashtags": [],
         "id": 1397877838955487232,
@@ -3178,7 +3363,7 @@
             "url": "https://t.co/qIe3NrXKSU"
           }
         ],
-        "retweet_count": 929,
+        "retweet_count": 931,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "urls": [],
         "user": {
@@ -3340,7 +3525,7 @@
     "retweet_count": 36,
     "retweeted_status": {
       "created_at": "Fri May 28 05:06:14 +0000 2021",
-      "favorite_count": 103,
+      "favorite_count": 102,
       "full_text": "In Beijing with @HRW in 1989, Robin Munro documented weeks of pro-democracy demonstrations—and then the terrible #Tiananmen crackdown on June 4.\n\nRobin was the first @HRW researcher I ever met, and his passion for research, truth+justice inspired us all:\nhttps://t.co/m9BeXEvwH1 https://t.co/1akJfH36sz",
       "hashtags": [
         {
@@ -3427,7 +3612,7 @@
     "retweet_count": 48,
     "retweeted_status": {
       "created_at": "Wed May 26 15:43:57 +0000 2021",
-      "favorite_count": 203,
+      "favorite_count": 205,
       "full_text": "一种文化在科举制之前只有上层贵族才有资格使用，后来只当是升官发财的门道，而且占人口一半的女人还不被接纳，说什么女子无才便是德，不仅如此，历史上还出现无数的焚书坑儒和文字狱。康熙字典5000多汉字，现在常用的不过2000多，而且发展到现在还话都不能说了，动不动就敏感字，这就是汉语世界，还 https://t.co/4gxVfOnPvy",
       "hashtags": [],
       "id": 1397579266548711428,
@@ -3474,10 +3659,10 @@
     "hashtags": [],
     "id_str": "1397867973755379714",
     "lang": "zh",
-    "retweet_count": 330,
+    "retweet_count": 329,
     "retweeted_status": {
       "created_at": "Thu May 27 05:36:11 +0000 2021",
-      "favorite_count": 701,
+      "favorite_count": 699,
       "full_text": "【六四 32 周年 當年今日】1989 年 5 月 27 日，香港演藝界在跑馬地馬場舉行「民主歌聲獻中華」，以義演為北京學生發起的天安門民主運動聲援籌款。節目由早上 10 時持續至凌晨 12 時，長達 12 小時…\n\n六四專頁：https://t.co/7qo1mMsuJF https://t.co/U8ylb4CNaX",
       "hashtags": [],
       "id": 1397788704626778112,
@@ -3494,7 +3679,7 @@
           "url": "https://t.co/U8ylb4CNaX"
         }
       ],
-      "retweet_count": 330,
+      "retweet_count": 329,
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "urls": [
         {
@@ -4724,7 +4909,7 @@
     "hashtags": [],
     "id_str": "1393528853155377155",
     "lang": "en",
-    "retweet_count": 369,
+    "retweet_count": 368,
     "retweeted_status": {
       "created_at": "Sat May 15 06:05:00 +0000 2021",
       "favorite_count": 887,
@@ -4733,7 +4918,7 @@
       "id": 1393447303894032386,
       "id_str": "1393447303894032386",
       "lang": "en",
-      "retweet_count": 369,
+      "retweet_count": 368,
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "urls": [
         {
@@ -5059,7 +5244,7 @@
         }
       }
     ],
-    "retweet_count": 65,
+    "retweet_count": 64,
     "retweeted_status": {
       "created_at": "Fri May 07 03:53:54 +0000 2021",
       "favorite_count": 142,
@@ -5086,7 +5271,7 @@
           }
         }
       ],
-      "retweet_count": 65,
+      "retweet_count": 64,
       "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
       "urls": [],
       "user": {
@@ -5119,7 +5304,7 @@
     "retweet_count": 37,
     "retweeted_status": {
       "created_at": "Thu May 06 03:32:54 +0000 2021",
-      "favorite_count": 165,
+      "favorite_count": 166,
       "full_text": "在中央政法委的一条微博中，中国火箭准备升空的照片与受新冠病毒重创的印度火葬柴堆的照片并排放在了一起，上面配着“中国点火VS印度点火”的标题。\n这条微博引发了网民的强烈反弹。此事也引发了有关中国在国内宣扬民族主义、在海外展示人性化形象之间矛盾的辩论。\nhttps://t.co/XgfOutZuUI",
       "hashtags": [],
       "id": 1390147535684005889,
@@ -5351,7 +5536,7 @@
   },
   "1389401027170881536": {
     "created_at": "Tue May 04 02:06:33 +0000 2021",
-    "favorite_count": 22,
+    "favorite_count": 23,
     "full_text": "百度居然搜不到「文革」圖片；同谷歌對比一下。喪心病狂無恥之尤，再不用百度了。 https://t.co/wXhQzTz36G",
     "hashtags": [],
     "id_str": "1389401027170881536",
@@ -5441,7 +5626,7 @@
       {
         "id": 882380349061218304,
         "id_str": "882380349061218304",
-        "name": "Yi",
+        "name": "真女权",
         "screen_name": "realproofread"
       }
     ]
@@ -5513,16 +5698,16 @@
     "hashtags": [],
     "id_str": "1384119160045662227",
     "lang": "zh",
-    "retweet_count": 283,
+    "retweet_count": 282,
     "retweeted_status": {
       "created_at": "Mon Apr 19 11:30:10 +0000 2021",
-      "favorite_count": 1125,
+      "favorite_count": 1123,
       "full_text": "中国前总理温家宝在悼念母亲的文章中写道：“我心目中的中国应该是一个充满公平正义的国家，那里永远有对人心、人道和人的本质的尊重，永远有青春、自由、奋斗的气质。我为此呐喊过、奋斗过。这是生活让我懂得的真理，也是妈妈给予的。”\nhttps://t.co/MgBOoeru0y",
       "hashtags": [],
       "id": 1384107049097699331,
       "id_str": "1384107049097699331",
       "lang": "zh",
-      "retweet_count": 283,
+      "retweet_count": 282,
       "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
       "urls": [
         {
@@ -5877,10 +6062,10 @@
     "hashtags": [],
     "id_str": "1381579137475768322",
     "lang": "zh",
-    "retweet_count": 527,
+    "retweet_count": 524,
     "retweeted_status": {
       "created_at": "Mon Apr 12 10:07:24 +0000 2021",
-      "favorite_count": 946,
+      "favorite_count": 944,
       "full_text": "【香港大纪元时报印刷厂再次被人破坏】\n\n4月12日凌晨5时许，大纪元时报位于香港的印刷厂房，被数名大汉以铁槌大肆破坏，警方把案件暂列刑事毁坏，未有人被捕。\n大纪元时报发表声明，强烈谴责暴力，呼吁国际社会关注香港言论自由遭遇中共的打压，严厉谴责中共雇凶袭击大纪元印刷厂，制造白色恐怖。 https://t.co/fqSfg6JtvY",
       "hashtags": [],
       "id": 1381549504206307330,
@@ -5904,7 +6089,7 @@
           }
         }
       ],
-      "retweet_count": 527,
+      "retweet_count": 524,
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "urls": [],
       "user": {
@@ -5995,7 +6180,7 @@
       "lang": "zh",
       "quoted_status": {
         "created_at": "Wed Apr 07 19:49:07 +0000 2021",
-        "favorite_count": 42653,
+        "favorite_count": 42651,
         "full_text": "Two bots, one selfie. Greetings from Jezero Crater, where I’ve taken my first selfie of the mission. I’m also watching the #MarsHelicopter Ingenuity as it gets ready for its first flight in a few days. Daring mighty things indeed.\n\nImages: https://t.co/owLX2LaK52 https://t.co/rTxDNK69rs",
         "hashtags": [
           {
@@ -6051,7 +6236,7 @@
             }
           }
         ],
-        "retweet_count": 6564,
+        "retweet_count": 6560,
         "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
         "urls": [
           {
@@ -6312,7 +6497,7 @@
     "retweet_count": 78,
     "retweeted_status": {
       "created_at": "Tue Apr 06 11:20:50 +0000 2021",
-      "favorite_count": 165,
+      "favorite_count": 164,
       "full_text": "This story would not have been possible if the new restrictions on Hong Kong’s company registry were in effect. But the Hong Kong government knows that. https://t.co/ASXyTSzMh6",
       "hashtags": [],
       "id": 1379393656847732741,
@@ -6320,7 +6505,7 @@
       "lang": "en",
       "quoted_status": {
         "created_at": "Wed Aug 12 10:49:45 +0000 2020",
-        "favorite_count": 2129,
+        "favorite_count": 2132,
         "full_text": "THREAD! How we (mostly @jotted) documented that the daughter of the man who pushed Hong Kong's national security law through China's NPC  ascended the ranks of Hong Kong's pro-Beijing elite, amassing great wealth. This thread will cover A LOT of territory. (1/x) https://t.co/bcoJFSyn0J",
         "hashtags": [],
         "id": 1293499909438668800,
@@ -6359,7 +6544,7 @@
             "url": "https://t.co/bcoJFSyn0J"
           }
         ],
-        "retweet_count": 1178,
+        "retweet_count": 1179,
         "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
         "urls": [],
         "user": {
@@ -6432,10 +6617,10 @@
         "url": "https://t.co/nhfpaTy4wJ"
       }
     ],
-    "retweet_count": 517,
+    "retweet_count": 516,
     "retweeted_status": {
       "created_at": "Sat Apr 03 14:57:29 +0000 2021",
-      "favorite_count": 1276,
+      "favorite_count": 1274,
       "full_text": "不愿再沉默下去的孙大午家人（两个弟媳）通过微博对外发声。 https://t.co/nhfpaTy4wJ",
       "hashtags": [],
       "id": 1378361014077550594,
@@ -6461,7 +6646,7 @@
           "url": "https://t.co/nhfpaTy4wJ"
         }
       ],
-      "retweet_count": 517,
+      "retweet_count": 516,
       "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
       "urls": [],
       "user": {
@@ -6611,16 +6796,16 @@
     "hashtags": [],
     "id_str": "1377620587829415951",
     "lang": "zh",
-    "retweet_count": 54,
+    "retweet_count": 53,
     "retweeted_status": {
       "created_at": "Thu Apr 01 13:32:31 +0000 2021",
-      "favorite_count": 136,
+      "favorite_count": 137,
       "full_text": "【法国报纸摘要】中国官媒编造出一位法国记者 https://t.co/WxkXflHRRX",
       "hashtags": [],
       "id": 1377614859177750531,
       "id_str": "1377614859177750531",
       "lang": "zh",
-      "retweet_count": 54,
+      "retweet_count": 53,
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "urls": [
         {
@@ -7358,7 +7543,7 @@
       {
         "id": 882380349061218304,
         "id_str": "882380349061218304",
-        "name": "真女权",
+        "name": "Yi",
         "screen_name": "realproofread"
       }
     ]
@@ -7787,7 +7972,7 @@
         "lang": "ja",
         "quoted_status_id": 1376247809041661955,
         "quoted_status_id_str": "1376247809041661955",
-        "retweet_count": 1,
+        "retweet_count": 2,
         "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
         "urls": [
           {
@@ -8529,7 +8714,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Fri Mar 26 13:14:47 +0000 2021",
-      "favorite_count": 19,
+      "favorite_count": 18,
       "full_text": "懂中文的都知道“情书”指的是什么。\n魏京生的秘书黄慈萍，多次在推特上公布摘录的怀昭写给魏京生的“情书”，真的是刘向魏表达爱慕的书信吗？还是因魏称自己不记得当年他性侵这位采访他的女记者，怀昭写给他帮助他回忆的邮件？若是情书，黄主任何不直接截屏贴出，容公众自行判断。何苦断章取义摘抄呢？ https://t.co/Yx7vhVeV5E https://t.co/Ke0BrHXH9i",
       "hashtags": [],
       "id": 1375436069416624128,
@@ -8983,7 +9168,7 @@
     "retweet_count": 253,
     "retweeted_status": {
       "created_at": "Tue Mar 23 16:43:47 +0000 2021",
-      "favorite_count": 531,
+      "favorite_count": 529,
       "full_text": "余氏宗亲会被封，余氏先祖墓被砸，余茂春，蓬佩奥军师被中共挖祖坟报复。 https://t.co/j9MING9dV2",
       "hashtags": [],
       "id": 1374401501414584326,
@@ -9926,7 +10111,7 @@
     "lang": "und",
     "quoted_status": {
       "created_at": "Sat Mar 06 09:54:10 +0000 2021",
-      "favorite_count": 810,
+      "favorite_count": 808,
       "full_text": "要点脸吧！ https://t.co/6uThgm61Et",
       "hashtags": [],
       "id": 1368137824856379393,
@@ -10394,16 +10579,16 @@
     "hashtags": [],
     "id_str": "1351900759395192832",
     "lang": "en",
-    "retweet_count": 499835,
+    "retweet_count": 499554,
     "retweeted_status": {
       "created_at": "Wed Jan 20 14:20:00 +0000 2021",
-      "favorite_count": 4159168,
+      "favorite_count": 4157693,
       "full_text": "It’s a new day in America.",
       "hashtags": [],
       "id": 1351897267666608129,
       "id_str": "1351897267666608129",
       "lang": "en",
-      "retweet_count": 499835,
+      "retweet_count": 499554,
       "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
       "urls": [],
       "user": {
@@ -10456,7 +10641,7 @@
     "retweet_count": 28,
     "retweeted_status": {
       "created_at": "Sat Jan 16 14:56:13 +0000 2021",
-      "favorite_count": 54,
+      "favorite_count": 53,
       "full_text": "同一件事情，不同的角度，得出的结论大相径庭。 https://t.co/2Um9es952F",
       "hashtags": [],
       "id": 1350456829625606144,
@@ -10525,7 +10710,7 @@
       "lang": "zh",
       "quoted_status": {
         "created_at": "Tue Jan 12 13:14:42 +0000 2021",
-        "favorite_count": 514,
+        "favorite_count": 513,
         "full_text": "美国的事最吸引眼球，也很重要，我有时也会谈论，但在我的排序中，有些事更加重要，比如张展和方斌的处境，比如石家庄现在的生活，比如片刻不能离身的健康码、行程码，还有一些我甚至不敢谈论，这种『不敢』也很重要。如果我要愤怒，首先也是对近在咫尺的房间里的大象愤怒，而不是对着远方呼号呐喊。",
         "hashtags": [],
         "id": 1348981733501399041,
@@ -10582,10 +10767,10 @@
     "hashtags": [],
     "id_str": "1351136798064467968",
     "lang": "en",
-    "retweet_count": 5454,
+    "retweet_count": 5453,
     "retweeted_status": {
       "created_at": "Tue Jun 04 23:29:58 +0000 2019",
-      "favorite_count": 18389,
+      "favorite_count": 18386,
       "full_text": "28 years ago, we traveled to Tiananmen Square to honor the courage &amp; sacrifice of the students, workers &amp; ordinary citizens who stood for the dignity &amp; human rights that all people deserve. To this day, we remain committed to sharing their story with the world. #Tiananmen30 https://t.co/7UqiJVRS3t",
       "hashtags": [
         {
@@ -10613,7 +10798,7 @@
           }
         }
       ],
-      "retweet_count": 5454,
+      "retweet_count": 5453,
       "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
       "urls": [],
       "user": {
@@ -11070,10 +11255,10 @@
         "url": "https://t.co/iNeUTp8AWC"
       }
     ],
-    "retweet_count": 13836,
+    "retweet_count": 13832,
     "retweeted_status": {
       "created_at": "Wed Jan 13 16:02:40 +0000 2021",
-      "favorite_count": 50244,
+      "favorite_count": 50232,
       "full_text": "Stunned. Just stunned. https://t.co/iNeUTp8AWC",
       "hashtags": [],
       "id": 1349386390291828744,
@@ -11117,7 +11302,7 @@
           "url": "https://t.co/iNeUTp8AWC"
         }
       ],
-      "retweet_count": 13836,
+      "retweet_count": 13832,
       "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
       "urls": [],
       "user": {
@@ -11288,7 +11473,7 @@
     "retweet_count": 120,
     "retweeted_status": {
       "created_at": "Wed Jan 13 03:09:30 +0000 2021",
-      "favorite_count": 334,
+      "favorite_count": 332,
       "full_text": "#新闻分析 今天，无数人都相信由特朗普总统编造的“真相”：拜登输掉了11月大选，通过舞弊才成了候任总统。\n说谎作为政治工具并不新鲜。近年来，对欺骗心甘情愿的接受已经成为世界各地政治的一种驱动力。在特朗普时代，这股趋势已经从民粹主义领导人统治的国家蔓延到了美国。\nhttps://t.co/o7OX5Y2SSN",
       "hashtags": [
         {
@@ -11336,7 +11521,7 @@
     "retweet_count": 33,
     "retweeted_status": {
       "created_at": "Mon Jan 11 02:37:30 +0000 2021",
-      "favorite_count": 78,
+      "favorite_count": 77,
       "full_text": "我上推说“假消息网上传播是真消息的6倍”，是来源于一篇《科学》杂志发表的论文《虚假新闻在推特上的传播速度是真实新闻的6倍》：虚假新闻比真相接触到的人更多，前1%的虚假新闻级联扩散到1000到10万人之间，而真相很少扩散到1000人以上。https://t.co/qieUqgbmKf",
       "hashtags": [],
       "id": 1348458988317278209,
@@ -11373,14 +11558,14 @@
   },
   "1348464113861595136": {
     "created_at": "Mon Jan 11 02:57:52 +0000 2021",
-    "favorite_count": 3,
+    "favorite_count": 4,
     "full_text": "也有中文環境中嚴重的「黨文化」影響：把關心參與政治問題等同於「路線鬥爭」，習慣性地去「批判」不同意見。甚至好像提倡民主的唯一方式就是用「階級分析」方式搞「大批判」。在歷史上憲政秩序良好的民主國家，親友同事投不同的候選人票，不爭論甚至不討論，很普遍很正常。相信民主必須相信程序正義。 https://t.co/N8glFgyLCN",
     "hashtags": [],
     "id_str": "1348464113861595136",
     "lang": "zh",
     "quoted_status": {
       "created_at": "Mon Jan 11 01:58:23 +0000 2021",
-      "favorite_count": 460,
+      "favorite_count": 458,
       "full_text": "我有很多尊重的老师成为川粉，我其实不那么在意，为什么，因为他们不看英文，只看中文（不用分简中、正体，其实都他妈一样），容易收到错误信息。你四年天天看那些川普要开始全球戒严、抓捕教皇、暴徒都是Antifa伪装的之类的帖子，你脑袋肯定会坏。我恨的是郭文贵、何清涟这样用谎言收割川粉的骗子们。",
       "hashtags": [],
       "id": 1348449145476956161,
@@ -11559,7 +11744,7 @@
       "lang": "zh",
       "quoted_status": {
         "created_at": "Fri Jan 08 10:35:24 +0000 2021",
-        "favorite_count": 3399,
+        "favorite_count": 3400,
         "full_text": "六四「抗命將軍」徐勤先早上去世，享年86歲。 https://t.co/se9e7vM61w",
         "hashtags": [],
         "id": 1347492090863710210,
@@ -11598,7 +11783,7 @@
             "url": "https://t.co/se9e7vM61w"
           }
         ],
-        "retweet_count": 815,
+        "retweet_count": 816,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "urls": [],
         "user": {
@@ -11771,7 +11956,7 @@
       {
         "id": 882380349061218304,
         "id_str": "882380349061218304",
-        "name": "Yi",
+        "name": "真女权",
         "screen_name": "realproofread"
       },
       {
@@ -11801,7 +11986,7 @@
       {
         "id": 882380349061218304,
         "id_str": "882380349061218304",
-        "name": "Yi",
+        "name": "真女权",
         "screen_name": "realproofread"
       },
       {
@@ -11848,16 +12033,16 @@
     "hashtags": [],
     "id_str": "1347070050012782593",
     "lang": "en",
-    "retweet_count": 4057,
+    "retweet_count": 4054,
     "retweeted_status": {
       "created_at": "Thu Jan 07 05:54:16 +0000 2021",
-      "favorite_count": 13234,
+      "favorite_count": 13231,
       "full_text": "BREAKING: Deputy nat sec adviser Matt Pottinger resigned Wednesday afternoon. Pottinger among WH officials dismayed by protesters' attack and Trump's role in inciting violence. Pottinger had intended to resign election day, regardless of outcome, but stayed at O'Brien's request.",
       "hashtags": [],
       "id": 1347058954803834882,
       "id_str": "1347058954803834882",
       "lang": "en",
-      "retweet_count": 4057,
+      "retweet_count": 4054,
       "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
       "urls": [],
       "user": {
@@ -11976,7 +12161,7 @@
     "retweet_count": 1250,
     "retweeted_status": {
       "created_at": "Thu Jan 07 01:03:42 +0000 2021",
-      "favorite_count": 5588,
+      "favorite_count": 5587,
       "full_text": "This Reuters photo is incredible. https://t.co/Gp4p67dPYo",
       "hashtags": [],
       "id": 1346985832511467520,
@@ -12089,7 +12274,7 @@
       {
         "id": 882380349061218304,
         "id_str": "882380349061218304",
-        "name": "Yi",
+        "name": "真女权",
         "screen_name": "realproofread"
       }
     ]
@@ -12160,7 +12345,7 @@
       "lang": "zh",
       "quoted_status": {
         "created_at": "Tue Jan 05 09:30:00 +0000 2021",
-        "favorite_count": 3528,
+        "favorite_count": 3537,
         "full_text": "【北京香堂村强拆 女公安同遭殃】\n\n周二一名女警察发布片段，显示强拆队如何破门而入，她怒斥：\"我连自己的村都保护不了，我怎么保护人民的财产？\"强拆队以广播回应：\"拒不执行和阻碍行为涉嫌违法，将移交公安\"\n\n对峙期间，背景响起了习近平的\"抗美援朝\"讲话─\"中华民族是吓不倒、压不垮的\" https://t.co/tfeK14bu2J",
         "hashtags": [],
         "id": 1346388469577256960,
@@ -12227,7 +12412,7 @@
             }
           }
         ],
-        "retweet_count": 1417,
+        "retweet_count": 1416,
         "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
         "urls": [],
         "user": {
@@ -12448,7 +12633,7 @@
     "retweet_count": 526,
     "retweeted_status": {
       "created_at": "Thu Sep 24 09:46:18 +0000 2020",
-      "favorite_count": 1239,
+      "favorite_count": 1232,
       "full_text": "这次演讲获得了“韬光养晦”的时间。 https://t.co/tHAS0Ey613",
       "hashtags": [],
       "id": 1309066621386993671,
@@ -12644,7 +12829,7 @@
     "retweet_count": 65,
     "retweeted_status": {
       "created_at": "Fri Jan 01 06:07:04 +0000 2021",
-      "favorite_count": 211,
+      "favorite_count": 210,
       "full_text": "西藏精神領袖達賴喇嘛尊者的新年問候  2021年1月1日  印北達蘭薩拉 https://t.co/A8PzjapasL",
       "hashtags": [],
       "id": 1344887848130920448,
