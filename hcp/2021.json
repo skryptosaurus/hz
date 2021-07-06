@@ -1,4 +1,455 @@
 {
+  "1410269536025251840": {
+    "created_at": "Wed Jun 30 16:10:33 +0000 2021",
+    "favorite_count": 3,
+    "full_text": "华盛顿天气变得闷热难熬,让我又想起多年前说的绝不在华盛顿过夏天的“誓言”.前天去一啤酒厂参加有几十人的大聚会,喝啤酒,所有人都已有一年多没见了,很惊讶地发现被疫情围困,许多人都长胖了...\n刚好受到邀请,过几天去波士顿北农村的水边度假.记得当年波士顿有许多朋友,如今却所剩无几了,不由唏嘘不已... https://t.co/0YbJOD6yCM https://t.co/gG74glzLqL",
+    "hashtags": [],
+    "id_str": "1410269536025251840",
+    "lang": "zh",
+    "media": [
+      {
+        "display_url": "pic.twitter.com/gG74glzLqL",
+        "expanded_url": "https://twitter.com/huang_ciping/status/1410269536025251840/photo/1",
+        "id": 1410266390171471875,
+        "media_url": "http://pbs.twimg.com/media/E5JFz1jX0AMSKiR.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/E5JFz1jX0AMSKiR.jpg",
+        "type": "photo",
+        "url": "https://t.co/gG74glzLqL"
+      },
+      {
+        "display_url": "pic.twitter.com/gG74glzLqL",
+        "expanded_url": "https://twitter.com/huang_ciping/status/1410269536025251840/photo/1",
+        "id": 1410266435562188802,
+        "media_url": "http://pbs.twimg.com/media/E5JF2epXMAIfNf8.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/E5JF2epXMAIfNf8.jpg",
+        "type": "photo",
+        "url": "https://t.co/gG74glzLqL"
+      },
+      {
+        "display_url": "pic.twitter.com/gG74glzLqL",
+        "expanded_url": "https://twitter.com/huang_ciping/status/1410269536025251840/photo/1",
+        "id": 1410266466524467200,
+        "media_url": "http://pbs.twimg.com/media/E5JF4R_WEAA4lqA.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/E5JF4R_WEAA4lqA.jpg",
+        "type": "photo",
+        "url": "https://t.co/gG74glzLqL"
+      },
+      {
+        "display_url": "pic.twitter.com/gG74glzLqL",
+        "expanded_url": "https://twitter.com/huang_ciping/status/1410269536025251840/photo/1",
+        "id": 1410266494739660803,
+        "media_url": "http://pbs.twimg.com/media/E5JF57GXwAMvmXj.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/E5JF57GXwAMvmXj.jpg",
+        "type": "photo",
+        "url": "https://t.co/gG74glzLqL"
+      }
+    ],
+    "quoted_status": {
+      "created_at": "Thu Jun 24 14:43:41 +0000 2021",
+      "favorite_count": 5,
+      "full_text": "有人问我当围棋冠军的体会.我回答看棋必须比别人早几步.但我的洞察力不如老魏,他若下棋,一定赢我.\n2月前老魏强力推荐我多买一太阳能公司股票,因制造世界上一大半多晶硅的新疆公司将被制裁.昨天拜登政府宣布后,果然一夜间股票大涨8%.\n接受批评,昨晚的西红柿炒鸡蛋不那么碎。苦苦菜与金针菜是院子里摘的. https://t.co/Se1ydKOnI6 https://t.co/NjvN7nygsL",
+      "hashtags": [],
+      "id": 1408073346256936960,
+      "id_str": "1408073346256936960",
+      "lang": "zh",
+      "media": [
+        {
+          "display_url": "pic.twitter.com/NjvN7nygsL",
+          "expanded_url": "https://twitter.com/huang_ciping/status/1408073346256936960/photo/1",
+          "id": 1408068096019992584,
+          "media_url": "http://pbs.twimg.com/media/E4p2eRrVEAgn-iU.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E4p2eRrVEAgn-iU.jpg",
+          "type": "photo",
+          "url": "https://t.co/NjvN7nygsL"
+        },
+        {
+          "display_url": "pic.twitter.com/NjvN7nygsL",
+          "expanded_url": "https://twitter.com/huang_ciping/status/1408073346256936960/photo/1",
+          "id": 1408068160637468683,
+          "media_url": "http://pbs.twimg.com/media/E4p2iCZVgAsg9x4.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E4p2iCZVgAsg9x4.jpg",
+          "type": "photo",
+          "url": "https://t.co/NjvN7nygsL"
+        },
+        {
+          "display_url": "pic.twitter.com/NjvN7nygsL",
+          "expanded_url": "https://twitter.com/huang_ciping/status/1408073346256936960/photo/1",
+          "id": 1408068194439368720,
+          "media_url": "http://pbs.twimg.com/media/E4p2kAUVkBAkxL9.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E4p2kAUVkBAkxL9.jpg",
+          "type": "photo",
+          "url": "https://t.co/NjvN7nygsL"
+        },
+        {
+          "display_url": "pic.twitter.com/NjvN7nygsL",
+          "expanded_url": "https://twitter.com/huang_ciping/status/1408073346256936960/photo/1",
+          "id": 1408068228228599814,
+          "media_url": "http://pbs.twimg.com/media/E4p2l-MUUAYUJtt.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E4p2l-MUUAYUJtt.jpg",
+          "type": "photo",
+          "url": "https://t.co/NjvN7nygsL"
+        }
+      ],
+      "quoted_status_id": 1407758027936210947,
+      "quoted_status_id_str": "1407758027936210947",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "urls": [
+        {
+          "expanded_url": "https://twitter.com/huang_ciping/status/1407758027936210947",
+          "url": "https://t.co/Se1ydKOnI6"
+        }
+      ],
+      "user": {
+        "id": 3830160917,
+        "screen_name": "huang_ciping"
+      },
+      "user_mentions": []
+    },
+    "quoted_status_id": 1408073346256936960,
+    "quoted_status_id_str": "1408073346256936960",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/huang_ciping/status/1408073346256936960",
+        "url": "https://t.co/0YbJOD6yCM"
+      }
+    ],
+    "user": {
+      "id": 3830160917,
+      "screen_name": "huang_ciping"
+    },
+    "user_mentions": []
+  },
+  "1410268786490589185": {
+    "created_at": "Wed Jun 30 16:07:34 +0000 2021",
+    "favorite_count": 4,
+    "full_text": "随着共产主义经济的失败，邓小平启动了回复到中国传统的模式，这就是以专制政治管理市场经济。这是一个早在一百多年前就被多数人认为是失败的模式。如果不是美国人的输血，早就维持不下去了。现在习近平还想恢复到邓小平以前的毛泽东模式，其失败就是历史的必然。",
+    "hashtags": [],
+    "id_str": "1410268786490589185",
+    "in_reply_to_screen_name": "huang_ciping",
+    "in_reply_to_status_id": 1410267632574636043,
+    "in_reply_to_user_id": 3830160917,
+    "lang": "zh",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "urls": [],
+    "user": {
+      "id": 3830160917,
+      "screen_name": "huang_ciping"
+    },
+    "user_mentions": []
+  },
+  "1410268407954653185": {
+    "created_at": "Wed Jun 30 16:06:04 +0000 2021",
+    "favorite_count": 5,
+    "full_text": "熟悉这套理论变戏法的西方人，很少被忽悠。所以他们和他们参与创立的社会民主党，通过一场争论之后分道扬镳了。就像在旧大陆无害的小虫子，到了没有天敌的北美就泛滥成灾。在不熟悉欧洲文化的俄罗斯和中国，被绝大多数欧洲人嗤之以鼻的小把戏，成功地在东方制造了灾难。\n中共一百年来吸收成员的手法...",
+    "hashtags": [],
+    "id_str": "1410268407954653185",
+    "in_reply_to_screen_name": "huang_ciping",
+    "in_reply_to_status_id": 1410267632574636043,
+    "in_reply_to_user_id": 3830160917,
+    "lang": "zh",
+    "retweet_count": 1,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "urls": [],
+    "user": {
+      "id": 3830160917,
+      "screen_name": "huang_ciping"
+    },
+    "user_mentions": []
+  },
+  "1410268066580140035": {
+    "created_at": "Wed Jun 30 16:04:43 +0000 2021",
+    "favorite_count": 4,
+    "full_text": "共产党不仅是以政党为单位的巨骗,且是以骗自己人为开始,又以骗自己人为终结.从马恩开始,就是场没有逻辑的骗局.这个骗局是建立在人类共同的美好愿望之上,所以骗取了很多人投身和支持,特别是头脑简单、热血过剩的年轻知识分子.\n马恩两位大师的发明,就是没有逻辑的,用暴政实现美好理想的无产阶级专政理论.",
+    "hashtags": [],
+    "id_str": "1410268066580140035",
+    "in_reply_to_screen_name": "huang_ciping",
+    "in_reply_to_status_id": 1410267632574636043,
+    "in_reply_to_user_id": 3830160917,
+    "lang": "zh",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "urls": [],
+    "user": {
+      "id": 3830160917,
+      "screen_name": "huang_ciping"
+    },
+    "user_mentions": []
+  },
+  "1410267632574636043": {
+    "created_at": "Wed Jun 30 16:02:59 +0000 2021",
+    "favorite_count": 8,
+    "full_text": "魏京生：中共的本质是两面派的骗子\n这个世界上的骗子有多种.一种是善意的骗子,为了减少负面的事情发生而隐瞒了真相.一种是恶意的骗子,骗钱骗色骗信任,例如卖假货的,碰瓷的等等.还有一种恶意的骗子,危害性最大可又往往不被人注意,这就是政治骗子.共产党就是政治骗子中的佼佼者.\nhttps://t.co/uzKhbsUnjb https://t.co/yXjz738Y1g",
+    "hashtags": [],
+    "id_str": "1410267632574636043",
+    "lang": "zh",
+    "quoted_status": {
+      "created_at": "Tue Jun 29 13:14:16 +0000 2021",
+      "favorite_count": 5,
+      "full_text": "魏京生基金会新闻A1401-W1004\nWei Jingsheng: Even If I Didn't Participate the Democracy Wall, I Don't Think I Could Have Escaped Later -- Voice of America Exclusive Interview\n魏京生：即使我没在”民主墙”出现，后来也逃不过去 -- 美国之音\nhttps://t.co/DqPCNfFAm1 \nhttps://t.co/K9pEWK8mV2 https://t.co/xnh1pwu6kp",
+      "hashtags": [],
+      "id": 1409862786264535040,
+      "id_str": "1409862786264535040",
+      "lang": "zh",
+      "quoted_status_id": 1409194536862208014,
+      "quoted_status_id_str": "1409194536862208014",
+      "retweet_count": 1,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "urls": [
+        {
+          "expanded_url": "http://www.weijingsheng.org/report/report2021/report2021-6/WeiJSlife210627VOAexclusiveCCP100A1401-W1004.htm",
+          "url": "https://t.co/DqPCNfFAm1"
+        },
+        {
+          "expanded_url": "http://www.weijingsheng.org/interviews/interviews2021/WeiJSlife210619VOAexclusive.mp4",
+          "url": "https://t.co/K9pEWK8mV2"
+        },
+        {
+          "expanded_url": "https://twitter.com/huang_ciping/status/1409194536862208014",
+          "url": "https://t.co/xnh1pwu6kp"
+        }
+      ],
+      "user": {
+        "id": 3830160917,
+        "screen_name": "huang_ciping"
+      },
+      "user_mentions": []
+    },
+    "quoted_status_id": 1409862786264535040,
+    "quoted_status_id_str": "1409862786264535040",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "urls": [
+      {
+        "expanded_url": "https://www.rfa.org/mandarin/pinglun/weijingsheng/wjs-06302021101801.html",
+        "url": "https://t.co/uzKhbsUnjb"
+      },
+      {
+        "expanded_url": "https://twitter.com/huang_ciping/status/1409862786264535040",
+        "url": "https://t.co/yXjz738Y1g"
+      }
+    ],
+    "user": {
+      "id": 3830160917,
+      "screen_name": "huang_ciping"
+    },
+    "user_mentions": []
+  },
+  "1409862786264535040": {
+    "created_at": "Tue Jun 29 13:14:16 +0000 2021",
+    "favorite_count": 5,
+    "full_text": "魏京生基金会新闻A1401-W1004\nWei Jingsheng: Even If I Didn't Participate the Democracy Wall, I Don't Think I Could Have Escaped Later -- Voice of America Exclusive Interview\n魏京生：即使我没在”民主墙”出现，后来也逃不过去 -- 美国之音\nhttps://t.co/DqPCNfFAm1 \nhttps://t.co/K9pEWK8mV2 https://t.co/xnh1pwu6kp",
+    "hashtags": [],
+    "id_str": "1409862786264535040",
+    "lang": "zh",
+    "quoted_status": {
+      "created_at": "Sun Jun 27 16:58:53 +0000 2021",
+      "favorite_count": 7,
+      "full_text": "A1400-W1003\nThe Defection of High-Ranking CCP Officials - Wei Jingsheng  \n从中共高官叛逃说起 -- 魏京生\nThe people within the CCP are already panicking, as the sign that the ship is sinking is that the rats on the ship are leaving...\nhttps://t.co/fxNbNEOzRC\nhttps://t.co/OPABexphib https://t.co/9iDFOBNjjm",
+      "hashtags": [],
+      "id": 1409194536862208014,
+      "id_str": "1409194536862208014",
+      "lang": "en",
+      "quoted_status_id": 1408473240398336018,
+      "quoted_status_id_str": "1408473240398336018",
+      "retweet_count": 1,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "urls": [
+        {
+          "expanded_url": "http://www.weijingsheng.org/RFA/RFA2021/WeiJS210624onCCPdefections.mp3",
+          "url": "https://t.co/fxNbNEOzRC"
+        },
+        {
+          "expanded_url": "http://www.weijingsheng.org/report/report2021/report2021-6/WeiJS210626onCCPdefectionsA1400-W1003.htm",
+          "url": "https://t.co/OPABexphib"
+        },
+        {
+          "expanded_url": "https://twitter.com/huang_ciping/status/1408473240398336018",
+          "url": "https://t.co/9iDFOBNjjm"
+        }
+      ],
+      "user": {
+        "id": 3830160917,
+        "screen_name": "huang_ciping"
+      },
+      "user_mentions": []
+    },
+    "quoted_status_id": 1409194536862208014,
+    "quoted_status_id_str": "1409194536862208014",
+    "retweet_count": 1,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "urls": [
+      {
+        "expanded_url": "http://www.weijingsheng.org/report/report2021/report2021-6/WeiJSlife210627VOAexclusiveCCP100A1401-W1004.htm",
+        "url": "https://t.co/DqPCNfFAm1"
+      },
+      {
+        "expanded_url": "http://www.weijingsheng.org/interviews/interviews2021/WeiJSlife210619VOAexclusive.mp4",
+        "url": "https://t.co/K9pEWK8mV2"
+      },
+      {
+        "expanded_url": "https://twitter.com/huang_ciping/status/1409194536862208014",
+        "url": "https://t.co/xnh1pwu6kp"
+      }
+    ],
+    "user": {
+      "id": 3830160917,
+      "screen_name": "huang_ciping"
+    },
+    "user_mentions": []
+  },
+  "1409861583115894787": {
+    "created_at": "Tue Jun 29 13:09:30 +0000 2021",
+    "full_text": "RT @realproofread: 我想提醒这些党代表，哪天刘怀昭母女又失业了，又要住桥洞了，诈捐的钱也用完了，存款和救济金不能让女儿享受优质高等教育了，母女俩会不遵守党的纪律，控诉党代表们强奸再滥诉他们不守诺言毁约和诽谤的 https://t.co/csWUP3OT1k",
+    "hashtags": [],
+    "id_str": "1409861583115894787",
+    "lang": "zh",
+    "quoted_status_id": 1408445274394173443,
+    "quoted_status_id_str": "1408445274394173443",
+    "retweet_count": 2,
+    "retweeted_status": {
+      "created_at": "Sat Jun 26 10:43:31 +0000 2021",
+      "favorite_count": 2,
+      "full_text": "我想提醒这些党代表，哪天刘怀昭母女又失业了，又要住桥洞了，诈捐的钱也用完了，存款和救济金不能让女儿享受优质高等教育了，母女俩会不遵守党的纪律，控诉党代表们强奸再滥诉他们不守诺言毁约和诽谤的 https://t.co/csWUP3OT1k",
+      "hashtags": [],
+      "id": 1408737684789420033,
+      "id_str": "1408737684789420033",
+      "lang": "zh",
+      "possibly_sensitive": true,
+      "quoted_status": {
+        "created_at": "Fri Jun 25 15:21:35 +0000 2021",
+        "favorite_count": 2,
+        "full_text": "@realproofread 据曾金燕文，刘怀昭声称是在与张猛结着婚时被强奸的，可三十多岁的她当时却不知道被强奸，以为是一夜情。直到五十多岁了，在党代表的指点下才懂得了做爱与强奸的区别。。。",
+        "hashtags": [],
+        "id": 1408445274394173443,
+        "id_str": "1408445274394173443",
+        "in_reply_to_screen_name": "realproofread",
+        "in_reply_to_status_id": 1408289978518409216,
+        "in_reply_to_user_id": 882380349061218304,
+        "lang": "zh",
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "urls": [],
+        "user": {
+          "id": 3830160917,
+          "id_str": "3830160917"
+        },
+        "user_mentions": [
+          {
+            "id": 882380349061218304,
+            "id_str": "882380349061218304",
+            "name": "真女权",
+            "screen_name": "realproofread"
+          }
+        ]
+      },
+      "quoted_status_id": 1408445274394173443,
+      "quoted_status_id_str": "1408445274394173443",
+      "retweet_count": 2,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "urls": [
+        {
+          "expanded_url": "https://twitter.com/huang_ciping/status/1408445274394173443",
+          "url": "https://t.co/csWUP3OT1k"
+        }
+      ],
+      "user": {
+        "id": 882380349061218304,
+        "screen_name": "realproofread"
+      },
+      "user_mentions": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/huang_ciping/status/1408445274394173443",
+        "url": "https://t.co/csWUP3OT1k"
+      }
+    ],
+    "user": {
+      "id": 3830160917,
+      "screen_name": "huang_ciping"
+    },
+    "user_mentions": [
+      {
+        "id": 882380349061218304,
+        "id_str": "882380349061218304",
+        "name": "真女权",
+        "screen_name": "realproofread"
+      }
+    ]
+  },
+  "1409861308065984516": {
+    "created_at": "Tue Jun 29 13:08:24 +0000 2021",
+    "full_text": "RT @realproofread: 如果张猛已经验过了，不是生父，刘怀昭必须在推上公布结果，然后，趁现在网上认亲DNA 大礼包在财政年末大减价，瑞典苿莉可以再来摆个阴门阵，叫刘怀昭的男同学们都滚出来验DNA，再把结果在推上公布出来，还全球华人和刘怀昭母女一个真相 https:…",
+    "hashtags": [],
+    "id_str": "1409861308065984516",
+    "lang": "zh",
+    "quoted_status_id": 1409193509295378433,
+    "quoted_status_id_str": "1409193509295378433",
+    "retweet_count": 1,
+    "retweeted_status": {
+      "created_at": "Mon Jun 28 06:24:08 +0000 2021",
+      "favorite_count": 2,
+      "full_text": "如果张猛已经验过了，不是生父，刘怀昭必须在推上公布结果，然后，趁现在网上认亲DNA 大礼包在财政年末大减价，瑞典苿莉可以再来摆个阴门阵，叫刘怀昭的男同学们都滚出来验DNA，再把结果在推上公布出来，还全球华人和刘怀昭母女一个真相 https://t.co/MhwHiscKwl",
+      "hashtags": [],
+      "id": 1409397185351847940,
+      "id_str": "1409397185351847940",
+      "lang": "zh",
+      "possibly_sensitive": true,
+      "quoted_status": {
+        "created_at": "Sun Jun 27 16:54:48 +0000 2021",
+        "full_text": "@realproofread 很好奇刘怀昭到底是和谁通奸生的女儿？她说她女儿不是张猛的，有证据吗？",
+        "hashtags": [],
+        "id": 1409193509295378433,
+        "id_str": "1409193509295378433",
+        "in_reply_to_screen_name": "realproofread",
+        "in_reply_to_status_id": 1408953108093308933,
+        "in_reply_to_user_id": 882380349061218304,
+        "lang": "zh",
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "urls": [],
+        "user": {
+          "id": 3830160917,
+          "id_str": "3830160917"
+        },
+        "user_mentions": [
+          {
+            "id": 882380349061218304,
+            "id_str": "882380349061218304",
+            "name": "真女权",
+            "screen_name": "realproofread"
+          }
+        ]
+      },
+      "quoted_status_id": 1409193509295378433,
+      "quoted_status_id_str": "1409193509295378433",
+      "retweet_count": 1,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "urls": [
+        {
+          "expanded_url": "https://twitter.com/huang_ciping/status/1409193509295378433",
+          "url": "https://t.co/MhwHiscKwl"
+        }
+      ],
+      "user": {
+        "id": 882380349061218304,
+        "screen_name": "realproofread"
+      },
+      "user_mentions": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "urls": [],
+    "user": {
+      "id": 3830160917,
+      "screen_name": "huang_ciping"
+    },
+    "user_mentions": [
+      {
+        "id": 882380349061218304,
+        "id_str": "882380349061218304",
+        "name": "真女权",
+        "screen_name": "realproofread"
+      }
+    ]
+  },
   "1409194536862208014": {
     "created_at": "Sun Jun 27 16:58:53 +0000 2021",
     "favorite_count": 7,
@@ -8,7 +459,7 @@
     "lang": "en",
     "quoted_status": {
       "created_at": "Fri Jun 25 17:12:43 +0000 2021",
-      "favorite_count": 8,
+      "favorite_count": 9,
       "full_text": "魏京生：从中共高官叛逃说起\n究竟是谁叛逃了呢？大众和官方都关心这个问题。其实，不管是谁叛逃都说明一个问题：中共内部已经人心惶惶，不可终日了。就像人们传说的那样，船快沉了的征兆，就是船上的老鼠纷纷跳水逃窜。因为老鼠是最了解这艘船的，知道这艘船还有没有希望。\nhttps://t.co/IL3JuY3Wkg https://t.co/KZDoAuR7mQ",
       "hashtags": [],
       "id": 1408473240398336018,
@@ -75,10 +526,10 @@
         "url": "https://t.co/kAcomJwcoL"
       }
     ],
-    "retweet_count": 14,
+    "retweet_count": 15,
     "retweeted_status": {
       "created_at": "Sun Jun 27 06:00:11 +0000 2021",
-      "favorite_count": 42,
+      "favorite_count": 43,
       "full_text": "看看中国外交官的“风采”！ https://t.co/kAcomJwcoL",
       "hashtags": [],
       "id": 1409028768925167616,
@@ -95,7 +546,7 @@
           "url": "https://t.co/kAcomJwcoL"
         }
       ],
-      "retweet_count": 14,
+      "retweet_count": 15,
       "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
       "urls": [],
       "user": {
@@ -289,7 +740,7 @@
   },
   "1408473240398336018": {
     "created_at": "Fri Jun 25 17:12:43 +0000 2021",
-    "favorite_count": 8,
+    "favorite_count": 9,
     "full_text": "魏京生：从中共高官叛逃说起\n究竟是谁叛逃了呢？大众和官方都关心这个问题。其实，不管是谁叛逃都说明一个问题：中共内部已经人心惶惶，不可终日了。就像人们传说的那样，船快沉了的征兆，就是船上的老鼠纷纷跳水逃窜。因为老鼠是最了解这艘船的，知道这艘船还有没有希望。\nhttps://t.co/IL3JuY3Wkg https://t.co/KZDoAuR7mQ",
     "hashtags": [],
     "id_str": "1408473240398336018",
@@ -759,7 +1210,7 @@
       "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
       "urls": [
         {
-          "expanded_url": "https://twitter.com/shangya97766113/status/1408323569700917250",
+          "expanded_url": "https://twitter.com/ShangYa97766113/status/1408323569700917250",
           "url": "https://t.co/PLPftqVWTn"
         }
       ],
@@ -1007,7 +1458,7 @@
   },
   "1408073346256936960": {
     "created_at": "Thu Jun 24 14:43:41 +0000 2021",
-    "favorite_count": 4,
+    "favorite_count": 5,
     "full_text": "有人问我当围棋冠军的体会.我回答看棋必须比别人早几步.但我的洞察力不如老魏,他若下棋,一定赢我.\n2月前老魏强力推荐我多买一太阳能公司股票,因制造世界上一大半多晶硅的新疆公司将被制裁.昨天拜登政府宣布后,果然一夜间股票大涨8%.\n接受批评,昨晚的西红柿炒鸡蛋不那么碎。苦苦菜与金针菜是院子里摘的. https://t.co/Se1ydKOnI6 https://t.co/NjvN7nygsL",
     "hashtags": [],
     "id_str": "1408073346256936960",
@@ -1153,14 +1604,14 @@
   },
   "1408072311241003014": {
     "created_at": "Thu Jun 24 14:39:34 +0000 2021",
-    "favorite_count": 48,
+    "favorite_count": 52,
     "full_text": "香港国安法，如同中共宪法中的“坚持四项基本原则”。从出现的那天起，就意味着香港的彻底沦陷。现在，言论自由的标杆【苹果】终于被中共顺顺当当地拔掉了。\n其实早在23年前，我就直言中共治下，香港无望。我被国安局审讯后被踢到香港，港人善待我，至今难忘。\n唯一可能的胜利是共同努力，推翻中共暴政！ https://t.co/BXpft2xcED",
     "hashtags": [],
     "id_str": "1408072311241003014",
     "lang": "zh",
     "quoted_status": {
       "created_at": "Thu Jun 24 06:33:48 +0000 2021",
-      "favorite_count": 267,
+      "favorite_count": 266,
       "full_text": "香港《蘋果日報》今天停刊！\n今天的頭版以「港人雨中痛別，我們撐蘋果」為題。\n身為一個忠實的讀者我見證了《蘋果日報》的歷史，正如聖經的啟示：那美好的仗，我已經打過了；該跑的路程，我已經跑盡了；當守的信仰，我已經持守了。\n感謝黎智英先生及所有記者，你們一定是最後的勝者！ https://t.co/YPinD3vQLc",
       "hashtags": [],
       "id": 1407950066145398785,
@@ -1197,7 +1648,7 @@
     },
     "quoted_status_id": 1407950066145398785,
     "quoted_status_id_str": "1407950066145398785",
-    "retweet_count": 10,
+    "retweet_count": 12,
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
     "urls": [
       {
@@ -1649,7 +2100,7 @@
       "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
       "urls": [
         {
-          "expanded_url": "https://twitter.com/rabbitlili/status/1405268110316244994",
+          "expanded_url": "https://twitter.com/Rabbitlili/status/1405268110316244994",
           "url": "https://t.co/k5o5vj5Pos"
         }
       ],
@@ -2733,7 +3184,7 @@
         "id": 1406662529967919112,
         "id_str": "1406662529967919112",
         "lang": "zh",
-        "retweet_count": 74,
+        "retweet_count": 75,
         "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
         "urls": [],
         "user": {
@@ -6440,7 +6891,7 @@
     "retweet_count": 1,
     "retweeted_status": {
       "created_at": "Fri Jun 18 14:37:30 +0000 2021",
-      "favorite_count": 7,
+      "favorite_count": 6,
       "full_text": "@Jennytao0822 @huang_ciping 你这种不知荣辱不明亊理的寄生虫是中国人的耻辱，所幸我周围的同龄人极少有你这样的。喜欢孩子，女性单身都可以去精子库受孕生子享受当母亲，夫妇不能生不想生，收养一个都可以。但是就是自己亲生的，长大后是个想榨干父母毫无恬耻尊严的寄生虫，断绝亲子关系都可以。",
       "hashtags": [],
       "id": 1405897462410145797,
@@ -7859,16 +8310,16 @@
     "hashtags": [],
     "id_str": "1405228982119895040",
     "lang": "zh",
-    "retweet_count": 373,
+    "retweet_count": 372,
     "retweeted_status": {
       "created_at": "Wed Jun 16 15:17:36 +0000 2021",
-      "favorite_count": 1335,
+      "favorite_count": 1334,
       "full_text": "群友消息：今天有一朋友来我家，说他们单位开会传达新文件：1.   不容许任何人买特斯拉汽车。2.   不容许国人再到美、加、德、法、英、意大利、澳洲等国旅游和探亲。还有特斯拉“不让进院”，就是说，你只要是在这种国家机关，或这个政府部门儿，或这个军事院校和军队，都不允许用特斯拉了。",
       "hashtags": [],
       "id": 1405182779676102672,
       "id_str": "1405182779676102672",
       "lang": "zh",
-      "retweet_count": 373,
+      "retweet_count": 372,
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "urls": [],
       "user": {
@@ -8680,10 +9131,10 @@
     "lang": "zh",
     "quoted_status_id": 1401741925875535875,
     "quoted_status_id_str": "1401741925875535875",
-    "retweet_count": 8,
+    "retweet_count": 9,
     "retweeted_status": {
       "created_at": "Mon Jun 14 13:59:27 +0000 2021",
-      "favorite_count": 24,
+      "favorite_count": 25,
       "full_text": "关注被重判12年的深圳勇士邓洪成，已被囚四年多，家属一直不能会见\n\n#邓洪成 被关押在广东肇庆监狱十监区二分监区，其家属多次前去监狱均不得会見！ https://t.co/3e0DyrnwIb",
       "hashtags": [
         {
@@ -8715,7 +9166,7 @@
       },
       "quoted_status_id": 1401741925875535875,
       "quoted_status_id_str": "1401741925875535875",
-      "retweet_count": 8,
+      "retweet_count": 9,
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "urls": [
         {
@@ -8905,12 +9356,6 @@
         "id_str": "882380349061218304",
         "name": "真女权",
         "screen_name": "realproofread"
-      },
-      {
-        "id": 1163258679371526144,
-        "id_str": "1163258679371526144",
-        "name": "小丸子",
-        "screen_name": "helen0080"
       }
     ]
   },
@@ -9118,7 +9563,7 @@
     "retweet_count": 147,
     "retweeted_status": {
       "created_at": "Sat Jun 12 22:32:50 +0000 2021",
-      "favorite_count": 565,
+      "favorite_count": 564,
       "full_text": "杨倩怡的演讲👍\n\n后生可畏！ \n\n https://t.co/Z3fiYslgbb",
       "hashtags": [],
       "id": 1403842758071123969,
@@ -9221,15 +9666,9 @@
         "screen_name": "Yangguang_USA"
       },
       {
-        "id": 1163258679371526144,
-        "id_str": "1163258679371526144",
-        "name": "小丸子",
-        "screen_name": "helen0080"
-      },
-      {
         "id": 882380349061218304,
         "id_str": "882380349061218304",
-        "name": "Yi",
+        "name": "真女权",
         "screen_name": "realproofread"
       }
     ]
@@ -9925,7 +10364,7 @@
       "lang": "zh",
       "quoted_status": {
         "created_at": "Wed Jun 09 21:20:40 +0000 2021",
-        "favorite_count": 328,
+        "favorite_count": 327,
         "full_text": "#陈维明 说：“我是用四个不同的造型，有一个共产党的党徽，有习近平，还有骷髅，还有病毒。那么为什么是这么一个设计呢？其实这个病毒它不是起源于生物学上的一种泄露，它起源于一种专制独裁。”\n#中共病毒 https://t.co/yUpVlMHWlc",
         "hashtags": [
           {
@@ -10386,7 +10825,7 @@
     "retweet_count": 40,
     "retweeted_status": {
       "created_at": "Thu Jun 03 06:54:59 +0000 2021",
-      "favorite_count": 163,
+      "favorite_count": 162,
       "full_text": "传遍世界的中共病毒🦠！！！ https://t.co/ygvLzCfEgd",
       "hashtags": [],
       "id": 1400345249600311302,
@@ -11888,7 +12327,7 @@
     "retweet_count": 99,
     "retweeted_status": {
       "created_at": "Fri Jun 04 11:32:05 +0000 2021",
-      "favorite_count": 395,
+      "favorite_count": 396,
       "full_text": "東京「民主戰車」六四紀念活動。\n今天東京風雨交加，同時因中共病毒影響，東京處於「緊急事態宣言」的狀態，人流大減。\n為了緬懷六四英靈、也為了聲援香港市民爭取自由，東京、大阪@M0NFY4wx0Z6cJUM 兩地冒雨舉辦了活動。 https://t.co/K1AEcBSM70",
       "hashtags": [],
       "id": 1400777373813907459,
@@ -11968,7 +12407,7 @@
     "retweet_count": 61,
     "retweeted_status": {
       "created_at": "Fri Jun 04 17:00:53 +0000 2021",
-      "favorite_count": 384,
+      "favorite_count": 383,
       "full_text": "#相林：”如果我不参与六四的话，我可以正常的回中国。1987年到日本之后，我一直没有回中国。我的想法就像 #邓丽君 一样，她说，‘中国对六四不平反，我不去中国’。我也是这个心态，共产党不给 #六四平反，我不回家。“https://t.co/da4E86NNOK",
       "hashtags": [
         {
@@ -12566,7 +13005,7 @@
     "retweet_count": 892,
     "retweeted_status": {
       "created_at": "Fri Jun 04 14:30:15 +0000 2021",
-      "favorite_count": 3221,
+      "favorite_count": 3220,
       "full_text": "32 years ago, citizens peacefully took to the streets to demand liberties from an oppressive Chinese regime. Beijing’s horrific massacre of their own citizens crushed the protest but could not extinguish the flame of freedom that burned in their hearts.\nhttps://t.co/ZfHhNXEZv1",
       "hashtags": [],
       "id": 1400822208637943814,
@@ -16955,7 +17394,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Tue May 25 17:33:36 +0000 2021",
-      "favorite_count": 23,
+      "favorite_count": 24,
       "full_text": "看看反思派的混乱逻辑。第一帖自曝是红二代，中国人民都挨饿的年代她有充足的面包牛奶，满满的privilege，最后却以普通汉人身份觉得愧疚。她不知道她懵懂的幸福生活是建立在红二代身份上的，不是建立在普通汉人身份上的呀？她作为赵家人亏欠了包括维族在内的所有普通中国民众，但普通汉人不是赵家人！ https://t.co/1CamjimfOl",
       "hashtags": [],
       "id": 1397244473940262931,
@@ -17219,10 +17658,10 @@
         }
       }
     ],
-    "retweet_count": 440,
+    "retweet_count": 438,
     "retweeted_status": {
       "created_at": "Fri May 21 14:33:50 +0000 2021",
-      "favorite_count": 1142,
+      "favorite_count": 1138,
       "full_text": "留守兒童的眼淚讓人心酸，底層百姓的生活苦不堪言。中南海的大人們你們憑什麼牛逼哄哄？！ https://t.co/UkMsOmLEcn",
       "hashtags": [],
       "id": 1395749681045573638,
@@ -17246,7 +17685,7 @@
           }
         }
       ],
-      "retweet_count": 440,
+      "retweet_count": 438,
       "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
       "urls": [],
       "user": {
@@ -19680,12 +20119,6 @@
         "id_str": "852590009685131264",
         "name": "白看戏🔎",
         "screen_name": "dongle_smith"
-      },
-      {
-        "id": 1388624188492091396,
-        "id_str": "1388624188492091396",
-        "name": "Anncky2",
-        "screen_name": "Anncky21"
       }
     ]
   },
@@ -21363,7 +21796,7 @@
           }
         }
       ],
-      "retweet_count": 178,
+      "retweet_count": 177,
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "urls": [],
       "user": {
@@ -21397,7 +21830,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Sat May 15 02:30:21 +0000 2021",
-      "favorite_count": 577,
+      "favorite_count": 575,
       "full_text": "连续接到多个美国之音的老同事打来的电话，告诉我上周中文部内部开会通知，过去几年里普通话广播的受众累计流失了五千五百万。以我的经验估计，这等于是我在的时候VOA受众总数的至少85%甚至90%以上。调查是委托专业公司做的，报告不保密。有兴趣了解的人可电话VOA要材料。VOA是纳税人供养的政府部门。",
       "hashtags": [],
       "id": 1393393282089111555,
@@ -26056,7 +26489,7 @@
     "retweet_count": 35,
     "retweeted_status": {
       "created_at": "Fri May 07 20:11:05 +0000 2021",
-      "favorite_count": 203,
+      "favorite_count": 201,
       "full_text": "几天前。维族人把我告到了美国民主基金会和自由亚洲电台。我想他们申明了自己的立场：要防止可能发生的种族屠杀。应该针对共产党而不是汉族。断其粮道，是中共对付海外反对派的惯用伎俩，也很有效。谁教他们的？前些日子有人把支持川普的人士也告到了自由亚洲和民主基金会。这可能是巧合吧。",
       "hashtags": [],
       "id": 1390761123448774658,
@@ -27553,7 +27986,7 @@
     "retweet_count": 34,
     "retweeted_status": {
       "created_at": "Tue May 04 17:56:20 +0000 2021",
-      "favorite_count": 205,
+      "favorite_count": 204,
       "full_text": "声明：请网友们不要反骂回去。维族人的大多数并不是恐怖分子,最多只是受了极端分子的影响。更多的是对极端分子敢怒而不敢言而已。极端分子除了传统的杀回灭汉派以外,就是在阿富汗和中东受过训的恐怖分子。他们试图绑架海外维族社区,扩充恐怖组织实力,制造种族屠杀。最近他们觉得美国支持他们,开始膨胀",
       "hashtags": [],
       "id": 1389640047675183114,
@@ -28072,7 +28505,7 @@
     "hashtags": [],
     "id_str": "1389401262475579394",
     "lang": "zh",
-    "retweet_count": 30,
+    "retweet_count": 29,
     "retweeted_status": {
       "created_at": "Tue May 04 01:37:43 +0000 2021",
       "favorite_count": 190,
@@ -28081,7 +28514,7 @@
       "id": 1389393770538487810,
       "id_str": "1389393770538487810",
       "lang": "zh",
-      "retweet_count": 30,
+      "retweet_count": 29,
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "urls": [],
       "user": {
@@ -29970,7 +30403,7 @@
     "retweet_count": 34,
     "retweeted_status": {
       "created_at": "Sat May 01 15:42:06 +0000 2021",
-      "favorite_count": 179,
+      "favorite_count": 180,
       "full_text": "太严肃了：\n\n紀委書記老嚴在會議室弄材料，市委書紀板著瞼進來；“老嚴，你手機呢？”老嚴才想起早上孫子拿去玩，忘記了手機落在家裡了。\n\n書記說；你的手機一早上撥打了幾十位局長的電話又不說話，現有3個正局跳樓，5個正局失踪，還有6個正局心脏病突發住院搶救。\n\n書記對老嚴說；要愛護黨的干部呀",
       "hashtags": [],
       "id": 1388519102298345473,
@@ -30247,7 +30680,7 @@
     "retweet_count": 32,
     "retweeted_status": {
       "created_at": "Fri Apr 30 17:20:24 +0000 2021",
-      "favorite_count": 219,
+      "favorite_count": 218,
       "full_text": "某公知转移阵地说汉族有特权所以该下跪。78年我考民族问题研究所研究生本已入围，被走后门挤下来了。想招我的导师把官司打到了国家民委。没想到走后门的就是民委主任杨静仁，得到邓小平的批准，以照顾少数民族的理由把他的外甥挤进来了。可见，少数民族特权是早已有之，没汉族什么事儿。",
       "hashtags": [],
       "id": 1388181454199431169,
@@ -30802,7 +31235,7 @@
     "retweet_count": 80,
     "retweeted_status": {
       "created_at": "Wed Apr 28 22:19:56 +0000 2021",
-      "favorite_count": 266,
+      "favorite_count": 267,
       "full_text": "全民脱贫攻坚战不是都胜利啦吗？居然有超过40%的人存款是0？这些人敢谈恋爱吗？敢结婚生子吗？没有存款敢生病吗？假如是我，我肯定都不敢，而且我还会时刻恐慌和焦虑不安！ https://t.co/uLlhyxWixs",
       "hashtags": [],
       "id": 1387532056675168259,
@@ -30975,7 +31408,7 @@
     "retweet_count": 21,
     "retweeted_status": {
       "created_at": "Wed Apr 28 21:32:52 +0000 2021",
-      "favorite_count": 134,
+      "favorite_count": 133,
       "full_text": "一些网上匿名的不知是真维族还是五毛的人。靠编故事煽动仇恨，帮助共产党减轻压力。既符合极端组织的宗旨。也在配合共产党的统战。不得不予以还击，否则各个反抗组织的团结不但受损，还将导致自相残杀。这些家伙确实很危险，不可掉以轻心。",
       "hashtags": [],
       "id": 1387520212229054468,
@@ -31911,7 +32344,7 @@
     "hashtags": [],
     "id_str": "1386369723479347210",
     "lang": "zh",
-    "retweet_count": 109,
+    "retweet_count": 108,
     "retweeted_status": {
       "created_at": "Sun Apr 25 16:22:01 +0000 2021",
       "favorite_count": 693,
@@ -31920,7 +32353,7 @@
       "id": 1386354820869668870,
       "id_str": "1386354820869668870",
       "lang": "zh",
-      "retweet_count": 109,
+      "retweet_count": 108,
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "urls": [],
       "user": {
@@ -32377,7 +32810,7 @@
       "lang": "zh",
       "quoted_status_id": 1385587481559638017,
       "quoted_status_id_str": "1385587481559638017",
-      "retweet_count": 4,
+      "retweet_count": 5,
       "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
       "urls": [
         {
@@ -32597,7 +33030,7 @@
     "retweet_count": 28,
     "retweeted_status": {
       "created_at": "Sat Apr 24 06:26:52 +0000 2021",
-      "favorite_count": 270,
+      "favorite_count": 268,
       "full_text": "上海工厂是个错误的决定还是正确的？想不通？\n马上共产党就会让你学习党史的，等着吧！ https://t.co/GdU4y4hPKC",
       "hashtags": [],
       "id": 1385842660787826691,
@@ -33176,7 +33609,7 @@
     "retweet_count": 26,
     "retweeted_status": {
       "created_at": "Mon Apr 19 02:49:42 +0000 2021",
-      "favorite_count": 118,
+      "favorite_count": 119,
       "full_text": "（网转）\n常玉《女人与狗》成交价1.05亿港币，\n张大千《老头与狗》成交价5700万港币。\n可见，老头儿价格不行啊…… https://t.co/XXgQj0HGA2",
       "hashtags": [],
       "id": 1383976067313008648,
@@ -33377,7 +33810,7 @@
     "lang": "zh",
     "quoted_status_id": 1384703939199705099,
     "quoted_status_id_str": "1384703939199705099",
-    "retweet_count": 56,
+    "retweet_count": 55,
     "retweeted_status": {
       "created_at": "Wed Apr 21 03:27:43 +0000 2021",
       "favorite_count": 338,
@@ -33388,7 +33821,7 @@
       "lang": "zh",
       "quoted_status": {
         "created_at": "Wed Apr 21 03:02:00 +0000 2021",
-        "favorite_count": 13,
+        "favorite_count": 12,
         "full_text": "【滕彪建言:把人权放在美国外交最重要位置】美国国务卿布林肯20日与代表8个国家的人权捍卫者视频会议,参会的中国人权律师滕彪建议,美国政府把人权放在外交最重要位置,与中国官员会谈时要求中国当局关闭在新疆的拘留营和释放政治犯;美国及其盟友对北京冬奥会外交抵制并把更多的人权侵犯者列入制裁名单。 https://t.co/18tX9FF7fg",
         "hashtags": [],
         "id": 1384703939199705099,
@@ -33438,7 +33871,7 @@
       },
       "quoted_status_id": 1384703939199705099,
       "quoted_status_id_str": "1384703939199705099",
-      "retweet_count": 56,
+      "retweet_count": 55,
       "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
       "urls": [
         {
@@ -35723,7 +36156,7 @@
       {
         "id": 882380349061218304,
         "id_str": "882380349061218304",
-        "name": "Yi",
+        "name": "真女权",
         "screen_name": "realproofread"
       },
       {
@@ -36268,7 +36701,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Tue Apr 06 17:19:33 +0000 2021",
-      "favorite_count": 651,
+      "favorite_count": 650,
       "full_text": "突然发现自己今天52岁了——\n\n失败的人生就是这个样子………… https://t.co/SAEZ5CW0Xg",
       "hashtags": [],
       "id": 1379483932748443648,
@@ -39153,7 +39586,7 @@
       {
         "id": 3081373886,
         "id_str": "3081373886",
-        "name": "老胡",
+        "name": "公民老胡",
         "screen_name": "hjl170305"
       }
     ]
@@ -39477,7 +39910,7 @@
       {
         "id": 3081373886,
         "id_str": "3081373886",
-        "name": "老胡",
+        "name": "公民老胡",
         "screen_name": "hjl170305"
       }
     ]
@@ -39797,7 +40230,7 @@
     ],
     "quoted_status": {
       "created_at": "Fri Apr 02 22:21:35 +0000 2021",
-      "favorite_count": 23,
+      "favorite_count": 24,
       "full_text": "春天到了,正是小时候喜欢以”春天不是读书天“为借口出去玩的时候.可马桶不大好用了,其开关还悄悄地坏了.说悄悄地,是我注意到鸡窝边上有一小潭水,又发现水费突然多了二十多美元.其实换马桶里的所有部件,再加新的进水管,才二十多美元,一个小时而已.但这个小工程还是拖了好几天。\n少壮不努力，老大徒伤悲。 https://t.co/ydo4ZLRDzv https://t.co/1QXt6dNnqG",
       "hashtags": [],
       "id": 1378110388223549441,
@@ -40331,7 +40764,7 @@
   },
   "1378182710791921665": {
     "created_at": "Sat Apr 03 03:08:58 +0000 2021",
-    "favorite_count": 3,
+    "favorite_count": 4,
     "full_text": "我当然没记错，请看看我在2020年2月14日在你饭店付的$1570的帐。我要指出：那位跟你的推大骂魏京生先生的Annckywt编造了一大堆谣言，她似乎很了解情况，却还颠倒黑白，我是一直看在你的面子上没有多说而已。 https://t.co/MmLwVyprsV https://t.co/KHkzGBsTPq",
     "hashtags": [],
     "id_str": "1378182710791921665",
@@ -40894,7 +41327,7 @@
   },
   "1378110388223549441": {
     "created_at": "Fri Apr 02 22:21:35 +0000 2021",
-    "favorite_count": 23,
+    "favorite_count": 24,
     "full_text": "春天到了,正是小时候喜欢以”春天不是读书天“为借口出去玩的时候.可马桶不大好用了,其开关还悄悄地坏了.说悄悄地,是我注意到鸡窝边上有一小潭水,又发现水费突然多了二十多美元.其实换马桶里的所有部件,再加新的进水管,才二十多美元,一个小时而已.但这个小工程还是拖了好几天。\n少壮不努力，老大徒伤悲。 https://t.co/ydo4ZLRDzv https://t.co/1QXt6dNnqG",
     "hashtags": [],
     "id_str": "1378110388223549441",
@@ -46866,7 +47299,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Sun Mar 28 12:36:30 +0000 2021",
-      "favorite_count": 12,
+      "favorite_count": 13,
       "full_text": "我對劉懷照的判斷是根據自己的親身經驗而來；而你一面倒支持劉不過是道聽塗說，自命出頭做好人而已。在別人觀點上你憑什麼居高臨下指責別人「小度」「大度」？我也可說你「能不能少不顧事實做人打手？」我看你也沒能把劉案事實擺出來。 https://t.co/5WAv8631pb",
       "hashtags": [],
       "id": 1376151207270522880,
@@ -47115,7 +47548,7 @@
     "retweet_count": 77,
     "retweeted_status": {
       "created_at": "Sun Mar 28 01:56:38 +0000 2021",
-      "favorite_count": 197,
+      "favorite_count": 198,
       "full_text": "中国警察再次到我父母家上门，为了三件事：给联合国那封反对北京冬奥的信、“反对国家反对政府的言论”，还有”与新疆暴徒有联系“。我在中国拥有过的微信号、电邮、银行卡和房产，已经被全数冻结，现在他们也就只剩下把家人作为人质了。与恐怖分子妥协没有任何好处，从今以后我是不想再和家里通电话了。 https://t.co/mN8lTP3LdF",
       "hashtags": [],
       "id": 1375990183083053067,
@@ -49017,7 +49450,7 @@
       {
         "id": 882380349061218304,
         "id_str": "882380349061218304",
-        "name": "Yi",
+        "name": "真女权",
         "screen_name": "realproofread"
       }
     ]
@@ -49579,7 +50012,7 @@
   },
   "1375684334963851264": {
     "created_at": "Sat Mar 27 05:41:19 +0000 2021",
-    "favorite_count": 6,
+    "favorite_count": 7,
     "full_text": "刘还声称魏开车开得歪歪扭扭。老魏非常爱开车，一到美国就想考驾照。一次就通过了。在1998年没正式驾照时，他开过我的车。当时就开得比我还好。正是刘怀昭这段画蛇添足之语让我们意识到这不可能，其中有诈。文青的弱点是自以为是，从媒体的过分渲染中竟推算出老魏无驾照开车，还把车开得歪歪扭扭。。。 https://t.co/xktKNwH7Z5",
     "hashtags": [],
     "id_str": "1375684334963851264",
@@ -50285,7 +50718,7 @@
       {
         "id": 882380349061218304,
         "id_str": "882380349061218304",
-        "name": "Yi",
+        "name": "真女权",
         "screen_name": "realproofread"
       }
     ]
@@ -52395,7 +52828,7 @@
   },
   "1374133229473648642": {
     "created_at": "Mon Mar 22 22:57:46 +0000 2021",
-    "favorite_count": 8,
+    "favorite_count": 7,
     "full_text": "@WEI_JINGSHENG 我认为美国并无制度性的种族歧视,个别歧视常常与个人及小团体的素养有关.\n老魏受到过的歧视我见过,法航有位漂亮黑珍珠甚至将他的旅行证件扔到地上,以致有法国外交官还向老魏道歉.\n91年洛杉矶暴乱,黑人没去砸白人商店,专砸韩国人开的店.不过,这种地方不去就是了...",
     "hashtags": [],
     "id_str": "1374133229473648642",
@@ -52421,7 +52854,7 @@
   },
   "1374132479179755525": {
     "created_at": "Mon Mar 22 22:54:47 +0000 2021",
-    "favorite_count": 36,
+    "favorite_count": 35,
     "full_text": "@WEI_JINGSHENG 其实老魏说的“华人歧视华人”倒是很准确的，也包括许多人敢大声抗议在美国的歧视，却对中共统治下政策策略上的歧视不敢吭一声。记得我过去出差，曾带着美国白人助手，美国人倒是一视同仁，但碰到2次华人顾客，对我的助手点头哈腰，对我却看都不看一眼，真是奇怪，是歧视华人，还是不服气我是个女的？",
     "hashtags": [],
     "id_str": "1374132479179755525",
@@ -52454,7 +52887,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Mon Mar 22 21:08:00 +0000 2021",
-      "favorite_count": 671,
+      "favorite_count": 669,
       "full_text": "看见很多朋友在替美国辩护，说美国没有种族歧视。这是错误的。美国有很严重的黑人种族歧视。不敢歧视白人主子，就欺负亚洲人。我在西方遇到的被歧视，几乎全是黑人，刚到美国就被一个黑人小官僚公开歧视了一把。剩下就是华人歧视华人。",
       "hashtags": [],
       "id": 1374105605070331915,
@@ -52767,7 +53200,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Mon Mar 22 21:08:00 +0000 2021",
-      "favorite_count": 671,
+      "favorite_count": 669,
       "full_text": "看见很多朋友在替美国辩护，说美国没有种族歧视。这是错误的。美国有很严重的黑人种族歧视。不敢歧视白人主子，就欺负亚洲人。我在西方遇到的被歧视，几乎全是黑人，刚到美国就被一个黑人小官僚公开歧视了一把。剩下就是华人歧视华人。",
       "hashtags": [],
       "id": 1374105605070331915,
@@ -57326,7 +57759,7 @@
     "retweet_count": 20,
     "retweeted_status": {
       "created_at": "Fri Mar 12 08:46:01 +0000 2021",
-      "favorite_count": 90,
+      "favorite_count": 89,
       "full_text": "日美印澳舉辦「四方安全對話」，逐漸形成民主陣營對中共極權的包圍圏！\n13號，日本首相菅義偉將與美國總統拜登、澳洲總理莫里森及印度總理莫迪召開網路會議。\n聯合印度對抗中共由安倍晉三先生首倡，日美一直在提倡「四方安全對話」作為對抗中國在印太地區與日俱增的政治、商業與軍事活動的潛在堡壘。 https://t.co/cEMvdrahzh",
       "hashtags": [],
       "id": 1370295001679233027,
@@ -59104,7 +59537,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Fri Mar 05 04:17:13 +0000 2021",
-      "favorite_count": 53,
+      "favorite_count": 52,
       "full_text": "今年3月5日是中国文革中的人权捍卫者、《出身论》一文的作者遇罗克殉难五十一周年。回放：纪念文革中《出身论》作者遇罗克殉难四十周年：https://t.co/w9niNEt0JN",
       "hashtags": [],
       "id": 1367690638200729602,
@@ -59593,7 +60026,7 @@
     "retweet_count": 263,
     "retweeted_status": {
       "created_at": "Thu Mar 04 13:26:37 +0000 2021",
-      "favorite_count": 1173,
+      "favorite_count": 1172,
       "full_text": "剛剛，香港47名民主派人士被全部收押！\n\n這再次證明，中共已經襯底淪為法西斯政權，已經是全世界自由民主力量的公敵。\n\n我們絕對不會放棄對香港的支持，我們也絕不會袖手旁觀。\n\n香港今天的苦難，連同發生在新疆和中國內地的各種人權災難，已經證明中共沒有資格舉辦奧運會，\n\n我們將為此做出努力。",
       "hashtags": [],
       "id": 1367466510638342148,
@@ -60199,7 +60632,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Mon Mar 01 07:41:10 +0000 2021",
-      "favorite_count": 1183,
+      "favorite_count": 1181,
       "full_text": "【人群中的牧者】在人群之中，有一位滿頭白髮、彎曲腰背的牧者。現年89歲的榮休主教陳日君樞機，現身西九龍法院，與民同行，在庭外排隊和等待，聲援初選民主派人士。\n\n攝：周滿鏗、張凱傑 @hkcnews_com https://t.co/VRd7nTcIbO",
       "hashtags": [],
       "id": 1366292414042935297,
@@ -60245,7 +60678,7 @@
         {
           "id": 1196364484861841408,
           "id_str": "1196364484861841408",
-          "name": "眾新聞 Citizen News",
+          "name": "眾新聞 CitizenNews",
           "screen_name": "hkcnews_com"
         }
       ]
@@ -61891,7 +62324,7 @@
     ],
     "quoted_status": {
       "created_at": "Fri Feb 26 00:08:25 +0000 2021",
-      "favorite_count": 1331,
+      "favorite_count": 1330,
       "full_text": "今天发现“美国银行”开始政治迫害了。该银行把我全家老小的每个人的户口全部强关闭，没有任何事先告知。打过去问讯竟然声称他们有权利随时关闭，不需要解释。肯定是跟我们1/5日去DC有关系。近20多年的客户关系。大家赶紧离开这个肮脏的共产银行。上次金融危机作为被纳税人钱救出来的银行，可耻至极！",
       "hashtags": [],
       "id": 1365091313633406976,
@@ -61964,7 +62397,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Fri Feb 26 00:08:25 +0000 2021",
-      "favorite_count": 1331,
+      "favorite_count": 1330,
       "full_text": "今天发现“美国银行”开始政治迫害了。该银行把我全家老小的每个人的户口全部强关闭，没有任何事先告知。打过去问讯竟然声称他们有权利随时关闭，不需要解释。肯定是跟我们1/5日去DC有关系。近20多年的客户关系。大家赶紧离开这个肮脏的共产银行。上次金融危机作为被纳税人钱救出来的银行，可耻至极！",
       "hashtags": [],
       "id": 1365091313633406976,
@@ -64815,7 +65248,7 @@
     "retweet_count": 233,
     "retweeted_status": {
       "created_at": "Fri Feb 19 14:00:58 +0000 2021",
-      "favorite_count": 611,
+      "favorite_count": 612,
       "full_text": "维森丹格指出，华南海鲜市场没有买卖蝙蝠，但武汉病毒研究所却拥有采集自中国南方岩洞的全球最大蝙蝠病原体收藏之一。此外专业文献显示，武汉病毒研究所一个研究小组多年来对冠状病毒进行了基因操纵，使其对人类更具传染性、更危险、更致命。但维氏的研究也被批缺乏科学基础。\nhttps://t.co/HubzjhF4dl",
       "hashtags": [],
       "id": 1362764112678309891,
@@ -64856,10 +65289,10 @@
     "hashtags": [],
     "id_str": "1363217422375911429",
     "lang": "zh",
-    "retweet_count": 844,
+    "retweet_count": 841,
     "retweeted_status": {
       "created_at": "Sat Feb 20 15:20:42 +0000 2021",
-      "favorite_count": 1370,
+      "favorite_count": 1366,
       "full_text": "德国终于醒来！\n\n欧洲最大報紙Bild要求中國必須回答這五個問題！\n\n1、您同意新冠病毒是從實驗室傳到世界上的這種說法嗎？\n2、您爲什麼沒有早一點警告這個世界？\n3、爲什麼中國要試驗新冠病毒？\n4、您覺得什麼時候讓外界專家進駐武漢？\n5、中國應該怎麼補償這個世界？\n\nhttps://t.co/fLNkvoUWpZ https://t.co/TE4qVFVRyj",
       "hashtags": [],
       "id": 1363146568455442438,
@@ -64885,7 +65318,7 @@
           "url": "https://t.co/TE4qVFVRyj"
         }
       ],
-      "retweet_count": 844,
+      "retweet_count": 841,
       "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
       "urls": [
         {
@@ -64920,16 +65353,16 @@
     "hashtags": [],
     "id_str": "1363216955184984069",
     "lang": "zh",
-    "retweet_count": 258,
+    "retweet_count": 259,
     "retweeted_status": {
       "created_at": "Sat Feb 20 18:53:49 +0000 2021",
-      "favorite_count": 559,
+      "favorite_count": 560,
       "full_text": "波兰对大科技公司重拳出击：删一个帖处罚1350万美元! 不是钱多吗？ 遭受过共产主义暴政几十年，波兰人比美国人更明白言论自由的珍贵。 https://t.co/16q0XNClqi",
       "hashtags": [],
       "id": 1363200201339457537,
       "id_str": "1363200201339457537",
       "lang": "zh",
-      "retweet_count": 258,
+      "retweet_count": 259,
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "urls": [
         {
@@ -65440,7 +65873,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Thu Feb 18 14:34:35 +0000 2021",
-      "favorite_count": 658,
+      "favorite_count": 657,
       "full_text": "世卫顾问：实验室泄露并非是阴谋论 https://t.co/2Ya7aWPEUx https://t.co/0c2E3FE2Up",
       "hashtags": [],
       "id": 1362410184656769032,
@@ -65457,7 +65890,7 @@
           "url": "https://t.co/0c2E3FE2Up"
         }
       ],
-      "retweet_count": 241,
+      "retweet_count": 240,
       "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
       "urls": [
         {
@@ -65599,7 +66032,7 @@
     ],
     "quoted_status": {
       "created_at": "Tue Feb 16 18:20:38 +0000 2021",
-      "favorite_count": 7,
+      "favorite_count": 8,
       "full_text": "最近听老魏劝，买卖了一些股票，挣了一小笔钱。其中的特斯拉股票，是在老魏的坚持下以每股855美元的价钱卖掉的。正是挺川人士向我抱怨佩洛西的老公买进之时，认为是有她的缘故。。。\n今天Tesla股票掉到800以下了，看来采取老魏的信息与建议进出美国股市更合算。。。 https://t.co/xM1Ca3PbNr",
       "hashtags": [],
       "id": 1361742297252175879,
@@ -65743,7 +66176,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Sat Feb 13 20:22:44 +0000 2021",
-      "favorite_count": 12460,
+      "favorite_count": 12458,
       "full_text": "The grifter: My 8 year old niece\n\nThe prize: Playing virtual hooky permanently (School Zoom calls)\n\nThe marks: My sister, my brother in law, the teacher, the school’s computer teacher, the principle and Zoom's support team\n\nThe con: How she pulled it off… thread https://t.co/cdz3SRhRu9",
       "hashtags": [],
       "id": 1360685864100237318,
@@ -65766,7 +66199,7 @@
           }
         }
       ],
-      "retweet_count": 5347,
+      "retweet_count": 5346,
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "urls": [],
       "user": {
@@ -66067,7 +66500,7 @@
   },
   "1361742297252175879": {
     "created_at": "Tue Feb 16 18:20:38 +0000 2021",
-    "favorite_count": 7,
+    "favorite_count": 8,
     "full_text": "最近听老魏劝，买卖了一些股票，挣了一小笔钱。其中的特斯拉股票，是在老魏的坚持下以每股855美元的价钱卖掉的。正是挺川人士向我抱怨佩洛西的老公买进之时，认为是有她的缘故。。。\n今天Tesla股票掉到800以下了，看来采取老魏的信息与建议进出美国股市更合算。。。 https://t.co/xM1Ca3PbNr",
     "hashtags": [],
     "id_str": "1361742297252175879",
@@ -68777,7 +69210,7 @@
   },
   "1360440272639959040": {
     "created_at": "Sat Feb 13 04:06:51 +0000 2021",
-    "favorite_count": 6,
+    "favorite_count": 5,
     "full_text": "哈哈我到北京,不止一人以高傲的口吻建议我好好改改我的口音和南蛮子的习惯,就可以与之平起平坐啦.\n我心想,起码论高考,江浙一带考分最高,男孩不必下田干活...\n后来发现,连江北人都被一些北方人视为南蛮子,满族与元朝的蒙古人干脆管汉人称“蛮子”.就像广东人管这些人都叫北佬,而香港的北佬干脆包括广东... https://t.co/0VwdouJnJv",
     "hashtags": [],
     "id_str": "1360440272639959040",
@@ -72518,7 +72951,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Fri Jan 08 16:00:06 +0000 2021",
-      "favorite_count": 15,
+      "favorite_count": 16,
       "full_text": "@xinshengming 主要是致敬女强人女汉纸。\n\n我对现代女权主义的矫枉过正有些微词，已经成了笑话。好好的有话语权有尊严地活着，搞成了必须抡大锤下矿洞换轮胎。\n\n生活上比男人还亚历山大亚健康不说，离婚和单身的女性更惨（个别人已实现财富自由的情况不能说明普遍性问题）。\n\n上帝造人，女人和男人，是各有其职的。",
       "hashtags": [],
       "id": 1347573805376544774,
@@ -72629,7 +73062,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Fri Jan 08 15:25:50 +0000 2021",
-      "favorite_count": 95,
+      "favorite_count": 96,
       "full_text": "感觉米国这疫情三五月是好不了了，宅在家已十个月了，再憋下去估计会有内伤。\n\n从长计议征个婚或女友吧：\n\n必须是有宗教信仰，善良脾气好，灵魂有趣的女性。高矮胖瘦年龄无所谓。\n\n女汉纸勿扰，会点书琴诗画会点厨艺蛮好。没有房产没有身份不喜工作的优先。\n\n现在不办签证飞机票也贵人不在美国就免了。 https://t.co/DhiWyslibh",
       "hashtags": [],
       "id": 1347565182831259650,
@@ -76268,7 +76701,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Sun Jan 31 10:02:41 +0000 2021",
-      "favorite_count": 4,
+      "favorite_count": 5,
       "full_text": "大胆猜测一下\n\nmetoo子虚乌有，一夜情，不然不会有魏刘之后的文字对话\n\n刘生娃后发现张猛不是生父，为了面子无法和周围人解释\n\n魏认女给五千，刘带女儿来美，事情发展顺利\n\n母女到美本应直接找魏， 鬼使神差见了其他人，魏气急，语无伦次；刘被唆使告官\n\n刘怀昭不信北风，信杨子立周峰锁廖亦武，没救。",
       "hashtags": [],
       "id": 1355818778660057090,
@@ -77260,7 +77693,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Mon Jun 10 18:11:36 +0000 2019",
-      "favorite_count": 32,
+      "favorite_count": 31,
       "full_text": "这是1999年十月我到美国后参加的第一场民运活动（前排左二），声援王策博士被捕周年。王策博士为支持中国民主党组党活动，于1998年10月偷渡回到中国大陆，面见中国民主党创党领袖王有才，不幸被捕，判刑四年。王策博士现在是在海外的中国共和党主席。\n二十年过去，照片中好几位都认不出来了。 https://t.co/9JEdOi57tP",
       "hashtags": [],
       "id": 1138146710520238080,
@@ -79375,7 +79808,7 @@
     "retweet_count": 79,
     "retweeted_status": {
       "created_at": "Mon Jan 25 22:47:08 +0000 2021",
-      "favorite_count": 179,
+      "favorite_count": 178,
       "full_text": "白宫发言人莎琪25日说，美国与中国存在“激烈的竞争，与中国的战略竞争是21世纪的标志性特征。” 她还说，拜登政府要以“战略耐心”来对待美中关系。 \nhttps://t.co/Hrb95UXKiZ https://t.co/4A87aOy6Du",
       "hashtags": [],
       "id": 1353836831880736768,
@@ -79466,7 +79899,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Sat Jan 23 18:13:42 +0000 2021",
-      "favorite_count": 17609,
+      "favorite_count": 17601,
       "full_text": "Wow. The scale of the protests in Russia today is stunning. This is St. Petersburg.\nhttps://t.co/oodg1VfdJc",
       "hashtags": [],
       "id": 1353043245203410946,
@@ -79490,7 +79923,7 @@
           }
         }
       ],
-      "retweet_count": 4255,
+      "retweet_count": 4249,
       "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
       "urls": [],
       "user": {
@@ -81131,7 +81564,7 @@
       {
         "id": 3081373886,
         "id_str": "3081373886",
-        "name": "老胡",
+        "name": "公民老胡",
         "screen_name": "hjl170305"
       }
     ]
@@ -81722,14 +82155,14 @@
   },
   "1351572600619753474": {
     "created_at": "Tue Jan 19 16:49:53 +0000 2021",
-    "favorite_count": 50,
+    "favorite_count": 51,
     "full_text": "美国国务卿彭培奥Secretary Pompeo：\n中共是我们这个时代的主要威胁。 中共威权不是自由世界想要的未来……但如果我们再次放下警惕，这就是我们将不得不面对的未来。\n热爱自由的国家必须走到一起与中共的进攻性行为对抗。 https://t.co/2fySec14AK",
     "hashtags": [],
     "id_str": "1351572600619753474",
     "lang": "zh",
     "quoted_status": {
       "created_at": "Sun Jan 17 22:30:00 +0000 2021",
-      "favorite_count": 40392,
+      "favorite_count": 40332,
       "full_text": "The CCP is the central threat of our time. CCP authoritarianism isn't the future the free world wants ... but it's the future we'll have if we let our guard down again. https://t.co/ARqmG689ER",
       "hashtags": [],
       "id": 1350933416758317056,
@@ -81746,7 +82179,7 @@
           "url": "https://t.co/ARqmG689ER"
         }
       ],
-      "retweet_count": 11258,
+      "retweet_count": 11243,
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "urls": [],
       "user": {
@@ -81777,10 +82210,10 @@
     "hashtags": [],
     "id_str": "1351570268951556099",
     "lang": "en",
-    "retweet_count": 6970,
+    "retweet_count": 6965,
     "retweeted_status": {
       "created_at": "Tue Jan 19 16:00:00 +0000 2021",
-      "favorite_count": 35186,
+      "favorite_count": 35169,
       "full_text": "Director CIA gets nothing done without a great team. I had one. And we got a helluva lot done. I said we were going to take risks and deliver. We did both with enormous professionalism – and the bad guys never knew what hit them. https://t.co/kS3eQTWHLP",
       "hashtags": [],
       "id": 1351560047872995328,
@@ -81797,7 +82230,7 @@
           "url": "https://t.co/kS3eQTWHLP"
         }
       ],
-      "retweet_count": 6970,
+      "retweet_count": 6965,
       "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "urls": [],
       "user": {
@@ -86865,10 +87298,10 @@
     "hashtags": [],
     "id_str": "1350490567772409856",
     "lang": "en",
-    "retweet_count": 8578,
+    "retweet_count": 8570,
     "retweeted_status": {
       "created_at": "Sat Jan 16 15:30:00 +0000 2021",
-      "favorite_count": 31855,
+      "favorite_count": 31805,
       "full_text": "The CCP lies, and makes empty promises. We have to recognize this pattern, and enact consequences if we want to change bad behavior. Appeasement and \"dialogue\" for dialogue's sake won't work. https://t.co/8S1txnEZqc",
       "hashtags": [],
       "id": 1350465332733947909,
@@ -86885,7 +87318,7 @@
           "url": "https://t.co/8S1txnEZqc"
         }
       ],
-      "retweet_count": 8578,
+      "retweet_count": 8570,
       "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
       "urls": [],
       "user": {
@@ -91097,7 +91530,7 @@
     "lang": "zh",
     "quoted_status": {
       "created_at": "Sat Jan 09 05:31:26 +0000 2021",
-      "favorite_count": 4,
+      "favorite_count": 3,
       "full_text": "@huang_ciping 美國今天只允許把毛澤東的像掛在白宮的聖誕樹上保佑美國平安，或讓太監朗朗在白宮談奏「我的祖國」滅美帝的威風。而（推特，臉書）卻禁止美國總統發聲。對美式共產黨（即被赤化的民主黨）來說，川普是他們的死敵，而非毛澤東！",
       "hashtags": [],
       "id": 1347777982908276737,
@@ -91328,7 +91761,7 @@
     "retweet_count": 139,
     "retweeted_status": {
       "created_at": "Fri Jan 08 16:02:24 +0000 2021",
-      "favorite_count": 538,
+      "favorite_count": 539,
       "full_text": "拒絕鎮壓八九民運的徐勤先將軍因病去世。\n89年時任38軍軍長的徐勤先將軍，拒絕執行屠殺學生及市民的軍令，最終遭中共當局開除黨籍，在秦城監獄服刑5年。\n徐將軍8日上午在河北石家莊去世，享壽85歲。在世時一直遭到中共當局嚴厲的監控和軟禁。\n歷史和人民不會忘記徐將軍！ https://t.co/hRLPDaEn7f",
       "hashtags": [],
       "id": 1347574385461219330,
@@ -96863,7 +97296,7 @@
     "retweet_count": 78,
     "retweeted_status": {
       "created_at": "Thu Dec 31 19:28:26 +0000 2020",
-      "favorite_count": 174,
+      "favorite_count": 175,
       "full_text": "【关于无条件立即释放公民记者张展的联署呼吁】\n\n...我们强烈呼吁中国政府立即无条件 #释放张展，对相关法律适用展开违宪调查，对张展因非法羁押而造成的身心损害进行国家赔偿...\n\n有意参与本联署的人士，请将您的姓名、地址及职业\n发送至free.zhangzhan001@gmail.com \n\nhttps://t.co/JX3WWVwiTh https://t.co/DyPmd7B0k9",
       "hashtags": [
         {
