@@ -2,7 +2,7 @@ huang_ciping:
 - created_at: Thu Oct 01 04:02:58 +0000 2015
 - description: Executive Director of Wei Jingsheng Foundation; physicist & senior engineering consultant魏京生基金会执行主任及中国民主运动海外联席会议秘书长.曾任全美学自联主席及全球学联主席.曾在中国的原子能研究院工作;后任资深光学工程师及顾问.
 - favourites_count: 8765
-- followers_count: 8833
+- followers_count: 8834
 - friends_count: 101
 - id: 3830160917
 - listed_count: 27
@@ -15,7 +15,7 @@ NewCenturyBaopu:
 - default_profile: True
 - description: 香港新世纪出版社
 - favourites_count: 2004
-- followers_count: 12701
+- followers_count: 12702
 - friends_count: 601
 - id: 547112588
 - listed_count: 78
@@ -38,29 +38,29 @@ Yangguang_USA:
 realproofread:
 - created_at: Tue Jul 04 23:27:23 +0000 2017
 - default_profile: True
-- favourites_count: 311
-- followers_count: 81
+- favourites_count: 312
+- followers_count: 80
 - friends_count: 352
 - id: 882380349061218304
 - name: 真女权
 - screen_name: realproofread
-- statuses_count: 4205
+- statuses_count: 4206
 baozhan16580515:
 - created_at: Thu Jan 16 16:10:36 +0000 2020
 - default_profile: True
 - description: 民主自由
-- favourites_count: 9373
+- favourites_count: 9519
 - followers_count: 103
 - friends_count: 257
 - id: 1217841519174004736
 - name: bao zhang
 - screen_name: baozhan16580515
-- statuses_count: 3794
+- statuses_count: 3825
 rabbitlili:
 - created_at: Thu Feb 03 21:41:34 +0000 2011
 - default_profile: True
 - description: 无
-- favourites_count: 12779
+- favourites_count: 12791
 - followers_count: 1941
 - friends_count: 904
 - geo_enabled: True
@@ -69,4 +69,4 @@ rabbitlili:
 - location: United Kingdom
 - name: 英伦
 - screen_name: Rabbitlili
-- statuses_count: 24304
+- statuses_count: 24303
