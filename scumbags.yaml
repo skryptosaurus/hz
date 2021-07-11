@@ -2,7 +2,7 @@ huang_ciping:
 - created_at: Thu Oct 01 04:02:58 +0000 2015
 - description: Executive Director of Wei Jingsheng Foundation; physicist & senior engineering consultant魏京生基金会执行主任及中国民主运动海外联席会议秘书长.曾任全美学自联主席及全球学联主席.曾在中国的原子能研究院工作;后任资深光学工程师及顾问.
 - favourites_count: 8773
-- followers_count: 8831
+- followers_count: 8832
 - friends_count: 101
 - id: 3830160917
 - listed_count: 27
@@ -14,15 +14,15 @@ NewCenturyBaopu:
 - created_at: Fri Apr 06 21:16:50 +0000 2012
 - default_profile: True
 - description: 香港新世纪出版社
-- favourites_count: 2007
-- followers_count: 12704
-- friends_count: 601
+- favourites_count: 2013
+- followers_count: 12705
+- friends_count: 603
 - id: 547112588
-- listed_count: 78
+- listed_count: 79
 - location: Hongkong
 - name: Bao Pu 鮑樸
 - screen_name: NewCenturyBaopu
-- statuses_count: 3320
+- statuses_count: 3326
 Yangguang_USA:
 - created_at: Sat Jul 18 05:44:14 +0000 2020
 - default_profile: True
@@ -38,35 +38,35 @@ Yangguang_USA:
 realproofread:
 - created_at: Tue Jul 04 23:27:23 +0000 2017
 - default_profile: True
-- favourites_count: 312
-- followers_count: 80
-- friends_count: 344
+- favourites_count: 314
+- followers_count: 81
+- friends_count: 343
 - id: 882380349061218304
 - name: 真女权
 - screen_name: realproofread
-- statuses_count: 4238
+- statuses_count: 4291
 baozhan16580515:
 - created_at: Thu Jan 16 16:10:36 +0000 2020
 - default_profile: True
 - description: 民主自由
-- favourites_count: 9617
-- followers_count: 104
-- friends_count: 263
+- favourites_count: 9648
+- followers_count: 105
+- friends_count: 264
 - id: 1217841519174004736
 - name: bao zhang
 - screen_name: baozhan16580515
-- statuses_count: 3852
+- statuses_count: 3860
 rabbitlili:
 - created_at: Thu Feb 03 21:41:34 +0000 2011
 - default_profile: True
 - description: 无
-- favourites_count: 12850
-- followers_count: 1943
-- friends_count: 909
+- favourites_count: 12908
+- followers_count: 1945
+- friends_count: 911
 - geo_enabled: True
 - id: 246991499
 - listed_count: 29
 - location: United Kingdom
 - name: 英伦
 - screen_name: Rabbitlili
-- statuses_count: 24334
+- statuses_count: 24415
